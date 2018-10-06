@@ -155,7 +155,7 @@ will need funding. The first is that even rich people. Are subject to
 free cookies. Like even even though you\'re really rich you\'re probably
 still the kind of person that is influenced by free. And that lesson is
 actually something really important that said investors are just people
-too right. Investors are just regular people that happen to have other
+. Investors are just regular people that happen to have other
 people\'s money or their own money that they\'re willing to put forward.
 
 \[00:09:57\] And even though they have a really good opinion on things
