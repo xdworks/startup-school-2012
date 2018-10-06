@@ -1,327 +1,1021 @@
-**David Rusenko at Startup School 2012-ZOeyYAfKXLI.mp4**
+**David Rusenko at Startup School 2012-ZOeyYAfKXLI.mp4**  
 
 *2012年创业学校的David Rusenko-ZOeyYAfKXLI.mp4*
 
-\[00:00:00\] Thanks for having me guys. You hear me all right. Cool. So
-I want to start by just going over the Weebly story a little bit telling
-you kind of how we got to where we got to today and some of the lessons
-we learned along the way. So what is weebly first of all. If if some you
-guys haven\'t heard of it Weebly is a simple and powerful way to create
-a site. People want to create a site they want to create a blog. They
-want to sell things online and they just want to work. They don\'t want
-the frustrations around it. So let me show you a couple of Weebly sites
-the first site is a photographer from Toronto showcasing their
-photography. The second site is an interior designer from Oregon.
-They\'ve actually been featured in Dwell magazine for their entire
-designs were on their Web site on weebly. The third site is a graphic
-designer from California you can see all these sites just look great and
-not one line of HMRC says was written for these sites. This next site is
-pretty special. This is Brian. He\'s 80 years old. He retired and his
-passion is building ukuleles and he started doing his spare time went on
-weebly and create a Web site. What do you know the word got out. And you
-know he could build a couple of ukeleles out of a shop per month. He now
-has 36 months backorder of ukeleles. And this last site\'s really
-special to us. You may have seen that along with initiative I think last
-year. But but this group of students who had volunteered in Kenya heard
-this story about Omari they had been brutally attacked while trying to
-find his orphanage and they didn\'t even have a fence to defend
-themselves. So they created Weebly Web site about this posted it to it
-and we\'re able to raise over a hundred thousand dollars in less than a
-week for the orphanage and they built they built a wall and a fence and
-much more than that. That\'s actually now helping out that orphanage in
-Kenya. So a little bit about our story and how we got to where we are
-today. In early 2006 as part of a class project at Penn State we were
-came up with the same idea six years ago we thought you know why is this
-so hard. Why is it still so hard to build a Web site. We\'re seeing
-people all around us that we\'re just struggling and so we can\'t with
-the idea we start working on now. I\'m going to introduce you to the
-theme of the presentation here. This is a graph of our new Sinos per
-day. Now this is August 2006. This is real data and you can see up at
-the top. It\'s six months after we started working on weebly. So six
-months six months after we wrote our first line of code our grand sign
-of day we got 12 new users. And you know it\'s just kind of friends and
-family it is still Alpha stages wasn\'t something that was easy to pump
-out in a month is something that was difficult. That took some time to
-build over that summer. Dan and I and Chris were working on it. Here\'s
-October 2006. Eight months later. So we\'ve now been writing code and
-working on the idea for eight months. We posted a private invitation on
-some forums and we thought man this is going to blow up and we got about
-30 people a sign of that day. So you know around this time I was up
-pretty late at night. Was browsing Slashdot that kind of tells you also
-you know that was the most popular tech news site back then and I was
-reading an article on Y Combinator. I said you know I think I\'ve heard
-about this before I\'m not really sure starving the article. Oh this
-sounds really cool this sounds interesting Oh application deadlines in
-two hours. So I thought you know what the hell. I\'ll put some together
-really quick. It doesn\'t hurt to apply now. I didn\'t actually have
-enough time to call a Dan or Chris to ask them if they\'d be willing to
-drop out of school and moved to San Francisco. So I took a guess. I
-figured you know Chris would probably do it. He\'s he\'s a pretty wild
-guy and Dan\'s a pretty tall guy too. But I figured he might want to
-finish his college career. So we applied NYC with literally less than an
-hour to go on the clock. Got accepted for an interview drove up to
-Boston interviewed. We thought we thought it was great. Incidentally the
-morning of the interview I wake up checked my phone ring e-mail bleary
-eyed and I got an e-mail from so congrats on the tech crunching. What
-the hell is this about. So open tech crunches just so happened that tech
-crunch ruined by a sat morning and I\'m sure it definitely didn\'t hurt
-with the interview. But I also had to explain this graph. This is really
-important. This is not normally what a tech crunching looks like
-normally it goes straight up. And straight back down. We had an
-invitation system in place to make sure our servers crash. And so
-that\'s why you see it\'s spread out over more time. But you know later
-that night know Paul told us to expect a call from us by 7:00p.m. the
-same day. We\'ll let you know if he made it or not. So we were pretty
-nervous and we went out to dinner and we sat down and literally I
-remember you know 7:00p.m. rolled around and 8:00p.m. rolled around. And
-we were all just staring at our plates of food in front of us like we
-literally couldn\'t eat. We were so nervous. And then by 9:00p.m. we\'re
-like this is it. We\'re definitely not making and they\'ve called
-everyone they\'ve accepted and now they\'re just calling the losers that
-arc and then so I think around 9 9 3 the phone call from Paul comes in
-and I answer it and literally his first words were I\'m calling to end
-your college career. Laughter. So you know funnily enough you know I
-ended up talking to Dan later and say hey guys you want to join don\'t
-you know I know we have a semester left. It sounds crazy but how about
-we just drop out of school moved to San Francisco. What do you think of
-Christmas. Hell yeah let\'s do it. And as Dan I\'m like Dan you like
-like why do you think this is pretty crazy. He\'s like Yeah I\'m on
-board. This sounds awesome. So you know this is this is a picture of us
-that we took right after we got that phone call. I think this picture
-was also right after we each took three shots at the bar to celebrate
-with our friend Dana. So the next graph is January 2007. So we move out
-to San Francisco start to Y Combinator program. It\'s now 11 months.
+\[00:00:00\] Thanks for having me guys.
+
+[00：00]谢谢你们邀请我。
+
+You hear me all right.
+
+你好好听我说。
+
+Cool.
+
+凉爽的
+
+So I want to start by just going over the Weebly story a little bit telling you kind of how we got to where we got to today and some of the lessons we learned along the way.
+
+所以，我想先回顾一下Weeble的故事，告诉你们我们是如何到达今天的位置的，以及我们在这过程中学到的一些教训。
+
+So what is weebly first of all.
+
+所以最重要的是。
+
+If if some you guys haven\'t heard of it Weebly is a simple and powerful way to create a site.
+
+如果有些人没有听说过，Weeble是创建网站的一个简单而有力的方法。
+
+People want to create a site they want to create a blog.
+
+人们想要创建一个网站，他们想要创建一个博客。
+
+They want to sell things online and they just want to work.
+
+他们想在网上卖东西，他们只想工作。
+
+They don\'t want the frustrations around it.
+
+他们不想被挫折包围。
+
+So let me show you a couple of Weebly sites the first site is a photographer from Toronto showcasing their photography.
+
+让我给你们看看几个Weeble网站，第一个网站是一个来自多伦多的摄影师，展示他们的摄影作品。
+
+The second site is an interior designer from Oregon.
+
+第二个网站是俄勒冈州的室内设计师。
+
+They\'ve actually been featured in Dwell magazine for their entire designs were on their Web site on weebly.
+
+事实上，他们在“生活”杂志上有特写，因为他们的整个设计都在Weeble的网站上。
+
+The third site is a graphic designer from California you can see all these sites just look great and not one line of HMRC says was written for these sites.
+
+第三个网站是一个来自加利福尼亚的平面设计师，你可以看到所有这些网站只是看起来很棒，没有一行HMRC说是为这些网站编写的。
+
+This next site is pretty special.
+
+下一个网站很特别。
+
+This is Brian.
+
+我是布莱恩。
+
+He\'s 80 years old.
+
+他80岁了。
+
+He retired and his passion is building ukuleles and he started doing his spare time went on weebly and create a Web site.
+
+他退休了，他的热情是建立尤库莱尔斯，他开始做他的业余时间，继续进行，并创建了一个网站。
+
+What do you know the word got out.
+
+你知道那个词泄露了什么。
+
+And you know he could build a couple of ukeleles out of a shop per month.
+
+你知道他每个月都可以在商店里建几个小木屋。
+
+He now has 36 months backorder of ukeleles.
+
+他现在有36个月的苦差事。
+
+And this last site\'s really special to us.
+
+最后这个网站对我们来说很特别。
+
+You may have seen that along with initiative I think last year.
+
+你可能已经看到了这一点，以及我认为去年的主动性。
+
+But but this group of students who had volunteered in Kenya heard this story about Omari they had been brutally attacked while trying to find his orphanage and they didn\'t even have a fence to defend themselves.
+
+但是，这群自愿在肯尼亚工作的学生听说了这个关于奥马利的故事，他们在寻找他的孤儿院时遭到了残酷的攻击，他们甚至没有栅栏来保护自己。
+
+So they created Weebly Web site about this posted it to it and we\'re able to raise over a hundred thousand dollars in less than a week for the orphanage and they built they built a wall and a fence and much more than that.
+
+于是他们创建了Weevery网站，把它贴在上面，我们可以在不到一周的时间里为孤儿院筹集到超过10万美元，他们建了一堵墙和一道篱笆，还有更多的东西。
+
+That\'s actually now helping out that orphanage in Kenya.
+
+这实际上是在帮助肯尼亚的孤儿院。
+
+So a little bit about our story and how we got to where we are today.
+
+关于我们的故事，我们是如何达到今天的水平的。
+
+In early 2006 as part of a class project at Penn State we were came up with the same idea six years ago we thought you know why is this so hard.
+
+2006年初，作为宾州一个班级项目的一部分，我们在六年前提出了同样的想法，我们以为你知道为什么这么难。
+
+Why is it still so hard to build a Web site.
+
+为什么要建立一个网站还是那么困难。
+
+We\'re seeing people all around us that we\'re just struggling and so we can\'t with the idea we start working on now.
+
+我们看到周围的人都在挣扎，所以我们不能接受我们现在开始工作的想法。
+
+I\'m going to introduce you to the theme of the presentation here.
+
+我将在这里向你们介绍演讲的主题。
+
+This is a graph of our new Sinos per day.
+
+这是我们的新西诺斯每天的图表。
+
+Now this is August 2006.
+
+现在是2006年8月。
+
+This is real data and you can see up at the top.
+
+这是真实的数据，你可以看到顶部。
+
+It\'s six months after we started working on weebly.
+
+那是我们开始研究Weeble的六个月后。
+
+So six months six months after we wrote our first line of code our grand sign of day we got 12 new users.
+
+因此，在我们编写了第一行代码六个月后，我们迎来了12个新用户。
+
+And you know it\'s just kind of friends and family it is still Alpha stages wasn\'t something that was easy to pump out in a month is something that was difficult.
+
+你知道，这只是朋友和家人的事情，阿尔法阶段还不是什么容易在一个月内完成的事情，是一件很困难的事情。
+
+That took some time to build over that summer.
+
+这个夏天花了一些时间才建好。
+
+Dan and I and Chris were working on it.
+
+丹和我还有克里斯正在做这件事。
+
+Here\'s October 2006.
+
+这是2006年10月。
+
+Eight months later.
+
+八个月后。
+
+So we\'ve now been writing code and working on the idea for eight months.
+
+所以我们已经写了八个月的代码了。
+
+We posted a private invitation on some forums and we thought man this is going to blow up and we got about 30 people a sign of that day.
+
+我们在一些论坛上发布了一份私人邀请函，我们认为这一天会爆炸，我们有大约30人参加，这是那天的一个标志。
+
+So you know around this time I was up pretty late at night.
+
+所以你知道，大约在这个时候，我很晚才起床。
+
+Was browsing Slashdot that kind of tells you also you know that was the most popular tech news site back then and I was reading an article on Y Combinator.
+
+在浏览Slashdot的时候，你也知道那是当时最受欢迎的科技新闻网站，我当时正在读一篇关于Y Combinator的文章。
+
+I said you know I think I\'ve heard about this before I\'m not really sure starving the article.
+
+我说你知道我想我听说过这件事之前我还不确定是不是饿了这篇文章。
+
+Oh this sounds really cool this sounds interesting Oh application deadlines in two hours.
+
+哦，这听起来很酷，这听起来很有趣，哦，两个小时内的申请截止日期。
+
+So I thought you know what the hell.
+
+所以我以为你知道怎么回事。
+
+I\'ll put some together really quick.
+
+我会很快地整理一些。
+
+It doesn\'t hurt to apply now.
+
+现在申请是无害的。
+
+I didn\'t actually have enough time to call a Dan or Chris to ask them if they\'d be willing to drop out of school and moved to San Francisco.
+
+实际上，我没有足够的时间打电话给丹或克里斯，问他们是否愿意辍学搬到旧金山。
+
+So I took a guess.
+
+所以我猜了一下。
+
+I figured you know Chris would probably do it.
+
+我想你知道克里斯可能会这么做。
+
+He\'s he\'s a pretty wild guy and Dan\'s a pretty tall guy too.
+
+他很野，丹也很高。
+
+But I figured he might want to finish his college career.
+
+但我想他可能想要完成他的大学生涯。
+
+So we applied NYC with literally less than an hour to go on the clock.
+
+所以我们用了不到一个小时的时间就申请了纽约。
+
+Got accepted for an interview drove up to Boston interviewed.
+
+被接受了一次去波士顿面试的面试。
+
+We thought we thought it was great.
+
+我们觉得很棒。
+
+Incidentally the morning of the interview I wake up checked my phone ring e-mail bleary eyed and I got an e-mail from so congrats on the tech crunching.
+
+顺便说一句，面试的那天早上，我醒来时，看了看我的电话铃声，一双愁眉苦脸的眼睛，收到了一封电子邮件。
+
+What the hell is this about.
+
+这到底是怎么回事。
+
+So open tech crunches just so happened that tech crunch ruined by a sat morning and I\'m sure it definitely didn\'t hurt with the interview.
+
+所以，开放的技术工作就这样发生了，一个星期六的早晨，科技危机被毁了，我相信面试肯定没什么坏处。
+
+But I also had to explain this graph.
+
+但我也得解释一下这个图表。
+
+This is really important.
+
+这真的很重要。
+
+This is not normally what a tech crunching looks like normally it goes straight up.
+
+正常情况下，这并不是一个科技机构通常看起来的样子-通常情况下，它会直线上升。
+
+And straight back down.
+
+然后直接回去。
+
+We had an invitation system in place to make sure our servers crash.
+
+我们有一个邀请系统，以确保我们的服务器崩溃。
+
+And so that\'s why you see it\'s spread out over more time.
+
+这就是为什么你看到它分散在更多的时间里。
+
+But you know later that night know Paul told us to expect a call from us by 7:00p.m.
+
+但你知道那天晚上晚些时候保罗让我们在晚上7点前接到电话。
+
+the same day.
+
+同一天。
+
+We\'ll let you know if he made it or not.
+
+如果他来了我们会告诉你的。
+
+So we were pretty nervous and we went out to dinner and we sat down and literally I remember you know 7:00p.m.
+
+所以我们很紧张，我们出去吃饭，然后坐下来，我记得你知道晚上7点。
+
+rolled around and 8:00p.m.
+
+在晚上8点左右滚来滚去。
+
+rolled around.
+
+滚来滚去。
+
+And we were all just staring at our plates of food in front of us like we literally couldn\'t eat.
+
+我们都盯着面前的食物盘，就好像我们真的不能吃一样。
+
+We were so nervous.
+
+我们太紧张了。
+
+And then by 9:00p.m.
+
+然后到晚上9点。
+
+we\'re like this is it.
+
+我们就像这样。
+
+We\'re definitely not making and they\'ve called everyone they\'ve accepted and now they\'re just calling the losers that arc and then so I think around 9 9 3 the phone call from Paul comes in and I answer it and literally his first words were I\'m calling to end your college career.
+
+我们肯定没有打电话给他们接受的所有人，现在他们只打电话给失败者，然后我想9点3左右，保罗打来电话，我接了电话，他的第一句话是：我打电话来结束你的大学生涯。
+
+Laughter.
+
+笑声。
+
+So you know funnily enough you know I ended up talking to Dan later and say hey guys you want to join don\'t you know I know we have a semester left.
+
+所以你知道得很有趣，你知道我后来和丹谈了，说嘿，伙计们，你们想加入，你不知道，我知道我们还有一学期的时间。
+
+It sounds crazy but how about we just drop out of school moved to San Francisco.
+
+听起来很疯狂，但我们干脆辍学搬到旧金山怎么样？
+
+What do you think of Christmas.
+
+你觉得圣诞节怎么样。
+
+Hell yeah let\'s do it.
+
+好吧，让我们去做吧。
+
+And as Dan I\'m like Dan you like like why do you think this is pretty crazy.
+
+作为丹，我就像丹，你喜欢，为什么你觉得这很疯狂。
+
+He\'s like Yeah I\'m on board.
+
+他就像我在船上一样。
+
+This sounds awesome.
+
+这听起来很棒。
+
+So you know this is this is a picture of us that we took right after we got that phone call.
+
+你知道这是我们接到电话后拍的照片。
+
+I think this picture was also right after we each took three shots at the bar to celebrate with our friend Dana.
+
+我想这张照片也是在我们每个人在酒吧拍了三张照片，和我们的朋友Dana一起庆祝之后。
+
+So the next graph is January 2007.
+
+下一个图表是2007年1月。
+
+So we move out to San Francisco start to Y Combinator program.
+
+所以我们搬到旧金山开始Y组合程序。
+
+It\'s now 11 months.
+
+现在是11个月了。
+
 After we start working on we but you know this is a pretty long time.
-This is almost a full year after you start writing our first line of
-code. I want you to take a look at this graph and I want you to notice
-something. This isn\'t straight up into the right. It goes straight up.
-It comes straight back down. Now maybe you got a couple squiggles here
-that a little that are a little hopeful but things aren\'t looking
-great. We\'re getting less than a hundred people per day signing up
-right now almost a year after we started working on weebly. You know
-this is a picture of our first office so we literally moved into an
-apartment. We put three desks that you could really tell how long ago
-this was because that old ass tv in the lower right hand corner and the
-15 inch monitors and we literally just pushed three that together put it
-in the living room. And this is this is what startup looks like. We just
-worked our asses off. We had one important Rojos we took Saturday off.
-But otherwise every other moment every waking moment was 24/7 work
-wasn\'t all bad. We had a great view. The San Francisco Bay. And you
-know this is this is a fun story. This is a little display that Chris
-hacked up and he just put it in the middle of a table and it showed kind
-of some basic stats or showed like low to average which you don\'t see
-right here. But it also showed total users and logged in users and
-there\'s three logging users here. That\'s because it was the three of
-us around the table using weebly.
 
-[00：00]谢谢你们邀请我。你好好听我说。凉爽的所以，我想先回顾一下Weeble的故事，告诉你们我们是如何到达今天的位置的，以及我们在这过程中学到的一些教训。所以最重要的是。如果有些人没有听说过，Weeble是创建网站的一个简单而有力的方法。人们想要创建一个网站，他们想要创建一个博客。他们想在网上卖东西，他们只想工作。他们不想被挫折包围。让我给你们看看几个Weeble网站，第一个网站是一个来自多伦多的摄影师，展示他们的摄影作品。第二个网站是俄勒冈州的室内设计师。事实上，他们在“生活”杂志上有特写，因为他们的整个设计都在Weeble的网站上。第三个网站是一个来自加利福尼亚的平面设计师，你可以看到所有这些网站只是看起来很棒，没有一行HMRC说是为这些网站编写的。下一个网站很特别。我是布莱恩。他80岁了。他退休了，他的热情是建立尤库莱尔斯，他开始做他的业余时间，继续进行，并创建了一个网站。你知道那个词泄露了什么。你知道他每个月都可以在商店里建几个小木屋。他现在有36个月的苦差事。最后这个网站对我们来说很特别。你可能已经看到了这一点，以及我认为去年的主动性。但是，这群自愿在肯尼亚工作的学生听说了这个关于奥马利的故事，他们在寻找他的孤儿院时遭到了残酷的攻击，他们甚至没有栅栏来保护自己。于是他们创建了Weevery网站，把它贴在上面，我们可以在不到一周的时间里为孤儿院筹集到超过10万美元，他们建了一堵墙和一道篱笆，还有更多的东西。这实际上是在帮助肯尼亚的孤儿院。关于我们的故事，我们是如何达到今天的水平的。2006年初，作为宾州一个班级项目的一部分，我们在六年前提出了同样的想法，我们以为你知道为什么这么难。为什么要建立一个网站还是那么困难。我们看到周围的人都在挣扎，所以我们不能接受我们现在开始工作的想法。我将在这里向你们介绍演讲的主题。这是我们的新西诺斯每天的图表。现在是2006年8月。这是真实的数据，你可以看到顶部。那是我们开始研究Weeble的六个月后。因此，在我们编写了第一行代码六个月后，我们迎来了12个新用户。你知道，这只是朋友和家人的事情，阿尔法阶段还不是什么容易在一个月内完成的事情，是一件很困难的事情。这个夏天花了一些时间才建好。丹和我还有克里斯正在做这件事。这是2006年10月。八个月后。所以我们已经写了八个月的代码了。我们在一些论坛上发布了一份私人邀请函，我们认为这一天会爆炸，我们有大约30人参加，这是那天的一个标志。所以你知道，大约在这个时候，我很晚才起床。在浏览Slashdot的时候，你也知道那是当时最受欢迎的科技新闻网站，我当时正在读一篇关于Y Combinator的文章。我说你知道我想我听说过这件事之前我还不确定是不是饿了这篇文章。哦，这听起来很酷，这听起来很有趣，哦，两个小时内的申请截止日期。所以我以为你知道怎么回事。我会很快地整理一些。现在申请是无害的。实际上，我没有足够的时间打电话给丹或克里斯，问他们是否愿意辍学搬到旧金山。所以我猜了一下。我想你知道克里斯可能会这么做。他很野，丹也很高。但我想他可能想要完成他的大学生涯。所以我们用了不到一个小时的时间就申请了纽约。被接受了一次去波士顿面试的面试。我们觉得很棒。顺便说一句，面试的那天早上，我醒来时，看了看我的电话铃声，一双愁眉苦脸的眼睛，收到了一封电子邮件。这到底是怎么回事。所以，开放的技术工作就这样发生了，一个星期六的早晨，科技危机被毁了，我相信面试肯定没什么坏处。但我也得解释一下这个图表。这真的很重要。正常情况下，这并不是一个科技机构通常看起来的样子-通常情况下，它会直线上升。然后直接回去。我们有一个邀请系统，以确保我们的服务器崩溃。这就是为什么你看到它分散在更多的时间里。但你知道那天晚上晚些时候保罗让我们在晚上7点前接到电话。同一天。如果他来了我们会告诉你的。所以我们很紧张，我们出去吃饭，然后坐下来，我记得你知道晚上7点。在晚上8点左右滚来滚去。滚来滚去。我们都盯着面前的食物盘，就好像我们真的不能吃一样。我们太紧张了。然后到晚上9点。我们就像这样。我们肯定没有打电话给他们接受的所有人，现在他们只打电话给失败者，然后我想9点3左右，保罗打来电话，我接了电话，他的第一句话是：我打电话来结束你的大学生涯。笑声。所以你知道得很有趣，你知道我后来和丹谈了，说嘿，伙计们，你们想加入，你不知道，我知道我们还有一学期的时间。听起来很疯狂，但我们干脆辍学搬到旧金山怎么样？你觉得圣诞节怎么样。好吧，让我们去做吧。作为丹，我就像丹，你喜欢，为什么你觉得这很疯狂。他就像我在船上一样。这听起来很棒。你知道这是我们接到电话后拍的照片。我想这张照片也是在我们每个人在酒吧拍了三张照片，和我们的朋友Dana一起庆祝之后。下一个图表是2007年1月。所以我们搬到旧金山开始Y组合程序。现在是11个月了。在我们开始研究之后，但是你知道这是很长的一段时间。在您开始编写我们的第一行代码之后，几乎已经整整一年了。我想让你们看看这张图，我希望你们注意到一些东西。这不是直接向右的。一直往上走。它直接倒下来。现在，也许你有几个小问题，有点希望，但事情看起来不太好。现在，我们每天注册的人数还不到100人，几乎是在我们开始工作一年之后。你知道，这是我们第一间办公室的照片，所以我们真的搬到了一间公寓里。我们放了三张桌子，你可以知道这是多久前的事了，因为右下角的那台旧电视和15英寸的显示器，我们把三张放在一起，放在客厅里。这就是创业公司的样子。我们只是干了些蠢事。我们周六休息了一个重要的Rojos。但除此之外，每隔一段时间，每一次清醒的时刻都是24/7的，工作并不都很糟糕。我们的景色很好。旧金山湾。你知道这是个有趣的故事。这是Chris砍下的一个小显示器，他把它放在桌子中间，它显示了一些基本的统计数据，或者显示为低到平均，你在这里看不到。但是它也显示了总用户和登录用户，这里有三个登录用户。那是因为我们三个人在桌旁使用Weeble。
+在我们开始研究之后，但是你知道这是很长的一段时间。
 
-\[00:07:28\] Applause applause.
+This is almost a full year after you start writing our first line of code.
+
+在您开始编写我们的第一行代码之后，几乎已经整整一年了。
+
+I want you to take a look at this graph and I want you to notice something.
+
+我想让你们看看这张图，我希望你们注意到一些东西。
+
+This isn\'t straight up into the right.
+
+这不是直接向右的。
+
+It goes straight up.
+
+一直往上走。
+
+It comes straight back down.
+
+它直接倒下来。
+
+Now maybe you got a couple squiggles here that a little that are a little hopeful but things aren\'t looking great.
+
+现在，也许你有几个小问题，有点希望，但事情看起来不太好。
+
+We\'re getting less than a hundred people per day signing up right now almost a year after we started working on weebly.
+
+现在，我们每天注册的人数还不到100人，几乎是在我们开始工作一年之后。
+
+You know this is a picture of our first office so we literally moved into an apartment.
+
+你知道，这是我们第一间办公室的照片，所以我们真的搬到了一间公寓里。
+
+We put three desks that you could really tell how long ago this was because that old ass tv in the lower right hand corner and the 15 inch monitors and we literally just pushed three that together put it in the living room.
+
+我们放了三张桌子，你可以知道这是多久前的事了，因为右下角的那台旧电视和15英寸的显示器，我们把三张放在一起，放在客厅里。
+
+And this is this is what startup looks like.
+
+这就是创业公司的样子。
+
+We just worked our asses off.
+
+我们只是干了些蠢事。
+
+We had one important Rojos we took Saturday off.
+
+我们周六休息了一个重要的Rojos。
+
+But otherwise every other moment every waking moment was 24/7 work wasn\'t all bad.
+
+但除此之外，每隔一段时间，每一次清醒的时刻都是24/7的，工作并不都很糟糕。
+
+We had a great view.
+
+我们的景色很好。
+
+The San Francisco Bay.
+
+旧金山湾。
+
+And you know this is this is a fun story.
+
+你知道这是个有趣的故事。
+
+This is a little display that Chris hacked up and he just put it in the middle of a table and it showed kind of some basic stats or showed like low to average which you don\'t see right here.
+
+这是Chris砍下的一个小显示器，他把它放在桌子中间，它显示了一些基本的统计数据，或者显示为低到平均，你在这里看不到。
+
+But it also showed total users and logged in users and there\'s three logging users here.
+
+但是它也显示了总用户和登录用户，这里有三个登录用户。
+
+That\'s because it was the three of us around the table using weebly.
+
+那是因为我们三个人在桌旁使用Weeble。
+
+ \[00:07:28\] Applause applause.
 
 [00：07：28]掌声。
 
-\[00:07:31\] One of the one of our biggest moment still I think in
-company history was one night we were sitting there and it went for you
-know like we were excited. That was exciting. So you know in January
-2007 we also got a feature on tech crunch again. This is much more
-normal it goes straight up and straight back down.
+ \[00:07:31\] One of the one of our biggest moment still I think in company history was one night we were sitting there and it went for you know like we were excited.
 
-[00：07：31]我认为公司历史上最重要的时刻之一是，有一天晚上我们坐在那里，你知道，就像我们很兴奋一样。太令人兴奋了。所以，你知道，在2007年1月，我们还得到了一个关于技术危机的功能。这是更正常的，它直接向上，然后直接向下。
+[00：07：31]我认为公司历史上最重要的时刻之一是，有一天晚上我们坐在那里，你知道，就像我们很兴奋一样。
 
-\[00:07:51\] And you know get 11 months after we started working on
-weebly. This is April 2007 and there\'s a couple hard times also want to
-check. Sometimes just hear about the good stuff you don\'t hear about
-bad stuff you don\'t hear about the times we\'re really hard. This is 14
-months after you start working on it. The first thing I want to dress on
-this slide is the sign of graph I kind of want you to look at the end
-there and notice you know I think we were just oblivious and very
-hopeful the time but that kind of looks like it\'s heading down it\'s
-not heading up it\'s actually heading in the wrong direction at this
-point April 2007. I mean we were just finishing the Wise Program. We
-were really hopeful that we could raise money. But you\'re talking some
-angel investors. But at one point we had less than a hundred bucks in
-our bank account. And that\'s all the money we had. We know we spent
-money on two things early on we spent money on rent and we spent money
-at the bar. And that\'s pretty much it. And you know we\'re pretty
-hopeful but rent was coming up in two weeks and we had to pay rent in
-two weeks so we started talking about raising our friends and family
-round.
+That was exciting.
 
-[00：07：51]你知道，在我们开始研究Weeble的11个月后。这是2007年4月，有几个困难的时刻也想检查一下。有时候，你只需要听那些你不听的好东西，你就不会听到我们真的很难的时候。这是你开始工作的14个月后。在这张幻灯片上，我想要穿的第一件事是图的符号，我有点想让你看最后，注意到你知道，我认为我们只是忘记了，而且对时间充满了希望，但是那种看起来像它朝下的方向，在2007年4月的这个时候，它实际上并没有朝错误的方向前进。我是说我们刚刚完成了智者计划。我们真的希望我们能筹集到资金。但你说的是天使投资者。但有一次，我们的银行账户里只有不到一百块钱。这就是我们所有的钱。我们知道我们在两件事上花了钱，一是在房租上花钱，二是我们在酒吧里花了钱。差不多就是这样了。你知道我们很有希望，但是租金在两周后就要涨了，我们不得不在两周内付房租，所以我们开始讨论如何抚养我们的朋友和家人。
+太令人兴奋了。
 
-\[00:08:53\] We started talking about moving to San Jose to save a
-hundred bucks a month in rent. And luckily we didn\'t do that. Laughter
-And you know luckily sort of right in the nick of time we end up raising
-a six or 50 Cange around from from Rawn from Steve Anderson. Mike Maples
-bunch angels. This is another thing that really dates this story. That
-big stack of paperwork is an equity financing looks like these days. You
-know all the financing most stage financings are done via a convertible
-note to three pages tops. This is a fat stack for equity financing. So
-you know the next big thing for us was being feature Newsweek. Now this
-used to be a really big deal. I don\'t know today if it\'s as much of a
-big deal. But back then this was a huge deal this is the thing that your
-parents like bought 10 copies the magazine afforded to everyone they
-knew. And so this was really a big deal 15 months and that that was
-definitely a high point. And that\'s what that looks like. So it\'s so
-now you\'re seeing the effect of what being featured in Newsweek looks
-like you know again it\'s a very sore point. It goes up and it comes
-right back down.
+So you know in January 2007 we also got a feature on tech crunch again.
 
-[00：08：53]我们开始谈论搬到圣何塞一个月节省100美元的租金。幸运的是我们没有那么做。笑声，你知道，幸运的是，在这段时间里，我们从史蒂夫·安德森的罗恩身边拿出了六五十块钱。迈克·梅普斯一群天使。这是另一件事，真正的日期这个故事。那么多文件都是股票融资，看上去就像现在一样。你知道，大多数阶段融资都是通过最多三页的可转换票据完成的。这是一个庞大的股权融资堆积如山。所以你知道我们的下一件大事是“新闻周刊”。现在，这曾经是一件很重要的事情。我不知道今天是否有那么大的问题。但在那时候，这是一笔巨大的交易，这是你父母喜欢买的10份杂志，给他们认识的每个人。所以这真的是一个重要的15个月，这绝对是一个最高点。那就是那样子。所以现在你看到了“新闻周刊”的特写效果，看起来你又知道了，这是一个非常痛苦的问题。它会上升，然后马上就会下降。
+所以，你知道，在2007年1月，我们还得到了一个关于技术危机的功能。
 
-\[00:10:01\] You\'re not noticing you know it settles higher and that\'s
-definitely a good sign. But it\'s still going down. It\'s not going up.
+This is much more normal it goes straight up and straight back down.
+
+这是更正常的，它直接向上，然后直接向下。
+
+ \[00:07:51\] And you know get 11 months after we started working on weebly.
+
+[00：07：51]你知道，在我们开始研究Weeble的11个月后。
+
+This is April 2007 and there\'s a couple hard times also want to check.
+
+这是2007年4月，有几个困难的时刻也想检查一下。
+
+Sometimes just hear about the good stuff you don\'t hear about bad stuff you don\'t hear about the times we\'re really hard.
+
+有时候，你只需要听那些你不听的好东西，你就不会听到我们真的很难的时候。
+
+This is 14 months after you start working on it.
+
+这是你开始工作的14个月后。
+
+The first thing I want to dress on this slide is the sign of graph I kind of want you to look at the end there and notice you know I think we were just oblivious and very hopeful the time but that kind of looks like it\'s heading down it\'s not heading up it\'s actually heading in the wrong direction at this point April 2007.
+
+在这张幻灯片上，我想要穿的第一件事是图的符号，我有点想让你看最后，注意到你知道，我认为我们只是忘记了，而且对时间充满了希望，但是那种看起来像它朝下的方向，在2007年4月的这个时候，它实际上并没有朝错误的方向前进。
+
+I mean we were just finishing the Wise Program.
+
+我是说我们刚刚完成了智者计划。
+
+We were really hopeful that we could raise money.
+
+我们真的希望我们能筹集到资金。
+
+But you\'re talking some angel investors.
+
+但你说的是天使投资者。
+
+But at one point we had less than a hundred bucks in our bank account.
+
+但有一次，我们的银行账户里只有不到一百块钱。
+
+And that\'s all the money we had.
+
+这就是我们所有的钱。
+
+We know we spent money on two things early on we spent money on rent and we spent money at the bar.
+
+我们知道我们在两件事上花了钱，一是在房租上花钱，二是我们在酒吧里花了钱。
+
+And that\'s pretty much it.
+
+差不多就是这样了。
+
+And you know we\'re pretty hopeful but rent was coming up in two weeks and we had to pay rent in two weeks so we started talking about raising our friends and family round.
+
+你知道我们很有希望，但是租金在两周后就要涨了，我们不得不在两周内付房租，所以我们开始讨论如何抚养我们的朋友和家人。
+
+ \[00:08:53\] We started talking about moving to San Jose to save a hundred bucks a month in rent.
+
+[00：08：53]我们开始谈论搬到圣何塞一个月节省100美元的租金。
+
+And luckily we didn\'t do that.
+
+幸运的是我们没有那么做。
+
+Laughter And you know luckily sort of right in the nick of time we end up raising a six or 50 Cange around from from Rawn from Steve Anderson.
+
+笑声，你知道，幸运的是，在这段时间里，我们从史蒂夫·安德森的罗恩身边拿出了六五十块钱。
+
+Mike Maples bunch angels.
+
+迈克·梅普斯一群天使。
+
+This is another thing that really dates this story.
+
+这是另一件事，真正的日期这个故事。
+
+That big stack of paperwork is an equity financing looks like these days.
+
+那么多文件都是股票融资，看上去就像现在一样。
+
+You know all the financing most stage financings are done via a convertible note to three pages tops.
+
+你知道，大多数阶段融资都是通过最多三页的可转换票据完成的。
+
+This is a fat stack for equity financing.
+
+这是一个庞大的股权融资堆积如山。
+
+So you know the next big thing for us was being feature Newsweek.
+
+所以你知道我们的下一件大事是“新闻周刊”。
+
+Now this used to be a really big deal.
+
+现在，这曾经是一件很重要的事情。
+
+I don\'t know today if it\'s as much of a big deal.
+
+我不知道今天是否有那么大的问题。
+
+But back then this was a huge deal this is the thing that your parents like bought 10 copies the magazine afforded to everyone they knew.
+
+但在那时候，这是一笔巨大的交易，这是你父母喜欢买的10份杂志，给他们认识的每个人。
+
+And so this was really a big deal 15 months and that that was definitely a high point.
+
+所以这真的是一个重要的15个月，这绝对是一个最高点。
+
+And that\'s what that looks like.
+
+那就是那样子。
+
+So it\'s so now you\'re seeing the effect of what being featured in Newsweek looks like you know again it\'s a very sore point.
+
+所以现在你看到了“新闻周刊”的特写效果，看起来你又知道了，这是一个非常痛苦的问题。
+
+It goes up and it comes right back down.
+
+它会上升，然后马上就会下降。
+
+ \[00:10:01\] You\'re not noticing you know it settles higher and that\'s definitely a good sign.
+
+[00：10：01]你没有注意到，你知道它会更高，这绝对是个好兆头。
+
+But it\'s still going down.
+
+但它还在下降。
+
+It\'s not going up.
+
+不会上升的。
+
 This is 15 months after we started working on wheely here.
 
-[00：10：01]你没有注意到，你知道它会更高，这绝对是个好兆头。但它仍然在下降。它没有上升。这是我们在这里开始研究的15个月后。
+这是我们在这里开始工作15个月后。
 
-\[00:10:16\] Here\'s a shot of our office here in July 2007 and that\'s
-darn sit in there. And that\'s also our stats dashboard. You can kind of
-see what\'s going on. Next big moment for us around the same time I was
-being featured in time so we feature in time as one of the 50 best Web
-sites of 2007.
+ \[00:10:16\] Here\'s a shot of our office here in July 2007 and that\'s darn sit in there.
 
-[00：10：16]这是2007年7月我们办公室的一张照片，这是我们的数据仪表盘。你可以看看发生了什么。下一个重要的时刻，我正好赶上了时间，所以我们及时成为2007年50个最佳网站之一。
+[00：10：16]这是2007年7月我们办公室的一张照片，那是该死的坐在里面。
 
-\[00:10:36\] Is 18 months after we saw work on Wimbley a year and a half
-after we start working on weebly and things still aren\'t taken off.
-There\'s no hockey stick here. Things are actually going in the wrong
-direction now. I want to try something out here. Raise your hand if
-you\'re currently working on a startup. Now keep your hand up open up
-keep your hands up. Now keep your hand up only if you\'ve been working
-out for over 18 months. OK. Right. That\'s what I thought.
+And that\'s also our stats dashboard.
 
-[00：10：36]是我们在温布利工作一年半后的18个月后，我们开始在Weeble工作，但事情仍然没有进展。这里没有曲棍球棍。实际上，事情现在正朝着错误的方向发展。我想在这里试试。如果你目前正在创业，请举手。现在举起你的手，张开你的手，举起你的手。现在，只有当你运动超过18个月的时候，才能举起你的手。好的右（边），正确的我就是这么想的。
+这也是我们的数据仪表盘。
 
-\[00:11:04\] It\'s a long time. This is a really long time and we
-didn\'t have any we didn\'t have too much positive we were just sort of
-naive we were naively hopeful that things will work out and we knew it
-was a good problem to be solving. We\'re getting feedback from our
-users. But you know the metrics weren\'t entirely there yet. And this is
-where it changes. This is this is 20 months and finally finally 20
-months after we start working on we we were seeing our first real
-traction. Now this is good. This is where your rate of acquiring
-newsprint is increasing linearly. That\'s a pretty good thing and one
-thing to notice you know you might think hey if only I get on tech
-crunch I\'ll blow up my company I\'ll be successful if I just get on
-tech crunch. Well look all the way back there just a word of mouth. Now
-we\'re now getting more users every single day than if we were featured
-in Newsweek Time or tech crunch in July 2008.
+You can kind of see what\'s going on.
 
-[00：11：04]这是很长的一段时间。这真的是很长的一段时间，我们没有任何积极的事情，我们只是有点天真，我们天真地希望事情会解决，我们知道这是一个很好的解决问题。我们从用户那里得到反馈。但你知道，衡量标准还没有完全到位。这就是它改变的地方。这是20个月，最后20个月后，我们开始工作，我们看到了我们的第一次真正的牵引力。现在这很好。这是你购买新闻纸的速度线性增长的地方。这是一件非常好的事情，而且有一件事值得注意，你知道你可能会想，嘿，如果我陷入了技术危机，我就会毁了我的公司，如果我继续技术危机的话，我会成功的。好吧，回头看看，只是说说而已。现在，如果我们在2008年7月的“新闻周刊”(NewsWeek)或“科技危机”(Tech Ccrick)上登台，现在我们每天的用户数量都
+你可以看看这是怎么回事。
 
-\[00:11:58\] We moved in our first four office twenty nine months after
-we saw our work and we were we funny story that TV on the wall got
-stolen. Our office got broken into the first week we moved in laughter.
-That was fun getting a call from the police officer at the next Abian
-like you got to deal with their office is busted. So you know here\'s
-another picture. And this was just a it was small. It was 14 Hurren
-square feet we\'re in a fitting I think about 12 people there. And and
-you know around the summer time we started looking at our bank account
-balance. And you know we\'re like OK well you know how much runway do we
-have. This is an important thing to know. If you\'re not profitable how
-much runway do we have. We said OK well we really need to start raising
-money in September maybe October November we\'re gonna run out of money.
-You know so so we said well we\'ll what the hell let\'s let let\'s give
-it a shot at least start making some money. So July 2008 when she was
-Weebly pro we also sell domain names now and when we started that time
-and things were looking good. But if you know anything about the fall of
-2008 it was just a really bad time to be raising money. So we went out
-there and you know Mitr worked but the terms were just not what we were
-looking for. So this is a graph of our company bank balance. I actually
-hacked up Vanguard\'s graphic flash graph to plot Nexium Alpha digraph
-this for you guys. This is 34 months after we started working on weebly
-and it was pretty low. And this is you know this is this is another hard
-time. We basically we we looked at our bank balance and we said okay
-well you know revenues increasing and things are going in the right
-direction and we\'re pretty hopeful we can squeeze through but you know
-we can\'t pay our bills next month. So what are we to do about it. So
-you know obviously payroll was just never an option. We\'re obviously
-going to pay payroll. If we had to cut our own salaries that was going
-be one thing but for people we employ that was just not optional pay
-that. So the next step was to get out of counter literally I remember
-getting out a big counter on a piece of paper and mapping out all our
-bills on which days they were do and how much money we thought we were
-going to make in the meantime to just barely squeak by. And then
-there\'s really two types of bills that we label. There was one there
-was a type of bill that if you didn\'t pay it you got a late fee. And
-the second type of bill if you didn\'t pay it they shut your servers
-off. So obviously we had to pay that second category. But you know in
-January 2009 which is which is a great month for us.
+Next big moment for us around the same time I was being featured in time so we feature in time as one of the 50 best Web sites of 2007.
 
-‘我们的办公室在我们开怀大笑的第一个星期就被攻破了。接到下一个Abian警察的电话真是太有趣了，就像你要处理他们的办公室被捣毁一样。所以你知道这是另一张照片。这只是一个很小的。这是14赫伦平方英尺，我们在一个合适的地方，我想大约有12人在那里。你知道，大约在夏天的时候，我们开始查看我们的银行账户余额。你知道我们很好，你知道我们有多少跑道。这是一件重要的事情要知道。如果你不赚钱，我们有多少跑道。我们说好吧，我们真的需要在九月，也许十月，十一月开始筹款，我们的钱就要用完了。你知道，所以我们说，好吧，让我们做什么，让我们给它一个机会，至少开始赚钱。所以2008年7月，当她是WeeblePro的时候，我们现在也卖域名，当我们开始的时候，事情看起来很好。但如果你对2008年秋季有所了解的话，那只是筹集资金的一个非常糟糕的时机。所以我们去了那里，你知道米塔尔工作过，但条件并不是我们想要的。这是我们公司银行余额的图表。实际上，我黑了Vanguard的图形闪存图，为你们绘制了NexiumAlpha有向图。这是34个月后，我们开始研究Weeble，这是相当低的。这是你知道的，这是另一个艰难的时刻。基本上，我们看了我们的银行余额，我们说，好吧，你知道，收入在增加，事情正在朝着正确的方向发展，我们非常希望我们能勉强度日，但你知道，我们下个月付不起账单。那我们该怎么办。所以你知道，很明显，工资从来就不是一个选择。我们显然要支付工资。如果我们不得不削减我们自己的工资，那将是一回事，但对于我们雇用的人来说，这不是随意支付的。所以下一步就是走出柜台-我记得我在一张纸上拿出了一个大柜台，列出了我们所有的账单-它们是哪一天做的-以及我们认为在这段时间里我们能赚多少钱-只是勉强度日而已。还有两种类型的钞票，我们都贴上标签。有一种账单，如果你不付的话，你会得到一笔滞纳金。第二类账单，如果你不付的话，他们会关闭你的服务器。所以很明显，我们必须支付第二类费用。但你知道，在2009年1月，这是一个伟大的月份，我们。
+下一个重要时刻对我们来说，大约在同一时间，我在时间上被特写，所以我们及时作为2007年50个最好的网站之一。
 
-\[00:14:28\] You know we finally hit break even. This is where things
-started turning in the profitable direction. And you know this is where
-you first start seeing a working business model. It finally collects and
-you can see a little bit history out there. Thirty five months that\'s
-three years after we start working on it when we finally hit a working
-business model. This is February 2010. And now things are looking great.
+ \[00:10:36\] Is 18 months after we saw work on Wimbley a year and a half after we start working on weebly and things still aren\'t taken off.
+
+[00：10：36]是我们在温布利工作一年半后的18个月后，我们开始在Weeble工作，但事情仍然没有进展。
+
+There\'s no hockey stick here.
+
+这里没有曲棍球棍。
+
+Things are actually going in the wrong direction now.
+
+实际上，事情现在正朝着错误的方向发展。
+
+I want to try something out here.
+
+我想在这里试试。
+
+Raise your hand if you\'re currently working on a startup.
+
+如果你目前正在创业，请举手。
+
+Now keep your hand up open up keep your hands up.
+
+现在举起你的手，张开你的手，举起你的手。
+
+Now keep your hand up only if you\'ve been working out for over 18 months.
+
+现在，只有当你运动超过18个月的时候，才能举起你的手。
+
+OK.
+
+好的
+
+Right.
+
+右（边），正确的
+
+That\'s what I thought.
+
+我就是这么想的。
+
+ \[00:11:04\] It\'s a long time.
+
+[00：11：04]这是很长的一段时间。
+
+This is a really long time and we didn\'t have any we didn\'t have too much positive we were just sort of naive we were naively hopeful that things will work out and we knew it was a good problem to be solving.
+
+这真的是很长的一段时间，我们没有任何积极的事情，我们只是有点天真，我们天真地希望事情会解决，我们知道这是一个很好的解决问题。
+
+We\'re getting feedback from our users.
+
+我们从用户那里得到反馈。
+
+But you know the metrics weren\'t entirely there yet.
+
+但你知道，衡量标准还没有完全到位。
+
+And this is where it changes.
+
+这就是它改变的地方。
+
+This is this is 20 months and finally finally 20 months after we start working on we we were seeing our first real traction.
+
+这是20个月，最后20个月后，我们开始工作，我们看到了我们的第一次真正的牵引力。
+
+Now this is good.
+
+现在这很好。
+
+This is where your rate of acquiring newsprint is increasing linearly.
+
+这是你购买新闻纸的速度线性增长的地方。
+
+That\'s a pretty good thing and one thing to notice you know you might think hey if only I get on tech crunch I\'ll blow up my company I\'ll be successful if I just get on tech crunch.
+
+这是一件非常好的事情，而且有一件事值得注意，你知道你可能会想，嘿，如果我陷入了技术危机，我就会毁了我的公司，如果我继续技术危机的话，我会成功的。
+
+Well look all the way back there just a word of mouth.
+
+好吧，回头看看，只是说说而已。
+
+Now we\'re now getting more users every single day than if we were featured in Newsweek Time or tech crunch in July 2008.
+
+现在，如果我们在2008年7月的“新闻周刊”(NewsWeek)或“科技危机”(Tech Ccrick)上登台，现在我们每天的用户数量都
+
+ \[00:11:58\] We moved in our first four office twenty nine months after we saw our work and we were we funny story that TV on the wall got stolen.
+
+‘
+
+Our office got broken into the first week we moved in laughter.
+
+我们的办公室在我们开怀大笑的第一个星期就被攻破了。
+
+That was fun getting a call from the police officer at the next Abian like you got to deal with their office is busted.
+
+接到下一个Abian警察的电话真是太有趣了，就像你要处理他们的办公室被捣毁一样。
+
+So you know here\'s another picture.
+
+所以你知道这是另一张照片。
+
+And this was just a it was small.
+
+这只是一个很小的。
+
+It was 14 Hurren square feet we\'re in a fitting I think about 12 people there.
+
+这是14赫伦平方英尺，我们在一个合适的地方，我想大约有12人在那里。
+
+And and you know around the summer time we started looking at our bank account balance.
+
+你知道，大约在夏天的时候，我们开始查看我们的银行账户余额。
+
+And you know we\'re like OK well you know how much runway do we have.
+
+你知道我们很好，你知道我们有多少跑道。
+
+This is an important thing to know.
+
+这是一件重要的事情要知道。
+
+If you\'re not profitable how much runway do we have.
+
+如果你不赚钱，我们有多少跑道。
+
+We said OK well we really need to start raising money in September maybe October November we\'re gonna run out of money.
+
+我们说好吧，我们真的需要在九月，也许十月，十一月开始筹款，我们的钱就要用完了。
+
+You know so so we said well we\'ll what the hell let\'s let let\'s give it a shot at least start making some money.
+
+你知道，所以我们说，好吧，让我们做什么，让我们给它一个机会，至少开始赚钱。
+
+So July 2008 when she was Weebly pro we also sell domain names now and when we started that time and things were looking good.
+
+所以2008年7月，当她是WeeblePro的时候，我们现在也卖域名，当我们开始的时候，事情看起来很好。
+
+But if you know anything about the fall of 2008 it was just a really bad time to be raising money.
+
+但如果你对2008年秋季有所了解的话，那只是筹集资金的一个非常糟糕的时机。
+
+So we went out there and you know Mitr worked but the terms were just not what we were looking for.
+
+所以我们去了那里，你知道米塔尔工作过，但条件并不是我们想要的。
+
+So this is a graph of our company bank balance.
+
+这是我们公司银行余额的图表。
+
+I actually hacked up Vanguard\'s graphic flash graph to plot Nexium Alpha digraph this for you guys.
+
+实际上，我黑了Vanguard的图形闪存图，为你们绘制了NexiumAlpha有向图。
+
+This is 34 months after we started working on weebly and it was pretty low.
+
+这是34个月后，我们开始研究Weeble，这是相当低的。
+
+And this is you know this is this is another hard time.
+
+这是你知道的，这是另一个艰难的时刻。
+
+We basically we we looked at our bank balance and we said okay well you know revenues increasing and things are going in the right direction and we\'re pretty hopeful we can squeeze through but you know we can\'t pay our bills next month.
+
+基本上，我们看了我们的银行余额，我们说，好吧，你知道，收入在增加，事情正在朝着正确的方向发展，我们非常希望我们能勉强度日，但你知道，我们下个月付不起账单。
+
+So what are we to do about it.
+
+那我们该怎么办。
+
+So you know obviously payroll was just never an option.
+
+所以你知道，很明显，工资从来就不是一个选择。
+
+We\'re obviously going to pay payroll.
+
+我们显然要支付工资。
+
+If we had to cut our own salaries that was going be one thing but for people we employ that was just not optional pay that.
+
+如果我们不得不削减我们自己的工资，那将是一回事，但对于我们雇用的人来说，这不是随意支付的。
+
+So the next step was to get out of counter literally I remember getting out a big counter on a piece of paper and mapping out all our bills on which days they were do and how much money we thought we were going to make in the meantime to just barely squeak by.
+
+所以下一步就是走出柜台-我记得我在一张纸上拿出了一个大柜台，列出了我们所有的账单-它们是哪一天做的-以及我们认为在这段时间里我们能赚多少钱-只是勉强度日而已。
+
+And then there\'s really two types of bills that we label.
+
+还有两种类型的钞票，我们都贴上标签。
+
+There was one there was a type of bill that if you didn\'t pay it you got a late fee.
+
+有一种账单，如果你不付的话，你会得到一笔滞纳金。
+
+And the second type of bill if you didn\'t pay it they shut your servers off.
+
+第二类账单，如果你不付的话，他们会关闭你的服务器。
+
+So obviously we had to pay that second category.
+
+所以很明显，我们必须支付第二类费用。
+
+But you know in January 2009 which is which is a great month for us.
+
+但你知道，在2009年1月，这是一个伟大的月份，我们。
+
+ \[00:14:28\] You know we finally hit break even.
+
+[00：14：28]你知道我们终于达到了收支平衡。
+
+This is where things started turning in the profitable direction.
+
+这就是事情开始朝着有利可图的方向发展的地方。
+
+And you know this is where you first start seeing a working business model.
+
+你知道，这是你第一次看到一个行之有效的商业模式的地方。
+
+It finally collects and you can see a little bit history out there.
+
+它终于收集起来了，你可以看到一些历史。
+
+Thirty five months that\'s three years after we start working on it when we finally hit a working business model.
+
+在我们开始工作后的三十五个月，当我们终于建立起一个工作的商业模式时，这已经是第三个月了。
+
+This is February 2010.
+
+这是2010年2月。
+
+And now things are looking great.
+
+现在一切看起来都很好。
+
 Now we\'re off to the races four years after we start working on weebly.
-I want you to notice all the way in the back that Newsweek that time you
-know the tech crunch articles they\'re just blips on the radar. You know
-now everyday we\'re getting about 5000 new users per day. All of you a
-word of mouth. It\'s all organic growth. In March 2011 sixty one months
-out we started. We partnered with Sequoia Capital. We love them as
-partners and then brought them on board to help grow the business. And
-that brings us to today so where we now today Weebly powers about 2
-percent of the active Web sites on the Internet that\'s all based on
-public data from Netcraft every month 15 percent of the United States
-visits a weekly web site. And my favorite stat here is our net promoter
-score. Our net promoter score is over 80 percent. Now if you\'re not
-familiar with what a net promoter score is that\'s you know that means
-88 percent of people who answered the survey said 9 or 10 likely
-they\'re going to recommend to a friend as a point of comparison I think
-apples is 67 percent that\'s considered excellent. So this explains
-everything about our business. A quick tour of the office here moving
-this office about a year ago. This is what it looks like when you walk
-in. This is a quick snapshot of our lobby in conference room at the
-front. Here\'s are open workplace area and we really like this because
-you can really talking communicate. But obviously it gets noisy so one
-of things that we give everyone who works at Weebly is Bose noise
-canceling headphones block out the noise. It\'s a TV room great for
-catching a big game especially the giant games I\'ve been on lately. And
-this is this is our kind of kitchen slash rec area downstairs where we
-get super competitive on ping pong pool foosball. One thing I want you
-to notice is that bookshelf in the back actually if you go up to that
-and you know the right book to pull it actually opens up. I\'m not sure
-how you can see that but it\'s it\'s it\'s policy we can\'t show anyone
-pictures of inside the speaker room unless you come visit. So we\'d love
-to have you over to check that out. So you know just for shits and
-giggles I pulled our bank balance from this morning. That\'s what our
-County Bank compound looks like. Now this is 18 months after we started
-working on weebly. I think the important message here is there\'s still
-an unfinished story you know I mean as large as we\'ve been able to grow
-this is just the beginning. So you know what\'s next for WHEATLEY Well
-six years ago we thought the same thing you know maybe it\'s just hard.
-And today people are just as frustrated. You know just as confused and
-all they really want to do is participate in the Internet and you know
-what most people can\'t participate in the Internet the way they\'d like
-to know people just want to showcase their business showcase their art
-or their talents and sell things online. And it\'s still too difficult
-for them so you know as much as we\'ve done the last six years we think
-we\'ve just built a foundation. And what\'s most exciting is what we\'re
-building right now and there\'s just a whole lot of work left to do. So
-I think the number one takeaway of everything is you can\'t succeed if
-you quit. Too often I\'ve seen people that build something for six
-months and then they launch it and then two months later they stop
-working on it. Like how you expect that to work. You know behind every I
-think we\'ve seen today behind every quote unquote overnight success.
-You see people who have been working for years and years and years. And
-if you want to build a truly big and meaningful company it\'s going to
-take you seven to 10 years of your life. Don\'t give up so easily you
-just gotta keep going. Even in the early days for everyone including us
-it didn\'t look great you just had to push through and know that you\'re
-working on a valuable problem and keep pushing through.
 
-[00：14：28]你知道我们终于达到了收支平衡。这就是事情开始朝着有利可图的方向发展的地方。你知道，这是你第一次看到一个行之有效的商业模式的地方。它终于收集起来了，你可以看到一些历史。在我们开始工作后的三十五个月，当我们终于建立起一个工作的商业模式时，这已经是第三个月了。这是2010年2月。现在一切看起来都很好。现在，我们开始工作四年后，就可以去参加比赛了。我想让你注意到，在新闻周刊的后面，你知道那些科技紧要关头的文章，它们只是雷达上的闪光点。你知道，现在每天我们大约有5000名新用户。你们都是口耳相传。全是有机的生长。2011年3月，我们开始了61个月。我们和红杉资本合作过。我们喜欢他们作为合作伙伴，然后带他们上船，以帮助发展业务。这就把我们带到了今天，所以今天，Weeble提供了大约2%的活跃在互联网上的网站，这些网站都是基于Netcraft每月提供的公共数据，15%的美国人访问每周一次的网站。我最喜欢的是我们的网络推广得分。我们的净发起人分数超过80%。现在，如果你不熟悉网络推广人的得分，你知道吗？这意味着88%的受访者表示，有9%或10%的受访者表示，他们可能会向朋友推荐苹果，作为比较，我认为苹果是67%，而苹果被认为是优秀的。所以这解释了我们生意的一切。大约一年前在这里快速参观一下这间办公室。你进来的时候就是这样。这是我们前面会议室大厅的快速快照。这里是开放的工作场所，我们非常喜欢这里，因为你真的可以交谈交流。但是很明显，它会变得很吵，所以我们给每个在Weeble工作的人提供的东西之一是Bose噪音，取消耳机，屏蔽噪音。这是一个电视房，非常适合观看一场大型比赛，特别是我最近参加的大型游戏。这是我们在楼下的厨房裁剪区，在这里，我们在乒乓球、桌球等方面都有很强的竞争力。我想让你们注意的一件事是，后面的书架-实际上，如果你走到后面-你知道正确的书会把它打开。我不知道你怎么看得到，但这是我们的政策，除非你来参观，否则我们不能给任何人看会议室里的照片。所以我们希望你能过来看看。所以你知道的，我今天早上就把我们的银行存款存起来了。这就是我们县银行大院的样子。现在是我们开始研究Weeble的18个月后。我认为这里的重要信息是，还有一个尚未完成的故事，你知道，我的意思是，尽管我们能够成长，但这只是个开始。你知道惠特利接下来要做什么吗？好吧，六年前，我们想的是同样的事情，你知道，也许这很难。今天人们同样感到沮丧。你知道，同样困惑，他们真正想做的就是参与互联网，你知道大多数人不能像他们想知道的那样参与互联网，人们只是想展示自己的业务，展示自己的艺术或才华，然后在网上销售东西。对他们来说，这仍然太困难了，所以你知道的和我们过去六年所做的一样，我们认为我们刚刚建立了一个基础。最令人兴奋的是我们现在正在建设的东西-还有很多工作要做。所以我认为最重要的是，如果你辞职，你是不可能成功的。我经常看到人们建立了六个月的东西，然后他们推出了它，两个月后，他们停止了对它的研究。就像你期望的那样。你知道，在我认为我们今天看到的每一句名言背后，都是一夜之间的成功。你看到的人已经工作了很多年了。如果你想建立一个真正的大公司和有意义的公司，你的一生将需要7到10年的时间。不要轻易放弃，你只要坚持下去就行了。即使是在每个人，包括我们在内的早期，这看起来也不太好，你只要坚持下去，就知道你在努力解决一个有价值的问题，并且继续努力。
+现在，我们开始工作四年后，就可以去参加比赛了。
 
-\[00:18:36\] So last thing I\'ll close with you know if you\'d like to
-help us finish the story that\'s still in progress. We love to talk to
-you but I won\'t go on too much about that if you have any other
-questions please e-mail me. Hope to see it the party tonight. Thank you
-very much.
+I want you to notice all the way in the back that Newsweek that time you know the tech crunch articles they\'re just blips on the radar.
+
+我想让你注意到，在新闻周刊的后面，你知道那些科技紧要关头的文章，它们只是雷达上的闪光点。
+
+You know now everyday we\'re getting about 5000 new users per day.
+
+你知道，现在每天我们大约有5000名新用户。
+
+All of you a word of mouth.
+
+你们都是口耳相传。
+
+It\'s all organic growth.
+
+全是有机的生长。
+
+In March 2011 sixty one months out we started.
+
+2011年3月，我们开始了61个月。
+
+We partnered with Sequoia Capital.
+
+我们和红杉资本合作过。
+
+We love them as partners and then brought them on board to help grow the business.
+
+我们喜欢他们作为合作伙伴，然后带他们上船，以帮助发展业务。
+
+And that brings us to today so where we now today Weebly powers about 2 percent of the active Web sites on the Internet that\'s all based on public data from Netcraft every month 15 percent of the United States visits a weekly web site.
+
+这就把我们带到了今天，所以今天，Weeble提供了大约2%的活跃在互联网上的网站，这些网站都是基于Netcraft每月提供的公共数据，15%的美国人访问每周一次的网站。
+
+And my favorite stat here is our net promoter score.
+
+我最喜欢的是我们的网络推广得分。
+
+Our net promoter score is over 80 percent.
+
+我们的净发起人分数超过80%。
+
+Now if you\'re not familiar with what a net promoter score is that\'s you know that means 88 percent of people who answered the survey said 9 or 10 likely they\'re going to recommend to a friend as a point of comparison I think apples is 67 percent that\'s considered excellent.
+
+现在，如果你不熟悉网络推广人的得分，你知道吗？这意味着88%的受访者表示，有9%或10%的受访者表示，他们可能会向朋友推荐苹果，作为比较，我认为苹果是67%，而苹果被认为是优秀的。
+
+So this explains everything about our business.
+
+所以这解释了我们生意的一切。
+
+A quick tour of the office here moving this office about a year ago.
+
+大约一年前在这里快速参观一下这间办公室。
+
+This is what it looks like when you walk in.
+
+你进来的时候就是这样。
+
+This is a quick snapshot of our lobby in conference room at the front.
+
+这是我们前面会议室大厅的快速快照。
+
+Here\'s are open workplace area and we really like this because you can really talking communicate.
+
+这里是开放的工作场所，我们非常喜欢这里，因为你真的可以交谈交流。
+
+But obviously it gets noisy so one of things that we give everyone who works at Weebly is Bose noise canceling headphones block out the noise.
+
+但是很明显，它会变得很吵，所以我们给每个在Weeble工作的人提供的东西之一是Bose噪音，取消耳机，屏蔽噪音。
+
+It\'s a TV room great for catching a big game especially the giant games I\'ve been on lately.
+
+这是一个电视房，非常适合观看一场大型比赛，特别是我最近参加的大型游戏。
+
+And this is this is our kind of kitchen slash rec area downstairs where we get super competitive on ping pong pool foosball.
+
+这是我们在楼下的厨房裁剪区，在这里，我们在乒乓球、桌球等方面都有很强的竞争力。
+
+One thing I want you to notice is that bookshelf in the back actually if you go up to that and you know the right book to pull it actually opens up.
+
+我想让你们注意的一件事是，后面的书架-实际上，如果你走到后面-你知道正确的书会把它打开。
+
+I\'m not sure how you can see that but it\'s it\'s it\'s policy we can\'t show anyone pictures of inside the speaker room unless you come visit.
+
+我不知道你怎么看得到，但这是我们的政策，除非你来参观，否则我们不能给任何人看会议室里的照片。
+
+So we\'d love to have you over to check that out.
+
+所以我们希望你能过来看看。
+
+So you know just for shits and giggles I pulled our bank balance from this morning.
+
+所以你知道的，我今天早上就把我们的银行存款存起来了。
+
+That\'s what our County Bank compound looks like.
+
+这就是我们县银行大院的样子。
+
+Now this is 18 months after we started working on weebly.
+
+现在是我们开始研究Weeble的18个月后。
+
+I think the important message here is there\'s still an unfinished story you know I mean as large as we\'ve been able to grow this is just the beginning.
+
+我认为这里的重要信息是，还有一个尚未完成的故事，你知道，我的意思是，尽管我们能够成长，但这只是个开始。
+
+So you know what\'s next for WHEATLEY Well six years ago we thought the same thing you know maybe it\'s just hard.
+
+你知道惠特利接下来要做什么吗？好吧，六年前，我们想的是同样的事情，你知道，也许这很难。
+
+And today people are just as frustrated.
+
+今天人们同样感到沮丧。
+
+You know just as confused and all they really want to do is participate in the Internet and you know what most people can\'t participate in the Internet the way they\'d like to know people just want to showcase their business showcase their art or their talents and sell things online.
+
+你知道，同样困惑，他们真正想做的就是参与互联网，你知道大多数人不能像他们想知道的那样参与互联网，人们只是想展示自己的业务，展示自己的艺术或才华，然后在网上销售东西。
+
+And it\'s still too difficult for them so you know as much as we\'ve done the last six years we think we\'ve just built a foundation.
+
+对他们来说，这仍然太困难了，所以你知道的和我们过去六年所做的一样，我们认为我们刚刚建立了一个基础。
+
+And what\'s most exciting is what we\'re building right now and there\'s just a whole lot of work left to do.
+
+最令人兴奋的是我们现在正在建设的东西-还有很多工作要做。
+
+So I think the number one takeaway of everything is you can\'t succeed if you quit.
+
+所以我认为最重要的是，如果你辞职，你是不可能成功的。
+
+Too often I\'ve seen people that build something for six months and then they launch it and then two months later they stop working on it.
+
+我经常看到人们建立了六个月的东西，然后他们推出了它，两个月后，他们停止了对它的研究。
+
+Like how you expect that to work.
+
+就像你期望的那样。
+
+You know behind every I think we\'ve seen today behind every quote unquote overnight success.
+
+你知道，在我认为我们今天看到的每一句名言背后，都是一夜之间的成功。
+
+You see people who have been working for years and years and years.
+
+你看到的人已经工作了很多年了。
+
+And if you want to build a truly big and meaningful company it\'s going to take you seven to 10 years of your life.
+
+如果你想建立一个真正的大公司和有意义的公司，你的一生将需要7到10年的时间。
+
+Don\'t give up so easily you just gotta keep going.
+
+不要轻易放弃，你只要坚持下去就行了。
+
+Even in the early days for everyone including us it didn\'t look great you just had to push through and know that you\'re working on a valuable problem and keep pushing through.
+
+即使是在每个人，包括我们在内的早期，这看起来也不太好，你只要坚持下去，就知道你在努力解决一个有价值的问题，并且继续努力。
+
+ \[00:18:36\] So last thing I\'ll close with you know if you\'d like to help us finish the story that\'s still in progress.
+
+[00：18：36]所以最后一件事我将结束，如果你想帮我们完成这个仍在进行中的故事的话。
+
+We love to talk to you but I won\'t go on too much about that if you have any other questions please e-mail me.
+
+我们很想和你谈谈，但如果你还有其他问题，请给我发电子邮件，我不会说得太多。
+
+Hope to see it the party tonight.
+
+希望能在今晚的派对上看到。
+
+Thank you very much.
 
 
-最后一件事，如果你想帮我们完成这个仍在进行中的故事，我将做最后一件事。我们很想和你谈谈，但如果你有任何其他问题，请给我发电子邮件。希望今晚能看到这个聚会。非常感谢。
+非常感谢
 
