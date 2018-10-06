@@ -766,9 +766,10 @@ It\'s all visual.
 
 都是视觉上的。
 
-So they\'re drawing their two by two matrix.
+So they're drawing their two by two matrix.
 
-https://tmt.ap-beijing.tencentcloudapi.com/?Action=TextTranslate&Nonce=1234&ProjectId=1257710951&Region=ap-beijing&SecretId=AKIDPqCXo8hXckompwwu7EB4sWzTvJXboBh2&Source=en&SourceText=So+they%5C%27re+drawing+their+two+by+two+matrix.&Target=zh&Timestamp=1538795839&Version=2018-03-21&Signature=auESeRdkmMg6%2Bw1rfkHny6Wu0%2Bw=
+所以他们画了一个又一个矩阵。
+
 
 They\'re like this is a disaster.
 
@@ -1042,4 +1043,3 @@ It gets me excited about doing what we do every day.
 
 
 做我们每天都做的事让我很兴奋。
-

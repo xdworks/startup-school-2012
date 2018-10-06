@@ -166,9 +166,9 @@ They were at the end of their rope and everyone thought their idea was crazy.
 
 他们处于困境中，每个人都认为他们的想法是疯狂的。
 
-And I actually didn\'t.
+And I actually didn't.
 
-https://tmt.ap-beijing.tencentcloudapi.com/?Action=TextTranslate&Nonce=1234&ProjectId=1257710951&Region=ap-beijing&SecretId=AKIDPqCXo8hXckompwwu7EB4sWzTvJXboBh2&Source=en&SourceText=And+I+actually+didn%5C%27t.&Target=zh&Timestamp=1538795867&Version=2018-03-21&Signature=kU%2B%2BSSJArONcERbbyHWmrdfGwhs=
+其实我没有。
 
 But they knew they were on to something.
 
@@ -1174,4 +1174,3 @@ Thank you.
 
 
 谢谢。
-
