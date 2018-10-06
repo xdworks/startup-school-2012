@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.060" end="00:00:03.990" style="s2">thank you for coming<span style="s3"> thank</span> you<span style="s3"> very</span><span style="s4"> much</span></p>
+<p begin="00:00:01.920" end="00:00:06.359" style="s2">for<span style="s4"> inviting</span> so many people there&#39;s a</p>
+<p begin="00:00:03.990" end="00:00:07.259" style="s2"><span style="s4">lot of people</span><span style="s3"> so</span> maybe<span style="s3"> to</span> start<span style="s4"> you</span></p>
+<p begin="00:00:06.359" end="00:00:08.760" style="s2">could just<span style="s4"> tell</span> us a little bit about</p>
+<p begin="00:00:07.259" end="00:00:12.990" style="s2">what Rakatan is and how you got<span style="s4"> started</span></p>
+<p begin="00:00:08.760" end="00:00:16.109" style="s2"><span style="s3">okay</span><span style="s4"> so</span><span style="s3"> I</span><span style="s4"> found it in Iraq then in 1997</span></p>
+<p begin="00:00:12.990" end="00:00:19.529" style="s2"><span style="s3">as</span> a matter of fact<span style="s4"> you</span><span style="s3"> know</span> I was</p>
+<p begin="00:00:16.109" end="00:00:24.840" style="s2">trying<span style="s3"> to</span> partner<span style="s3"> with</span> one of you<span style="s3"> found</span></p>
+<p begin="00:00:19.529" end="00:00:26.939" style="s2">a program<span style="s4"> and you know my concept was to</span></p>
+<p begin="00:00:24.840" end="00:00:30.090" style="s2">recreate what we call internet shopping</p>
+<p begin="00:00:26.939" end="00:00:34.649" style="s2">mall<span style="s3"> or</span><span style="s4"> in Japan and</span> it was very very</p>
+<p begin="00:00:30.090" end="00:00:38.070" style="s2"><span style="s4">and</span> the early days and we<span style="s4"> try to do is</span></p>
+<p begin="00:00:34.649" end="00:00:41.430" style="s2">fall for viruses<span style="s3"> it</span> didn&#39;t go through<span style="s3"> so</span></p>
+<p begin="00:00:38.070" end="00:00:44.879" style="s2">we started to hire you<span style="s4"> know</span> young</p>
+<p begin="00:00:41.430" end="00:00:49.530" style="s2"><span style="s4">graduate</span> school students started from</p>
+<p begin="00:00:44.879" end="00:00:53.210" style="s2">initial capital of 200,000 USD<span style="s4"> never</span></p>
+<p begin="00:00:49.530" end="00:00:57.420" style="s2">raised any money from<span style="s4"> any</span> VC<span style="s4"> just</span> hired</p>
+<p begin="00:00:53.210" end="00:01:00.809" style="s2">young guys and went<span style="s3"> public</span><span style="s4"> in</span> 2000 and</p>
+<p begin="00:00:57.420" end="00:01:05.659" style="s2">started<span style="s3"> to</span> you<span style="s3"> know buy many companies</span></p>
+<p begin="00:01:00.809" end="00:01:08.520" style="s2"><span style="s3">now we are number one in</span><span style="s4"> ecommerce</span> about</p>
+<p begin="00:01:05.659" end="00:01:11.310" style="s2">35 to<span style="s3"> 40</span> percent<span style="s4"> market</span> share in terms</p>
+<p begin="00:01:08.520" end="00:01:14.580" style="s2">of e-commerce<span style="s4"> number one on</span><span style="s3"> my</span> travel</p>
+<p begin="00:01:11.310" end="00:01:18.780" style="s2"><span style="s4">number</span><span style="s3"> one</span> in only<span style="s4"> banking</span><span style="s3"> number</span> two in</p>
+<p begin="00:01:14.580" end="00:01:22.659" style="s2"><span style="s4">only</span> brokerage and we do about 38</p>
+<p begin="00:01:18.780" end="00:01:25.960" style="s2">different businesses<span style="s3"> in</span> Japan</p>
+<p begin="00:01:22.659" end="00:01:31.450" style="s2">and we sell to globalize our business so</p>
+<p begin="00:01:25.960" end="00:01:34.689" style="s2"><span style="s4">now</span> we are in more than 13 countries<span style="s3"> we</span></p>
+<p begin="00:01:31.450" end="00:01:38.530" style="s2">bought the<span style="s3"> second largest</span><span style="s4"> even</span> a company</p>
+<p begin="00:01:34.689" end="00:01:44.710" style="s2">called<span style="s4"> Kobo</span><span style="s3"> which</span> is<span style="s4"> extremely</span> well in</p>
+<p begin="00:01:38.530" end="00:01:47.679" style="s2"><span style="s4">Europe</span> in Canada in in Asia<span style="s3"> so</span> we are a</p>
+<p begin="00:01:44.710" end="00:01:51.310" style="s2">little<span style="s4"> bit</span> different<span style="s3"> Internet</span> company in</p>
+<p begin="00:01:47.679" end="00:01:54.100" style="s2">Japan and<span style="s4"> now trying to globalize our</span></p>
+<p begin="00:01:51.310" end="00:01:56.229" style="s2"><span style="s4">business</span> how it&#39;s starting<span style="s3"> the</span><span style="s4"> company</span></p>
+<p begin="00:01:54.100" end="00:01:59.259" style="s2">in Japan and growing a company<span style="s3"> in</span> Japan</p>
+<p begin="00:01:56.229" end="00:02:02.799" style="s2">different than Silicon Valley<span style="s4"> well</span> you</p>
+<p begin="00:01:59.259" end="00:02:05.950" style="s2">know there is no really<span style="s3"> you</span> know<span style="s4"> venture</span></p>
+<p begin="00:02:02.799" end="00:02:09.849" style="s2">capital ecosystem<span style="s3"> no no there are</span></p>
+<p begin="00:02:05.950" end="00:02:14.290" style="s2">venture capitals<span style="s3"> but</span> but not like you</p>
+<p begin="00:02:09.849" end="00:02:17.950" style="s2">know i you know ii<span style="s3"> body-type</span><span style="s4"> sort of</span></p>
+<p begin="00:02:14.290" end="00:02:21.400" style="s2"><span style="s4">food service</span><span style="s3"> pcs</span> they will invest but</p>
+<p begin="00:02:17.950" end="00:02:24.540" style="s2">not much<span style="s3"> they</span> will not get<span style="s4"> involved into</span></p>
+<p begin="00:02:21.400" end="00:02:28.269" style="s2">the management<span style="s3"> that</span> much so<span style="s3"> just</span> kind of</p>
+<p begin="00:02:24.540" end="00:02:30.760" style="s2">providing the capital<span style="s4"> so</span> how<span style="s4"> did</span> you</p>
+<p begin="00:02:28.269" end="00:02:32.049" style="s2">learn the<span style="s3"> lessons</span> that<span style="s4"> VC&#39;s</span> in<span style="s4"> Silicon</span></p>
+<p begin="00:02:30.760" end="00:02:33.549" style="s2">Valley<span style="s4"> tradition</span> traditionally help</p>
+<p begin="00:02:32.049" end="00:02:35.620" style="s2">entrepreneurs<span style="s4"> well</span> how did you<span style="s4"> learn</span> how</p>
+<p begin="00:02:33.549" end="00:02:37.150" style="s2"><span style="s3">to</span><span style="s4"> run</span> a<span style="s4"> company</span><span style="s3"> and</span> grow it<span style="s3"> I</span> don&#39;t</p>
+<p begin="00:02:35.620" end="00:02:40.120" style="s2">know how she invited<span style="s3"> me</span> she&#39;s are</p>
+<p begin="00:02:37.150" end="00:02:43.810" style="s2">helping<span style="s4"> VC</span> venture companies because I</p>
+<p begin="00:02:40.120" end="00:02:47.940" style="s2">have never experienced<span style="s4"> but the way again</span></p>
+<p begin="00:02:43.810" end="00:02:52.000" style="s2">I found it<span style="s3"> acting</span> with my own you<span style="s4"> know</span></p>
+<p begin="00:02:47.940" end="00:02:56.709" style="s2">the money<span style="s3"> initial capital was just two</span></p>
+<p begin="00:02:52.000" end="00:03:00.040" style="s2"><span style="s3">hundred</span> thousand USD<span style="s3"> but</span> since I knew</p>
+<p begin="00:02:56.709" end="00:03:03.130" style="s2">that I am NOT going to<span style="s4"> be</span> funded<span style="s3"> a</span> huge</p>
+<p begin="00:03:00.040" end="00:03:05.680" style="s2"><span style="s4">amount</span> from VC I<span style="s3"> created</span><span style="s4"> sort</span><span style="s3"> of</span> cash</p>
+<p begin="00:03:03.130" end="00:03:11.560" style="s2">flow system so<span style="s4"> that</span> I don&#39;t<span style="s4"> need to rely</span></p>
+<p begin="00:03:05.680" end="00:03:14.769" style="s2">on NBC we asked our<span style="s4"> merchants</span> to pay</p>
+<p begin="00:03:11.560" end="00:03:16.690" style="s2"><span style="s3">five hundred</span><span style="s4"> dollars</span> per<span style="s3"> month</span><span style="s4"> but</span> we</p>
+<p begin="00:03:14.769" end="00:03:19.780" style="s2">asked them<span style="s4"> to</span> pay<span style="s4"> us</span> six months<span style="s3"> up</span> front</p>
+<p begin="00:03:16.690" end="00:03:22.030" style="s2"><span style="s3">so</span> from the second months of our service</p>
+<p begin="00:03:19.780" end="00:03:23.319" style="s2">my company was<span style="s4"> cashflow</span> positive</p>
+<p begin="00:03:22.030" end="00:03:26.880" style="s2"><span style="s3">you</span> can<span style="s4"> cash</span> faster every month since</p>
+<p begin="00:03:23.319" end="00:03:26.880" style="s2"><span style="s4">yes</span> very impressive</p>
+<p begin="00:03:31.400" end="00:03:35.700" style="s2">is there any looking<span style="s4"> back</span> to<span style="s4"> that</span> first</p>
+<p begin="00:03:33.749" end="00:03:37.560" style="s2">year<span style="s3"> you know when you were sort of</span></p>
+<p begin="00:03:35.700" end="00:03:40.170" style="s2">becoming cashflow positive very quickly</p>
+<p begin="00:03:37.560" end="00:03:41.519" style="s2">and figuring this out<span style="s4"> as</span> you went<span style="s4"> are</span></p>
+<p begin="00:03:40.170" end="00:03:46.290" style="s2">there any things that<span style="s4"> stick</span> out that<span style="s4"> you</span></p>
+<p begin="00:03:41.519" end="00:03:48.930" style="s2">would do<span style="s4"> differently well so again we</span></p>
+<p begin="00:03:46.290" end="00:03:51.810" style="s2"><span style="s4">never</span> raised any money<span style="s3"> from</span> outside<span style="s3"> we</span></p>
+<p begin="00:03:48.930" end="00:03:54.359" style="s2">raised<span style="s4"> later on from friends</span><span style="s3"> and</span></p>
+<p begin="00:03:51.810" end="00:03:56.519" style="s2">families<span style="s3"> we</span> didn&#39;t need<span style="s4"> any</span> money<span style="s4"> but</span></p>
+<p begin="00:03:54.359" end="00:04:00.900" style="s2"><span style="s4">this</span> was<span style="s4"> kind</span> of just<span style="s3"> a</span> you<span style="s3"> know</span><span style="s4"> for</span> the</p>
+<p begin="00:03:56.519" end="00:04:05.280" style="s2">friendship<span style="s4"> for</span> sake<span style="s4"> which I want to</span> make</p>
+<p begin="00:04:00.900" end="00:04:06.629" style="s2">my family<span style="s4"> and</span> my<span style="s4"> friends happy but how</span></p>
+<p begin="00:04:05.280" end="00:04:08.879" style="s2">far<span style="s3"> along</span> were you when you<span style="s4"> did</span> that</p>
+<p begin="00:04:06.629" end="00:04:13.879" style="s2">friends and<span style="s4"> family</span> around<span style="s3"> no</span> that was</p>
+<p begin="00:04:08.879" end="00:04:13.879" style="s2">like six months<span style="s4"> before we go</span> public yeah</p>
+<p begin="00:04:14.359" end="00:04:21.060" style="s2">two days before<span style="s3"> we</span><span style="s4"> our</span> IPO my friend</p>
+<p begin="00:04:18.720" end="00:04:26.599" style="s2"><span style="s3">masses on Softbank</span><span style="s4"> call</span> me and<span style="s4"> ask me</span><span style="s3"> to</span></p>
+<p begin="00:04:21.060" end="00:04:31.320" style="s2">let<span style="s4"> him</span> in but<span style="s3"> I</span> said it&#39;s too late<span style="s3"> but</span></p>
+<p begin="00:04:26.599" end="00:04:33.389" style="s2">well we were<span style="s3"> very</span> patient<span style="s3"> to</span> be honest</p>
+<p begin="00:04:31.320" end="00:04:39.270" style="s2">we were very patient for the<span style="s3"> first</span> three</p>
+<p begin="00:04:33.389" end="00:04:43.650" style="s2">years<span style="s3"> and</span> try to<span style="s3"> be</span> create the you know</p>
+<p begin="00:04:39.270" end="00:04:46.370" style="s2"><span style="s3">kernel</span> of our business<span style="s4"> model</span> so we&#39;re</p>
+<p begin="00:04:43.650" end="00:04:49.409" style="s2">not<span style="s4"> trying to copy the with the model</span></p>
+<p begin="00:04:46.370" end="00:04:53.460" style="s2">amazon.com<span style="s4"> or</span> eBay<span style="s3"> we&#39;re</span> trying<span style="s4"> to</span></p>
+<p begin="00:04:49.409" end="00:04:55.440" style="s2">create<span style="s3"> a</span> great<span style="s4"> system</span><span style="s3"> to</span> support<span style="s4"> medium</span></p>
+<p begin="00:04:53.460" end="00:04:59.610" style="s2">to small<span style="s4"> size</span> merchants to sell<span style="s4"> their</span></p>
+<p begin="00:04:55.440" end="00:05:01.979" style="s2">product<span style="s4"> all</span><span style="s3"> over</span> Japan so we<span style="s3"> we</span> try<span style="s3"> to</span></p>
+<p begin="00:04:59.610" end="00:05:04.770" style="s2"><span style="s4">create</span> an<span style="s3"> extremely</span> strong culture<span style="s3"> of</span></p>
+<p begin="00:05:01.979" end="00:05:07.229" style="s2">the company<span style="s4"> because</span> I knew<span style="s3"> that</span> I&#39;m</p>
+<p begin="00:05:04.770" end="00:05:10.409" style="s2">going<span style="s4"> to</span> be in this business<span style="s4"> for a long</span></p>
+<p begin="00:05:07.229" end="00:05:13.530" style="s2">long<span style="s4"> time</span><span style="s3"> so</span> we didn&#39;t rush we were very</p>
+<p begin="00:05:10.409" end="00:05:15.150" style="s2"><span style="s4">patient did you figure out that kernel</span></p>
+<p begin="00:05:13.530" end="00:05:17.099" style="s2"><span style="s4">on</span> the first try<span style="s4"> that</span> you get<span style="s4"> right</span> the</p>
+<p begin="00:05:15.150" end="00:05:19.020" style="s2">thing that made rocket<span style="s4"> and</span> what it is</p>
+<p begin="00:05:17.099" end="00:05:21.930" style="s2">the first strategy of to iterate<span style="s4"> and</span></p>
+<p begin="00:05:19.020" end="00:05:25.440" style="s2">evolve to<span style="s3"> get</span> well<span style="s3"> one</span> thing we did</p>
+<p begin="00:05:21.930" end="00:05:27.900" style="s2">differently from most of us base</p>
+<p begin="00:05:25.440" end="00:05:30.810" style="s2">ecommerce company is we try to</p>
+<p begin="00:05:27.900" end="00:05:34.950" style="s2">facilitate the communication between the</p>
+<p begin="00:05:30.810" end="00:05:37.680" style="s2"><span style="s4">merchants</span> and consumers<span style="s3"> because</span></p>
+<p begin="00:05:34.950" end="00:05:40.320" style="s2">the way I feel is<span style="s3"> of</span> course<span style="s4"> in</span> buying</p>
+<p begin="00:05:37.680" end="00:05:43.050" style="s2"><span style="s4">products price is important</span><span style="s3"> the</span></p>
+<p begin="00:05:40.320" end="00:05:46.200" style="s2"><span style="s4">efficiency</span> is important<span style="s4"> but</span> more than</p>
+<p begin="00:05:43.050" end="00:05:49.230" style="s2"><span style="s3">that</span><span style="s4"> in my opinion the</span><span style="s3"> buy</span><span style="s4"> thing you</span></p>
+<p begin="00:05:46.200" end="00:05:53.730" style="s2">know should<span style="s3"> be</span> fun and we need to create</p>
+<p begin="00:05:49.230" end="00:05:56.510" style="s2"><span style="s4">a</span> very rich experience<span style="s3"> so</span> we try to be a</p>
+<p begin="00:05:53.730" end="00:05:57.720" style="s2">liason between the consumer and<span style="s3"> the</span></p>
+<p begin="00:05:56.510" end="00:05:59.760" style="s2">retailer</p>
+<p begin="00:05:57.720" end="00:06:02.730" style="s2">instead of you know<span style="s4"> trying</span> to compete</p>
+<p begin="00:05:59.760" end="00:06:05.250" style="s2">against the retailer<span style="s4"> using</span> the ID we</p>
+<p begin="00:06:02.730" end="00:06:07.590" style="s2">want to use our technology to<span style="s3"> help</span><span style="s4"> small</span></p>
+<p begin="00:06:05.250" end="00:06:09.480" style="s2">to<span style="s4"> medium-sized</span> enterprise<span style="s4"> do</span> business</p>
+<p begin="00:06:07.590" end="00:06:13.710" style="s2">with<span style="s4"> consumers so</span><span style="s3"> that</span> was totally</p>
+<p begin="00:06:09.480" end="00:06:18.150" style="s2">different<span style="s3"> idea</span><span style="s4"> and</span> I was 100% confident</p>
+<p begin="00:06:13.710" end="00:06:20.210" style="s2"><span style="s4">my</span> employees will really like the idea</p>
+<p begin="00:06:18.150" end="00:06:22.980" style="s2"><span style="s3">of</span><span style="s4"> helping</span> small<span style="s3"> to</span><span style="s4"> medium</span><span style="s3"> sized</span></p>
+<p begin="00:06:20.210" end="00:06:25.200" style="s2">companies rather<span style="s4"> than</span> trying to destroy</p>
+<p begin="00:06:22.980" end="00:06:26.850" style="s2">their business so I mean as you<span style="s4"> said</span></p>
+<p begin="00:06:25.200" end="00:06:28.200" style="s2"><span style="s4">this is</span><span style="s3"> very</span> different<span style="s3"> than</span><span style="s4"> anyone</span> else</p>
+<p begin="00:06:26.850" end="00:06:31.350" style="s2"><span style="s3">was</span> doing<span style="s4"> any commerce at the time</span></p>
+<p begin="00:06:28.200" end="00:06:32.310" style="s2">really still is<span style="s4"> did</span> you know<span style="s3"> that</span> that</p>
+<p begin="00:06:31.350" end="00:06:33.360" style="s2">that was<span style="s4"> going</span> to be the model<span style="s4"> you&#39;re</span></p>
+<p begin="00:06:32.310" end="00:06:35.670" style="s2"><span style="s3">going</span> to after<span style="s4"> before</span> you started the</p>
+<p begin="00:06:33.360" end="00:06:36.750" style="s2">company was that<span style="s3"> were</span> you convinced<span style="s3"> that</span></p>
+<p begin="00:06:35.670" end="00:06:40.440" style="s2">this was what you<span style="s4"> were</span> going<span style="s3"> to</span> do</p>
+<p begin="00:06:36.750" end="00:06:42.240" style="s2">differently we didn&#39;t<span style="s4"> think about how</span></p>
+<p begin="00:06:40.440" end="00:06:44.670" style="s2">we&#39;re gonna do it<span style="s4"> differently</span> but<span style="s4"> we</span></p>
+<p begin="00:06:42.240" end="00:06:46.440" style="s2">know what we wanted<span style="s4"> to</span> do<span style="s4"> I</span> always<span style="s4"> don&#39;t</span></p>
+<p begin="00:06:44.670" end="00:06:48.720" style="s2"><span style="s4">think</span><span style="s3"> about</span> our competitor that much</p>
+<p begin="00:06:46.440" end="00:06:50.430" style="s2"><span style="s4">because</span> you<span style="s3"> know</span> you cannot do too many</p>
+<p begin="00:06:48.720" end="00:06:54.540" style="s2"><span style="s4">things</span><span style="s3"> about</span><span style="s4"> that</span> right you just<span style="s4"> need to</span></p>
+<p begin="00:06:50.430" end="00:06:56.910" style="s2"><span style="s3">focus</span> on what you do to<span style="s4"> improve</span> your you</p>
+<p begin="00:06:54.540" end="00:06:58.650" style="s2">know service and improve<span style="s3"> customer</span></p>
+<p begin="00:06:56.910" end="00:07:02.430" style="s2">satisfaction<span style="s3"> I</span> think that&#39;s part<span style="s4"> of</span></p>
+<p begin="00:06:58.650" end="00:07:06.030" style="s2">nature of Japanese companies<span style="s4"> keep</span></p>
+<p begin="00:07:02.430" end="00:07:07.770" style="s2">improving improving improving how did</p>
+<p begin="00:07:06.030" end="00:07:09.180" style="s2">you grow and<span style="s4"> it</span> both in<span style="s3"> the</span> early days</p>
+<p begin="00:07:07.770" end="00:07:10.230" style="s2">when<span style="s4"> you</span> were<span style="s4"> signing</span> up these small<span style="s3"> and</span></p>
+<p begin="00:07:09.180" end="00:07:11.130" style="s2">medium businesses that<span style="s4"> you wanted to</span></p>
+<p begin="00:07:10.230" end="00:07:13.430" style="s2">help<span style="s4"> and then in the later</span><span style="s3"> days</span></p>
+<p begin="00:07:11.130" end="00:07:15.510" style="s2"><span style="s3">obviously</span><span style="s4"> you</span> made a lot<span style="s3"> of</span> acquisitions</p>
+<p begin="00:07:13.430" end="00:07:17.970" style="s2"><span style="s4">to</span> help drive<span style="s3"> growth</span> could<span style="s4"> you</span> just talk</p>
+<p begin="00:07:15.510" end="00:07:19.740" style="s2"><span style="s3">about</span> how you<span style="s3"> figured out growth all</span></p>
+<p begin="00:07:17.970" end="00:07:22.080" style="s2">along the way<span style="s4"> well</span> of course we have<span style="s4"> a</span></p>
+<p begin="00:07:19.740" end="00:07:25.340" style="s2"><span style="s4">organic</span> growth and we<span style="s4"> buy</span> many<span style="s4"> companies</span></p>
+<p begin="00:07:22.080" end="00:07:29.330" style="s2">and domestically and internationally</p>
+<p begin="00:07:25.340" end="00:07:32.970" style="s2"><span style="s4">domestically we created three</span> things one</p>
+<p begin="00:07:29.330" end="00:07:36.490" style="s2"><span style="s4">great</span> brand by the way we have a</p>
+<p begin="00:07:32.970" end="00:07:40.180" style="s2">professional<span style="s3"> baseball</span> covering egos</p>
+<p begin="00:07:36.490" end="00:07:42.220" style="s2"><span style="s3">and</span> so everybody knows<span style="s3"> rockland</span> brand</p>
+<p begin="00:07:40.180" end="00:07:45.819" style="s2"><span style="s4">even</span> if you don&#39;t use<span style="s3"> Internet</span><span style="s4"> they</span> know</p>
+<p begin="00:07:42.220" end="00:07:48.099" style="s2"><span style="s3">rafting brand</span><span style="s4"> we</span> host<span style="s4"> a TV 500</span> tennis</p>
+<p begin="00:07:45.819" end="00:07:50.110" style="s2">tournament<span style="s3"> so</span> we have extremely strong</p>
+<p begin="00:07:48.099" end="00:07:55.000" style="s2">band too</p>
+<p begin="00:07:50.110" end="00:07:57.430" style="s2">we created the strongest<span style="s4"> mileage reward</span></p>
+<p begin="00:07:55.000" end="00:07:59.740" style="s2">program<span style="s3"> conducting</span> super points so we</p>
+<p begin="00:07:57.430" end="00:08:05.130" style="s2"><span style="s3">can</span> use those<span style="s4"> points</span> to cross-sell<span style="s4"> our</span></p>
+<p begin="00:07:59.740" end="00:08:07.690" style="s2">service<span style="s4"> and</span> we<span style="s3"> also</span><span style="s4"> created</span> the sort of</p>
+<p begin="00:08:05.130" end="00:08:12.340" style="s2">the consumer database<span style="s4"> to analyze</span></p>
+<p begin="00:08:07.690" end="00:08:15.430" style="s2">consumer data and now about 880<span style="s4"> million</span></p>
+<p begin="00:08:12.340" end="00:08:18.190" style="s2"><span style="s4">so</span> about<span style="s4"> 90 percent of</span> internet</p>
+<p begin="00:08:15.430" end="00:08:20.800" style="s2">populations are our member and<span style="s4"> we</span> can</p>
+<p begin="00:08:18.190" end="00:08:25.780" style="s2">use our currency<span style="s4"> our</span> points to</p>
+<p begin="00:08:20.800" end="00:08:27.789" style="s2">cross-sell virus service to them back to</p>
+<p begin="00:08:25.780" end="00:08:29.259" style="s2">the<span style="s3"> topic of acquisitions</span><span style="s4"> what</span> do you</p>
+<p begin="00:08:27.789" end="00:08:31.720" style="s2">look for when<span style="s4"> you</span> make an acquisition</p>
+<p begin="00:08:29.259" end="00:08:33.310" style="s2">and and how do<span style="s4"> you integrate the the</span></p>
+<p begin="00:08:31.720" end="00:08:35.440" style="s2">company into<span style="s4"> rocket</span><span style="s3"> 10</span> so<span style="s3"> that</span> you&#39;re</p>
+<p begin="00:08:33.310" end="00:08:37.839" style="s2">all one company together<span style="s3"> also</span> there&#39;s</p>
+<p begin="00:08:35.440" end="00:08:41.050" style="s2">two<span style="s4"> types</span> of<span style="s4"> Ephesians</span> we make one is</p>
+<p begin="00:08:37.839" end="00:08:43.570" style="s2">period<span style="s4"> geographic</span> expansion to buy a</p>
+<p begin="00:08:41.050" end="00:08:47.589" style="s2">time so<span style="s4"> we</span> bought a<span style="s3"> five</span> calm in the<span style="s4"> US</span></p>
+<p begin="00:08:43.570" end="00:08:51.070" style="s2">play calm<span style="s3"> you</span> can<span style="s4"> press</span><span style="s3"> Minister</span> in</p>
+<p begin="00:08:47.589" end="00:08:55.450" style="s2">France<span style="s4"> and</span><span style="s3"> really</span> try to use<span style="s3"> their</span></p>
+<p begin="00:08:51.070" end="00:08:58.540" style="s2">presence and brand name and the their</p>
+<p begin="00:08:55.450" end="00:09:01.630" style="s2">presence and and convert their business</p>
+<p begin="00:08:58.540" end="00:09:06.220" style="s2">model to<span style="s4"> lock</span> the model the second type</p>
+<p begin="00:09:01.630" end="00:09:10.270" style="s2">is addition to our ecosystem<span style="s3"> a</span> very</p>
+<p begin="00:09:06.220" end="00:09:12.760" style="s2">chain like<span style="s3"> cobol</span> which is not doing as</p>
+<p begin="00:09:10.270" end="00:09:14.709" style="s2">well<span style="s3"> as</span> in<span style="s4"> other</span><span style="s3"> countries</span> but they are</p>
+<p begin="00:09:12.760" end="00:09:19.480" style="s2">very<span style="s4"> strong they</span><span style="s3"> have</span> more market share</p>
+<p begin="00:09:14.709" end="00:09:23.950" style="s2"><span style="s4">and</span> in Canada<span style="s4"> and</span> in France and the in</p>
+<p begin="00:09:19.480" end="00:09:28.990" style="s2">Japan<span style="s3"> so</span> we need we knew that we need a</p>
+<p begin="00:09:23.950" end="00:09:33.190" style="s2"><span style="s4">digital</span> book service in our sort of<span style="s4"> a</span></p>
+<p begin="00:09:28.990" end="00:09:37.720" style="s2"><span style="s4">product</span> lineup so and we know<span style="s3"> that</span> we</p>
+<p begin="00:09:33.190" end="00:09:41.620" style="s2">can<span style="s4"> use</span> our membership<span style="s4"> to</span> facilitate the</p>
+<p begin="00:09:37.720" end="00:09:43.810" style="s2">growth of<span style="s3"> cocoa</span> business so<span style="s3"> so</span> there<span style="s4"> is</span></p>
+<p begin="00:09:41.620" end="00:09:46.360" style="s2">two types<span style="s4"> geographic</span> expansion</p>
+<p begin="00:09:43.810" end="00:09:48.790" style="s2">to buy a time and also addition to our</p>
+<p begin="00:09:46.360" end="00:09:50.350" style="s2">ecosystem<span style="s3"> and</span> then once you<span style="s3"> make</span> these</p>
+<p begin="00:09:48.790" end="00:09:54.720" style="s2">acquisitions<span style="s4"> how</span> do you integrate<span style="s4"> them</span></p>
+<p begin="00:09:50.350" end="00:09:58.600" style="s2">into the<span style="s4"> culture</span> of<span style="s4"> Rakatan</span> mission</p>
+<p begin="00:09:54.720" end="00:10:01.630" style="s2"><span style="s4">practice</span><span style="s3"> and</span> value so before buying a</p>
+<p begin="00:09:58.600" end="00:10:04.930" style="s2">company<span style="s4"> we</span> talk about<span style="s4"> our</span> dream and<span style="s4"> goal</span></p>
+<p begin="00:10:01.630" end="00:10:06.880" style="s2">and our culture<span style="s4"> and</span><span style="s3"> talk</span> over<span style="s4"> and</span> over</p>
+<p begin="00:10:04.930" end="00:10:09.160" style="s2"><span style="s4">and</span> over<span style="s4"> again before we</span><span style="s3"> make</span> our</p>
+<p begin="00:10:06.880" end="00:10:12.040" style="s2">questions<span style="s4"> if</span> they don&#39;t like our culture</p>
+<p begin="00:10:09.160" end="00:10:13.570" style="s2"><span style="s3">or</span> our<span style="s4"> practice</span><span style="s3"> or</span> mission<span style="s4"> we are not</span></p>
+<p begin="00:10:12.040" end="00:10:15.580" style="s2"><span style="s4">we&#39;re</span> going<span style="s3"> to</span><span style="s4"> buy</span> even if<span style="s4"> you</span> like that</p>
+<p begin="00:10:13.570" end="00:10:18.220" style="s2">service<span style="s4"> because</span> it&#39;s it doesn&#39;t<span style="s4"> make</span></p>
+<p begin="00:10:15.580" end="00:10:21.040" style="s2">sense to lose the you know founders and</p>
+<p begin="00:10:18.220" end="00:10:24.400" style="s2"><span style="s4">and</span> management of<span style="s4"> your company so</span> we we</p>
+<p begin="00:10:21.040" end="00:10:24.700" style="s2"><span style="s3">talked</span> over<span style="s4"> before</span> the closure of the</p>
+<p begin="00:10:24.400" end="00:10:26.650" style="s2">deal</p>
+<p begin="00:10:24.700" end="00:10:28.750" style="s2">we<span style="s3"> talked</span> a lot<span style="s4"> about</span> those<span style="s3"> kind</span> of</p>
+<p begin="00:10:26.650" end="00:10:30.130" style="s2">things<span style="s3"> and</span> what&#39;s your success rate for</p>
+<p begin="00:10:28.750" end="00:10:34.839" style="s2">acquisitions in<span style="s4"> terms</span> of good</p>
+<p begin="00:10:30.130" end="00:10:38.080" style="s2">integration<span style="s3"> on</span> those<span style="s4"> points Oh difficult</span></p>
+<p begin="00:10:34.839" end="00:10:41.830" style="s2">question<span style="s3"> I</span> don&#39;t<span style="s3"> know</span> but they&#39;re still</p>
+<p begin="00:10:38.080" end="00:10:46.230" style="s2">on<span style="s4"> their</span> work<span style="s4"> one</span> you know only one</p>
+<p begin="00:10:41.830" end="00:10:48.940" style="s2">failure<span style="s4"> we</span> made was we<span style="s4"> went</span> into China</p>
+<p begin="00:10:46.230" end="00:10:51.430" style="s2"><span style="s4">partnering</span> with Baidu which is largest</p>
+<p begin="00:10:48.940" end="00:10:53.710" style="s2">search engine company<span style="s4"> in</span> China<span style="s3"> but</span> it</p>
+<p begin="00:10:51.430" end="00:10:55.720" style="s2">didn&#39;t<span style="s3"> work</span> out well<span style="s4"> so</span><span style="s3"> we</span><span style="s4"> all</span> we</p>
+<p begin="00:10:53.710" end="00:10:57.820" style="s2">discussed with them and<span style="s3"> agree that</span><span style="s4"> we</span></p>
+<p begin="00:10:55.720" end="00:11:00.520" style="s2">should shut the business down and we</p>
+<p begin="00:10:57.820" end="00:11:06.850" style="s2">withdrew from China<span style="s4"> yet</span> year ago so</p>
+<p begin="00:11:00.520" end="00:11:08.380" style="s2"><span style="s4">that&#39;s</span> is the<span style="s4"> only</span> you know the<span style="s4"> big</span></p>
+<p begin="00:11:06.850" end="00:11:13.120" style="s2">failure</p>
+<p begin="00:11:08.380" end="00:11:14.589" style="s2">I<span style="s4"> recognize</span> at this moment<span style="s3"> even</span> more</p>
+<p begin="00:11:13.120" end="00:11:16.480" style="s2">than the sort of<span style="s3"> the tree culture</span> I&#39;ll</p>
+<p begin="00:11:14.589" end="00:11:18.190" style="s2">use<span style="s4"> you&#39;ve</span> talked<span style="s3"> about</span> you know one</p>
+<p begin="00:11:16.480" end="00:11:19.390" style="s2">thing<span style="s4"> that</span> I just<span style="s3"> heard</span><span style="s4"> again</span> and<span style="s3"> again</span></p>
+<p begin="00:11:18.190" end="00:11:21.160" style="s2">is<span style="s3"> that</span> Rakatan is known for having</p>
+<p begin="00:11:19.390" end="00:11:23.410" style="s2"><span style="s4">having</span> a great culture could<span style="s4"> you</span> talk</p>
+<p begin="00:11:21.160" end="00:11:25.180" style="s2">about<span style="s4"> how</span> you&#39;ve held that culture all</p>
+<p begin="00:11:23.410" end="00:11:27.820" style="s2"><span style="s4">the</span> way through for the<span style="s3"> last</span> 15 years<span style="s4"> as</span></p>
+<p begin="00:11:25.180" end="00:11:29.110" style="s2">you said<span style="s4"> how</span> do you<span style="s3"> think about</span><span style="s4"> the</span></p>
+<p begin="00:11:27.820" end="00:11:33.100" style="s2">culture<span style="s4"> the</span> company needs to<span style="s3"> be</span><span style="s4"> to</span> be</p>
+<p begin="00:11:29.110" end="00:11:36.700" style="s2"><span style="s4">success</span> to<span style="s4"> have</span> to be<span style="s4"> successful so in</span></p>
+<p begin="00:11:33.100" end="00:11:40.209" style="s2">my opinion you<span style="s3"> need</span> have two things one</p>
+<p begin="00:11:36.700" end="00:11:43.330" style="s2">is of course<span style="s4"> innovation and the</span> second</p>
+<p begin="00:11:40.209" end="00:11:46.000" style="s2">part<span style="s4"> is</span> operation and the innovation is</p>
+<p begin="00:11:43.330" end="00:11:48.520" style="s2">kind of not<span style="s4"> so</span><span style="s3"> difficult</span><span style="s4"> to</span> encourage</p>
+<p begin="00:11:46.000" end="00:11:50.260" style="s2">people to be innovative<span style="s3"> but</span> at the same</p>
+<p begin="00:11:48.520" end="00:11:51.460" style="s2">time if you want<span style="s3"> to</span> scale your<span style="s3"> business</span></p>
+<p begin="00:11:50.260" end="00:11:54.970" style="s2">you need<span style="s3"> to</span><span style="s4"> have</span> a</p>
+<p begin="00:11:51.460" end="00:11:57.370" style="s2">strong operation culture as<span style="s4"> well and you</span></p>
+<p begin="00:11:54.970" end="00:12:00.430" style="s2">wanted to<span style="s4"> achieve</span> strong operation</p>
+<p begin="00:11:57.370" end="00:12:06.190" style="s2">culture<span style="s4"> you</span> need<span style="s4"> to</span> have sort<span style="s4"> of</span> you</p>
+<p begin="00:12:00.430" end="00:12:09.850" style="s2">know<span style="s4"> the</span> shared practices and the you</p>
+<p begin="00:12:06.190" end="00:12:13.600" style="s2">know it&#39;s kind of<span style="s4"> a</span> the framework for</p>
+<p begin="00:12:09.850" end="00:12:16.450" style="s2">managing the company<span style="s4"> probably</span> mainly</p>
+<p begin="00:12:13.600" end="00:12:20.230" style="s2"><span style="s4">using</span> more numbers and<span style="s4"> KPIs</span><span style="s3"> but</span> most</p>
+<p begin="00:12:16.450" end="00:12:21.850" style="s2"><span style="s3">likely</span> the entrepreneurs<span style="s4"> don&#39;t</span> like you</p>
+<p begin="00:12:20.230" end="00:12:24.820" style="s2">know just<span style="s4"> running in the numbers but</span><span style="s3"> I</span></p>
+<p begin="00:12:21.850" end="00:12:28.390" style="s2">think<span style="s4"> you</span> know being you know</p>
+<p begin="00:12:24.820" end="00:12:32.410" style="s2">quantitative<span style="s4"> analytical qualitative is</span></p>
+<p begin="00:12:28.390" end="00:12:34.420" style="s2">also very important<span style="s3"> so</span> recently you</p>
+<p begin="00:12:32.410" end="00:12:36.399" style="s2">invested<span style="s4"> in</span> Pinterest<span style="s4"> could</span> you<span style="s4"> talk</span> a</p>
+<p begin="00:12:34.420" end="00:12:38.230" style="s2">little<span style="s4"> bit</span><span style="s3"> about</span> how that<span style="s4"> came</span> together</p>
+<p begin="00:12:36.399" end="00:12:40.000" style="s2">and<span style="s3"> and</span> what<span style="s4"> you</span> see in Pinterest and</p>
+<p begin="00:12:38.230" end="00:12:42.850" style="s2">how you hope the relationship is going</p>
+<p begin="00:12:40.000" end="00:12:44.860" style="s2"><span style="s4">to</span> evolve<span style="s4"> well</span> I think Pinterest<span style="s4"> of</span></p>
+<p begin="00:12:42.850" end="00:12:47.680" style="s2">course<span style="s3"> been</span> spoke<span style="s3"> I just had a phone</span></p>
+<p begin="00:12:44.860" end="00:12:51.970" style="s2">call<span style="s4"> with</span> him and I think<span style="s4"> he</span> was<span style="s3"> great</span></p>
+<p begin="00:12:47.680" end="00:12:53.470" style="s2">he&#39;s great we like the company and I</p>
+<p begin="00:12:51.970" end="00:12:57.850" style="s2">think<span style="s4"> Pinterest</span> is very different from</p>
+<p begin="00:12:53.470" end="00:13:01.150" style="s2">other social<span style="s4"> networks</span> it&#39;s very you know</p>
+<p begin="00:12:57.850" end="00:13:03.790" style="s2">graphical and appeals<span style="s3"> to</span> the heart<span style="s4"> of</span></p>
+<p begin="00:13:01.150" end="00:13:07.209" style="s2"><span style="s4">your</span> interest<span style="s3"> and</span> it has a strong</p>
+<p begin="00:13:03.790" end="00:13:09.730" style="s2"><span style="s4">influence</span><span style="s3"> over</span> to buying<span style="s3"> behavior</span> and</p>
+<p begin="00:13:07.209" end="00:13:10.630" style="s2">buying decisions of the people so as an</p>
+<p begin="00:13:09.730" end="00:13:12.459" style="s2">e-commerce company</p>
+<p begin="00:13:10.630" end="00:13:14.709" style="s2">I think the Pinterest is the best<span style="s3"> social</span></p>
+<p begin="00:13:12.459" end="00:13:17.800" style="s2">network<span style="s4"> so</span> we<span style="s3"> found</span> Pinterest and I had</p>
+<p begin="00:13:14.709" end="00:13:19.620" style="s2">a<span style="s4"> meeting</span> with Ben<span style="s3"> had</span> a drink<span style="s4"> and</span> Cara</p>
+<p begin="00:13:17.800" end="00:13:28.500" style="s2"><span style="s4">okay and</span></p>
+<p begin="00:13:19.620" end="00:13:32.670" style="s2">and he<span style="s4"> liked me</span><span style="s3"> he</span> led us<span style="s4"> in whatever</span><span style="s3"> I</span></p>
+<p begin="00:13:28.500" end="00:13:35.220" style="s2">think<span style="s4"> maybe</span><span style="s3"> has been but he he saw</span> I</p>
+<p begin="00:13:32.670" end="00:13:39.480" style="s2">think<span style="s4"> he had seen something different in</span></p>
+<p begin="00:13:35.220" end="00:13:42.410" style="s2">us<span style="s4"> you</span> know<span style="s4"> compared with other US based</span></p>
+<p begin="00:13:39.480" end="00:13:44.940" style="s2">internet companies or VCS<span style="s4"> I</span> will ask him</p>
+<p begin="00:13:42.410" end="00:13:47.550" style="s2"><span style="s3">what</span> do you see is the big challenges</p>
+<p begin="00:13:44.940" end="00:13:49.860" style="s2">and the opportunities in retail and</p>
+<p begin="00:13:47.550" end="00:13:53.190" style="s2"><span style="s3">e-commerce</span><span style="s4"> coming</span> down<span style="s4"> over</span> the<span style="s4"> next</span> few</p>
+<p begin="00:13:49.860" end="00:13:57.000" style="s2">years<span style="s3"> of</span> course<span style="s4"> you</span> know I<span style="s3"> think</span> this<span style="s4"> is</span></p>
+<p begin="00:13:53.190" end="00:13:58.800" style="s2">the<span style="s4"> stage</span> stage one for e-commerce<span style="s4"> now</span></p>
+<p begin="00:13:57.000" end="00:14:02.160" style="s2">we are seeing a lot<span style="s3"> of</span> these content</p>
+<p begin="00:13:58.800" end="00:14:05.180" style="s2">sales<span style="s4"> so</span> the books CDs DVDs<span style="s4"> games</span></p>
+<p begin="00:14:02.160" end="00:14:08.070" style="s2"><span style="s4">everything</span> will be digital<span style="s3"> and</span> online</p>
+<p begin="00:14:05.180" end="00:14:10.890" style="s2"><span style="s4">definitely the logistics will become</span></p>
+<p begin="00:14:08.070" end="00:14:14.480" style="s2">more<span style="s4"> and</span> more important and there are</p>
+<p begin="00:14:10.890" end="00:14:19.370" style="s2"><span style="s3">lots</span> of innovative<span style="s4"> logistics</span> companies</p>
+<p begin="00:14:14.480" end="00:14:24.540" style="s2">using you know robots<span style="s4"> and</span> automation<span style="s3"> to</span></p>
+<p begin="00:14:19.370" end="00:14:27.420" style="s2"><span style="s4">you</span> know we improve the efficiency<span style="s4"> and</span></p>
+<p begin="00:14:24.540" end="00:14:31.290" style="s2">also<span style="s4"> the</span> devices the mobile phones</p>
+<p begin="00:14:27.420" end="00:14:34.110" style="s2">smartphones<span style="s3"> the</span> tablet will become the</p>
+<p begin="00:14:31.290" end="00:14:37.710" style="s2">major device to divide products and</p>
+<p begin="00:14:34.110" end="00:14:42.150" style="s2">maybe there will be a certain<span style="s4"> social I</span></p>
+<p begin="00:14:37.710" end="00:14:45.810" style="s2">think the social<span style="s4"> shopping is still</span></p>
+<p begin="00:14:42.150" end="00:14:49.080" style="s2">nobody<span style="s4"> we</span> find<span style="s4"> the</span> strong answer to it</p>
+<p begin="00:14:45.810" end="00:14:50.640" style="s2">but<span style="s3"> I</span> think individually will come for</p>
+<p begin="00:14:49.080" end="00:14:52.380" style="s2">for social shopping<span style="s4"> or</span> anything else<span style="s4"> are</span></p>
+<p begin="00:14:50.640" end="00:14:54.270" style="s2"><span style="s3">the other</span><span style="s4"> major</span> ways you identified the</p>
+<p begin="00:14:52.380" end="00:14:56.100" style="s2">Japanese consumers behave differently</p>
+<p begin="00:14:54.270" end="00:14:56.550" style="s2">than consumers anywhere<span style="s4"> else</span> in the</p>
+<p begin="00:14:56.100" end="00:15:00.840" style="s2">world</p>
+<p begin="00:14:56.550" end="00:15:04.890" style="s2">well<span style="s3"> Lockton</span> is what I call very shop</p>
+<p begin="00:15:00.840" end="00:15:09.120" style="s2">centric<span style="s3"> marketplace</span> meaning<span style="s3"> that</span><span style="s4"> there</span></p>
+<p begin="00:15:04.890" end="00:15:11.850" style="s2">every shop<span style="s3"> have a very</span><span style="s4"> different you</span></p>
+<p begin="00:15:09.120" end="00:15:15.570" style="s2">know characters<span style="s4"> and</span> also the design<span style="s4"> and</span></p>
+<p begin="00:15:11.850" end="00:15:18.960" style="s2">the user<span style="s4"> experience and we provided</span><span style="s3"> all</span></p>
+<p begin="00:15:15.570" end="00:15:23.350" style="s2">sorts of tools for them to make fans</p>
+<p begin="00:15:18.960" end="00:15:26.740" style="s2"><span style="s3">around</span><span style="s4"> shop so I think wrapping</span></p>
+<p begin="00:15:23.350" end="00:15:29.350" style="s2">was very social from the day one<span style="s3"> we</span> try</p>
+<p begin="00:15:26.740" end="00:15:32.920" style="s2"><span style="s4">to</span> create a fans around shops not<span style="s4"> around</span></p>
+<p begin="00:15:29.350" end="00:15:35.050" style="s2"><span style="s4">Rockland</span><span style="s3"> OCAP</span> but<span style="s4"> the</span> fans around<span style="s4"> shops</span></p>
+<p begin="00:15:32.920" end="00:15:37.420" style="s2"><span style="s4">and</span> all these shops<span style="s4"> has</span> what<span style="s4"> you</span> know</p>
+<p begin="00:15:35.050" end="00:15:40.120" style="s2">professional staff and they<span style="s4"> are</span> the sort</p>
+<p begin="00:15:37.420" end="00:15:42.460" style="s2">of curator of the wines or sports<span style="s4"> in</span></p>
+<p begin="00:15:40.120" end="00:15:46.000" style="s2">goods or you know groceries and so forth</p>
+<p begin="00:15:42.460" end="00:15:47.500" style="s2">so I think my question<span style="s3"> is</span> so<span style="s3"> if</span> you want</p>
+<p begin="00:15:46.000" end="00:15:50.290" style="s2"><span style="s3">to</span> buy some product do you want to ask</p>
+<p begin="00:15:47.500" end="00:15:53.470" style="s2">your friend<span style="s4"> or</span> do you want to ask the</p>
+<p begin="00:15:50.290" end="00:15:57.310" style="s2">staff at Pro Shop<span style="s3"> and</span> my of<span style="s3"> course</span></p>
+<p begin="00:15:53.470" end="00:15:59.740" style="s2">sometimes your friend is can give you</p>
+<p begin="00:15:57.310" end="00:16:03.610" style="s2"><span style="s4">better</span> advice than this<span style="s4"> staff</span> at the<span style="s4"> Pro</span></p>
+<p begin="00:15:59.740" end="00:16:07.030" style="s2"><span style="s4">Shop but most time you</span> know<span style="s4"> I</span> think you</p>
+<p begin="00:16:03.610" end="00:16:10.360" style="s2">know we<span style="s4"> usually</span> ask professionals<span style="s3"> so</span></p>
+<p begin="00:16:07.030" end="00:16:12.970" style="s2">that<span style="s3"> was</span> our approach<span style="s4"> and</span> I<span style="s4"> think</span> it</p>
+<p begin="00:16:10.360" end="00:16:15.070" style="s2"><span style="s3">worked</span><span style="s4"> extremely</span> well in Japan<span style="s4"> and now</span></p>
+<p begin="00:16:12.970" end="00:16:16.750" style="s2">we&#39;re<span style="s3"> testing</span><span style="s4"> in</span> other countries<span style="s4"> and</span> I</p>
+<p begin="00:16:15.070" end="00:16:20.320" style="s2"><span style="s4">think</span> it&#39;s it&#39;s working<span style="s3"> very well as</span></p>
+<p begin="00:16:16.750" end="00:16:21.610" style="s2">well and can you talk you talked a</p>
+<p begin="00:16:20.320" end="00:16:24.700" style="s2">little bit about mobile<span style="s4"> and</span> tablets but</p>
+<p begin="00:16:21.610" end="00:16:26.470" style="s2"><span style="s4">obviously</span> in Japan that&#39;s become a huge</p>
+<p begin="00:16:24.700" end="00:16:28.000" style="s2">way that people<span style="s4"> are</span> not in you<span style="s3"> know</span></p>
+<p begin="00:16:26.470" end="00:16:29.170" style="s2">probably even<span style="s4"> bigger</span> than here where<span style="s3"> it</span></p>
+<p begin="00:16:28.000" end="00:16:31.210" style="s2">seems<span style="s4"> like our own right on the phone</span></p>
+<p begin="00:16:29.170" end="00:16:32.320" style="s2">all the time<span style="s4"> how</span> much are you<span style="s3"> thinking</span></p>
+<p begin="00:16:31.210" end="00:16:33.700" style="s2">about<span style="s4"> mobile and how are you</span><span style="s3"> thinking</span></p>
+<p begin="00:16:32.320" end="00:16:34.540" style="s2">about<span style="s4"> mobile is sort of the</span><span style="s3"> future of</span></p>
+<p begin="00:16:33.700" end="00:16:37.570" style="s2">the company</p>
+<p begin="00:16:34.540" end="00:16:40.330" style="s2">well already<span style="s3"> 25%</span> of rocked<span style="s4"> and</span></p>
+<p begin="00:16:37.570" end="00:16:42.190" style="s2"><span style="s4">transaction</span> which is big<span style="s3"> we</span> do about<span style="s4"> 15</span></p>
+<p begin="00:16:40.330" end="00:16:44.170" style="s2">billion USD or</p>
+<p begin="00:16:42.190" end="00:16:46.900" style="s2">even more this year<span style="s4"> just</span> for<span style="s4"> pure</span></p>
+<p begin="00:16:44.170" end="00:16:51.150" style="s2"><span style="s4">e-commerce in Japan and already</span><span style="s3"> 25</span></p>
+<p begin="00:16:46.900" end="00:16:53.920" style="s2"><span style="s4">percent</span> of transaction is coming from</p>
+<p begin="00:16:51.150" end="00:16:57.250" style="s2">mobile<span style="s4"> devices</span><span style="s3"> including</span> feature<span style="s3"> phone</span></p>
+<p begin="00:16:53.920" end="00:17:01.390" style="s2"><span style="s3">smart phone</span><span style="s4"> maybe a</span><span style="s3"> 60% for</span><span style="s4"> smartphone</span></p>
+<p begin="00:16:57.250" end="00:17:04.840" style="s2">and<span style="s4"> 40% a future phone</span><span style="s3"> and</span> smartphone</p>
+<p begin="00:17:01.390" end="00:17:08.200" style="s2">transaction is growing<span style="s4"> about</span> 300 to 400</p>
+<p begin="00:17:04.840" end="00:17:11.250" style="s2">percent year-on-year<span style="s4"> so</span> it will be more</p>
+<p begin="00:17:08.200" end="00:17:15.820" style="s2"><span style="s3">than</span><span style="s4"> 50</span><span style="s3"> percent</span> within a couple<span style="s4"> of years</span></p>
+<p begin="00:17:11.250" end="00:17:17.140" style="s2"><span style="s3">it&#39;s</span> huge we that<span style="s4"> is</span> HUGE you said</p>
+<p begin="00:17:15.820" end="00:17:18.370" style="s2">something earlier that<span style="s4"> was</span> so</p>
+<p begin="00:17:17.140" end="00:17:20.770" style="s2"><span style="s4">interesting</span> to<span style="s4"> me I made a note</span><span style="s3"> to</span> go</p>
+<p begin="00:17:18.370" end="00:17:21.640" style="s2">back to it which is<span style="s3"> that</span> you did you</p>
+<p begin="00:17:20.770" end="00:17:24.400" style="s2">don&#39;t think a lot<span style="s3"> about</span> competition</p>
+<p begin="00:17:21.640" end="00:17:27.340" style="s2"><span style="s4">because</span> you can&#39;t do much about that<span style="s3"> one</span></p>
+<p begin="00:17:24.400" end="00:17:29.920" style="s2">thing that<span style="s3"> I</span> start ups all the time is</p>
+<p begin="00:17:27.340" end="00:17:31.540" style="s2">fear<span style="s4"> about</span><span style="s3"> competition</span> so when you were</p>
+<p begin="00:17:29.920" end="00:17:34.000" style="s2">starting<span style="s3"> the</span><span style="s4"> company</span> and Amazon and<span style="s3"> eBay</span></p>
+<p begin="00:17:31.540" end="00:17:35.140" style="s2">were were huge was that a<span style="s4"> problem</span> for</p>
+<p begin="00:17:34.000" end="00:17:35.700" style="s2">you do people<span style="s3"> ask</span><span style="s4"> you</span> what are<span style="s4"> you</span> gonna</p>
+<p begin="00:17:35.140" end="00:17:38.789" style="s2"><span style="s4">do</span> about</p>
+<p begin="00:17:35.700" end="00:17:39.929" style="s2">on<span style="s3"> ebay you know</span> how are you<span style="s3"> gonna</span><span style="s4"> beat</span></p>
+<p begin="00:17:38.789" end="00:17:42.600" style="s2">them how you can compete with<span style="s4"> them</span> and</p>
+<p begin="00:17:39.929" end="00:17:44.309" style="s2">how did you think<span style="s3"> about</span> sort of<span style="s3"> how</span> did</p>
+<p begin="00:17:42.600" end="00:17:47.340" style="s2">you stay focused on doing<span style="s3"> your</span> own thing</p>
+<p begin="00:17:44.309" end="00:17:50.730" style="s2"><span style="s4">and</span> ignoring competition well let me put</p>
+<p begin="00:17:47.340" end="00:17:53.940" style="s2"><span style="s3">it</span> I<span style="s4"> learn</span> from competitors<span style="s4"> but I&#39;m not</span></p>
+<p begin="00:17:50.730" end="00:17:56.399" style="s2">afraid of competitors<span style="s4"> because</span> even if</p>
+<p begin="00:17:53.940" end="00:17:56.909" style="s2">you&#39;re<span style="s4"> afraid</span> of<span style="s4"> it</span> doesn&#39;t<span style="s4"> be</span> any<span style="s4"> good</span></p>
+<p begin="00:17:56.399" end="00:17:59.850" style="s2"><span style="s3">for</span> you</p>
+<p begin="00:17:56.909" end="00:18:04.700" style="s2">so I learned what they&#39;re doing and then</p>
+<p begin="00:17:59.850" end="00:18:09.389" style="s2">maybe you know<span style="s3"> try</span><span style="s4"> to</span> match<span style="s4"> if</span> I have to</p>
+<p begin="00:18:04.700" end="00:18:11.490" style="s2"><span style="s4">but</span> I think<span style="s3"> the</span><span style="s4"> the</span><span style="s3"> way</span> we<span style="s4"> approach if</span></p>
+<p begin="00:18:09.389" end="00:18:14.159" style="s2"><span style="s3">commerce</span> is totally different from</p>
+<p begin="00:18:11.490" end="00:18:17.039" style="s2">amazon.com<span style="s3"> because</span> again we are<span style="s4"> trying</span></p>
+<p begin="00:18:14.159" end="00:18:18.929" style="s2"><span style="s3">to</span> facilitate the transaction<span style="s4"> with</span></p>
+<p begin="00:18:17.039" end="00:18:22.970" style="s2">medium to<span style="s4"> small</span> merchants to the larger</p>
+<p begin="00:18:18.929" end="00:18:28.169" style="s2">ones to the consumers as a consequence</p>
+<p begin="00:18:22.970" end="00:18:31.169" style="s2"><span style="s3">you know</span><span style="s4"> we</span> have big brands almost all</p>
+<p begin="00:18:28.169" end="00:18:35.130" style="s2">department stores<span style="s4"> big</span> a big fashion</p>
+<p begin="00:18:31.169" end="00:18:37.769" style="s2">brands almost entire a photonic</p>
+<p begin="00:18:35.130" end="00:18:40.169" style="s2">companies are using<span style="s3"> a platform but that</span></p>
+<p begin="00:18:37.769" end="00:18:43.710" style="s2">and that&#39;s major portion of<span style="s4"> our</span> business</p>
+<p begin="00:18:40.169" end="00:18:45.870" style="s2"><span style="s3">but</span> approaches to how to help small to</p>
+<p begin="00:18:43.710" end="00:18:51.299" style="s2"><span style="s3">medium-sized</span> merchants to do<span style="s3"> business</span></p>
+<p begin="00:18:45.870" end="00:18:53.460" style="s2"><span style="s3">with</span> the<span style="s4"> consumers</span> so but<span style="s4"> let&#39;s</span><span style="s3"> see</span> I</p>
+<p begin="00:18:51.299" end="00:18:56.580" style="s2">think we have a<span style="s3"> philosophical</span> difference</p>
+<p begin="00:18:53.460" end="00:18:59.070" style="s2"><span style="s4">between ourselves and amazon.com</span><span style="s3"> so</span> I&#39;m</p>
+<p begin="00:18:56.580" end="00:19:02.809" style="s2"><span style="s4">not</span><span style="s3"> very</span> afraid of<span style="s4"> them</span> but we I&#39;m</p>
+<p begin="00:18:59.070" end="00:19:06.230" style="s2">always thinking<span style="s4"> about how we can scale</span></p>
+<p begin="00:19:02.809" end="00:19:06.230" style="s2">our<span style="s3"> business</span></p>
+<p begin="00:19:06.970" end="00:19:11.260" style="s2">how would<span style="s4"> you</span> know<span style="s4"> a</span> time by the<span style="s4"> way</span></p>
+<p begin="00:19:09.030" end="00:19:12.940" style="s2"><span style="s4">five</span></p>
+<p begin="00:19:11.260" end="00:19:14.590" style="s2">let&#39;s see what&#39;s most<span style="s3"> interesting</span> here</p>
+<p begin="00:19:12.940" end="00:19:16.840" style="s2"><span style="s4">we</span> were talking<span style="s3"> a</span><span style="s4"> little</span> bit backstage</p>
+<p begin="00:19:14.590" end="00:19:19.300" style="s2"><span style="s3">about</span> just<span style="s4"> sort</span> of Japanese<span style="s4"> culture</span><span style="s3"> and</span></p>
+<p begin="00:19:16.840" end="00:19:20.170" style="s2"><span style="s4">the</span> differences between starting a</p>
+<p begin="00:19:19.300" end="00:19:21.870" style="s2"><span style="s3">startup</span><span style="s4"> here</span> and we talked<span style="s3"> about</span></p>
+<p begin="00:19:20.170" end="00:19:25.020" style="s2">investing<span style="s3"> could</span> you<span style="s4"> talk</span> about<span style="s4"> hiring</span></p>
+<p begin="00:19:21.870" end="00:19:27.400" style="s2"><span style="s4">and</span> how you hired the initial people<span style="s4"> and</span></p>
+<p begin="00:19:25.020" end="00:19:29.650" style="s2"><span style="s4">especially</span> in a<span style="s4"> culture</span> where joining a</p>
+<p begin="00:19:27.400" end="00:19:31.380" style="s2">start-up is not as cool as<span style="s3"> it</span><span style="s4"> was maybe</span></p>
+<p begin="00:19:29.650" end="00:19:36.640" style="s2">now as it is<span style="s4"> in</span> the<span style="s4"> valley</span></p>
+<p begin="00:19:31.380" end="00:19:37.990" style="s2">well now of course<span style="s4"> it&#39;s</span> different<span style="s4"> from</span></p>
+<p begin="00:19:36.640" end="00:19:42.060" style="s2"><span style="s3">fifteen</span><span style="s4"> years</span> ago<span style="s4"> when</span> I started<span style="s4"> a</span></p>
+<p begin="00:19:37.990" end="00:19:45.580" style="s2"><span style="s4">company you know nobody</span> wanted<span style="s4"> work</span> for</p>
+<p begin="00:19:42.060" end="00:19:48.250" style="s2"><span style="s4">small</span> startups<span style="s4"> but</span> now they have seen</p>
+<p begin="00:19:45.580" end="00:19:51.730" style="s2">many successes<span style="s4"> and</span> there are so<span style="s4"> many</span></p>
+<p begin="00:19:48.250" end="00:19:53.920" style="s2">young<span style="s4"> people</span> who<span style="s4"> wanna</span> work<span style="s3"> for</span> the you</p>
+<p begin="00:19:51.730" end="00:20:00.880" style="s2">know<span style="s4"> startups</span> and ventures and so forth</p>
+<p begin="00:19:53.920" end="00:20:06.070" style="s2"><span style="s3">I</span> think<span style="s4"> the</span> way I am in hiring<span style="s3"> in</span></p>
+<p begin="00:20:00.880" end="00:20:09.010" style="s2">younger people<span style="s4"> and</span> not not to hire the</p>
+<p begin="00:20:06.070" end="00:20:12.850" style="s2"><span style="s4">meet</span><span style="s3"> -</span> you know upper<span style="s3"> aged</span> people<span style="s4"> as</span></p>
+<p begin="00:20:09.010" end="00:20:15.370" style="s2">much<span style="s4"> as possible</span><span style="s3"> because</span><span style="s4"> I</span> knew that<span style="s4"> we</span></p>
+<p begin="00:20:12.850" end="00:20:17.950" style="s2">want<span style="s4"> to</span><span style="s3"> impress</span><span style="s4"> our</span> original corporate</p>
+<p begin="00:20:15.370" end="00:20:19.420" style="s2">culture so that<span style="s3"> wasn&#39;t</span> very<span style="s4"> important</span></p>
+<p begin="00:20:17.950" end="00:20:22.180" style="s2">for me<span style="s4"> to</span> hire<span style="s4"> younger</span> people<span style="s4"> and</span></p>
+<p begin="00:20:19.420" end="00:20:24.130" style="s2">educate them<span style="s4"> especially</span> nowadays after</p>
+<p begin="00:20:22.180" end="00:20:27.960" style="s2"><span style="s3">we</span><span style="s4"> went</span> public we started to hire many</p>
+<p begin="00:20:24.130" end="00:20:30.460" style="s2"><span style="s4">more</span> we got<span style="s3"> great</span> great hair people<span style="s4"> and</span></p>
+<p begin="00:20:27.960" end="00:20:35.320" style="s2">you know we because we need<span style="s3"> that we have</span></p>
+<p begin="00:20:30.460" end="00:20:37.870" style="s2"><span style="s3">more</span> professional<span style="s4"> expertise</span> and two and</p>
+<p begin="00:20:35.320" end="00:20:40.000" style="s2">a half years ago we announced that<span style="s4"> we</span></p>
+<p begin="00:20:37.870" end="00:20:42.190" style="s2">are<span style="s3"> going to convert</span> internal</p>
+<p begin="00:20:40.000" end="00:20:45.340" style="s2">communication language<span style="s4"> from</span> Japanese<span style="s3"> to</span></p>
+<p begin="00:20:42.190" end="00:20:48.580" style="s2">English<span style="s4"> and this was a big splash in the</span></p>
+<p begin="00:20:45.340" end="00:20:51.640" style="s2">Japanese society<span style="s4"> and</span> some CEOs<span style="s3"> you</span> know</p>
+<p begin="00:20:48.580" end="00:20:56.790" style="s2">you know explicitly<span style="s3"> announce</span><span style="s4"> that</span> we<span style="s4"> are</span></p>
+<p begin="00:20:51.640" end="00:21:01.360" style="s2">crazy company as well<span style="s4"> as</span> we<span style="s4"> are</span> but now</p>
+<p begin="00:20:56.790" end="00:21:04.570" style="s2"><span style="s4">70% of new engineers</span><span style="s3"> joining Sarno</span><span style="s4"> in</span></p>
+<p begin="00:21:01.360" end="00:21:07.240" style="s2">Japanese<span style="s3"> 30%</span> of new employees<span style="s4"> are</span><span style="s3"> non</span></p>
+<p begin="00:21:04.570" end="00:21:09.700" style="s2"><span style="s4">Japanese</span> so we<span style="s3"> had to decolonize in our</span></p>
+<p begin="00:21:07.240" end="00:21:11.110" style="s2">you<span style="s4"> know</span> recruitment<span style="s4"> mark zuckerberg a</span></p>
+<p begin="00:21:09.700" end="00:21:13.420" style="s2">few years ago<span style="s4"> made</span> a comment about</p>
+<p begin="00:21:11.110" end="00:21:14.860" style="s2">hiring<span style="s4"> young</span> people preferentially and</p>
+<p begin="00:21:13.420" end="00:21:16.260" style="s2">it was the all that<span style="s4"> the</span> press talked</p>
+<p begin="00:21:14.860" end="00:21:19.140" style="s2">about for two weeks so maybe you&#39;ll be</p>
+<p begin="00:21:16.260" end="00:21:22.950" style="s2">featured a lot<span style="s3"> now</span></p>
+<p begin="00:21:19.140" end="00:21:24.510" style="s2">I&#39;m talking on<span style="s3"> that why did you make</span></p>
+<p begin="00:21:22.950" end="00:21:27.150" style="s2"><span style="s4">that decision</span><span style="s3"> to make English the</span></p>
+<p begin="00:21:24.510" end="00:21:32.130" style="s2">official language of the company well<span style="s4"> so</span></p>
+<p begin="00:21:27.150" end="00:21:34.770" style="s2">the thing I have done in Japan is<span style="s4"> we</span> try</p>
+<p begin="00:21:32.130" end="00:21:37.200" style="s2">to<span style="s4"> create</span> an open culture company so we</p>
+<p begin="00:21:34.770" end="00:21:39.660" style="s2">discuss almost all<span style="s3"> information to entire</span></p>
+<p begin="00:21:37.200" end="00:21:42.210" style="s2">employees<span style="s3"> so</span> the people who is<span style="s4"> doing</span></p>
+<p begin="00:21:39.660" end="00:21:45.210" style="s2">e-commerce<span style="s4"> know</span> what&#39;s going on<span style="s3"> for our</span></p>
+<p begin="00:21:42.210" end="00:21:47.910" style="s2">banking business<span style="s4"> and</span> we<span style="s3"> cost</span> share all</p>
+<p begin="00:21:45.210" end="00:21:51.710" style="s2">these expertise and<span style="s3"> plat</span> forces as</p>
+<p begin="00:21:47.910" end="00:21:55.680" style="s2">possible you know web marketing<span style="s3"> you</span> know</p>
+<p begin="00:21:51.710" end="00:21:58.080" style="s2"><span style="s3">engineering</span><span style="s4"> and</span> so forth and so<span style="s3"> forth</span></p>
+<p begin="00:21:55.680" end="00:22:00.030" style="s2">so<span style="s4"> that</span> was our<span style="s3"> strength how</span><span style="s4"> common</span> is</p>
+<p begin="00:21:58.080" end="00:22:00.990" style="s2"><span style="s3">that</span> for Japanese companies to do<span style="s3"> to</span></p>
+<p begin="00:22:00.030" end="00:22:03.150" style="s2">share<span style="s4"> everything</span> openly</p>
+<p begin="00:22:00.990" end="00:22:05.610" style="s2">well sharing the code opening up is very</p>
+<p begin="00:22:03.150" end="00:22:10.110" style="s2"><span style="s4">common and we call</span><span style="s3"> this Yoko 10</span><span style="s4"> meaning</span></p>
+<p begin="00:22:05.610" end="00:22:13.230" style="s2"><span style="s3">a</span> horizontal particle<span style="s4"> you</span><span style="s3"> know</span><span style="s4"> transfer</span></p>
+<p begin="00:22:10.110" end="00:22:15.780" style="s2">of expertise<span style="s3"> I think that</span> is one of<span style="s3"> the</span></p>
+<p begin="00:22:13.230" end="00:22:18.330" style="s2">strengths of Japanese company because</p>
+<p begin="00:22:15.780" end="00:22:21.290" style="s2">you<span style="s3"> know</span> it&#39;s<span style="s4"> not</span> good<span style="s4"> or</span> bad<span style="s4"> it&#39;s not</span></p>
+<p begin="00:22:18.330" end="00:22:25.860" style="s2">so performance oriented<span style="s4"> devious</span> system</p>
+<p begin="00:22:21.290" end="00:22:28.740" style="s2"><span style="s4">and</span> I wanted<span style="s4"> to</span> do this<span style="s4"> globally</span> but<span style="s3"> I</span></p>
+<p begin="00:22:25.860" end="00:22:32.220" style="s2">couldn&#39;t because<span style="s4"> most</span> of the expertise</p>
+<p begin="00:22:28.740" end="00:22:35.250" style="s2">is in<span style="s3"> Japan</span> and our most of our<span style="s4"> stuff</span></p>
+<p begin="00:22:32.220" end="00:22:38.490" style="s2">cannot communicate in English<span style="s3"> so</span> you</p>
+<p begin="00:22:35.250" end="00:22:40.260" style="s2"><span style="s3">know I was kind of liason</span> between our</p>
+<p begin="00:22:38.490" end="00:22:42.210" style="s2">global business<span style="s3"> and</span> Japanese business</p>
+<p begin="00:22:40.260" end="00:22:43.850" style="s2">and I was getting<span style="s4"> really</span><span style="s3"> tired</span><span style="s4"> just you</span></p>
+<p begin="00:22:42.210" end="00:22:48.120" style="s2">know talking<span style="s4"> you</span> know<span style="s4"> and</span> being</p>
+<p begin="00:22:43.850" end="00:22:50.350" style="s2"><span style="s4">translating</span> everything<span style="s4"> and</span> so one<span style="s3"> day</span> I</p>
+<p begin="00:22:48.120" end="00:22:52.179" style="s2">woke up and</p>
+<p begin="00:22:50.350" end="00:22:56.080" style="s2">you know thought<span style="s4"> about</span> everything in</p>
+<p begin="00:22:52.179" end="00:22:58.600" style="s2">English<span style="s4"> and</span> so I stood in<span style="s4"> front</span> of</p>
+<p begin="00:22:56.080" end="00:23:01.450" style="s2">entire<span style="s3"> services</span> employees<span style="s4"> and</span> told them</p>
+<p begin="00:22:58.600" end="00:23:03.429" style="s2">I am<span style="s3"> going</span><span style="s4"> to</span> convert<span style="s3"> the</span> offshore</p>
+<p begin="00:23:01.450" end="00:23:06.340" style="s2"><span style="s4">business</span> language of<span style="s3"> rockton</span> from</p>
+<p begin="00:23:03.429" end="00:23:10.169" style="s2">Japanese to<span style="s4"> English almost the</span> reaction</p>
+<p begin="00:23:06.340" end="00:23:15.309" style="s2">in<span style="s3"> that</span> room<span style="s4"> was</span> very quiet<span style="s4"> very</span> quiet</p>
+<p begin="00:23:10.169" end="00:23:17.740" style="s2">but has totally changed<span style="s4"> the</span> TOEIC score</p>
+<p begin="00:23:15.309" end="00:23:19.690" style="s2">of our<span style="s4"> employees</span> improve almost<span style="s3"> 200</span></p>
+<p begin="00:23:17.740" end="00:23:22.570" style="s2"><span style="s4">points</span><span style="s3"> for</span> the last two<span style="s4"> years</span></p>
+<p begin="00:23:19.690" end="00:23:27.759" style="s2"><span style="s3">what score sir</span> I said I got English test</p>
+<p begin="00:23:22.570" end="00:23:30.039" style="s2">you know and most of the staff can</p>
+<p begin="00:23:27.759" end="00:23:32.649" style="s2">manage to<span style="s4"> communicate in English they</span></p>
+<p begin="00:23:30.039" end="00:23:34.179" style="s2">are not afraid<span style="s4"> of</span> you know<span style="s4"> going abroad</span></p>
+<p begin="00:23:32.649" end="00:23:37.799" style="s2">or<span style="s3"> joining</span> to<span style="s4"> the international</span></p>
+<p begin="00:23:34.179" end="00:23:41.289" style="s2"><span style="s4">conference</span><span style="s3"> now</span> we have so many people</p>
+<p begin="00:23:37.799" end="00:23:44.409" style="s2">you<span style="s4"> know in Japanese</span> foreigners in<span style="s4"> their</span></p>
+<p begin="00:23:41.289" end="00:23:48.009" style="s2"><span style="s4">Tokyo</span><span style="s3"> office</span> and now they started<span style="s4"> to</span></p>
+<p begin="00:23:44.409" end="00:23:50.049" style="s2">benchmark international<span style="s3"> failures</span> instead</p>
+<p begin="00:23:48.009" end="00:23:52.240" style="s2">of domestic players so I thought<span style="s4"> I</span></p>
+<p begin="00:23:50.049" end="00:23:55.690" style="s2">changed that&#39;s great one last question</p>
+<p begin="00:23:52.240" end="00:23:58.360" style="s2"><span style="s3">we</span> were talking backstage<span style="s4"> and</span> the last</p>
+<p begin="00:23:55.690" end="00:24:00.639" style="s2">time<span style="s3"> that</span> Paul<span style="s4"> and Miki met was 16 or 17</span></p>
+<p begin="00:23:58.360" end="00:24:03.480" style="s2"><span style="s3">years</span><span style="s4"> ago</span><span style="s3"> when Paul was</span> working<span style="s4"> on</span> dia</p>
+<p begin="00:24:00.639" end="00:24:05.679" style="s2"><span style="s4">web</span><span style="s3"> so</span> Paul loves to ask<span style="s4"> people</span> at these</p>
+<p begin="00:24:03.480" end="00:24:07.539" style="s2">what was someone so like the<span style="s3"> first</span> time</p>
+<p begin="00:24:05.679" end="00:24:11.740" style="s2"><span style="s4">you</span> met them<span style="s3"> so finally we get</span><span style="s4"> to</span> ask</p>
+<p begin="00:24:07.539" end="00:24:13.529" style="s2">what Paul Graham<span style="s3"> is</span> like so<span style="s3"> it&#39;s in</span><span style="s4"> the</span></p>
+<p begin="00:24:11.740" end="00:24:16.539" style="s2">Harvard Business School case<span style="s4"> so</span> I</p>
+<p begin="00:24:13.529" end="00:24:18.940" style="s2">initially<span style="s4"> when</span> after<span style="s4"> I</span> left my bank I</p>
+<p begin="00:24:16.539" end="00:24:20.769" style="s2">started<span style="s4"> sort</span> of a you<span style="s3"> know</span> business</p>
+<p begin="00:24:18.940" end="00:24:23.740" style="s2">consulting firm<span style="s3"> and</span> I was looking for</p>
+<p begin="00:24:20.769" end="00:24:27.820" style="s2"><span style="s3">something</span> new<span style="s3"> to</span><span style="s4"> do</span> and you know<span style="s4"> came up</span></p>
+<p begin="00:24:23.740" end="00:24:30.159" style="s2">with the internet shopping<span style="s4"> idea</span><span style="s3"> and</span> one</p>
+<p begin="00:24:27.820" end="00:24:31.840" style="s2">of my<span style="s4"> classmate</span> at Harvard Business</p>
+<p begin="00:24:30.159" end="00:24:34.210" style="s2">School<span style="s4"> call</span> me</p>
+<p begin="00:24:31.840" end="00:24:36.129" style="s2"><span style="s3">Miki</span> you need to look at<span style="s4"> this company</span></p>
+<p begin="00:24:34.210" end="00:24:38.919" style="s2"><span style="s4">it&#39;s</span><span style="s3"> called</span> file web and it&#39;s my</p>
+<p begin="00:24:36.129" end="00:24:42.340" style="s2"><span style="s3">friend&#39;s</span> company<span style="s3"> so</span> I went via<span style="s3"> web</span><span style="s4"> calm</span></p>
+<p begin="00:24:38.919" end="00:24:45.940" style="s2">and look<span style="s4"> at</span> me like<span style="s3"> that next</span><span style="s4"> day</span> I put</p>
+<p begin="00:24:42.340" end="00:24:49.480" style="s2"><span style="s3">a</span><span style="s4"> economy</span> class airplane ticket<span style="s4"> and</span> flew</p>
+<p begin="00:24:45.940" end="00:24:51.789" style="s2">over<span style="s3"> to Boston and I visited four</span> and<span style="s3"> it</span></p>
+<p begin="00:24:49.480" end="00:24:53.470" style="s2">was<span style="s3"> five people company and we kind</span><span style="s4"> of</span></p>
+<p begin="00:24:51.789" end="00:24:57.909" style="s2">agree that we&#39;re gonna do things</p>
+<p begin="00:24:53.470" end="00:24:59.670" style="s2">together<span style="s4"> but</span> the<span style="s4"> last</span> minute you know</p>
+<p begin="00:24:57.909" end="00:25:03.210" style="s2"><span style="s3">poor</span><span style="s4"> were</span> supposed to</p>
+<p begin="00:24:59.670" end="00:25:06.530" style="s2">come<span style="s4"> over</span> to Japan but at the airport he</p>
+<p begin="00:25:03.210" end="00:25:06.530" style="s2">found out<span style="s3"> his</span><span style="s4"> passport</span> is expired</p>
+<p begin="00:25:06.810" end="00:25:13.470" style="s2">that&#39;s why<span style="s3"> you</span> couldn&#39;t<span style="s4"> come and somehow</span></p>
+<p begin="00:25:10.170" end="00:25:16.770" style="s2">the deal didn&#39;t go through<span style="s4"> so</span> but I feel</p>
+<p begin="00:25:13.470" end="00:25:22.400" style="s2">that<span style="s3"> was</span> a<span style="s4"> really</span> the first moment I</p>
+<p begin="00:25:16.770" end="00:25:25.260" style="s2">fell<span style="s4"> I</span> met the the truly strong</p>
+<p begin="00:25:22.400" end="00:25:30.060" style="s2">entrepreneur and I<span style="s3"> felt</span> the excitement</p>
+<p begin="00:25:25.260" end="00:25:33.650" style="s2">and energy<span style="s3"> important</span> in his team<span style="s4"> that</span></p>
+<p begin="00:25:30.060" end="00:25:33.650" style="s2"><span style="s4">was</span> great thank<span style="s3"> you</span><span style="s4"> very</span> much thank you</p>
+</div>
+</body>
+</tt>

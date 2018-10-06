@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.060" end="00:00:04.920" style="s2">well thanks for<span style="s3"> having me guys you hear</span></p>
+<p begin="00:00:01.890" end="00:00:06.600" style="s2">me<span style="s3"> alright</span><span style="s4"> cool</span><span style="s3"> so</span><span style="s4"> I</span> wanted<span style="s4"> to</span> start<span style="s3"> by</span></p>
+<p begin="00:00:04.920" end="00:00:08.490" style="s2">just<span style="s4"> going</span> over<span style="s4"> the</span> Weebly story a</p>
+<p begin="00:00:06.600" end="00:00:10.830" style="s2">little<span style="s4"> bit telling you kind</span> of<span style="s4"> how</span> we</p>
+<p begin="00:00:08.490" end="00:00:12.559" style="s2">got<span style="s3"> to</span> where we got<span style="s3"> to</span> today<span style="s3"> and</span> some of</p>
+<p begin="00:00:10.830" end="00:00:15.330" style="s2">the<span style="s4"> lessons</span> we learned<span style="s3"> along the way</span> so</p>
+<p begin="00:00:12.559" end="00:00:16.830" style="s2">what is Weebly first of all is if some</p>
+<p begin="00:00:15.330" end="00:00:19.770" style="s2">of you guys haven&#39;t<span style="s3"> heard</span> of it</p>
+<p begin="00:00:16.830" end="00:00:21.779" style="s2">Weebly is<span style="s4"> a</span> simple and<span style="s3"> powerful</span> way to</p>
+<p begin="00:00:19.770" end="00:00:23.400" style="s2">create<span style="s3"> a</span> site<span style="s4"> people</span><span style="s3"> want</span> to create<span style="s3"> a</span></p>
+<p begin="00:00:21.779" end="00:00:25.470" style="s2">site they want to<span style="s4"> create a blog they</span></p>
+<p begin="00:00:23.400" end="00:00:27.000" style="s2">want to sell things online<span style="s4"> and</span> they just</p>
+<p begin="00:00:25.470" end="00:00:30.300" style="s2">want to<span style="s4"> work they don&#39;t</span><span style="s3"> want</span> any of<span style="s3"> the</span></p>
+<p begin="00:00:27.000" end="00:00:32.730" style="s2">frustrations around it<span style="s3"> so</span> let me<span style="s4"> show</span></p>
+<p begin="00:00:30.300" end="00:00:36.149" style="s2">you<span style="s4"> a</span> couple<span style="s4"> Weebly</span> sites the first<span style="s3"> site</span></p>
+<p begin="00:00:32.730" end="00:00:39.000" style="s2">is a photographer from Toronto</p>
+<p begin="00:00:36.149" end="00:00:41.520" style="s2"><span style="s4">showcasing</span> their photography the second</p>
+<p begin="00:00:39.000" end="00:00:43.050" style="s2">site is an interior designer<span style="s4"> from Oregon</span></p>
+<p begin="00:00:41.520" end="00:00:44.370" style="s2"><span style="s3">these</span> they&#39;ve actually been featured in</p>
+<p begin="00:00:43.050" end="00:00:46.800" style="s2">dwell magazine<span style="s4"> for</span> their interior</p>
+<p begin="00:00:44.370" end="00:00:48.930" style="s2">designs run their<span style="s3"> website</span> on Weebly the</p>
+<p begin="00:00:46.800" end="00:00:50.520" style="s2">third<span style="s4"> side</span> is<span style="s3"> a</span> graphic designer<span style="s4"> from</span></p>
+<p begin="00:00:48.930" end="00:00:51.000" style="s2"><span style="s4">California</span> can see all<span style="s4"> these</span> sites<span style="s3"> just</span></p>
+<p begin="00:00:50.520" end="00:00:54.329" style="s2">look great</p>
+<p begin="00:00:51.000" end="00:00:57.480" style="s2">and<span style="s4"> not</span> one line of HTML<span style="s3"> or</span> CSS was</p>
+<p begin="00:00:54.329" end="00:01:00.719" style="s2"><span style="s4">written for these sites</span><span style="s3"> this</span><span style="s4"> next</span> site</p>
+<p begin="00:00:57.480" end="00:01:03.149" style="s2">is pretty<span style="s4"> special</span><span style="s3"> this</span><span style="s4"> is</span><span style="s3"> Brian</span> he&#39;s 80</p>
+<p begin="00:01:00.719" end="00:01:05.549" style="s2">years<span style="s4"> old</span><span style="s3"> he</span> retired and<span style="s4"> his</span> passion is</p>
+<p begin="00:01:03.149" end="00:01:07.439" style="s2">building ukuleles<span style="s4"> and</span> he started<span style="s3"> doing</span></p>
+<p begin="00:01:05.549" end="00:01:09.630" style="s2"><span style="s4">his spare time went on Weebly</span><span style="s3"> and</span></p>
+<p begin="00:01:07.439" end="00:01:11.159" style="s2"><span style="s3">created a website what</span> do you know the</p>
+<p begin="00:01:09.630" end="00:01:12.689" style="s2">word got out and<span style="s3"> you know he could build</span></p>
+<p begin="00:01:11.159" end="00:01:15.090" style="s2"><span style="s4">a</span> couple<span style="s4"> ukuleles</span> out of a shop per</p>
+<p begin="00:01:12.689" end="00:01:18.570" style="s2">month<span style="s3"> he</span> now has<span style="s4"> a</span> three to six<span style="s4"> month</span></p>
+<p begin="00:01:15.090" end="00:01:20.130" style="s2">back order of ukuleles<span style="s3"> and</span> this last</p>
+<p begin="00:01:18.570" end="00:01:22.200" style="s2">site is really<span style="s3"> special</span> to us</p>
+<p begin="00:01:20.130" end="00:01:26.070" style="s2">you may have seen<span style="s3"> that along with not</span></p>
+<p begin="00:01:22.200" end="00:01:27.330" style="s2">initiative I think<span style="s4"> last</span> year<span style="s3"> but</span> but</p>
+<p begin="00:01:26.070" end="00:01:29.970" style="s2">this<span style="s4"> group</span> of students<span style="s4"> who</span> had</p>
+<p begin="00:01:27.330" end="00:01:32.640" style="s2">volunteered<span style="s4"> in</span> Kenya<span style="s4"> heard</span> this<span style="s4"> story</span></p>
+<p begin="00:01:29.970" end="00:01:33.689" style="s2"><span style="s4">about</span><span style="s3"> Omari</span><span style="s4"> that</span> had been<span style="s4"> brutally</span></p>
+<p begin="00:01:32.640" end="00:01:34.829" style="s2">attacked<span style="s4"> while</span> trying<span style="s4"> to</span><span style="s3"> fend</span> his</p>
+<p begin="00:01:33.689" end="00:01:36.600" style="s2"><span style="s4">orphanage</span> and they didn&#39;t<span style="s4"> even</span> have a</p>
+<p begin="00:01:34.829" end="00:01:38.130" style="s2">fence<span style="s4"> to</span> defend<span style="s3"> themselves so they</span></p>
+<p begin="00:01:36.600" end="00:01:40.680" style="s2"><span style="s4">created a Weebly website</span> about this</p>
+<p begin="00:01:38.130" end="00:01:43.619" style="s2"><span style="s4">posted</span> it to Reddit and were able<span style="s3"> to</span></p>
+<p begin="00:01:40.680" end="00:01:45.570" style="s2"><span style="s4">raise</span> over $100,000<span style="s4"> in</span> less than a week</p>
+<p begin="00:01:43.619" end="00:01:47.040" style="s2">for the orphanage and<span style="s4"> they</span> built<span style="s3"> a</span><span style="s4"> they</span></p>
+<p begin="00:01:45.570" end="00:01:47.880" style="s2">built a wall<span style="s3"> and</span> a<span style="s4"> fence</span> and<span style="s4"> much</span> more</p>
+<p begin="00:01:47.040" end="00:01:51.479" style="s2">than<span style="s3"> that</span><span style="s4"> and that&#39;s</span><span style="s3"> actually</span> now</p>
+<p begin="00:01:47.880" end="00:01:52.649" style="s2">helping out<span style="s3"> that</span> orphanage in Kenya<span style="s3"> so a</span></p>
+<p begin="00:01:51.479" end="00:01:56.340" style="s2">little<span style="s3"> bit</span><span style="s4"> about</span> our story<span style="s3"> and</span> how we</p>
+<p begin="00:01:52.649" end="00:01:59.329" style="s2">got<span style="s3"> to where</span><span style="s4"> we</span> are<span style="s4"> today</span><span style="s3"> in</span> early 2006</p>
+<p begin="00:01:56.340" end="00:02:02.219" style="s2">as part<span style="s3"> of</span> a class<span style="s3"> project</span> at Penn State</p>
+<p begin="00:01:59.329" end="00:02:03.960" style="s2"><span style="s3">we</span> were came up with the same idea<span style="s4"> six</span></p>
+<p begin="00:02:02.219" end="00:02:06.990" style="s2">years<span style="s3"> ago</span> we thought<span style="s4"> you</span> know why is</p>
+<p begin="00:02:03.960" end="00:02:08.369" style="s2">this so hard<span style="s4"> why is it still so hard to</span></p>
+<p begin="00:02:06.990" end="00:02:11.470" style="s2">build a<span style="s3"> website</span> we&#39;re seeing people<span style="s4"> all</span></p>
+<p begin="00:02:08.369" end="00:02:13.570" style="s2"><span style="s3">around</span><span style="s4"> us that we&#39;re just</span> struggling</p>
+<p begin="00:02:11.470" end="00:02:15.190" style="s2">and so we came up<span style="s3"> with</span><span style="s4"> the</span> idea we start</p>
+<p begin="00:02:13.570" end="00:02:16.780" style="s2">working<span style="s4"> on</span> now<span style="s3"> I&#39;m</span> gonna<span style="s4"> introduce you</span></p>
+<p begin="00:02:15.190" end="00:02:20.200" style="s2"><span style="s3">to</span><span style="s4"> the</span> theme in the presentation here</p>
+<p begin="00:02:16.780" end="00:02:24.070" style="s2"><span style="s4">this</span> is a graph of our new<span style="s4"> signups</span> per</p>
+<p begin="00:02:20.200" end="00:02:26.350" style="s2">day<span style="s3"> now</span> this is<span style="s3"> August</span> 2006<span style="s4"> this</span> is real</p>
+<p begin="00:02:24.070" end="00:02:27.880" style="s2"><span style="s4">data</span> and you<span style="s3"> can see up at the</span><span style="s4"> top it&#39;s</span></p>
+<p begin="00:02:26.350" end="00:02:32.230" style="s2"><span style="s4">six months after we</span><span style="s3"> started</span> working<span style="s4"> on</span></p>
+<p begin="00:02:27.880" end="00:02:34.090" style="s2">Weebly<span style="s3"> so</span><span style="s4"> six months six</span><span style="s3"> months</span> after<span style="s4"> we</span></p>
+<p begin="00:02:32.230" end="00:02:37.990" style="s2">wrote our<span style="s3"> first</span> line of code our<span style="s3"> grand</span></p>
+<p begin="00:02:34.090" end="00:02:38.980" style="s2">sign of day we got<span style="s4"> 12</span> new users<span style="s3"> and</span> you</p>
+<p begin="00:02:37.990" end="00:02:40.840" style="s2"><span style="s4">know</span> it&#39;s just<span style="s4"> kind</span><span style="s3"> of</span> friends and</p>
+<p begin="00:02:38.980" end="00:02:41.920" style="s2">family it was so alpha stage this<span style="s4"> wasn&#39;t</span></p>
+<p begin="00:02:40.840" end="00:02:43.270" style="s2">something<span style="s3"> that</span><span style="s4"> was</span> easy<span style="s4"> to</span> pump out<span style="s4"> a</span></p>
+<p begin="00:02:41.920" end="00:02:45.520" style="s2"><span style="s4">month</span> is something that was difficult</p>
+<p begin="00:02:43.270" end="00:02:46.960" style="s2"><span style="s4">that</span> took some<span style="s4"> time</span><span style="s3"> to build so over</span></p>
+<p begin="00:02:45.520" end="00:02:48.100" style="s2"><span style="s4">that</span> summer<span style="s4"> dan</span> and I and Chris were</p>
+<p begin="00:02:46.960" end="00:02:50.470" style="s2">working on it</p>
+<p begin="00:02:48.100" end="00:02:52.060" style="s2">here&#39;s October 2006<span style="s3"> eight</span> months later</p>
+<p begin="00:02:50.470" end="00:02:55.090" style="s2">so we&#39;ve now been writing code and</p>
+<p begin="00:02:52.060" end="00:02:57.370" style="s2"><span style="s4">working</span> on the idea<span style="s4"> for</span> eight<span style="s4"> months</span><span style="s3"> we</span></p>
+<p begin="00:02:55.090" end="00:02:59.080" style="s2">posted a private beta invitation on some</p>
+<p begin="00:02:57.370" end="00:03:01.720" style="s2">forums and we thought<span style="s4"> man</span> this is gonna</p>
+<p begin="00:02:59.080" end="00:03:05.290" style="s2">blow<span style="s3"> up</span><span style="s4"> and</span> we got<span style="s3"> about</span><span style="s4"> 30</span> people</p>
+<p begin="00:03:01.720" end="00:03:07.840" style="s2">signed<span style="s4"> up</span> that day<span style="s3"> so</span> you know<span style="s4"> around</span></p>
+<p begin="00:03:05.290" end="00:03:09.550" style="s2">this time I was<span style="s3"> up pretty</span><span style="s4"> late</span> at night</p>
+<p begin="00:03:07.840" end="00:03:11.290" style="s2">was browsing<span style="s3"> /</span><span style="s4"> thought</span> that kind of</p>
+<p begin="00:03:09.550" end="00:03:12.760" style="s2">tells<span style="s3"> you</span><span style="s4"> also you know that</span> was the</p>
+<p begin="00:03:11.290" end="00:03:15.400" style="s2"><span style="s4">most popular tech news site back then</span></p>
+<p begin="00:03:12.760" end="00:03:16.959" style="s2">and I<span style="s4"> was</span> reading an article<span style="s4"> on</span> Y</p>
+<p begin="00:03:15.400" end="00:03:18.130" style="s2">Combinator I said you know I<span style="s4"> think</span> I&#39;ve</p>
+<p begin="00:03:16.959" end="00:03:20.050" style="s2"><span style="s4">heard</span> about this coming<span style="s3"> before</span> I&#39;m not</p>
+<p begin="00:03:18.130" end="00:03:21.250" style="s2"><span style="s4">really</span> sure<span style="s4"> started reading the article</span></p>
+<p begin="00:03:20.050" end="00:03:21.700" style="s2"><span style="s4">oh</span> this sounds really<span style="s4"> cool it sounds</span></p>
+<p begin="00:03:21.250" end="00:03:26.370" style="s2">interesting</p>
+<p begin="00:03:21.700" end="00:03:26.370" style="s2"><span style="s3">Oh</span><span style="s4"> application</span> deadlines in two hours<span style="s3"> so</span></p>
+<p begin="00:03:26.580" end="00:03:30.510" style="s2"><span style="s3">well</span> I thought you know what the hell</p>
+<p begin="00:03:28.660" end="00:03:32.650" style="s2"><span style="s4">I&#39;ll</span> put something together really quick</p>
+<p begin="00:03:30.510" end="00:03:34.780" style="s2"><span style="s3">you</span> know it<span style="s4"> doesn&#39;t</span> hurt<span style="s4"> to</span> apply now I</p>
+<p begin="00:03:32.650" end="00:03:36.970" style="s2"><span style="s4">didn&#39;t</span> actually have enough time to call</p>
+<p begin="00:03:34.780" end="00:03:39.880" style="s2">a Dan or Chris to ask them if they&#39;d be</p>
+<p begin="00:03:36.970" end="00:03:43.120" style="s2"><span style="s3">willing</span> to drop out of school<span style="s3"> moved</span> to</p>
+<p begin="00:03:39.880" end="00:03:45.190" style="s2"><span style="s4">San</span> Francisco<span style="s3"> so</span> I<span style="s3"> took</span> a guess<span style="s3"> I</span></p>
+<p begin="00:03:43.120" end="00:03:46.510" style="s2">figured<span style="s3"> you</span><span style="s4"> know Chris would probably do</span></p>
+<p begin="00:03:45.190" end="00:03:49.269" style="s2">it he&#39;s<span style="s4"> a</span> little he&#39;s a pretty<span style="s4"> wild</span> guy</p>
+<p begin="00:03:46.510" end="00:03:50.709" style="s2"><span style="s4">and</span> Dan&#39;s a pretty wild guy too but but</p>
+<p begin="00:03:49.269" end="00:03:53.980" style="s2">I figured he might want<span style="s4"> to</span> finish<span style="s4"> his</span></p>
+<p begin="00:03:50.709" end="00:03:56.080" style="s2">college<span style="s4"> career</span><span style="s3"> so</span> you<span style="s4"> know</span> we we applied</p>
+<p begin="00:03:53.980" end="00:03:59.440" style="s2">to<span style="s4"> YC</span> with literally less than<span style="s3"> an</span> hour</p>
+<p begin="00:03:56.080" end="00:04:02.560" style="s2">to<span style="s3"> go</span> on the clock<span style="s3"> got</span> accepted for<span style="s3"> an</span></p>
+<p begin="00:03:59.440" end="00:04:03.880" style="s2">interview drove up to Boston interviewed</p>
+<p begin="00:04:02.560" end="00:04:06.280" style="s2">we thought we<span style="s4"> thought</span> it was<span style="s4"> great</span></p>
+<p begin="00:04:03.880" end="00:04:07.870" style="s2">incidentally the morning of the</p>
+<p begin="00:04:06.280" end="00:04:10.930" style="s2"><span style="s4">interview</span> I wake up<span style="s3"> check</span> my phone I&#39;m</p>
+<p begin="00:04:07.870" end="00:04:12.070" style="s2"><span style="s3">ringing</span> email bleary-eyed and and I got</p>
+<p begin="00:04:10.930" end="00:04:14.200" style="s2"><span style="s3">an</span> email from someone<span style="s4"> Congrats</span> on<span style="s4"> the</span></p>
+<p begin="00:04:12.070" end="00:04:16.180" style="s2"><span style="s4">tech</span> crunching what the hell<span style="s4"> is</span> this</p>
+<p begin="00:04:14.200" end="00:04:18.130" style="s2">about<span style="s4"> so</span> open TechCrunch<span style="s4"> is</span> just so</p>
+<p begin="00:04:16.180" end="00:04:19.550" style="s2">happened that TechCrunch<span style="s3"> operated</span> by us</p>
+<p begin="00:04:18.130" end="00:04:21.110" style="s2"><span style="s4">that</span> morning the</p>
+<p begin="00:04:19.550" end="00:04:24.200" style="s2">you know I&#39;m sure it definitely didn&#39;t</p>
+<p begin="00:04:21.110" end="00:04:25.400" style="s2">hurt with the interview<span style="s3"> but</span> I also had</p>
+<p begin="00:04:24.200" end="00:04:28.460" style="s2">to<span style="s4"> explain this graph this is</span> really</p>
+<p begin="00:04:25.400" end="00:04:31.100" style="s2">important<span style="s4"> this is not</span> normally what a</p>
+<p begin="00:04:28.460" end="00:04:33.970" style="s2">tech crunching<span style="s4"> looks</span> like normally<span style="s4"> it</span></p>
+<p begin="00:04:31.100" end="00:04:36.860" style="s2">goes<span style="s4"> straight up and</span> straight back<span style="s4"> down</span></p>
+<p begin="00:04:33.970" end="00:04:38.150" style="s2"><span style="s3">we</span> had an invitation system in place<span style="s3"> you</span></p>
+<p begin="00:04:36.860" end="00:04:41.090" style="s2">know<span style="s4"> make</span><span style="s3"> sure</span> our<span style="s4"> servers</span> didn&#39;t crash</p>
+<p begin="00:04:38.150" end="00:04:43.520" style="s2">and<span style="s4"> so</span> that&#39;s why<span style="s4"> I</span> see it spread out</p>
+<p begin="00:04:41.090" end="00:04:45.970" style="s2"><span style="s3">over</span> more time but you know later<span style="s3"> that</span></p>
+<p begin="00:04:43.520" end="00:04:48.890" style="s2">night<span style="s4"> though</span> you<span style="s4"> know</span> Paul told us</p>
+<p begin="00:04:45.970" end="00:04:50.750" style="s2"><span style="s3">expect</span> a<span style="s4"> call</span><span style="s3"> from</span> us by<span style="s4"> 7:00</span> p.m. the</p>
+<p begin="00:04:48.890" end="00:04:52.520" style="s2">same<span style="s4"> day we&#39;ll let you</span><span style="s3"> know</span> if<span style="s4"> he</span> made</p>
+<p begin="00:04:50.750" end="00:04:55.520" style="s2">it<span style="s4"> or</span> not<span style="s4"> so you know</span> we were<span style="s3"> pretty</span></p>
+<p begin="00:04:52.520" end="00:04:56.990" style="s2">nervous<span style="s4"> and</span> we went out to<span style="s3"> dinner</span><span style="s4"> and</span> we</p>
+<p begin="00:04:55.520" end="00:04:58.640" style="s2">sat down<span style="s4"> and literally I remember you</span></p>
+<p begin="00:04:56.990" end="00:05:00.410" style="s2">know<span style="s3"> 7:00</span> p.m.<span style="s4"> rolled</span> around and<span style="s4"> 8:00</span></p>
+<p begin="00:04:58.640" end="00:05:01.640" style="s2">p.m. rolled around<span style="s4"> and</span> we were all just</p>
+<p begin="00:05:00.410" end="00:05:03.350" style="s2"><span style="s3">staring</span> at our plates of food<span style="s4"> in</span> front</p>
+<p begin="00:05:01.640" end="00:05:05.240" style="s2"><span style="s3">of us like</span><span style="s4"> we</span> literally<span style="s4"> couldn&#39;t</span> eat we</p>
+<p begin="00:05:03.350" end="00:05:06.410" style="s2">were so<span style="s4"> nervous and then by</span><span style="s3"> 9:00 p.m.</span></p>
+<p begin="00:05:05.240" end="00:05:08.150" style="s2">we&#39;re like<span style="s4"> this is it we&#39;re definitely</span></p>
+<p begin="00:05:06.410" end="00:05:09.820" style="s2">not<span style="s3"> making</span> it in they&#39;ve called everyone</p>
+<p begin="00:05:08.150" end="00:05:12.230" style="s2"><span style="s4">they&#39;ve</span> accepted and now they&#39;re<span style="s3"> just</span></p>
+<p begin="00:05:09.820" end="00:05:16.490" style="s2">calling the losers<span style="s3"> that</span> aren&#39;t<span style="s4"> getting</span></p>
+<p begin="00:05:12.230" end="00:05:18.260" style="s2">in<span style="s3"> so</span> I think<span style="s4"> around</span> 9:00 9:30 the phone</p>
+<p begin="00:05:16.490" end="00:05:19.700" style="s2">call<span style="s4"> from</span> Paul comes and I answer and</p>
+<p begin="00:05:18.260" end="00:05:24.430" style="s2"><span style="s4">literally</span> his first words were<span style="s4"> I&#39;m</span></p>
+<p begin="00:05:19.700" end="00:05:24.430" style="s2">calling to end your college career<span style="s3"> so</span></p>
+<p begin="00:05:24.550" end="00:05:29.060" style="s2"><span style="s3">you</span> know funnily enough you know I<span style="s4"> ended</span></p>
+<p begin="00:05:27.680" end="00:05:30.950" style="s2">up talking<span style="s4"> to</span> Dan later and say hey guys</p>
+<p begin="00:05:29.060" end="00:05:32.570" style="s2">you<span style="s3"> wanna</span> do you<span style="s3"> wanna you know I know</span></p>
+<p begin="00:05:30.950" end="00:05:33.770" style="s2">we have a semester left but it sounds</p>
+<p begin="00:05:32.570" end="00:05:35.750" style="s2">crazy but how<span style="s4"> about</span> we<span style="s3"> just</span> drop out of</p>
+<p begin="00:05:33.770" end="00:05:36.950" style="s2">school moved to<span style="s4"> San</span> Francisco<span style="s3"> what</span> do</p>
+<p begin="00:05:35.750" end="00:05:37.640" style="s2">you think of it<span style="s4"> and</span> Chris was like<span style="s4"> hell</span></p>
+<p begin="00:05:36.950" end="00:05:41.270" style="s2"><span style="s4">yeah</span> let&#39;s do it</p>
+<p begin="00:05:37.640" end="00:05:42.650" style="s2">and and as<span style="s4"> Dan</span> I&#39;m like Dan<span style="s4"> like</span> what do</p>
+<p begin="00:05:41.270" end="00:05:45.730" style="s2"><span style="s3">you</span><span style="s4"> think</span> this is pretty<span style="s4"> crazy</span> he&#39;s like</p>
+<p begin="00:05:42.650" end="00:05:47.960" style="s2">yeah I&#39;m on<span style="s3"> board</span> that sounds awesome<span style="s3"> so</span></p>
+<p begin="00:05:45.730" end="00:05:49.880" style="s2">you know this<span style="s4"> is</span> this is a picture<span style="s3"> of</span><span style="s4"> us</span></p>
+<p begin="00:05:47.960" end="00:05:52.490" style="s2">that we took right after we got that</p>
+<p begin="00:05:49.880" end="00:05:55.430" style="s2">phone<span style="s4"> call I think</span><span style="s3"> this</span> picture was also</p>
+<p begin="00:05:52.490" end="00:05:57.770" style="s2"><span style="s4">right after we each took three shots at</span></p>
+<p begin="00:05:55.430" end="00:06:01.490" style="s2">the bar<span style="s4"> to</span> celebrate<span style="s4"> and</span> this is with</p>
+<p begin="00:05:57.770" end="00:06:03.830" style="s2"><span style="s4">our</span> friend Dana<span style="s3"> so</span> the next<span style="s4"> graph</span> is</p>
+<p begin="00:06:01.490" end="00:06:05.960" style="s2">January 2007 so we<span style="s3"> move</span><span style="s4"> out</span> to<span style="s3"> San</span></p>
+<p begin="00:06:03.830" end="00:06:08.570" style="s2">Francisco<span style="s4"> start</span> the Y Combinator program</p>
+<p begin="00:06:05.960" end="00:06:09.590" style="s2"><span style="s4">it&#39;s</span> now 11 months after<span style="s3"> we started</span></p>
+<p begin="00:06:08.570" end="00:06:11.240" style="s2"><span style="s3">working</span><span style="s4"> on</span><span style="s3"> Weebly you know this is a</span></p>
+<p begin="00:06:09.590" end="00:06:12.380" style="s2">pretty long time this<span style="s4"> is</span> almost a<span style="s4"> full</span></p>
+<p begin="00:06:11.240" end="00:06:13.940" style="s2">year<span style="s3"> after</span> you started writing<span style="s3"> our</span> first</p>
+<p begin="00:06:12.380" end="00:06:15.530" style="s2">line<span style="s3"> of</span> code<span style="s3"> I</span> want you to take a<span style="s4"> look</span></p>
+<p begin="00:06:13.940" end="00:06:16.060" style="s2">at<span style="s4"> this</span> graph<span style="s4"> and</span> I want you to<span style="s3"> notice</span></p>
+<p begin="00:06:15.530" end="00:06:19.670" style="s2">something</p>
+<p begin="00:06:16.060" end="00:06:20.900" style="s2">this isn&#39;t straight up<span style="s4"> into</span><span style="s3"> the</span> right it</p>
+<p begin="00:06:19.670" end="00:06:22.490" style="s2">goes<span style="s4"> straight</span><span style="s3"> up</span><span style="s4"> it comes straight back</span></p>
+<p begin="00:06:20.900" end="00:06:23.870" style="s2"><span style="s3">down</span><span style="s4"> now</span> maybe you got a couple</p>
+<p begin="00:06:22.490" end="00:06:25.430" style="s2"><span style="s4">squiggles</span> here<span style="s4"> that</span> a little that are a</p>
+<p begin="00:06:23.870" end="00:06:26.570" style="s2"><span style="s4">little</span> hopeful<span style="s4"> but</span> things aren&#39;t<span style="s3"> looking</span></p>
+<p begin="00:06:25.430" end="00:06:28.010" style="s2">great we&#39;re getting<span style="s3"> less than a hundred</span></p>
+<p begin="00:06:26.570" end="00:06:30.080" style="s2"><span style="s3">people</span> per day signing up right<span style="s4"> now</span></p>
+<p begin="00:06:28.010" end="00:06:32.560" style="s2">almost<span style="s3"> a</span> year<span style="s3"> after</span><span style="s4"> we</span> started<span style="s3"> working</span></p>
+<p begin="00:06:30.080" end="00:06:35.150" style="s2">on Weebly</p>
+<p begin="00:06:32.560" end="00:06:37.220" style="s2"><span style="s4">you</span> know this is a picture<span style="s3"> of</span> our first</p>
+<p begin="00:06:35.150" end="00:06:38.450" style="s2"><span style="s3">office</span> so we literally moved into an</p>
+<p begin="00:06:37.220" end="00:06:39.770" style="s2"><span style="s4">apartment</span></p>
+<p begin="00:06:38.450" end="00:06:41.060" style="s2">we put<span style="s4"> three</span> desks<span style="s3"> together</span> you<span style="s3"> could</span></p>
+<p begin="00:06:39.770" end="00:06:42.620" style="s2">really<span style="s4"> tell how long ago this</span><span style="s3"> was</span></p>
+<p begin="00:06:41.060" end="00:06:45.110" style="s2">because that<span style="s3"> old-ass TV in the lower</span></p>
+<p begin="00:06:42.620" end="00:06:47.510" style="s2"><span style="s3">right-hand</span> corner<span style="s3"> and</span><span style="s4"> then</span> and the</p>
+<p begin="00:06:45.110" end="00:06:49.220" style="s2"><span style="s3">15-inch</span><span style="s4"> monitors</span> and we literally just</p>
+<p begin="00:06:47.510" end="00:06:50.810" style="s2"><span style="s4">pushed</span> three desks<span style="s4"> together put it</span> in</p>
+<p begin="00:06:49.220" end="00:06:53.240" style="s2">the<span style="s4"> living</span> room<span style="s4"> and this is this is</span> what</p>
+<p begin="00:06:50.810" end="00:06:54.590" style="s2"><span style="s4">startup</span> looks like<span style="s4"> we</span> just<span style="s3"> worked</span> our</p>
+<p begin="00:06:53.240" end="00:06:57.290" style="s2">asses off we had one important<span style="s3"> rule</span></p>
+<p begin="00:06:54.590" end="00:06:59.330" style="s2"><span style="s4">which</span> is<span style="s4"> we</span> took Saturday off<span style="s3"> but</span></p>
+<p begin="00:06:57.290" end="00:07:02.990" style="s2">otherwise<span style="s4"> every</span> other moment<span style="s4"> every</span> other</p>
+<p begin="00:06:59.330" end="00:07:04.250" style="s2">waking moment was 24/7 work<span style="s3"> wasn&#39;t</span> all</p>
+<p begin="00:07:02.990" end="00:07:07.130" style="s2">bad we had a great view<span style="s3"> of the San</span></p>
+<p begin="00:07:04.250" end="00:07:09.680" style="s2"><span style="s3">Francisco</span><span style="s4"> Bay</span><span style="s3"> and</span><span style="s4"> you</span> know this is this</p>
+<p begin="00:07:07.130" end="00:07:11.120" style="s2"><span style="s4">is</span> a fun<span style="s4"> story this</span><span style="s3"> is a little display</span></p>
+<p begin="00:07:09.680" end="00:07:13.010" style="s2">that<span style="s3"> Chris</span> hacked up and<span style="s3"> he just put it</span></p>
+<p begin="00:07:11.120" end="00:07:14.390" style="s2">in the middle<span style="s3"> of</span> the<span style="s3"> table</span><span style="s4"> and</span> it showed</p>
+<p begin="00:07:13.010" end="00:07:15.500" style="s2">kind of some<span style="s3"> basic</span> stats so it showed</p>
+<p begin="00:07:14.390" end="00:07:17.960" style="s2"><span style="s3">like</span> load<span style="s3"> average</span> which you don&#39;t see</p>
+<p begin="00:07:15.500" end="00:07:20.960" style="s2"><span style="s4">right</span> here<span style="s4"> but</span> it also<span style="s4"> showed</span><span style="s3"> total</span></p>
+<p begin="00:07:17.960" end="00:07:22.340" style="s2">users and logged in users and there&#39;s</p>
+<p begin="00:07:20.960" end="00:07:23.660" style="s2">three<span style="s3"> logging</span> users here that&#39;s because</p>
+<p begin="00:07:22.340" end="00:07:32.300" style="s2"><span style="s4">it</span> was a three of us around the table</p>
+<p begin="00:07:23.660" end="00:07:34.130" style="s2"><span style="s4">using</span> Weebly<span style="s3"> and</span> one<span style="s4"> of</span> the one<span style="s3"> of</span> our</p>
+<p begin="00:07:32.300" end="00:07:35.900" style="s2">biggest moments<span style="s3"> still</span> I think<span style="s3"> in</span> company</p>
+<p begin="00:07:34.130" end="00:07:39.050" style="s2">history<span style="s3"> was</span> one night we were sitting</p>
+<p begin="00:07:35.900" end="00:07:44.510" style="s2"><span style="s4">there</span> and<span style="s3"> it</span><span style="s4"> went</span> for<span style="s3"> you</span> know<span style="s4"> and</span> like</p>
+<p begin="00:07:39.050" end="00:07:46.970" style="s2">we were<span style="s4"> excited that was exciting</span><span style="s3"> so</span> you</p>
+<p begin="00:07:44.510" end="00:07:48.110" style="s2">know in January 2007 we also got</p>
+<p begin="00:07:46.970" end="00:07:49.729" style="s2"><span style="s3">featured</span> on TechCrunch again this<span style="s4"> is</span></p>
+<p begin="00:07:48.110" end="00:07:52.220" style="s2">much<span style="s4"> more</span> normal<span style="s4"> it</span> goes<span style="s4"> straight</span> up and</p>
+<p begin="00:07:49.729" end="00:07:53.720" style="s2"><span style="s4">straight</span> back down<span style="s4"> and</span> you know again<span style="s4"> 11</span></p>
+<p begin="00:07:52.220" end="00:07:54.950" style="s2">months after<span style="s3"> we started working</span> on</p>
+<p begin="00:07:53.720" end="00:07:57.860" style="s2"><span style="s4">Weebly</span></p>
+<p begin="00:07:54.950" end="00:07:59.210" style="s2">this is<span style="s4"> April</span> 2007<span style="s4"> and</span> there&#39;s a couple</p>
+<p begin="00:07:57.860" end="00:08:00.229" style="s2">hard times I also want to share<span style="s4"> cuz</span></p>
+<p begin="00:07:59.210" end="00:08:01.400" style="s2">sometimes<span style="s4"> you</span><span style="s3"> just</span> hear about<span style="s4"> the</span> good</p>
+<p begin="00:08:00.229" end="00:08:02.870" style="s2"><span style="s3">stuff</span> you<span style="s3"> don&#39;t</span> hear<span style="s3"> about</span> the bad<span style="s3"> stuff</span></p>
+<p begin="00:08:01.400" end="00:08:05.210" style="s2">you<span style="s4"> don&#39;t</span> hear about<span style="s4"> the</span> times were</p>
+<p begin="00:08:02.870" end="00:08:06.350" style="s2">really<span style="s4"> hard</span> this<span style="s4"> is</span> 14 months<span style="s3"> after</span> you</p>
+<p begin="00:08:05.210" end="00:08:07.850" style="s2">start working on Whaley now the first</p>
+<p begin="00:08:06.350" end="00:08:12.020" style="s2">thing I want<span style="s4"> to</span><span style="s3"> address</span> on this slide is</p>
+<p begin="00:08:07.850" end="00:08:14.570" style="s2">the<span style="s3"> signup</span> graph<span style="s3"> I</span> kind of want you<span style="s3"> to</span></p>
+<p begin="00:08:12.020" end="00:08:16.160" style="s2">look<span style="s4"> at</span> the end there<span style="s3"> and</span> notice you</p>
+<p begin="00:08:14.570" end="00:08:18.020" style="s2">know I<span style="s3"> think</span> we were just<span style="s4"> oblivious and</span></p>
+<p begin="00:08:16.160" end="00:08:20.660" style="s2">very hopeful the time but that<span style="s3"> kind</span> of</p>
+<p begin="00:08:18.020" end="00:08:22.100" style="s2">looks like<span style="s4"> it&#39;s</span> heading down it&#39;s not</p>
+<p begin="00:08:20.660" end="00:08:25.220" style="s2">heading up it&#39;s actually<span style="s4"> heading</span> in the</p>
+<p begin="00:08:22.100" end="00:08:26.840" style="s2">wrong direction<span style="s3"> at</span> this<span style="s4"> point</span> in April</p>
+<p begin="00:08:25.220" end="00:08:28.820" style="s2">2007 I mean we were<span style="s3"> just</span> finishing<span style="s4"> the</span></p>
+<p begin="00:08:26.840" end="00:08:30.229" style="s2"><span style="s4">YC</span> program<span style="s4"> we</span> were really hopeful<span style="s3"> that</span></p>
+<p begin="00:08:28.820" end="00:08:32.330" style="s2">we<span style="s4"> could</span> raise<span style="s3"> money</span> but you know</p>
+<p begin="00:08:30.229" end="00:08:33.589" style="s2">talking<span style="s3"> to</span> some angel investors but at</p>
+<p begin="00:08:32.330" end="00:08:36.050" style="s2">one<span style="s3"> point</span> we had less than<span style="s3"> 100 bucks</span><span style="s4"> in</span></p>
+<p begin="00:08:33.589" end="00:08:39.289" style="s2">our bank account<span style="s3"> and</span> that&#39;s all the</p>
+<p begin="00:08:36.050" end="00:08:40.940" style="s2">money<span style="s4"> we</span> had<span style="s3"> we</span> you know we spent money</p>
+<p begin="00:08:39.289" end="00:08:42.909" style="s2">on<span style="s4"> two things early on we</span> spent money on</p>
+<p begin="00:08:40.940" end="00:08:45.540" style="s2"><span style="s4">rent</span><span style="s3"> and</span> we spent money at the bar</p>
+<p begin="00:08:42.909" end="00:08:48.730" style="s2">and and<span style="s3"> and</span> that&#39;s pretty<span style="s4"> much it</span><span style="s3"> and</span></p>
+<p begin="00:08:45.540" end="00:08:50.259" style="s2">you know we<span style="s4"> were pretty hopeful but rent</span></p>
+<p begin="00:08:48.730" end="00:08:51.310" style="s2">was coming up in two<span style="s4"> weeks and we</span> had to</p>
+<p begin="00:08:50.259" end="00:08:52.389" style="s2">pay rent<span style="s3"> in</span> two weeks<span style="s4"> so</span><span style="s3"> we</span><span style="s4"> started</span></p>
+<p begin="00:08:51.310" end="00:08:54.519" style="s2"><span style="s4">talking about</span><span style="s3"> raising a</span><span style="s4"> friends</span> and</p>
+<p begin="00:08:52.389" end="00:08:56.350" style="s2"><span style="s3">family around</span><span style="s4"> we</span> started<span style="s4"> talking</span> about</p>
+<p begin="00:08:54.519" end="00:08:59.620" style="s2">moving to San<span style="s3"> Jose</span> to save<span style="s3"> 800</span><span style="s4"> bucks</span> a</p>
+<p begin="00:08:56.350" end="00:09:04.959" style="s2"><span style="s4">month and rent</span><span style="s3"> and</span> luckily<span style="s4"> we</span> didn&#39;t do</p>
+<p begin="00:08:59.620" end="00:09:06.160" style="s2">that<span style="s4"> yeah</span> and you know luckily sort of</p>
+<p begin="00:09:04.959" end="00:09:08.440" style="s2">right in<span style="s3"> the</span> nick of time</p>
+<p begin="00:09:06.160" end="00:09:12.009" style="s2">we end up raising<span style="s4"> 650k angel round from</span></p>
+<p begin="00:09:08.440" end="00:09:14.889" style="s2">from<span style="s4"> Ron</span> from Steve Anderson<span style="s4"> Mike</span> maples</p>
+<p begin="00:09:12.009" end="00:09:17.620" style="s2">a bunch of<span style="s3"> angels this</span><span style="s4"> is</span> another thing</p>
+<p begin="00:09:14.889" end="00:09:19.209" style="s2"><span style="s4">that</span><span style="s3"> really</span> dates this story<span style="s3"> that</span> big</p>
+<p begin="00:09:17.620" end="00:09:21.790" style="s2">stack of<span style="s4"> paperwork</span> is<span style="s4"> when equity</span></p>
+<p begin="00:09:19.209" end="00:09:23.019" style="s2">financing looks like<span style="s4"> these days</span><span style="s3"> you</span> know</p>
+<p begin="00:09:21.790" end="00:09:24.790" style="s2">all the financing most really<span style="s4"> stage</span></p>
+<p begin="00:09:23.019" end="00:09:27.459" style="s2"><span style="s3">finances</span> are done via<span style="s4"> convertible</span> note</p>
+<p begin="00:09:24.790" end="00:09:31.269" style="s2"><span style="s3">to</span> three pages<span style="s3"> tops</span> this is a fat stack</p>
+<p begin="00:09:27.459" end="00:09:33.399" style="s2">for an equity financing so you know the</p>
+<p begin="00:09:31.269" end="00:09:34.779" style="s2">next<span style="s3"> big</span> thing<span style="s3"> for us was</span><span style="s4"> being</span> featured</p>
+<p begin="00:09:33.399" end="00:09:37.329" style="s2"><span style="s4">in</span> Newsweek now this used to<span style="s4"> be of a</span></p>
+<p begin="00:09:34.779" end="00:09:38.709" style="s2">really<span style="s4"> big deal I don&#39;t know</span><span style="s3"> today</span> if</p>
+<p begin="00:09:37.329" end="00:09:39.940" style="s2">it&#39;s as<span style="s4"> much of a big</span><span style="s3"> deal</span> but back then</p>
+<p begin="00:09:38.709" end="00:09:42.009" style="s2">this<span style="s4"> was</span><span style="s3"> a</span> huge deal<span style="s3"> this</span><span style="s4"> was</span> the thing</p>
+<p begin="00:09:39.940" end="00:09:43.899" style="s2">that<span style="s4"> your</span> parents<span style="s4"> like</span> bought 10 copies</p>
+<p begin="00:09:42.009" end="00:09:47.829" style="s2">the magazine afford it to everyone they</p>
+<p begin="00:09:43.899" end="00:09:49.449" style="s2">knew<span style="s4"> and</span> so this was a really<span style="s4"> big</span> deal</p>
+<p begin="00:09:47.829" end="00:09:52.779" style="s2"><span style="s4">15</span> months in<span style="s4"> that</span> that was<span style="s3"> definitely</span> a</p>
+<p begin="00:09:49.449" end="00:09:55.000" style="s2">high<span style="s4"> point</span><span style="s3"> and</span><span style="s4"> that&#39;s</span> what<span style="s3"> that</span><span style="s4"> looks</span></p>
+<p begin="00:09:52.779" end="00:09:56.500" style="s2">like<span style="s4"> so</span><span style="s3"> now</span> you&#39;re seeing the effect of</p>
+<p begin="00:09:55.000" end="00:09:57.880" style="s2">what<span style="s4"> being</span> featured in Newsweek looks</p>
+<p begin="00:09:56.500" end="00:09:59.860" style="s2">like you know again it&#39;s a<span style="s3"> very</span> similar</p>
+<p begin="00:09:57.880" end="00:10:02.740" style="s2">pattern<span style="s3"> it</span> goes up<span style="s4"> and</span> it comes<span style="s3"> right</span></p>
+<p begin="00:09:59.860" end="00:10:04.959" style="s2">back down<span style="s3"> you&#39;re</span> now noticing you know</p>
+<p begin="00:10:02.740" end="00:10:08.920" style="s2">it settles higher<span style="s4"> that&#39;s definitely a</span></p>
+<p begin="00:10:04.959" end="00:10:12.759" style="s2"><span style="s4">good</span> sign<span style="s3"> but</span> it&#39;s still going<span style="s3"> down</span><span style="s4"> it&#39;s</span></p>
+<p begin="00:10:08.920" end="00:10:16.089" style="s2">not going up<span style="s4"> this is 15 months</span> after<span style="s4"> we</span></p>
+<p begin="00:10:12.759" end="00:10:19.480" style="s2"><span style="s3">started</span> working<span style="s4"> on</span><span style="s3"> Weebly you know</span></p>
+<p begin="00:10:16.089" end="00:10:22.300" style="s2">here&#39;s a shot<span style="s3"> of</span> our office here in<span style="s3"> in</span></p>
+<p begin="00:10:19.480" end="00:10:24.490" style="s2"><span style="s4">July 2007 and it&#39;s that&#39;s</span><span style="s3"> Dan</span> sitting</p>
+<p begin="00:10:22.300" end="00:10:25.630" style="s2">there<span style="s4"> and</span> that&#39;s<span style="s4"> also</span> our stats</p>
+<p begin="00:10:24.490" end="00:10:28.149" style="s2">dashboard that<span style="s4"> you could kind</span> of see</p>
+<p begin="00:10:25.630" end="00:10:30.939" style="s2">what&#39;s going<span style="s3"> on</span><span style="s4"> next big moment</span><span style="s3"> for</span><span style="s4"> us</span></p>
+<p begin="00:10:28.149" end="00:10:32.560" style="s2"><span style="s3">around</span> the same<span style="s4"> time</span> was being<span style="s4"> featured</span></p>
+<p begin="00:10:30.939" end="00:10:36.699" style="s2">in time so we&#39;re featuring time is one</p>
+<p begin="00:10:32.560" end="00:10:39.009" style="s2">of the 50<span style="s3"> best</span> websites of 2007 this<span style="s4"> is</span></p>
+<p begin="00:10:36.699" end="00:10:41.350" style="s2">18 months after<span style="s4"> you</span> start working on</p>
+<p begin="00:10:39.009" end="00:10:43.180" style="s2">Weebly<span style="s4"> a</span> year and a half after we</p>
+<p begin="00:10:41.350" end="00:10:44.769" style="s2">started<span style="s3"> working</span> on Weebly<span style="s3"> and</span> things</p>
+<p begin="00:10:43.180" end="00:10:46.149" style="s2">still aren&#39;t<span style="s4"> taking</span> off there&#39;s no</p>
+<p begin="00:10:44.769" end="00:10:47.889" style="s2">hockey stick here things<span style="s4"> are</span> actually</p>
+<p begin="00:10:46.149" end="00:10:49.870" style="s2"><span style="s4">going in the wrong</span> direction<span style="s4"> now I want</span></p>
+<p begin="00:10:47.889" end="00:10:51.790" style="s2">to<span style="s4"> try</span> something<span style="s3"> out</span> here<span style="s4"> raise your</span></p>
+<p begin="00:10:49.870" end="00:10:52.470" style="s2">hand if you&#39;re currently working on a</p>
+<p begin="00:10:51.790" end="00:10:54.850" style="s2"><span style="s3">startup</span></p>
+<p begin="00:10:52.470" end="00:10:56.740" style="s2"><span style="s4">okay</span> now keep</p>
+<p begin="00:10:54.850" end="00:10:59.110" style="s2"><span style="s4">hand up nope nope</span><span style="s3"> cute</span> keep your hands</p>
+<p begin="00:10:56.740" end="00:11:01.870" style="s2">up<span style="s4"> now</span><span style="s3"> keep</span> your<span style="s4"> hand</span> up only if you&#39;ve</p>
+<p begin="00:10:59.110" end="00:11:05.259" style="s2">been working<span style="s3"> on</span><span style="s4"> for</span><span style="s3"> over</span><span style="s4"> 18</span> months<span style="s4"> okay</span></p>
+<p begin="00:11:01.870" end="00:11:07.060" style="s2">right that&#39;s what I thought<span style="s3"> it&#39;s</span> a long</p>
+<p begin="00:11:05.259" end="00:11:09.220" style="s2">time this<span style="s4"> is</span><span style="s3"> a</span><span style="s4"> really</span> long time<span style="s4"> and we</span></p>
+<p begin="00:11:07.060" end="00:11:10.600" style="s2">didn&#39;t have any we didn&#39;t have too much</p>
+<p begin="00:11:09.220" end="00:11:12.399" style="s2">positive we were just sort<span style="s4"> of</span> naive we</p>
+<p begin="00:11:10.600" end="00:11:14.170" style="s2">were naively hopeful that things<span style="s4"> were</span></p>
+<p begin="00:11:12.399" end="00:11:15.699" style="s2"><span style="s3">working</span><span style="s4"> out</span> and<span style="s4"> we</span><span style="s3"> knew</span> it was<span style="s3"> a</span> good</p>
+<p begin="00:11:14.170" end="00:11:17.589" style="s2"><span style="s4">problem</span><span style="s3"> to</span> be solving we&#39;re getting</p>
+<p begin="00:11:15.699" end="00:11:20.920" style="s2">feedback<span style="s4"> from</span> our users<span style="s3"> but</span> you know the</p>
+<p begin="00:11:17.589" end="00:11:23.019" style="s2">metrics weren&#39;t entirely there yet<span style="s3"> and</span></p>
+<p begin="00:11:20.920" end="00:11:26.139" style="s2"><span style="s4">this</span><span style="s3"> is where it changes</span> this<span style="s4"> is</span> this is</p>
+<p begin="00:11:23.019" end="00:11:27.970" style="s2">20 months<span style="s3"> and</span><span style="s4"> finally</span> finally 20 months</p>
+<p begin="00:11:26.139" end="00:11:31.509" style="s2">after we<span style="s4"> start</span> working on<span style="s4"> we were seeing</span></p>
+<p begin="00:11:27.970" end="00:11:33.880" style="s2">our first real traction<span style="s4"> now</span> this is good</p>
+<p begin="00:11:31.509" end="00:11:35.440" style="s2">this<span style="s4"> is</span> where<span style="s4"> your</span> your rate of</p>
+<p begin="00:11:33.880" end="00:11:37.060" style="s2"><span style="s4">acquiring</span> news<span style="s4"> per</span> day is increasing</p>
+<p begin="00:11:35.440" end="00:11:39.370" style="s2">linearly<span style="s4"> that&#39;s</span> a pretty good thing<span style="s3"> and</span></p>
+<p begin="00:11:37.060" end="00:11:40.779" style="s2">one thing<span style="s3"> to</span> notice you know you you</p>
+<p begin="00:11:39.370" end="00:11:42.370" style="s2">might think hey if only I<span style="s4"> get</span> on</p>
+<p begin="00:11:40.779" end="00:11:44.079" style="s2">TechCrunch I&#39;ll blow up<span style="s4"> you know my</span></p>
+<p begin="00:11:42.370" end="00:11:46.149" style="s2"><span style="s4">company will be successful if I just get</span></p>
+<p begin="00:11:44.079" end="00:11:49.240" style="s2">on<span style="s4"> TechCrunch well look all the way back</span></p>
+<p begin="00:11:46.149" end="00:11:51.430" style="s2">there just via<span style="s4"> word-of-mouth</span> now we are</p>
+<p begin="00:11:49.240" end="00:11:53.170" style="s2">now getting<span style="s4"> more users every single day</span></p>
+<p begin="00:11:51.430" end="00:11:59.079" style="s2">than if we<span style="s3"> were</span> featured<span style="s4"> in newsweek</span></p>
+<p begin="00:11:53.170" end="00:12:01.060" style="s2">time or TechCrunch in<span style="s3"> july</span> 2008<span style="s3"> we</span> moved</p>
+<p begin="00:11:59.079" end="00:12:02.019" style="s2">in our first rail office<span style="s3"> 29</span> months<span style="s4"> after</span></p>
+<p begin="00:12:01.060" end="00:12:04.600" style="s2">you start working on we<span style="s3"> leave</span> funny</p>
+<p begin="00:12:02.019" end="00:12:06.339" style="s2">story that TV on<span style="s3"> the wall</span><span style="s4"> got stolen our</span></p>
+<p begin="00:12:04.600" end="00:12:10.029" style="s2">office got broken into<span style="s4"> the</span> first week we</p>
+<p begin="00:12:06.339" end="00:12:11.470" style="s2">moved in that<span style="s4"> was</span> fun</p>
+<p begin="00:12:10.029" end="00:12:13.899" style="s2">getting a call from<span style="s4"> the</span><span style="s3"> police</span> officer</p>
+<p begin="00:12:11.470" end="00:12:17.680" style="s2">at<span style="s4"> the</span> next day bein like you gotta come</p>
+<p begin="00:12:13.899" end="00:12:19.899" style="s2"><span style="s3">deal with your office is busted so</span> you</p>
+<p begin="00:12:17.680" end="00:12:22.060" style="s2">know here&#39;s another<span style="s3"> picture and this</span><span style="s4"> is</span></p>
+<p begin="00:12:19.899" end="00:12:23.259" style="s2">this<span style="s4"> was</span> just it was small it<span style="s3"> was 1400</span></p>
+<p begin="00:12:22.060" end="00:12:27.220" style="s2">square feet we ended<span style="s3"> up fitting</span><span style="s4"> I</span><span style="s3"> think</span></p>
+<p begin="00:12:23.259" end="00:12:28.569" style="s2">about<span style="s4"> 12 people there</span> and and<span style="s4"> you</span> know</p>
+<p begin="00:12:27.220" end="00:12:30.130" style="s2"><span style="s4">around</span> the summer time we started</p>
+<p begin="00:12:28.569" end="00:12:32.079" style="s2"><span style="s4">looking at our bank account balance and</span></p>
+<p begin="00:12:30.130" end="00:12:33.550" style="s2">and you know we&#39;re like okay well<span style="s3"> you</span></p>
+<p begin="00:12:32.079" end="00:12:35.589" style="s2">know<span style="s4"> how</span> much runway<span style="s4"> do</span> we have this is</p>
+<p begin="00:12:33.550" end="00:12:37.269" style="s2">an important<span style="s4"> thing</span> to know if you&#39;re not</p>
+<p begin="00:12:35.589" end="00:12:39.009" style="s2">profitable how much<span style="s4"> runway</span> do we have we</p>
+<p begin="00:12:37.269" end="00:12:40.480" style="s2">said<span style="s4"> okay</span> well<span style="s3"> well</span> we<span style="s4"> really</span> need to</p>
+<p begin="00:12:39.009" end="00:12:42.399" style="s2">start raising money<span style="s4"> in</span> September</p>
+<p begin="00:12:40.480" end="00:12:43.720" style="s2">you know maybe<span style="s4"> October</span> in November we&#39;re</p>
+<p begin="00:12:42.399" end="00:12:45.550" style="s2">gonna run out of<span style="s4"> money</span> it&#39;s you know so</p>
+<p begin="00:12:43.720" end="00:12:46.930" style="s2">so we said well<span style="s3"> what</span><span style="s4"> the</span> hell let&#39;s</p>
+<p begin="00:12:45.550" end="00:12:50.949" style="s2"><span style="s4">let&#39;s</span> give it a<span style="s4"> shot</span> at least<span style="s4"> start</span></p>
+<p begin="00:12:46.930" end="00:12:52.600" style="s2">making some money<span style="s3"> so</span> July 2008 when<span style="s3"> we</span></p>
+<p begin="00:12:50.949" end="00:12:55.209" style="s2"><span style="s3">choose Weebly Pro</span> we also sell domain</p>
+<p begin="00:12:52.600" end="00:12:57.130" style="s2">names<span style="s3"> now</span> and<span style="s4"> when</span> we<span style="s4"> start</span> at that time</p>
+<p begin="00:12:55.209" end="00:12:59.860" style="s2">and you know things<span style="s4"> were</span> looking good</p>
+<p begin="00:12:57.130" end="00:13:02.680" style="s2">but if<span style="s4"> you</span> know anything<span style="s3"> about</span> the fall</p>
+<p begin="00:12:59.860" end="00:13:05.050" style="s2">of 2008 it was<span style="s3"> just</span> a<span style="s4"> really</span> bad<span style="s4"> time</span><span style="s3"> to</span></p>
+<p begin="00:13:02.680" end="00:13:07.180" style="s2">be raising<span style="s4"> money</span><span style="s3"> so</span> we went out there</p>
+<p begin="00:13:05.050" end="00:13:09.280" style="s2">and<span style="s4"> you</span> know might have<span style="s4"> worked but</span></p>
+<p begin="00:13:07.180" end="00:13:13.120" style="s2">the terms were<span style="s4"> just</span> not what we<span style="s3"> are</span></p>
+<p begin="00:13:09.280" end="00:13:16.740" style="s2"><span style="s3">looking for so this is</span><span style="s4"> a</span> graph of our</p>
+<p begin="00:13:13.120" end="00:13:19.540" style="s2">company bank account balance<span style="s3"> I</span><span style="s4"> actually</span></p>
+<p begin="00:13:16.740" end="00:13:21.460" style="s2">hacked up Vanguard&#39;s<span style="s4"> graphic</span> you know</p>
+<p begin="00:13:19.540" end="00:13:23.920" style="s2">like flash graph<span style="s4"> to</span> plot an XML feed to</p>
+<p begin="00:13:21.460" end="00:13:25.540" style="s2">graph<span style="s4"> this</span> for you guys<span style="s3"> this</span><span style="s4"> is</span><span style="s3"> 34</span></p>
+<p begin="00:13:23.920" end="00:13:30.040" style="s2">months<span style="s4"> after</span> we started<span style="s3"> working</span><span style="s4"> on</span></p>
+<p begin="00:13:25.540" end="00:13:31.390" style="s2"><span style="s4">Weebly and it</span> was pretty low<span style="s4"> and</span> and and</p>
+<p begin="00:13:30.040" end="00:13:34.870" style="s2"><span style="s4">this is you know this is</span> this is another</p>
+<p begin="00:13:31.390" end="00:13:35.980" style="s2">hard time we<span style="s4"> basically</span> we we looked at</p>
+<p begin="00:13:34.870" end="00:13:38.710" style="s2"><span style="s4">our</span> bank account balance<span style="s4"> and we said</span></p>
+<p begin="00:13:35.980" end="00:13:39.670" style="s2"><span style="s4">okay</span> well<span style="s3"> you</span> know revenue is<span style="s3"> increasing</span></p>
+<p begin="00:13:38.710" end="00:13:41.170" style="s2">and things are going<span style="s3"> in</span><span style="s4"> the</span> right</p>
+<p begin="00:13:39.670" end="00:13:43.960" style="s2">direction<span style="s4"> then</span> we&#39;re pretty hopeful we</p>
+<p begin="00:13:41.170" end="00:13:46.990" style="s2">could squeeze<span style="s3"> through</span> but you know but</p>
+<p begin="00:13:43.960" end="00:13:48.550" style="s2">we can&#39;t pay<span style="s4"> our</span> bills next<span style="s4"> month so</span></p>
+<p begin="00:13:46.990" end="00:13:50.320" style="s2"><span style="s3">we&#39;re</span> we<span style="s4"> gonna</span> do<span style="s3"> about</span><span style="s4"> it so you</span><span style="s3"> know</span></p>
+<p begin="00:13:48.550" end="00:13:52.480" style="s2"><span style="s4">obviously</span> payroll was just never an</p>
+<p begin="00:13:50.320" end="00:13:54.040" style="s2">option<span style="s3"> we&#39;re</span><span style="s4"> obviously</span> gonna<span style="s4"> pay</span><span style="s3"> payroll</span></p>
+<p begin="00:13:52.480" end="00:13:55.300" style="s2"><span style="s4">if</span> we had to cut our own<span style="s4"> salaries</span><span style="s3"> that</span></p>
+<p begin="00:13:54.040" end="00:13:56.500" style="s2">was gonna be one<span style="s4"> thing but for</span> people</p>
+<p begin="00:13:55.300" end="00:13:58.120" style="s2"><span style="s4">with</span> employed that<span style="s4"> was</span> just not an</p>
+<p begin="00:13:56.500" end="00:13:59.290" style="s2"><span style="s3">option</span> not<span style="s4"> to pay that so the next</span> step</p>
+<p begin="00:13:58.120" end="00:14:00.610" style="s2">was to<span style="s3"> get</span> out of calendar literally I</p>
+<p begin="00:13:59.290" end="00:14:02.650" style="s2">remember getting<span style="s3"> out</span> a big calendar<span style="s4"> on a</span></p>
+<p begin="00:14:00.610" end="00:14:05.200" style="s2">piece<span style="s4"> of paper and</span> mapping<span style="s4"> out</span> all our</p>
+<p begin="00:14:02.650" end="00:14:06.790" style="s2">bills<span style="s3"> on</span> which days they were due and</p>
+<p begin="00:14:05.200" end="00:14:08.350" style="s2">how much<span style="s4"> money</span> we thought we were gonna</p>
+<p begin="00:14:06.790" end="00:14:10.930" style="s2"><span style="s4">make</span> in the meantime to just barely</p>
+<p begin="00:14:08.350" end="00:14:12.160" style="s2"><span style="s4">squeaked</span> by and and then there was</p>
+<p begin="00:14:10.930" end="00:14:13.900" style="s2">really<span style="s4"> two</span><span style="s3"> types</span><span style="s4"> of</span> bills<span style="s3"> that</span> we</p>
+<p begin="00:14:12.160" end="00:14:16.720" style="s2">labeled there was one there was a type</p>
+<p begin="00:14:13.900" end="00:14:18.850" style="s2"><span style="s3">of</span> bill<span style="s4"> that if you didn&#39;t pay it you</span></p>
+<p begin="00:14:16.720" end="00:14:20.020" style="s2"><span style="s4">got</span> a late fee<span style="s4"> and</span> the second type<span style="s3"> of</span></p>
+<p begin="00:14:18.850" end="00:14:22.630" style="s2">bill if you didn&#39;t pay it they<span style="s4"> shot</span> your</p>
+<p begin="00:14:20.020" end="00:14:25.000" style="s2">servers off so obviously we had<span style="s3"> to</span> pay</p>
+<p begin="00:14:22.630" end="00:14:26.920" style="s2">that second<span style="s4"> category</span><span style="s3"> but</span> you know in</p>
+<p begin="00:14:25.000" end="00:14:29.020" style="s2">January<span style="s4"> 2009</span> which is<span style="s4"> which</span> is<span style="s3"> a</span><span style="s4"> great</span></p>
+<p begin="00:14:26.920" end="00:14:31.060" style="s2">month<span style="s4"> for us</span><span style="s3"> you</span> know we finally<span style="s4"> hit</span></p>
+<p begin="00:14:29.020" end="00:14:32.710" style="s2"><span style="s4">break-even now this is where</span><span style="s3"> things</span></p>
+<p begin="00:14:31.060" end="00:14:35.590" style="s2">started turning<span style="s3"> in</span> the in the profitable</p>
+<p begin="00:14:32.710" end="00:14:37.300" style="s2">direction<span style="s4"> and</span> you know<span style="s4"> this</span> is where<span style="s4"> you</span></p>
+<p begin="00:14:35.590" end="00:14:40.600" style="s2">first start seeing a working business</p>
+<p begin="00:14:37.300" end="00:14:42.070" style="s2"><span style="s4">model</span><span style="s3"> it</span><span style="s4"> finally</span> clicks and you can see</p>
+<p begin="00:14:40.600" end="00:14:44.620" style="s2">a little bit<span style="s4"> of history out there</span><span style="s3"> 35</span></p>
+<p begin="00:14:42.070" end="00:14:46.210" style="s2"><span style="s4">months</span><span style="s3"> that&#39;s</span> three years<span style="s4"> after</span><span style="s3"> we</span></p>
+<p begin="00:14:44.620" end="00:14:48.760" style="s2"><span style="s3">started working on</span><span style="s4"> it we finally hit</span> a</p>
+<p begin="00:14:46.210" end="00:14:50.770" style="s2">working business<span style="s4"> model</span><span style="s3"> this</span><span style="s4"> is</span> February</p>
+<p begin="00:14:48.760" end="00:14:52.300" style="s2"><span style="s4">2010 and now things are</span><span style="s3"> looking</span> great</p>
+<p begin="00:14:50.770" end="00:14:54.750" style="s2"><span style="s3">now</span> we&#39;re off<span style="s3"> to</span> the races<span style="s4"> this</span> is four</p>
+<p begin="00:14:52.300" end="00:14:57.010" style="s2"><span style="s4">years</span> after<span style="s3"> we started working</span> on Weebly</p>
+<p begin="00:14:54.750" end="00:14:58.630" style="s2"><span style="s3">and</span> I want you to notice all the way in</p>
+<p begin="00:14:57.010" end="00:15:00.430" style="s2">the back<span style="s4"> that</span> that<span style="s4"> Newsweek</span> that<span style="s4"> time</span></p>
+<p begin="00:14:58.630" end="00:15:02.110" style="s2">you know<span style="s3"> the</span> TechCrunch articles<span style="s3"> they&#39;re</span></p>
+<p begin="00:15:00.430" end="00:15:04.840" style="s2"><span style="s4">just</span> blips on the radar<span style="s4"> you</span> know now</p>
+<p begin="00:15:02.110" end="00:15:07.090" style="s2">every day we&#39;re getting<span style="s4"> about 5,000 new</span></p>
+<p begin="00:15:04.840" end="00:15:10.690" style="s2">users per day<span style="s4"> all of the award math it&#39;s</span></p>
+<p begin="00:15:07.090" end="00:15:13.360" style="s2">all<span style="s4"> organic</span> growth<span style="s3"> in</span> March 2011</p>
+<p begin="00:15:10.690" end="00:15:16.180" style="s2"><span style="s3">sixty-one months after we started</span> we</p>
+<p begin="00:15:13.360" end="00:15:17.920" style="s2">partnered with Sequoia Capital<span style="s4"> we</span><span style="s3"> love</span></p>
+<p begin="00:15:16.180" end="00:15:19.630" style="s2">them as<span style="s4"> partners</span> and<span style="s3"> brought</span> them<span style="s4"> on</span></p>
+<p begin="00:15:17.920" end="00:15:22.120" style="s2">board<span style="s4"> to</span><span style="s3"> help</span> grow the business</p>
+<p begin="00:15:19.630" end="00:15:23.440" style="s2">and that<span style="s4"> brings</span> us<span style="s4"> to</span> today so where are</p>
+<p begin="00:15:22.120" end="00:15:26.140" style="s2"><span style="s3">we</span><span style="s4"> now</span></p>
+<p begin="00:15:23.440" end="00:15:27.399" style="s2">today we bleep<span style="s4"> our</span> is about<span style="s3"> 2%</span><span style="s4"> of the</span></p>
+<p begin="00:15:26.140" end="00:15:30.089" style="s2">active<span style="s4"> web sites on the internet that&#39;s</span></p>
+<p begin="00:15:27.399" end="00:15:33.760" style="s2">all based on public data from net<span style="s4"> craft</span></p>
+<p begin="00:15:30.089" end="00:15:37.180" style="s2"><span style="s3">every</span> month<span style="s3"> 15%</span><span style="s4"> of</span> the<span style="s4"> United States</span></p>
+<p begin="00:15:33.760" end="00:15:38.890" style="s2"><span style="s4">visits</span> a<span style="s4"> Weebly</span> website and my favorite</p>
+<p begin="00:15:37.180" end="00:15:41.709" style="s2">stat here is our Net Promoter Score<span style="s4"> our</span></p>
+<p begin="00:15:38.890" end="00:15:42.910" style="s2">Net Promoter Score is over<span style="s3"> 80%</span><span style="s4"> now</span> if</p>
+<p begin="00:15:41.709" end="00:15:44.769" style="s2">you&#39;re<span style="s4"> not familiar with</span> what<span style="s4"> a</span> net</p>
+<p begin="00:15:42.910" end="00:15:47.050" style="s2">promoter score is<span style="s4"> that&#39;s</span> you know<span style="s3"> that</span></p>
+<p begin="00:15:44.769" end="00:15:49.149" style="s2">means<span style="s3"> 88%</span> of<span style="s3"> people</span> who answered this</p>
+<p begin="00:15:47.050" end="00:15:51.130" style="s2">survey said<span style="s4"> 9</span> or<span style="s4"> 10</span> likely they&#39;re<span style="s4"> gonna</span></p>
+<p begin="00:15:49.149" end="00:15:53.230" style="s2">recommend<span style="s4"> we</span> do a friend<span style="s4"> as</span> a point of</p>
+<p begin="00:15:51.130" end="00:15:55.029" style="s2"><span style="s4">comparison I think apples is</span><span style="s3"> 67%</span> that&#39;s</p>
+<p begin="00:15:53.230" end="00:15:57.579" style="s2">considered excellent<span style="s3"> this</span> explains</p>
+<p begin="00:15:55.029" end="00:15:58.750" style="s2">everything<span style="s4"> about our business</span><span style="s3"> a</span> quick</p>
+<p begin="00:15:57.579" end="00:16:02.019" style="s2">tour<span style="s4"> of the office</span><span style="s3"> here moved in</span><span style="s4"> this</span></p>
+<p begin="00:15:58.750" end="00:16:04.269" style="s2">office<span style="s4"> about</span> a year ago<span style="s3"> this is what</span> it</p>
+<p begin="00:16:02.019" end="00:16:06.579" style="s2">looks like<span style="s4"> when</span> you walk in this<span style="s3"> is</span> this</p>
+<p begin="00:16:04.269" end="00:16:08.709" style="s2"><span style="s4">a</span> quick<span style="s4"> snapshot</span> of our lobby<span style="s4"> and</span></p>
+<p begin="00:16:06.579" end="00:16:10.959" style="s2">conference room at<span style="s4"> the</span><span style="s3"> front</span><span style="s4"> here&#39;s</span> our</p>
+<p begin="00:16:08.709" end="00:16:12.190" style="s2">open work plan<span style="s4"> area</span> and you know we</p>
+<p begin="00:16:10.959" end="00:16:13.360" style="s2"><span style="s4">really like this because</span><span style="s3"> you</span> could</p>
+<p begin="00:16:12.190" end="00:16:14.709" style="s2">really<span style="s4"> talk</span> and<span style="s4"> communicate</span> but</p>
+<p begin="00:16:13.360" end="00:16:16.630" style="s2">obviously it<span style="s4"> gets</span> noisy so one<span style="s3"> of</span> the</p>
+<p begin="00:16:14.709" end="00:16:17.380" style="s2">things that we give everyone who works</p>
+<p begin="00:16:16.630" end="00:16:21.730" style="s2">at Weebly<span style="s4"> as</span> bose noise-canceling</p>
+<p begin="00:16:17.380" end="00:16:23.260" style="s2">headphones<span style="s4"> to</span> block out the<span style="s3"> noise it&#39;s a</span></p>
+<p begin="00:16:21.730" end="00:16:24.940" style="s2">TV<span style="s3"> room</span><span style="s4"> great for</span><span style="s3"> catching</span> a<span style="s4"> big</span> game</p>
+<p begin="00:16:23.260" end="00:16:28.329" style="s2">especially<span style="s4"> the Giants games have been on</span></p>
+<p begin="00:16:24.940" end="00:16:30.610" style="s2"><span style="s4">lately</span><span style="s3"> and</span> this<span style="s4"> is this is</span> our<span style="s4"> kind of</span></p>
+<p begin="00:16:28.329" end="00:16:32.410" style="s2">you know kitchen<span style="s4"> slash</span> rec area</p>
+<p begin="00:16:30.610" end="00:16:35.019" style="s2"><span style="s4">downstairs</span><span style="s3"> we</span> get super<span style="s4"> competitive</span> on</p>
+<p begin="00:16:32.410" end="00:16:36.310" style="s2"><span style="s3">ping-pong</span> pool foosball<span style="s4"> one</span> thing I want</p>
+<p begin="00:16:35.019" end="00:16:38.890" style="s2"><span style="s4">you</span> to notice<span style="s4"> is</span> that<span style="s3"> bookshelf</span> in<span style="s3"> the</span></p>
+<p begin="00:16:36.310" end="00:16:41.320" style="s2">back actually<span style="s3"> if</span> you go up to<span style="s3"> that and</span></p>
+<p begin="00:16:38.890" end="00:16:42.910" style="s2"><span style="s4">you</span> know<span style="s3"> the</span> right book to pull it</p>
+<p begin="00:16:41.320" end="00:16:45.970" style="s2">actually opens<span style="s4"> up I&#39;m not</span><span style="s3"> sure how well</span></p>
+<p begin="00:16:42.910" end="00:16:48.399" style="s2"><span style="s3">you can</span><span style="s4"> see</span> that<span style="s4"> but</span> it&#39;s it&#39;s<span style="s3"> its</span></p>
+<p begin="00:16:45.970" end="00:16:49.690" style="s2">policy we can&#39;t show<span style="s4"> anyone</span> pictures of</p>
+<p begin="00:16:48.399" end="00:16:51.310" style="s2">inside the<span style="s3"> secret</span><span style="s4"> room</span> unless you come</p>
+<p begin="00:16:49.690" end="00:16:53.100" style="s2">visit<span style="s4"> so</span> we&#39;d love<span style="s4"> to</span> have you over to</p>
+<p begin="00:16:51.310" end="00:16:55.660" style="s2">check that out</p>
+<p begin="00:16:53.100" end="00:16:56.980" style="s2">so you know<span style="s4"> just</span> for<span style="s4"> shits</span> and giggles I</p>
+<p begin="00:16:55.660" end="00:16:58.990" style="s2">pulled our bank account balance from</p>
+<p begin="00:16:56.980" end="00:17:00.699" style="s2"><span style="s4">this</span> morning<span style="s3"> that&#39;s</span> what<span style="s3"> our</span> company</p>
+<p begin="00:16:58.990" end="00:17:02.410" style="s2"><span style="s4">thank you balance looks like now and</span></p>
+<p begin="00:17:00.699" end="00:17:04.809" style="s2"><span style="s3">this</span><span style="s4"> is</span> 80 months after we started</p>
+<p begin="00:17:02.410" end="00:17:06.160" style="s2"><span style="s3">working</span> on Weebly<span style="s3"> I</span> think the important</p>
+<p begin="00:17:04.809" end="00:17:08.919" style="s2">message here<span style="s4"> is</span> it&#39;s still an unfinished</p>
+<p begin="00:17:06.160" end="00:17:10.209" style="s2"><span style="s4">story</span> you know I mean as<span style="s3"> large</span> as we&#39;ve</p>
+<p begin="00:17:08.919" end="00:17:12.579" style="s2"><span style="s4">been</span> able to grow this<span style="s4"> is</span> just the</p>
+<p begin="00:17:10.209" end="00:17:16.030" style="s2">beginning<span style="s3"> so you know what&#39;s next for</span></p>
+<p begin="00:17:12.579" end="00:17:17.980" style="s2">Weebly well six<span style="s4"> years</span> ago<span style="s4"> we</span> thought<span style="s3"> the</span></p>
+<p begin="00:17:16.030" end="00:17:20.319" style="s2"><span style="s3">same</span> thing<span style="s3"> you</span> know making<span style="s3"> a</span> site it&#39;s</p>
+<p begin="00:17:17.980" end="00:17:23.589" style="s2">just hard you<span style="s4"> know</span><span style="s3"> and</span><span style="s4"> today people are</span></p>
+<p begin="00:17:20.319" end="00:17:25.510" style="s2">just<span style="s4"> as</span><span style="s3"> frustrated</span><span style="s4"> you</span> know<span style="s4"> just</span> as</p>
+<p begin="00:17:23.589" end="00:17:27.010" style="s2">confused<span style="s4"> and</span> all they really want<span style="s3"> to</span> do</p>
+<p begin="00:17:25.510" end="00:17:29.559" style="s2">is participate<span style="s4"> in</span> the<span style="s3"> Internet</span><span style="s4"> and</span> you</p>
+<p begin="00:17:27.010" end="00:17:31.510" style="s2"><span style="s3">know</span> what most people can&#39;t<span style="s4"> participate</span></p>
+<p begin="00:17:29.559" end="00:17:34.480" style="s2">in the<span style="s3"> internet</span> the way they&#39;d<span style="s4"> like to</span></p>
+<p begin="00:17:31.510" end="00:17:36.040" style="s2">you know people just want<span style="s3"> to</span> you<span style="s4"> know</span></p>
+<p begin="00:17:34.480" end="00:17:38.500" style="s2">showcase their business showcase their</p>
+<p begin="00:17:36.040" end="00:17:40.060" style="s2">art or their talents<span style="s3"> and</span> sell things</p>
+<p begin="00:17:38.500" end="00:17:41.740" style="s2">online<span style="s3"> and it&#39;s still too difficult for</span></p>
+<p begin="00:17:40.060" end="00:17:43.270" style="s2"><span style="s4">them so you</span><span style="s3"> know</span> as much as<span style="s4"> we&#39;ve done</span></p>
+<p begin="00:17:41.740" end="00:17:45.160" style="s2"><span style="s4">the last six</span> years we<span style="s4"> think</span> we&#39;ve<span style="s3"> just</span></p>
+<p begin="00:17:43.270" end="00:17:46.900" style="s2">built<span style="s4"> a</span><span style="s3"> foundation</span> and what&#39;s most</p>
+<p begin="00:17:45.160" end="00:17:48.400" style="s2">exciting is is what we&#39;re building<span style="s4"> it</span></p>
+<p begin="00:17:46.900" end="00:17:51.130" style="s2">right now and there&#39;s just a whole lot</p>
+<p begin="00:17:48.400" end="00:17:54.100" style="s2"><span style="s3">of</span> work left<span style="s3"> to</span> do<span style="s3"> so</span><span style="s4"> I think the number</span></p>
+<p begin="00:17:51.130" end="00:17:57.160" style="s2"><span style="s3">one takeaway</span><span style="s4"> of</span> everything is you can&#39;t</p>
+<p begin="00:17:54.100" end="00:17:59.050" style="s2">succeed<span style="s4"> if</span> you quit<span style="s3"> too</span><span style="s4"> often</span> I&#39;ve seen</p>
+<p begin="00:17:57.160" end="00:18:01.810" style="s2"><span style="s4">people</span> that<span style="s4"> build</span> something for six</p>
+<p begin="00:17:59.050" end="00:18:03.820" style="s2">months and then they launch it and then</p>
+<p begin="00:18:01.810" end="00:18:07.030" style="s2"><span style="s4">two</span> months<span style="s4"> later</span><span style="s3"> they</span> stop working<span style="s3"> on</span> it</p>
+<p begin="00:18:03.820" end="00:18:08.500" style="s2"><span style="s3">like</span><span style="s4"> how do you</span> expect<span style="s4"> that</span> to<span style="s4"> work</span><span style="s3"> you</span></p>
+<p begin="00:18:07.030" end="00:18:10.270" style="s2">know behind<span style="s4"> every</span> I<span style="s4"> think</span> we&#39;ve seen</p>
+<p begin="00:18:08.500" end="00:18:13.030" style="s2"><span style="s4">today</span><span style="s3"> behind</span> every<span style="s4"> quote-unquote</span></p>
+<p begin="00:18:10.270" end="00:18:14.680" style="s2">overnight success you see people who</p>
+<p begin="00:18:13.030" end="00:18:18.460" style="s2"><span style="s3">have</span><span style="s4"> been</span> working<span style="s3"> for</span><span style="s4"> years</span> and years</p>
+<p begin="00:18:14.680" end="00:18:21.430" style="s2"><span style="s4">and</span> years and if<span style="s4"> you</span> want to build a</p>
+<p begin="00:18:18.460" end="00:18:22.750" style="s2">truly big and meaningful company<span style="s4"> it&#39;s</span></p>
+<p begin="00:18:21.430" end="00:18:25.390" style="s2">gonna take you<span style="s4"> seven</span> to<span style="s3"> ten</span> years<span style="s3"> of</span></p>
+<p begin="00:18:22.750" end="00:18:27.130" style="s2"><span style="s3">your</span><span style="s4"> life you know don&#39;t give up so</span></p>
+<p begin="00:18:25.390" end="00:18:28.900" style="s2"><span style="s3">easily</span> you just<span style="s3"> gotta</span> keep going</p>
+<p begin="00:18:27.130" end="00:18:31.210" style="s2"><span style="s4">even</span> at the early<span style="s4"> days</span> for everyone</p>
+<p begin="00:18:28.900" end="00:18:32.710" style="s2">including<span style="s3"> us</span><span style="s4"> it</span> didn&#39;t look great you</p>
+<p begin="00:18:31.210" end="00:18:34.210" style="s2"><span style="s4">just have to push</span> through<span style="s3"> and</span> know that</p>
+<p begin="00:18:32.710" end="00:18:37.630" style="s2">you&#39;re working on a valuable problem<span style="s4"> and</span></p>
+<p begin="00:18:34.210" end="00:18:39.250" style="s2"><span style="s3">keep</span><span style="s4"> pushing</span> through so<span style="s4"> lastly</span> I&#39;ll</p>
+<p begin="00:18:37.630" end="00:18:41.650" style="s2">close<span style="s3"> with</span> it you know<span style="s4"> if</span> you&#39;d<span style="s4"> like</span> to</p>
+<p begin="00:18:39.250" end="00:18:44.860" style="s2">help us<span style="s4"> finish the story</span><span style="s3"> that</span><span style="s4"> that&#39;s</span></p>
+<p begin="00:18:41.650" end="00:18:46.090" style="s2">still in progress<span style="s3"> we&#39;d</span><span style="s4"> love</span> to talk<span style="s3"> to</span></p>
+<p begin="00:18:44.860" end="00:18:47.140" style="s2">you but I won&#39;t go into<span style="s4"> much about that</span></p>
+<p begin="00:18:46.090" end="00:18:48.940" style="s2">if you have<span style="s3"> any</span> other questions please</p>
+<p begin="00:18:47.140" end="00:18:51.900" style="s2">email me<span style="s4"> hope</span> to<span style="s3"> see</span> you at the party</p>
+<p begin="00:18:48.940" end="00:18:51.900" style="s2"><span style="s4">tonight and thank you very much</span></p>
+</div>
+</body>
+</tt>
