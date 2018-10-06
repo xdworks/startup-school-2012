@@ -1,0 +1,11 @@
+
+* [Ron Conway at Startup School 2012]
+* [Travis Kalanick at Startup School 2012]
+* [Tom Preston Werner at Startup School 2012]
+* [Patrick Collison at Startup School 2012]
+* [Mark Zuckerberg at Startup School 2012]
+* [Joel Spolksy at Startup School 2012]
+* [Jessica Livingston at Startup School 2012]
+* [Hiroshi Mikitani at Startup School 2012]
+* [David Rusenko at Startup School 2012]
+* [Ben Silbermann at Startup School 2012]
