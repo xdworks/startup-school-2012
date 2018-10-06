@@ -1,11 +1,11 @@
 
-* [Ron Conway at Startup School 2012](01.md)
-* [Travis Kalanick at Startup School 2012](02.md)
-* [Tom Preston Werner at Startup School 2012](03.md)
-* [Patrick Collison at Startup School 2012](04.md)
-* [Mark Zuckerberg at Startup School 2012](05.md)
-* [Joel Spolksy at Startup School 2012](06.md)
-* [Jessica Livingston at Startup School 2012](07.md)
-* [Hiroshi Mikitani at Startup School 2012](08.md)
-* [David Rusenko at Startup School 2012]
-* [Ben Silbermann at Startup School 2012]
+* [Angel - Ron Conway at Startup School 2012](01.md)
+* [Uber - Travis Kalanick at Startup School 2012](02.md)
+* [Uber - Tom Preston Werner at Startup School 2012](03.md)
+* [Stripe - Patrick Collison at Startup School 2012](04.md)
+* [Facebook - Mark Zuckerberg at Startup School 2012](05.md)
+* [Stackoverflow - Joel Spolksy at Startup School 2012](06.md)
+* [YC - Jessica Livingston at Startup School 2012](07.md)
+* [Rakuten - Hiroshi Mikitani at Startup School 2012](08.md)
+* [Weebly - David Rusenko at Startup School 2012](09.md)
+* [Pinterest - Ben Silbermann at Startup School 2012](10.md)
