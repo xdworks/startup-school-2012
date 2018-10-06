@@ -1,0 +1,2728 @@
+﻿1
+00:00:00,000 --> 00:00:09,150
+morning hopefully this particular works
+
+2
+00:00:05,899 --> 00:00:11,190
+so I sat down to write this talk I
+
+3
+00:00:09,150 --> 00:00:13,049
+really racked my brains to try to figure
+
+4
+00:00:11,190 --> 00:00:15,839
+out what the most interesting and
+
+5
+00:00:13,049 --> 00:00:16,859
+relevant and and useful content would be
+
+6
+00:00:15,839 --> 00:00:19,680
+for a lot of people who are sort of
+
+7
+00:00:16,859 --> 00:00:22,289
+interested in web startups when I
+
+8
+00:00:19,680 --> 00:00:26,420
+thought about it in those terms the
+
+9
+00:00:22,289 --> 00:00:26,420
+topic of my talk became fairly obvious
+
+10
+00:00:27,769 --> 00:00:34,230
+but then but I thought about it more and
+
+11
+00:00:32,969 --> 00:00:35,670
+the algorithm doesn't even seem to be
+
+12
+00:00:34,230 --> 00:00:37,170
+deterministic I'm not sure anyone even
+
+13
+00:00:35,670 --> 00:00:38,520
+knows how it works so I guess I'll
+
+14
+00:00:37,170 --> 00:00:43,379
+actually have to talk about stripe
+
+15
+00:00:38,520 --> 00:00:47,579
+instead two years ago Brian from Airbnb
+
+16
+00:00:43,379 --> 00:00:48,840
+spoke at our school in 2010 and the open
+
+17
+00:00:47,579 --> 00:00:50,789
+is talked by showing a picture of
+
+18
+00:00:48,840 --> 00:00:52,770
+startup school in 2008 two years
+
+19
+00:00:50,789 --> 00:00:55,230
+previously and that picture showed a
+
+20
+00:00:52,770 --> 00:00:57,420
+snapshot of the audience I picked out
+
+21
+00:00:55,230 --> 00:00:59,329
+one particular head he was just sitting
+
+22
+00:00:57,420 --> 00:01:02,190
+there an anonymous had in the audience
+
+23
+00:00:59,329 --> 00:01:05,100
+and I know this because I was at his
+
+24
+00:01:02,190 --> 00:01:08,220
+talking 2010 and so curious later he was
+
+25
+00:01:05,100 --> 00:01:10,020
+on stage at school and somehow tears
+
+26
+00:01:08,220 --> 00:01:11,820
+later Here I am and I'm sure there's at
+
+27
+00:01:10,020 --> 00:01:14,580
+least one person here who who'd be on
+
+28
+00:01:11,820 --> 00:01:16,350
+stage in in two years time and stripe
+
+29
+00:01:14,580 --> 00:01:19,439
+definitely isn't as far along as Airbnb
+
+30
+00:01:16,350 --> 00:01:21,330
+but it read Rove home the point to me
+
+31
+00:01:19,439 --> 00:01:26,759
+when I realized this that startups are
+
+32
+00:01:21,330 --> 00:01:27,840
+very unpredictable um you know Sarge
+
+33
+00:01:26,759 --> 00:01:30,329
+there's really hard to get your head
+
+34
+00:01:27,840 --> 00:01:33,060
+around I remember somebody telling me
+
+35
+00:01:30,329 --> 00:01:35,549
+not all that long ago that that Airbnb
+
+36
+00:01:33,060 --> 00:01:37,860
+was just becoming a huge success they
+
+37
+00:01:35,549 --> 00:01:39,930
+were making something like $10,000 a
+
+38
+00:01:37,860 --> 00:01:40,350
+week remember thinking man that's really
+
+39
+00:01:39,930 --> 00:01:42,479
+impressive
+
+40
+00:01:40,350 --> 00:01:44,189
+and now I have no idea what Airbnb is
+
+41
+00:01:42,479 --> 00:01:45,450
+actual revenue figures are today but it
+
+42
+00:01:44,189 --> 00:01:49,229
+wouldn't it all shock me if they're
+
+43
+00:01:45,450 --> 00:01:50,549
+making $10,000 an hour like what's even
+
+44
+00:01:49,229 --> 00:01:53,399
+like to try to build a company where
+
+45
+00:01:50,549 --> 00:01:56,579
+that kind of growth is possible startups
+
+46
+00:01:53,399 --> 00:01:57,719
+are strange for a bunch more reasons you
+
+47
+00:01:56,579 --> 00:01:59,009
+know they're usually kind of
+
+48
+00:01:57,719 --> 00:02:00,240
+counterintuitive because if they were in
+
+49
+00:01:59,009 --> 00:02:01,380
+counterintuitive somebody else would
+
+50
+00:02:00,240 --> 00:02:04,320
+probably yourself ever the problem is
+
+51
+00:02:01,380 --> 00:02:06,240
+already and on top of that syrups often
+
+52
+00:02:04,320 --> 00:02:08,069
+don't actually want don't actually want
+
+53
+00:02:06,240 --> 00:02:09,300
+to be all that well understood it can
+
+54
+00:02:08,069 --> 00:02:11,850
+actually be quite helpful to be sort of
+
+55
+00:02:09,300 --> 00:02:14,940
+underestimated and under comprehended
+
+56
+00:02:11,850 --> 00:02:16,800
+um but I think the biggest reason that
+
+57
+00:02:14,940 --> 00:02:19,770
+startups are hard to understand is that
+
+58
+00:02:16,800 --> 00:02:21,990
+so few people still get to see them up
+
+59
+00:02:19,770 --> 00:02:24,150
+close during those first couple orders
+
+60
+00:02:21,990 --> 00:02:26,400
+of magnitude and when people do tell the
+
+61
+00:02:24,150 --> 00:02:28,470
+stories or when the stories are told
+
+62
+00:02:26,400 --> 00:02:30,390
+they often tend to be kind of wrong
+
+63
+00:02:28,470 --> 00:02:32,400
+they're about sort of rocket ships and
+
+64
+00:02:30,390 --> 00:02:33,930
+frantically holding on and trying to add
+
+65
+00:02:32,400 --> 00:02:35,420
+more server capacity as quickly as you
+
+66
+00:02:33,930 --> 00:02:37,200
+can to handle the next million users
+
+67
+00:02:35,420 --> 00:02:39,270
+they're not about the late night
+
+68
+00:02:37,200 --> 00:02:41,760
+arguments and wondering if your product
+
+69
+00:02:39,270 --> 00:02:42,810
+could ever possibly work or trying to
+
+70
+00:02:41,760 --> 00:02:45,420
+figure out once you've launched your
+
+71
+00:02:42,810 --> 00:02:46,980
+product why it's not growing and the
+
+72
+00:02:45,420 --> 00:02:50,490
+thing is even the really successful
+
+73
+00:02:46,980 --> 00:02:52,230
+startups have this phase but that that
+
+74
+00:02:50,490 --> 00:02:55,110
+famous summer when Facebook moved out to
+
+75
+00:02:52,230 --> 00:02:56,940
+Palo Alto in 2004 most people didn't
+
+76
+00:02:55,110 --> 00:02:58,710
+realize this but there were other people
+
+77
+00:02:56,940 --> 00:03:00,270
+in the same house working in other
+
+78
+00:02:58,710 --> 00:03:02,100
+startups like this is the most
+
+79
+00:03:00,270 --> 00:03:04,620
+successful technology company started in
+
+80
+00:03:02,100 --> 00:03:05,760
+the 21st century and in the same house
+
+81
+00:03:04,620 --> 00:03:08,520
+there were people working other startup
+
+82
+00:03:05,760 --> 00:03:11,550
+ideas as six months after launch its it
+
+83
+00:03:08,520 --> 00:03:13,260
+really takes a while and so stripe is
+
+84
+00:03:11,550 --> 00:03:15,630
+obviously very very different to
+
+85
+00:03:13,260 --> 00:03:18,480
+Facebook and Airbnb and and nowhere near
+
+86
+00:03:15,630 --> 00:03:19,710
+as sort of far along as they are but
+
+87
+00:03:18,480 --> 00:03:21,030
+we've now gone through a small bit of
+
+88
+00:03:19,710 --> 00:03:24,300
+growth and so I want to try to describe
+
+89
+00:03:21,030 --> 00:03:26,790
+how it how it actually works in October
+
+90
+00:03:24,300 --> 00:03:29,060
+of 2009 John and I were walking home
+
+91
+00:03:26,790 --> 00:03:30,870
+from dinner in Potrero up in the city
+
+92
+00:03:29,060 --> 00:03:32,790
+and we should have been kicking around
+
+93
+00:03:30,870 --> 00:03:34,650
+this idea of starting an online payments
+
+94
+00:03:32,790 --> 00:03:36,240
+company we're really kind of fascinated
+
+95
+00:03:34,650 --> 00:03:37,650
+by the concept of internet payments and
+
+96
+00:03:36,240 --> 00:03:41,160
+all the other companies in the space
+
+97
+00:03:37,650 --> 00:03:42,600
+seemed like total dinosaurs and it's the
+
+98
+00:03:41,160 --> 00:03:43,920
+web sort of spread around the world and
+
+99
+00:03:42,600 --> 00:03:44,580
+more deeply into our lives through
+
+100
+00:03:43,920 --> 00:03:45,810
+mobile devices
+
+101
+00:03:44,580 --> 00:03:48,180
+it seemed kind of obvious there should
+
+102
+00:03:45,810 --> 00:03:49,830
+be some kind of universal payments
+
+103
+00:03:48,180 --> 00:03:51,570
+infrastructure of the Internet though it
+
+104
+00:03:49,830 --> 00:03:55,440
+should be just really easy to transact
+
+105
+00:03:51,570 --> 00:03:57,810
+online and John just turned to me said
+
+106
+00:03:55,440 --> 00:03:59,310
+you know well didn't debate about it you
+
+107
+00:03:57,810 --> 00:04:01,230
+know how do we just go build it probably
+
+108
+00:03:59,310 --> 00:04:03,910
+won't be all that hard he actually said
+
+109
+00:04:01,230 --> 00:04:07,410
+that it probably would be all that hard
+
+110
+00:04:03,910 --> 00:04:10,750
+and so I said okay sure why not
+
+111
+00:04:07,410 --> 00:04:13,720
+backtrack a little bit here John is my
+
+112
+00:04:10,750 --> 00:04:17,320
+co-founder right stripe um he's Alta my
+
+113
+00:04:13,720 --> 00:04:19,390
+brother and people often asked me about
+
+114
+00:04:17,320 --> 00:04:21,100
+how this works in practice and so for
+
+115
+00:04:19,390 --> 00:04:22,390
+the record starting a company with your
+
+116
+00:04:21,100 --> 00:04:24,550
+brother turns out to your really good
+
+117
+00:04:22,390 --> 00:04:25,960
+idea John is not only one of most
+
+118
+00:04:24,550 --> 00:04:27,850
+brilliant people I know I think he got
+
+119
+00:04:25,960 --> 00:04:30,010
+the highest-ever results in ireland's
+
+120
+00:04:27,850 --> 00:04:31,150
+university entrance examinations but
+
+121
+00:04:30,010 --> 00:04:33,010
+he's also someone with whom I've
+
+122
+00:04:31,150 --> 00:04:35,320
+literally decades of experience building
+
+123
+00:04:33,010 --> 00:04:40,000
+things here's an an earlier venture that
+
+124
+00:04:35,320 --> 00:04:42,010
+we worked on together and so it's
+
+125
+00:04:40,000 --> 00:04:43,930
+October 2009 we decide to work in this
+
+126
+00:04:42,010 --> 00:04:47,290
+online payments company we decided to
+
+127
+00:04:43,930 --> 00:04:48,970
+call it slash dev slash payments you
+
+128
+00:04:47,290 --> 00:04:50,980
+know the API should be just as
+
+129
+00:04:48,970 --> 00:04:54,040
+straightforward as any other node in dev
+
+130
+00:04:50,980 --> 00:04:56,830
+FS we're kind of okay at programming and
+
+131
+00:04:54,040 --> 00:04:58,120
+definitely not at naming things but
+
+132
+00:04:56,830 --> 00:05:00,130
+everyone else seriously have been
+
+133
+00:04:58,120 --> 00:05:01,690
+targeting their product it's like they
+
+134
+00:05:00,130 --> 00:05:03,580
+told was it a finance sector product
+
+135
+00:05:01,690 --> 00:05:05,560
+they were targeting is CFO's and at
+
+136
+00:05:03,580 --> 00:05:07,120
+business people and we thought the
+
+137
+00:05:05,560 --> 00:05:08,860
+internet was just moving in a completely
+
+138
+00:05:07,120 --> 00:05:10,330
+different direction and we decided to
+
+139
+00:05:08,860 --> 00:05:12,640
+target makers the people actually
+
+140
+00:05:10,330 --> 00:05:14,830
+building things we thought that internet
+
+141
+00:05:12,640 --> 00:05:16,510
+payments was a technology problem and we
+
+142
+00:05:14,830 --> 00:05:19,630
+wanted to build a completely new stack
+
+143
+00:05:16,510 --> 00:05:21,400
+for anybody transacting online so we
+
+144
+00:05:19,630 --> 00:05:22,960
+work nights and weekends we were both in
+
+145
+00:05:21,400 --> 00:05:24,670
+college at the time I was at MIT and
+
+146
+00:05:22,960 --> 00:05:25,870
+John was up the road at Harvard and so
+
+147
+00:05:24,670 --> 00:05:28,890
+we'd code together in the evenings
+
+148
+00:05:25,870 --> 00:05:31,360
+between problem sets and writing papers
+
+149
+00:05:28,890 --> 00:05:32,530
+January rolled rounds which for both of
+
+150
+00:05:31,360 --> 00:05:34,870
+those schools you sort of have that
+
+151
+00:05:32,530 --> 00:05:36,280
+month off but of course anybody who
+
+152
+00:05:34,870 --> 00:05:38,500
+knows Boston knows that January in
+
+153
+00:05:36,280 --> 00:05:39,460
+Boston is unbelievably freezing and so
+
+154
+00:05:38,500 --> 00:05:41,650
+we decide to go somewhere else to work
+
+155
+00:05:39,460 --> 00:05:43,720
+for the month we'd read a few blogs that
+
+156
+00:05:41,650 --> 00:05:45,400
+claim that Buenos Aires was surprisingly
+
+157
+00:05:43,720 --> 00:05:47,920
+a really good place to get things done
+
+158
+00:05:45,400 --> 00:05:49,960
+it's it's pretty cheap it's really warm
+
+159
+00:05:47,920 --> 00:05:51,240
+its friendly for some reason I don't
+
+160
+00:05:49,960 --> 00:05:53,290
+know why there was Wi-Fi everywhere
+
+161
+00:05:51,240 --> 00:05:54,730
+everything happens on a really late
+
+162
+00:05:53,290 --> 00:05:56,080
+schedule like the bars are open till
+
+163
+00:05:54,730 --> 00:05:58,090
+5:00 a.m. nobody has dinner until
+
+164
+00:05:56,080 --> 00:06:00,370
+midnight and nothing nothing starts
+
+165
+00:05:58,090 --> 00:06:02,800
+before noon and it's busy a city on a
+
+166
+00:06:00,370 --> 00:06:04,300
+program reschedule
+
+167
+00:06:02,800 --> 00:06:06,759
+and so you read all this and we're like
+
+168
+00:06:04,300 --> 00:06:08,680
+great we're good of one azari's and so
+
+169
+00:06:06,759 --> 00:06:11,379
+we did and we just worked non-stop in
+
+170
+00:06:08,680 --> 00:06:13,300
+cafes for three weeks I've still never
+
+171
+00:06:11,379 --> 00:06:15,220
+seen a single one of like the tourist
+
+172
+00:06:13,300 --> 00:06:19,330
+attractions in Buenos Aires or I presume
+
+173
+00:06:15,220 --> 00:06:20,409
+they exist and and then we'd like we
+
+174
+00:06:19,330 --> 00:06:22,060
+could all day and we'd go to dinner
+
+175
+00:06:20,409 --> 00:06:22,300
+eleven o'clock or something and then go
+
+176
+00:06:22,060 --> 00:06:25,360
+to bed
+
+177
+00:06:22,300 --> 00:06:26,680
+um I can't have a size isn't enough if
+
+178
+00:06:25,360 --> 00:06:27,970
+you want to get something done consider
+
+179
+00:06:26,680 --> 00:06:31,900
+going to minus R Eason
+
+180
+00:06:27,970 --> 00:06:35,229
+On January 9 we we got our first
+
+181
+00:06:31,900 --> 00:06:38,979
+production user for left / dad flex
+
+182
+00:06:35,229 --> 00:06:40,180
+payments I can't really say it and this
+
+183
+00:06:38,979 --> 00:06:42,250
+is only a few weeks after we started
+
+184
+00:06:40,180 --> 00:06:44,259
+working on it but we really wanted to
+
+185
+00:06:42,250 --> 00:06:46,750
+get production users shaping a product
+
+186
+00:06:44,259 --> 00:06:48,520
+as quickly as we could the user was a
+
+187
+00:06:46,750 --> 00:06:49,960
+friend of ours a guy called Russ Boucher
+
+188
+00:06:48,520 --> 00:06:51,880
+was working a company called trading
+
+189
+00:06:49,960 --> 00:06:53,919
+north at the time who's also actually YC
+
+190
+00:06:51,880 --> 00:06:55,419
+funded and funnily enough he actually
+
+191
+00:06:53,919 --> 00:06:57,719
+became the seventh person to work at
+
+192
+00:06:55,419 --> 00:07:00,039
+stripe but that's a separate story and
+
+193
+00:06:57,719 --> 00:07:01,810
+here's a screenshot of what debt
+
+194
+00:07:00,039 --> 00:07:03,039
+payments looked like at the time and
+
+195
+00:07:01,810 --> 00:07:04,479
+this screenshot you can see that John
+
+196
+00:07:03,039 --> 00:07:08,020
+and I are definitely programmers and app
+
+197
+00:07:04,479 --> 00:07:11,340
+designers but okay so January 9th
+
+198
+00:07:08,020 --> 00:07:11,340
+we now have one user and
+
+199
+00:07:17,740 --> 00:07:22,160
+this is a great story from the early
+
+200
+00:07:20,180 --> 00:07:23,540
+days of Amazon that I have a celebrated
+
+201
+00:07:22,160 --> 00:07:27,200
+when they got their first fire who
+
+202
+00:07:23,540 --> 00:07:29,090
+wasn't any of their moms and you know
+
+203
+00:07:27,200 --> 00:07:31,100
+Ross wasn't exactly our mom but he was a
+
+204
+00:07:29,090 --> 00:07:33,560
+good friend and so he definitely weren't
+
+205
+00:07:31,100 --> 00:07:35,240
+out of the woods just yet so he went
+
+206
+00:07:33,560 --> 00:07:36,800
+back to school and weakened huge work on
+
+207
+00:07:35,240 --> 00:07:38,210
+death payments in our spare time there
+
+208
+00:07:36,800 --> 00:07:39,620
+was this one cafe that I worked out of
+
+209
+00:07:38,210 --> 00:07:40,880
+so much they like took pity on me and
+
+210
+00:07:39,620 --> 00:07:44,840
+I'm still Facebook friends with a bunch
+
+211
+00:07:40,880 --> 00:07:46,400
+of the Bruce says that's yeah like
+
+212
+00:07:44,840 --> 00:07:48,410
+strife is a kind of unusual company
+
+213
+00:07:46,400 --> 00:07:50,660
+we're about technology but we're also
+
+214
+00:07:48,410 --> 00:07:53,300
+about payments and the technology side
+
+215
+00:07:50,660 --> 00:07:55,100
+requires good reliability and you know
+
+216
+00:07:53,300 --> 00:07:57,170
+clean API is an really nice product and
+
+217
+00:07:55,100 --> 00:07:59,480
+sort of lots of technology things we at
+
+218
+00:07:57,170 --> 00:08:01,220
+least hope to know something about but
+
+219
+00:07:59,480 --> 00:08:02,570
+the payment side requires working with
+
+220
+00:08:01,220 --> 00:08:04,820
+banks and dealing with credit card
+
+221
+00:08:02,570 --> 00:08:07,130
+companies and just generally handling a
+
+222
+00:08:04,820 --> 00:08:09,770
+slew of finance industry issue issues
+
+223
+00:08:07,130 --> 00:08:11,600
+through really had no experience with a
+
+224
+00:08:09,770 --> 00:08:13,100
+no idea how to handle we had a lot of
+
+225
+00:08:11,600 --> 00:08:16,310
+meetings where I sort of sat somebody
+
+226
+00:08:13,100 --> 00:08:19,370
+down and said right so payments how do
+
+227
+00:08:16,310 --> 00:08:21,230
+they work and you know programmers often
+
+228
+00:08:19,370 --> 00:08:22,550
+and this is unfortunate so looked down
+
+229
+00:08:21,230 --> 00:08:24,350
+at the folks who are trying to learn to
+
+230
+00:08:22,550 --> 00:08:26,450
+code the sort of I want to learn real to
+
+231
+00:08:24,350 --> 00:08:28,130
+my web startup crowd but I actually
+
+232
+00:08:26,450 --> 00:08:31,490
+bought a sympathy for them because we
+
+233
+00:08:28,130 --> 00:08:33,410
+were that but put in finance somewhere
+
+234
+00:08:31,490 --> 00:08:35,210
+came around when I was six months in we
+
+235
+00:08:33,410 --> 00:08:36,380
+moved out to Palo Alto and though we
+
+236
+00:08:35,210 --> 00:08:38,240
+hadn't actually yet decided to take a
+
+237
+00:08:36,380 --> 00:08:40,850
+leave from school we found a tiny
+
+238
+00:08:38,240 --> 00:08:42,770
+bungalow at just off University Ave the
+
+239
+00:08:40,850 --> 00:08:44,780
+living room and the kitchen became our
+
+240
+00:08:42,770 --> 00:08:46,400
+office it was pretty hot reading of any
+
+241
+00:08:44,780 --> 00:08:48,320
+air-conditioning and so John just slept
+
+242
+00:08:46,400 --> 00:08:49,340
+in the garden most nights and he
+
+243
+00:08:48,320 --> 00:08:53,150
+wouldn't allow me to post a picture of
+
+244
+00:08:49,340 --> 00:08:54,650
+this um and by and large we just kept on
+
+245
+00:08:53,150 --> 00:08:55,910
+writing code because I mean that's
+
+246
+00:08:54,650 --> 00:08:57,170
+mostly what starting a software company
+
+247
+00:08:55,910 --> 00:08:59,390
+looks like in the early days you're
+
+248
+00:08:57,170 --> 00:09:00,710
+either writing code or you're talking to
+
+249
+00:08:59,390 --> 00:09:02,930
+people who use the code or you're
+
+250
+00:09:00,710 --> 00:09:04,790
+probably wasting time and here's a chart
+
+251
+00:09:02,930 --> 00:09:07,040
+of our transaction volume over the first
+
+252
+00:09:04,790 --> 00:09:09,920
+six months and and that's not a
+
+253
+00:09:07,040 --> 00:09:12,050
+technical error if you look really
+
+254
+00:09:09,920 --> 00:09:15,140
+closely even see a tiny little wiggly
+
+255
+00:09:12,050 --> 00:09:18,650
+line at the bottom it's admittedly not
+
+256
+00:09:15,140 --> 00:09:19,970
+wiggling all that much around this time
+
+257
+00:09:18,650 --> 00:09:22,610
+though we did of our first person join
+
+258
+00:09:19,970 --> 00:09:23,960
+we're based in Silicon Valley home to
+
+259
+00:09:22,610 --> 00:09:26,750
+the best international talents from
+
+260
+00:09:23,960 --> 00:09:27,350
+Berlin to Beijing to Bangalore and so of
+
+261
+00:09:26,750 --> 00:09:28,640
+course we took
+
+262
+00:09:27,350 --> 00:09:30,200
+advantage of it we heard a guy called
+
+263
+00:09:28,640 --> 00:09:32,270
+DARAB Utley who was one of my smartest
+
+264
+00:09:30,200 --> 00:09:33,710
+friends from college and he grew up in a
+
+265
+00:09:32,270 --> 00:09:35,570
+small town called Limerick in Ireland
+
+266
+00:09:33,710 --> 00:09:39,290
+about two miles from her John and I grew
+
+267
+00:09:35,570 --> 00:09:41,390
+up we altar rates our first investment I
+
+268
+00:09:39,290 --> 00:09:43,010
+have a first real investment I guess YC
+
+269
+00:09:41,390 --> 00:09:46,040
+had obviously already invested and and
+
+270
+00:09:43,010 --> 00:09:47,900
+this was from from Peter teal after then
+
+271
+00:09:46,040 --> 00:09:49,880
+we hadn't told very many people about
+
+272
+00:09:47,900 --> 00:09:51,260
+dev payments and those we had told had
+
+273
+00:09:49,880 --> 00:09:53,810
+reacted mostly by telling us we were
+
+274
+00:09:51,260 --> 00:09:57,770
+crazy but of course luckily Peter teal
+
+275
+00:09:53,810 --> 00:09:59,330
+is crazy and so he invested and it's
+
+276
+00:09:57,770 --> 00:10:01,460
+been really helpful to have him on board
+
+277
+00:09:59,330 --> 00:10:03,230
+soon after that moved into our first
+
+278
+00:10:01,460 --> 00:10:06,500
+office and which looked something like
+
+279
+00:10:03,230 --> 00:10:08,630
+this it's actually sort of it's it's a
+
+280
+00:10:06,500 --> 00:10:10,430
+Ramona in University and Palo Alto just
+
+281
+00:10:08,630 --> 00:10:11,840
+next sort of koopa cafe that's actually
+
+282
+00:10:10,430 --> 00:10:13,400
+a converted house and because it was a
+
+283
+00:10:11,840 --> 00:10:14,530
+house it had this wonderful fireplace
+
+284
+00:10:13,400 --> 00:10:16,460
+they were able to light in the winter
+
+285
+00:10:14,530 --> 00:10:17,930
+the fireplace looks something like this
+
+286
+00:10:16,460 --> 00:10:19,100
+which I think may have contravenes some
+
+287
+00:10:17,930 --> 00:10:21,310
+fire in the workplace codes and
+
+288
+00:10:19,100 --> 00:10:24,770
+basically we're just working non-stop
+
+289
+00:10:21,310 --> 00:10:26,360
+we we actually have we became four
+
+290
+00:10:24,770 --> 00:10:27,860
+people around this time that the first
+
+291
+00:10:26,360 --> 00:10:29,540
+person fourth person was a guy named
+
+292
+00:10:27,860 --> 00:10:31,490
+Greg I remember
+
+293
+00:10:29,540 --> 00:10:33,530
+when Greg was considering joining and
+
+294
+00:10:31,490 --> 00:10:35,210
+dropping out of school he asked me about
+
+295
+00:10:33,530 --> 00:10:37,310
+our work schedule and whether or not we
+
+296
+00:10:35,210 --> 00:10:38,630
+worked weekends obviously we did work
+
+297
+00:10:37,310 --> 00:10:40,100
+weekends but it really didn't want to
+
+298
+00:10:38,630 --> 00:10:41,690
+make it sort of scare him off and make
+
+299
+00:10:40,100 --> 00:10:43,430
+it seem like he'd have to answer so I
+
+300
+00:10:41,690 --> 00:10:44,990
+sort of said well you know we usually
+
+301
+00:10:43,430 --> 00:10:46,640
+work some of the weekend we really care
+
+302
+00:10:44,990 --> 00:10:47,810
+about work-life balance and Greg just
+
+303
+00:10:46,640 --> 00:10:49,040
+cut me off and he's like great I'm
+
+304
+00:10:47,810 --> 00:10:52,880
+better on the same page I working all
+
+305
+00:10:49,040 --> 00:10:56,240
+day every day and so we knew he'd fit in
+
+306
+00:10:52,880 --> 00:10:57,680
+we decided to change our name I can't
+
+307
+00:10:56,240 --> 00:11:02,480
+even begin to list the problems that
+
+308
+00:10:57,680 --> 00:11:03,950
+flashed as slash payments had somehow it
+
+309
+00:11:02,480 --> 00:11:06,770
+turned out that not everyone immediately
+
+310
+00:11:03,950 --> 00:11:07,880
+got the deficit analogy nobody was
+
+311
+00:11:06,770 --> 00:11:09,200
+really able to get their head around the
+
+312
+00:11:07,880 --> 00:11:12,820
+whole slash thing and we started to get
+
+313
+00:11:09,200 --> 00:11:12,820
+mail with things like this
+
+314
+00:11:12,850 --> 00:11:17,350
+and and then there was the admittedly
+
+315
+00:11:15,519 --> 00:11:18,789
+pretty inconvenient fact that Amazon had
+
+316
+00:11:17,350 --> 00:11:21,669
+launched a product an online payments
+
+317
+00:11:18,789 --> 00:11:23,079
+product called Amazon dev pay and so if
+
+318
+00:11:21,669 --> 00:11:25,629
+Precure this wasn't going to work out
+
+319
+00:11:23,079 --> 00:11:27,069
+and so we spent hours brainstorming
+
+320
+00:11:25,629 --> 00:11:29,350
+names and we eventually came up with the
+
+321
+00:11:27,069 --> 00:11:30,429
+name stripe and we didn't actually think
+
+322
+00:11:29,350 --> 00:11:31,629
+that stripe was all that great a name
+
+323
+00:11:30,429 --> 00:11:32,589
+when we first came up with it but we
+
+324
+00:11:31,629 --> 00:11:33,850
+decide to just put a date in the
+
+325
+00:11:32,589 --> 00:11:36,069
+calendar and if we didn't cover the
+
+326
+00:11:33,850 --> 00:11:38,049
+better name by that date then we'd
+
+327
+00:11:36,069 --> 00:11:39,579
+secret stripe and sure enough it became
+
+328
+00:11:38,049 --> 00:11:40,899
+stripe and actually a few months later I
+
+329
+00:11:39,579 --> 00:11:42,189
+learned that this is our Apple ended up
+
+330
+00:11:40,899 --> 00:11:46,389
+with the name Apple it's the exact same
+
+331
+00:11:42,189 --> 00:11:48,489
+date thing anyway reach the end of our
+
+332
+00:11:46,389 --> 00:11:50,109
+first year mostly intact a bunch of Y
+
+333
+00:11:48,489 --> 00:11:51,519
+Combinator companies start to use stripe
+
+334
+00:11:50,109 --> 00:11:53,679
+and that was pretty good we're getting
+
+335
+00:11:51,519 --> 00:11:55,600
+some real feedback and here's another
+
+336
+00:11:53,679 --> 00:11:57,939
+chart this is our transaction volume
+
+337
+00:11:55,600 --> 00:12:00,489
+through the first year and so you can
+
+338
+00:11:57,939 --> 00:12:03,339
+see still kind of a ways to go we spent
+
+339
+00:12:00,489 --> 00:12:05,319
+January 2011 or when your anniversary in
+
+340
+00:12:03,339 --> 00:12:06,910
+Rio de Janeiro because January in South
+
+341
+00:12:05,319 --> 00:12:08,109
+America was not becoming a tradition as
+
+342
+00:12:06,910 --> 00:12:09,669
+anyone who's been to Rio de Janeiro
+
+343
+00:12:08,109 --> 00:12:12,399
+knows it's one of the most beautiful
+
+344
+00:12:09,669 --> 00:12:15,149
+places on earth and of course we took
+
+345
+00:12:12,399 --> 00:12:15,149
+full advantage of it
+
+346
+00:12:17,390 --> 00:12:21,330
+at this point we're still an invite-only
+
+347
+00:12:19,680 --> 00:12:22,680
+private beta and so there probably is
+
+348
+00:12:21,330 --> 00:12:24,570
+something obvious we could have done to
+
+349
+00:12:22,680 --> 00:12:26,760
+grow at least a little bit faster ie to
+
+350
+00:12:24,570 --> 00:12:29,370
+launch a friend refers to invite only
+
+351
+00:12:26,760 --> 00:12:31,730
+private beta as the baby blanket of
+
+352
+00:12:29,370 --> 00:12:33,900
+startups and I think that's about right
+
+353
+00:12:31,730 --> 00:12:36,630
+but the beta period was actually really
+
+354
+00:12:33,900 --> 00:12:38,550
+helpful to stripe um amber Paul Buchheit
+
+355
+00:12:36,630 --> 00:12:40,800
+saying that should start out by making
+
+356
+00:12:38,550 --> 00:12:43,050
+hundred people really happy rather than
+
+357
+00:12:40,800 --> 00:12:45,360
+many more people only a little bit happy
+
+358
+00:12:43,050 --> 00:12:47,310
+I mean you really took this to heart and
+
+359
+00:12:45,360 --> 00:12:48,960
+took advantage of the the small number
+
+360
+00:12:47,310 --> 00:12:50,610
+of users to sort of really focus on them
+
+361
+00:12:48,960 --> 00:12:52,380
+as much as we could and so really try to
+
+362
+00:12:50,610 --> 00:12:54,030
+figure out what they wanted it's a
+
+363
+00:12:52,380 --> 00:12:55,560
+forgettable not long after we launched
+
+364
+00:12:54,030 --> 00:12:57,240
+the first version of strife we added
+
+365
+00:12:55,560 --> 00:12:58,830
+pager duty so we'd all get calls from
+
+366
+00:12:57,240 --> 00:13:00,750
+the side was down you pretty standard
+
+367
+00:12:58,830 --> 00:13:03,540
+and pretty reasonable but then we
+
+368
+00:13:00,750 --> 00:13:04,920
+realized that any time a user gets any
+
+369
+00:13:03,540 --> 00:13:06,450
+kind of error like even if the site
+
+370
+00:13:04,920 --> 00:13:08,070
+isn't down that's actually a really bad
+
+371
+00:13:06,450 --> 00:13:10,020
+experience for them and we could
+
+372
+00:13:08,070 --> 00:13:11,400
+probably make them much happier if we
+
+373
+00:13:10,020 --> 00:13:12,810
+went and investigated the error and sort
+
+374
+00:13:11,400 --> 00:13:15,480
+of proactively reach out to them and
+
+375
+00:13:12,810 --> 00:13:17,460
+helped him fix it and so we changed the
+
+376
+00:13:15,480 --> 00:13:20,190
+code a little bit so that anytime anyone
+
+377
+00:13:17,460 --> 00:13:21,330
+hit any error it would send an email
+
+378
+00:13:20,190 --> 00:13:23,580
+that would go sort of straight the top
+
+379
+00:13:21,330 --> 00:13:26,490
+of everybody's inbox and would also
+
+380
+00:13:23,580 --> 00:13:28,530
+phone everybody and and we'd go and fix
+
+381
+00:13:26,490 --> 00:13:29,790
+it no matter what and I really mean that
+
+382
+00:13:28,530 --> 00:13:32,400
+like we would get out of bed if
+
+383
+00:13:29,790 --> 00:13:34,440
+necessary and we're basically never
+
+384
+00:13:32,400 --> 00:13:37,220
+without a laptop and the means to tether
+
+385
+00:13:34,440 --> 00:13:39,330
+here's a photo of one such incident
+
+386
+00:13:37,220 --> 00:13:41,370
+this is bragging eye we'd gone to the
+
+387
+00:13:39,330 --> 00:13:42,750
+cinema in Redwood City a user
+
+388
+00:13:41,370 --> 00:13:44,280
+encountered an error and so of course
+
+389
+00:13:42,750 --> 00:13:46,350
+out came our laptops and we had to go
+
+390
+00:13:44,280 --> 00:13:47,550
+fix it I think Greg I think Greg is here
+
+391
+00:13:46,350 --> 00:13:48,720
+summer actually and I think he still
+
+392
+00:13:47,550 --> 00:13:51,120
+feels a little bit bitter about missing
+
+393
+00:13:48,720 --> 00:13:52,440
+the start of the movie over this and the
+
+394
+00:13:51,120 --> 00:13:56,250
+movie may or may not have been Twilight
+
+395
+00:13:52,440 --> 00:13:58,730
+Breaking Dawn start ups are high stress
+
+396
+00:13:56,250 --> 00:13:58,730
+you need to unwind
+
+397
+00:13:59,910 --> 00:14:04,209
+we also realized that I am in with an
+
+398
+00:14:02,379 --> 00:14:05,560
+engineer is basically the best support
+
+399
+00:14:04,209 --> 00:14:07,389
+experience possible like it's really
+
+400
+00:14:05,560 --> 00:14:09,759
+frustrating to have to go in to file a
+
+401
+00:14:07,389 --> 00:14:11,019
+ticket and more like find the support
+
+402
+00:14:09,759 --> 00:14:12,160
+email address and then wonder does this
+
+403
+00:14:11,019 --> 00:14:13,509
+come to actually apply to their support
+
+404
+00:14:12,160 --> 00:14:15,519
+emails or if they do reply how long does
+
+405
+00:14:13,509 --> 00:14:16,959
+it take them or all these issues like
+
+406
+00:14:15,519 --> 00:14:18,550
+it's much nice we can just start sort of
+
+407
+00:14:16,959 --> 00:14:20,230
+directly chatting with somebody and it's
+
+408
+00:14:18,550 --> 00:14:21,790
+also way more productive for us because
+
+409
+00:14:20,230 --> 00:14:23,290
+we can then go and sort of try to figure
+
+410
+00:14:21,790 --> 00:14:24,459
+out what the underlying issue is rather
+
+411
+00:14:23,290 --> 00:14:26,230
+than having to sort of guess based on
+
+412
+00:14:24,459 --> 00:14:28,360
+the user's initial description so we
+
+413
+00:14:26,230 --> 00:14:29,769
+just opened up this this chat system on
+
+414
+00:14:28,360 --> 00:14:31,089
+our website where anyone can jump in and
+
+415
+00:14:29,769 --> 00:14:32,470
+just start asking questions and we
+
+416
+00:14:31,089 --> 00:14:35,019
+actually still have this today and that
+
+417
+00:14:32,470 --> 00:14:37,629
+was it was really good but then we
+
+418
+00:14:35,019 --> 00:14:39,519
+thought why stop there
+
+419
+00:14:37,629 --> 00:14:41,290
+isn't it really a really bad experience
+
+420
+00:14:39,519 --> 00:14:43,360
+when somebody asks a question and
+
+421
+00:14:41,290 --> 00:14:46,029
+there's nobody there to answer them and
+
+422
+00:14:43,360 --> 00:14:47,560
+so we thought aha pager duty and so we
+
+423
+00:14:46,029 --> 00:14:49,180
+hooked it up so that if you asked a
+
+424
+00:14:47,560 --> 00:14:50,829
+question in the Striped chat room and
+
+425
+00:14:49,180 --> 00:14:52,060
+there was nobody there to answer you it
+
+426
+00:14:50,829 --> 00:14:54,279
+would go and phone one of us after 30
+
+427
+00:14:52,060 --> 00:14:56,290
+seconds and so I don't think many people
+
+428
+00:14:54,279 --> 00:14:57,819
+know this for like for many months at
+
+429
+00:14:56,290 --> 00:14:58,810
+stripe if you asked a question in our
+
+430
+00:14:57,819 --> 00:15:00,189
+chat room and there's no one there to
+
+431
+00:14:58,810 --> 00:15:03,250
+answer someone will be woken up if
+
+432
+00:15:00,189 --> 00:15:05,399
+necessary to help you we don't do that
+
+433
+00:15:03,250 --> 00:15:05,399
+tonight
+
+434
+00:15:06,240 --> 00:15:10,870
+and so those stripe wasn't yet publicly
+
+435
+00:15:09,160 --> 00:15:12,730
+available to everyone we really tried to
+
+436
+00:15:10,870 --> 00:15:14,500
+sort of turn up the dial on our users
+
+437
+00:15:12,730 --> 00:15:16,360
+feedback and to force ourselves to be
+
+438
+00:15:14,500 --> 00:15:19,000
+extremely sensitive to what they wanted
+
+439
+00:15:16,360 --> 00:15:21,100
+and to what their experience was like we
+
+440
+00:15:19,000 --> 00:15:23,350
+our users talking to us during every
+
+441
+00:15:21,100 --> 00:15:24,910
+waking hour and if anything went wrong
+
+442
+00:15:23,350 --> 00:15:27,550
+for them they were like literally
+
+443
+00:15:24,910 --> 00:15:28,569
+interrupting our sleep the other thing
+
+444
+00:15:27,550 --> 00:15:30,160
+that kept us in beta was the fact we
+
+445
+00:15:28,569 --> 00:15:31,750
+weren't just building a thin software
+
+446
+00:15:30,160 --> 00:15:33,069
+layer and we thought that stripe should
+
+447
+00:15:31,750 --> 00:15:34,600
+encompass everything from the API
+
+448
+00:15:33,069 --> 00:15:35,620
+requests to have the money ended up in
+
+449
+00:15:34,600 --> 00:15:37,329
+your bank account and we wanted to be
+
+450
+00:15:35,620 --> 00:15:39,040
+able to define the complete experience
+
+451
+00:15:37,329 --> 00:15:41,740
+and we wanted to be able to do it at
+
+452
+00:15:39,040 --> 00:15:43,870
+scale we were sort of really influenced
+
+453
+00:15:41,740 --> 00:15:46,149
+by things like Amazon Web Services in
+
+454
+00:15:43,870 --> 00:15:48,730
+ec2 which just it's really interesting
+
+455
+00:15:46,149 --> 00:15:50,019
+innovation because ec2 is fantastic if
+
+456
+00:15:48,730 --> 00:15:51,550
+you're a small company or a startup
+
+457
+00:15:50,019 --> 00:15:53,920
+startup or a side project or something
+
+458
+00:15:51,550 --> 00:15:56,199
+like this but its scale is right through
+
+459
+00:15:53,920 --> 00:15:58,990
+to be a Netflix or a Zynga or indeed an
+
+460
+00:15:56,199 --> 00:16:01,209
+Amazon it'll work for a company of any
+
+461
+00:15:58,990 --> 00:16:02,439
+size and we decided that we wanted to do
+
+462
+00:16:01,209 --> 00:16:03,730
+that but for internet payments
+
+463
+00:16:02,439 --> 00:16:05,019
+infrastructure we wanted to make
+
+464
+00:16:03,730 --> 00:16:06,730
+something that was really easy to start
+
+465
+00:16:05,019 --> 00:16:08,889
+with but something would also work for
+
+466
+00:16:06,730 --> 00:16:09,970
+the largest companies in the world until
+
+467
+00:16:08,889 --> 00:16:10,740
+that meant working with really good
+
+468
+00:16:09,970 --> 00:16:11,820
+banks
+
+469
+00:16:10,740 --> 00:16:12,810
+but the problem is that banks and
+
+470
+00:16:11,820 --> 00:16:15,180
+startups are basically the business
+
+471
+00:16:12,810 --> 00:16:16,520
+equivalent of oil and water and figuring
+
+472
+00:16:15,180 --> 00:16:18,630
+out how to combine them is pretty hard
+
+473
+00:16:16,520 --> 00:16:19,920
+the best bank in the business is
+
+474
+00:16:18,630 --> 00:16:21,060
+probably Wells Fargo which powers some
+
+475
+00:16:19,920 --> 00:16:23,279
+of the largest payments companies in the
+
+476
+00:16:21,060 --> 00:16:25,680
+world and honestly it was pretty tough
+
+477
+00:16:23,279 --> 00:16:27,990
+to get them to talk to us or us even to
+
+478
+00:16:25,680 --> 00:16:29,100
+like return our emails and they probably
+
+479
+00:16:27,990 --> 00:16:31,230
+thought were some strange kind of
+
+480
+00:16:29,100 --> 00:16:32,640
+Nigerian scam like make money online
+
+481
+00:16:31,230 --> 00:16:37,170
+fast all from the comfort of your own
+
+482
+00:16:32,640 --> 00:16:38,610
+home so we asked a friend and investor
+
+483
+00:16:37,170 --> 00:16:41,370
+actually now a partner at Y Combinator
+
+484
+00:16:38,610 --> 00:16:42,660
+Jeff Ralston to help out Jeff had
+
+485
+00:16:41,370 --> 00:16:45,149
+previously been CEO of a company called
+
+486
+00:16:42,660 --> 00:16:46,500
+Lala an online music startup and they
+
+487
+00:16:45,149 --> 00:16:48,209
+had negotiated successfully with the
+
+488
+00:16:46,500 --> 00:16:50,250
+record labels and we thought that if you
+
+489
+00:16:48,209 --> 00:16:51,600
+could as a technology startup could say
+
+490
+00:16:50,250 --> 00:16:52,770
+it successfully with record labels you
+
+491
+00:16:51,600 --> 00:16:56,070
+could basically convince anyone in the
+
+492
+00:16:52,770 --> 00:16:57,630
+world to do anything ever and here's a
+
+493
+00:16:56,070 --> 00:16:59,520
+picture of Jeff on a conference call
+
+494
+00:16:57,630 --> 00:17:02,160
+with Wells Fargo and that's that's Dara
+
+495
+00:16:59,520 --> 00:17:04,370
+there on the other side and you might
+
+496
+00:17:02,160 --> 00:17:06,660
+wonder why is Jeff from the floor well
+
+497
+00:17:04,370 --> 00:17:09,270
+Jeff is on the floor because our office
+
+498
+00:17:06,660 --> 00:17:12,449
+was also flooded at the time and we also
+
+499
+00:17:09,270 --> 00:17:13,949
+had a security audit that day sometimes
+
+500
+00:17:12,449 --> 00:17:15,839
+turrets are just like a reality TV show
+
+501
+00:17:13,949 --> 00:17:17,490
+it's like negotiate with one of the
+
+502
+00:17:15,839 --> 00:17:19,679
+biggest banks in the world while
+
+503
+00:17:17,490 --> 00:17:22,079
+undergoing a security audit while
+
+504
+00:17:19,679 --> 00:17:23,160
+waiting through water and I don't know
+
+505
+00:17:22,079 --> 00:17:27,480
+the water is full of piranhas or
+
+506
+00:17:23,160 --> 00:17:28,890
+something but I see Jeff and a bunch of
+
+507
+00:17:27,480 --> 00:17:30,750
+others we eventually convinced Wells
+
+508
+00:17:28,890 --> 00:17:32,460
+Fargo to become one of our backends this
+
+509
+00:17:30,750 --> 00:17:33,809
+meant moving all of our systems to work
+
+510
+00:17:32,460 --> 00:17:35,280
+on top of their platform and was a
+
+511
+00:17:33,809 --> 00:17:36,780
+couple of weeks of honestly really
+
+512
+00:17:35,280 --> 00:17:39,330
+intense work we had to sort of hit a
+
+513
+00:17:36,780 --> 00:17:42,510
+particular deadline this is the night of
+
+514
+00:17:39,330 --> 00:17:44,280
+our first successful transaction this is
+
+515
+00:17:42,510 --> 00:17:47,190
+John after another particularly long
+
+516
+00:17:44,280 --> 00:17:48,600
+all-nighter and in general and I kind of
+
+517
+00:17:47,190 --> 00:17:50,670
+mean this seriously like this is the
+
+518
+00:17:48,600 --> 00:17:52,800
+unglamorous site of startups that people
+
+519
+00:17:50,670 --> 00:17:54,600
+do not get to see all that much like you
+
+520
+00:17:52,800 --> 00:17:55,860
+really want to make something work and a
+
+521
+00:17:54,600 --> 00:17:58,500
+lot of other people think that it's a
+
+522
+00:17:55,860 --> 00:18:01,080
+bad idea and it's really hard and
+
+523
+00:17:58,500 --> 00:18:03,960
+everything happens much much slower than
+
+524
+00:18:01,080 --> 00:18:05,520
+you like and you've sort of many late
+
+525
+00:18:03,960 --> 00:18:07,140
+night discussions like this and sort of
+
+526
+00:18:05,520 --> 00:18:09,179
+soul-searching debates and wondering
+
+527
+00:18:07,140 --> 00:18:10,830
+like this is actually a good idea or
+
+528
+00:18:09,179 --> 00:18:13,860
+maybe it is a good idea but it's just
+
+529
+00:18:10,830 --> 00:18:17,130
+too hard for us to pull off and syrups
+
+530
+00:18:13,860 --> 00:18:18,420
+are hard and the thing is this doesn't
+
+531
+00:18:17,130 --> 00:18:19,500
+actually go away this is the thing that
+
+532
+00:18:18,420 --> 00:18:20,460
+I didn't realize before doing a startup
+
+533
+00:18:19,500 --> 00:18:22,169
+I thought that sort of you have all
+
+534
+00:18:20,460 --> 00:18:23,609
+these doubts in the early days
+
+535
+00:18:22,169 --> 00:18:26,249
+then it was hard to take off and things
+
+536
+00:18:23,609 --> 00:18:28,109
+would get easy but no matter how
+
+537
+00:18:26,249 --> 00:18:30,570
+successful you will have lots of doubts
+
+538
+00:18:28,109 --> 00:18:32,190
+and the first American to win the trade
+
+539
+00:18:30,570 --> 00:18:34,470
+of France was a guy called Greg Lomond
+
+540
+00:18:32,190 --> 00:18:38,039
+and he has this quote I've always really
+
+541
+00:18:34,470 --> 00:18:40,470
+liked it doesn't get easier you just got
+
+542
+00:18:38,039 --> 00:18:42,539
+to go faster and it's kind of like this
+
+543
+00:18:40,470 --> 00:18:44,249
+foot startups like the startup might
+
+544
+00:18:42,539 --> 00:18:47,759
+might start going faster but it doesn't
+
+545
+00:18:44,249 --> 00:18:49,109
+really get easier in our case we
+
+546
+00:18:47,759 --> 00:18:50,639
+eventually got the pieces in place and
+
+547
+00:18:49,109 --> 00:18:53,220
+we got to the point for ready to launch
+
+548
+00:18:50,639 --> 00:18:57,749
+we launched in the 29th of September
+
+549
+00:18:53,220 --> 00:18:59,700
+2011 so just over a year ago at that
+
+550
+00:18:57,749 --> 00:19:02,850
+time stripe didn't predict had been in
+
+551
+00:18:59,700 --> 00:19:04,470
+production use for 19 months and and
+
+552
+00:19:02,850 --> 00:19:05,359
+we've been working at full time for a
+
+553
+00:19:04,470 --> 00:19:08,100
+year and three months
+
+554
+00:19:05,359 --> 00:19:11,309
+we're ten people when we launched I fail
+
+555
+00:19:08,100 --> 00:19:13,320
+to fit all the names in a tree and by
+
+556
+00:19:11,309 --> 00:19:15,720
+the end of the year here's what our
+
+557
+00:19:13,320 --> 00:19:17,730
+daily transaction volume looked like you
+
+558
+00:19:15,720 --> 00:19:20,730
+know kind of promising but the launching
+
+559
+00:19:17,730 --> 00:19:23,149
+is definitely not a panacea but the
+
+560
+00:19:20,730 --> 00:19:26,820
+signs were positive and we kept going
+
+561
+00:19:23,149 --> 00:19:29,279
+and over the last few months like two
+
+562
+00:19:26,820 --> 00:19:30,899
+and a half years in stripe is finally
+
+563
+00:19:29,279 --> 00:19:33,389
+started to become an overnight success
+
+564
+00:19:30,899 --> 00:19:35,009
+Jessica talked about how startups are
+
+565
+00:19:33,389 --> 00:19:37,529
+our roller coasters and there's a lot of
+
+566
+00:19:35,009 --> 00:19:38,730
+downs but there's also ups and the next
+
+567
+00:19:37,529 --> 00:19:42,049
+slide is our daily transaction volume
+
+568
+00:19:38,730 --> 00:19:42,049
+through to today and it looks like this
+
+569
+00:19:51,090 --> 00:19:57,460
+from being four people not all that long
+
+570
+00:19:53,860 --> 00:19:58,990
+ago stripe is now 34 people which is
+
+571
+00:19:57,460 --> 00:20:00,850
+actually twice as many people as are in
+
+572
+00:19:58,990 --> 00:20:01,900
+this picture because everything is
+
+573
+00:20:00,850 --> 00:20:03,130
+always behind them I start off and we
+
+574
+00:20:01,900 --> 00:20:06,400
+haven't got around to taking our new
+
+575
+00:20:03,130 --> 00:20:07,810
+group shot yet and many thousands of
+
+576
+00:20:06,400 --> 00:20:09,310
+companies are using stripe and a lot of
+
+577
+00:20:07,810 --> 00:20:10,510
+new ones go live every day and I mean
+
+578
+00:20:09,310 --> 00:20:14,110
+it's a bunch of well-known brands like
+
+579
+00:20:10,510 --> 00:20:16,540
+Foursquare and foxy and Hipmunk and the
+
+580
+00:20:14,110 --> 00:20:17,770
+FF and New York moment but a lot of less
+
+581
+00:20:16,540 --> 00:20:18,880
+well-known ones too and and they
+
+582
+00:20:17,770 --> 00:20:20,740
+actually tend to be sort of just as
+
+583
+00:20:18,880 --> 00:20:22,690
+interesting there's things like good
+
+584
+00:20:20,740 --> 00:20:25,900
+eggs which enables you to buy directly
+
+585
+00:20:22,690 --> 00:20:27,730
+from local farmers or samasource which
+
+586
+00:20:25,900 --> 00:20:29,680
+brings computer-based work to people
+
+587
+00:20:27,730 --> 00:20:31,090
+living in poverty or even stuff like the
+
+588
+00:20:29,680 --> 00:20:34,210
+Bedford cheese shop which is never just
+
+589
+00:20:31,090 --> 00:20:37,650
+selling its cheese online I guess I just
+
+590
+00:20:34,210 --> 00:20:37,650
+hungry you guys making these slides and
+
+591
+00:20:37,830 --> 00:20:42,850
+she seemed like a good idea okay um
+
+592
+00:20:40,350 --> 00:20:45,580
+has anyone here ever looked into the
+
+593
+00:20:42,850 --> 00:20:46,750
+history of container shipping sorry I
+
+594
+00:20:45,580 --> 00:20:51,070
+know this is a context switch from
+
+595
+00:20:46,750 --> 00:20:52,630
+cheese container shipping like and the
+
+596
+00:20:51,070 --> 00:20:54,640
+shipping container like those 40-foot
+
+597
+00:20:52,630 --> 00:20:55,900
+shipping containers on some level
+
+598
+00:20:54,640 --> 00:20:57,400
+they're the most mundane thing in the
+
+599
+00:20:55,900 --> 00:20:59,050
+world and we see them around all the
+
+600
+00:20:57,400 --> 00:21:02,770
+time but there were actually an
+
+601
+00:20:59,050 --> 00:21:04,920
+absolutely enormous innovation sixty
+
+602
+00:21:02,770 --> 00:21:07,270
+years ago before shipping containers
+
+603
+00:21:04,920 --> 00:21:09,760
+transportation was a massive issue with
+
+604
+00:21:07,270 --> 00:21:12,550
+physical goods transportation costs
+
+605
+00:21:09,760 --> 00:21:14,950
+often accounted for up to 25 percent of
+
+606
+00:21:12,550 --> 00:21:17,110
+the final cost of a physical item and
+
+607
+00:21:14,950 --> 00:21:19,330
+overall transportation costs and
+
+608
+00:21:17,110 --> 00:21:21,640
+shipping costs were like 10 percent of
+
+609
+00:21:19,330 --> 00:21:24,220
+the value of all the imports in the US
+
+610
+00:21:21,640 --> 00:21:26,530
+like think about that from a 10% that
+
+611
+00:21:24,220 --> 00:21:27,910
+means if your margins 20 percent just by
+
+612
+00:21:26,530 --> 00:21:30,760
+bringing you're good to another market
+
+613
+00:21:27,910 --> 00:21:32,380
+you cut your profit in half and so
+
+614
+00:21:30,760 --> 00:21:34,060
+unsurprisingly most manufacturing
+
+615
+00:21:32,380 --> 00:21:36,640
+happens are very close to where a
+
+616
+00:21:34,060 --> 00:21:37,840
+physical product was consumed until the
+
+617
+00:21:36,640 --> 00:21:38,950
+shipping container invented in the
+
+618
+00:21:37,840 --> 00:21:41,170
+mid-1950s
+
+619
+00:21:38,950 --> 00:21:43,210
+essentially eliminated the cost of
+
+620
+00:21:41,170 --> 00:21:46,150
+shipping physical goods it cut the cost
+
+621
+00:21:43,210 --> 00:21:48,580
+of loading and unloading ships by 95%
+
+622
+00:21:46,150 --> 00:21:50,320
+and it's now at the point 4 and actually
+
+623
+00:21:48,580 --> 00:21:52,360
+quoting this from a US government report
+
+624
+00:21:50,320 --> 00:21:56,890
+it's better to assume that moving goods
+
+625
+00:21:52,360 --> 00:21:57,970
+is essentially costless really and the
+
+626
+00:21:56,890 --> 00:21:59,920
+history here is fascinating there's a
+
+627
+00:21:57,970 --> 00:22:01,720
+few kind of good books about it but the
+
+628
+00:21:59,920 --> 00:22:03,330
+point is like this technological
+
+629
+00:22:01,720 --> 00:22:05,670
+breakthrough and sort of this
+
+630
+00:22:03,330 --> 00:22:08,040
+of friction and a particular this
+
+631
+00:22:05,670 --> 00:22:10,170
+abstraction of our geography it played
+
+632
+00:22:08,040 --> 00:22:11,790
+an enormous role in in facilitating the
+
+633
+00:22:10,170 --> 00:22:13,470
+rise of Singapore and South Korea and
+
+634
+00:22:11,790 --> 00:22:16,980
+Taiwan and Japan and China as
+
+635
+00:22:13,470 --> 00:22:18,540
+manufacturing hubs and we pointed really
+
+636
+00:22:16,980 --> 00:22:20,310
+that a technology that doesn't just
+
+637
+00:22:18,540 --> 00:22:22,890
+monetize itself but actually enables
+
+638
+00:22:20,310 --> 00:22:25,110
+newcomers can really enormous impact
+
+639
+00:22:22,890 --> 00:22:26,870
+like the shipping container literally
+
+640
+00:22:25,110 --> 00:22:29,070
+reshaped the world's economy
+
+641
+00:22:26,870 --> 00:22:30,690
+we sometimes subscribe we're doing with
+
+642
+00:22:29,070 --> 00:22:33,840
+stripe as building economic
+
+643
+00:22:30,690 --> 00:22:36,150
+infrastructure for the Internet it's not
+
+644
+00:22:33,840 --> 00:22:38,670
+very flashy but for most of human
+
+645
+00:22:36,150 --> 00:22:41,670
+history we've had to buy from the people
+
+646
+00:22:38,670 --> 00:22:44,370
+beside us but and thanks to the internet
+
+647
+00:22:41,670 --> 00:22:47,370
+that's no longer true we have a new way
+
+648
+00:22:44,370 --> 00:22:50,460
+to abstract over place anyone can now
+
+649
+00:22:47,370 --> 00:22:52,050
+build a global business but yeah while
+
+650
+00:22:50,460 --> 00:22:53,940
+the Internet has revolutionized how we
+
+651
+00:22:52,050 --> 00:22:56,760
+communicate and how we collaborate and
+
+652
+00:22:53,940 --> 00:22:59,310
+how we share we've only sort of started
+
+653
+00:22:56,760 --> 00:23:01,920
+to explore how that can change what we
+
+654
+00:22:59,310 --> 00:23:03,750
+create and how we transact and what kind
+
+655
+00:23:01,920 --> 00:23:05,010
+of business is possible and a lot of the
+
+656
+00:23:03,750 --> 00:23:06,870
+other companies whose founders are
+
+657
+00:23:05,010 --> 00:23:10,380
+speaking today are pretty good examples
+
+658
+00:23:06,870 --> 00:23:11,970
+of that it's with stripe we simply want
+
+659
+00:23:10,380 --> 00:23:14,640
+to turn payments into a ubiquitous
+
+660
+00:23:11,970 --> 00:23:16,850
+utility we want more commerce on the
+
+661
+00:23:14,640 --> 00:23:19,260
+Internet
+
+662
+00:23:16,850 --> 00:23:20,790
+but it's still really early days and
+
+663
+00:23:19,260 --> 00:23:22,400
+honestly most of the time we're not
+
+664
+00:23:20,790 --> 00:23:24,960
+thinking about these kinds of problems
+
+665
+00:23:22,400 --> 00:23:28,350
+we're trying figure I had to decrease
+
+666
+00:23:24,960 --> 00:23:30,540
+the load on DB 3 or trying to get some
+
+667
+00:23:28,350 --> 00:23:34,050
+particular design you know just right
+
+668
+00:23:30,540 --> 00:23:35,550
+and working for the 20th iteration we're
+
+669
+00:23:34,050 --> 00:23:38,190
+wondering if some particular product is
+
+670
+00:23:35,550 --> 00:23:39,480
+a good idea or having some debate you
+
+671
+00:23:38,190 --> 00:23:41,340
+know in Gmail that's so long we've
+
+672
+00:23:39,480 --> 00:23:42,870
+overflowed the Gmail thread limit and
+
+673
+00:23:41,340 --> 00:23:45,510
+it's now become something completely new
+
+674
+00:23:42,870 --> 00:23:48,600
+thread or like it's all the the
+
+675
+00:23:45,510 --> 00:23:51,150
+day-to-day stuff but you know it turns
+
+676
+00:23:48,600 --> 00:23:53,220
+out that all the high-level stuff the
+
+677
+00:23:51,150 --> 00:23:55,470
+the larger motivations and the bigger
+
+678
+00:23:53,220 --> 00:23:57,690
+ideas and the day-to-day implementation
+
+679
+00:23:55,470 --> 00:24:00,450
+like the debates and the tweaking and
+
+680
+00:23:57,690 --> 00:24:02,250
+the and the iterations both of them are
+
+681
+00:24:00,450 --> 00:24:05,720
+really addictive and that's why we keep
+
+682
+00:24:02,250 --> 00:24:05,720
+doing this thank you
+

@@ -1,0 +1,2084 @@
+﻿1
+00:00:00,060 --> 00:00:04,920
+well thanks for having me guys you hear
+
+2
+00:00:01,890 --> 00:00:06,600
+me alright cool so I wanted to start by
+
+3
+00:00:04,920 --> 00:00:08,490
+just going over the Weebly story a
+
+4
+00:00:06,600 --> 00:00:10,830
+little bit telling you kind of how we
+
+5
+00:00:08,490 --> 00:00:12,559
+got to where we got to today and some of
+
+6
+00:00:10,830 --> 00:00:15,330
+the lessons we learned along the way so
+
+7
+00:00:12,559 --> 00:00:16,830
+what is Weebly first of all is if some
+
+8
+00:00:15,330 --> 00:00:19,770
+of you guys haven't heard of it
+
+9
+00:00:16,830 --> 00:00:21,779
+Weebly is a simple and powerful way to
+
+10
+00:00:19,770 --> 00:00:23,400
+create a site people want to create a
+
+11
+00:00:21,779 --> 00:00:25,470
+site they want to create a blog they
+
+12
+00:00:23,400 --> 00:00:27,000
+want to sell things online and they just
+
+13
+00:00:25,470 --> 00:00:30,300
+want to work they don't want any of the
+
+14
+00:00:27,000 --> 00:00:32,730
+frustrations around it so let me show
+
+15
+00:00:30,300 --> 00:00:36,149
+you a couple Weebly sites the first site
+
+16
+00:00:32,730 --> 00:00:39,000
+is a photographer from Toronto
+
+17
+00:00:36,149 --> 00:00:41,520
+showcasing their photography the second
+
+18
+00:00:39,000 --> 00:00:43,050
+site is an interior designer from Oregon
+
+19
+00:00:41,520 --> 00:00:44,370
+these they've actually been featured in
+
+20
+00:00:43,050 --> 00:00:46,800
+dwell magazine for their interior
+
+21
+00:00:44,370 --> 00:00:48,930
+designs run their website on Weebly the
+
+22
+00:00:46,800 --> 00:00:50,520
+third side is a graphic designer from
+
+23
+00:00:48,930 --> 00:00:51,000
+California can see all these sites just
+
+24
+00:00:50,520 --> 00:00:54,329
+look great
+
+25
+00:00:51,000 --> 00:00:57,480
+and not one line of HTML or CSS was
+
+26
+00:00:54,329 --> 00:01:00,719
+written for these sites this next site
+
+27
+00:00:57,480 --> 00:01:03,149
+is pretty special this is Brian he's 80
+
+28
+00:01:00,719 --> 00:01:05,549
+years old he retired and his passion is
+
+29
+00:01:03,149 --> 00:01:07,439
+building ukuleles and he started doing
+
+30
+00:01:05,549 --> 00:01:09,630
+his spare time went on Weebly and
+
+31
+00:01:07,439 --> 00:01:11,159
+created a website what do you know the
+
+32
+00:01:09,630 --> 00:01:12,689
+word got out and you know he could build
+
+33
+00:01:11,159 --> 00:01:15,090
+a couple ukuleles out of a shop per
+
+34
+00:01:12,689 --> 00:01:18,570
+month he now has a three to six month
+
+35
+00:01:15,090 --> 00:01:20,130
+back order of ukuleles and this last
+
+36
+00:01:18,570 --> 00:01:22,200
+site is really special to us
+
+37
+00:01:20,130 --> 00:01:26,070
+you may have seen that along with not
+
+38
+00:01:22,200 --> 00:01:27,330
+initiative I think last year but but
+
+39
+00:01:26,070 --> 00:01:29,970
+this group of students who had
+
+40
+00:01:27,330 --> 00:01:32,640
+volunteered in Kenya heard this story
+
+41
+00:01:29,970 --> 00:01:33,689
+about Omari that had been brutally
+
+42
+00:01:32,640 --> 00:01:34,829
+attacked while trying to fend his
+
+43
+00:01:33,689 --> 00:01:36,600
+orphanage and they didn't even have a
+
+44
+00:01:34,829 --> 00:01:38,130
+fence to defend themselves so they
+
+45
+00:01:36,600 --> 00:01:40,680
+created a Weebly website about this
+
+46
+00:01:38,130 --> 00:01:43,619
+posted it to Reddit and were able to
+
+47
+00:01:40,680 --> 00:01:45,570
+raise over $100,000 in less than a week
+
+48
+00:01:43,619 --> 00:01:47,040
+for the orphanage and they built a they
+
+49
+00:01:45,570 --> 00:01:47,880
+built a wall and a fence and much more
+
+50
+00:01:47,040 --> 00:01:51,479
+than that and that's actually now
+
+51
+00:01:47,880 --> 00:01:52,649
+helping out that orphanage in Kenya so a
+
+52
+00:01:51,479 --> 00:01:56,340
+little bit about our story and how we
+
+53
+00:01:52,649 --> 00:01:59,329
+got to where we are today in early 2006
+
+54
+00:01:56,340 --> 00:02:02,219
+as part of a class project at Penn State
+
+55
+00:01:59,329 --> 00:02:03,960
+we were came up with the same idea six
+
+56
+00:02:02,219 --> 00:02:06,990
+years ago we thought you know why is
+
+57
+00:02:03,960 --> 00:02:08,369
+this so hard why is it still so hard to
+
+58
+00:02:06,990 --> 00:02:11,470
+build a website we're seeing people all
+
+59
+00:02:08,369 --> 00:02:13,570
+around us that we're just struggling
+
+60
+00:02:11,470 --> 00:02:15,190
+and so we came up with the idea we start
+
+61
+00:02:13,570 --> 00:02:16,780
+working on now I'm gonna introduce you
+
+62
+00:02:15,190 --> 00:02:20,200
+to the theme in the presentation here
+
+63
+00:02:16,780 --> 00:02:24,070
+this is a graph of our new signups per
+
+64
+00:02:20,200 --> 00:02:26,350
+day now this is August 2006 this is real
+
+65
+00:02:24,070 --> 00:02:27,880
+data and you can see up at the top it's
+
+66
+00:02:26,350 --> 00:02:32,230
+six months after we started working on
+
+67
+00:02:27,880 --> 00:02:34,090
+Weebly so six months six months after we
+
+68
+00:02:32,230 --> 00:02:37,990
+wrote our first line of code our grand
+
+69
+00:02:34,090 --> 00:02:38,980
+sign of day we got 12 new users and you
+
+70
+00:02:37,990 --> 00:02:40,840
+know it's just kind of friends and
+
+71
+00:02:38,980 --> 00:02:41,920
+family it was so alpha stage this wasn't
+
+72
+00:02:40,840 --> 00:02:43,270
+something that was easy to pump out a
+
+73
+00:02:41,920 --> 00:02:45,520
+month is something that was difficult
+
+74
+00:02:43,270 --> 00:02:46,960
+that took some time to build so over
+
+75
+00:02:45,520 --> 00:02:48,100
+that summer dan and I and Chris were
+
+76
+00:02:46,960 --> 00:02:50,470
+working on it
+
+77
+00:02:48,100 --> 00:02:52,060
+here's October 2006 eight months later
+
+78
+00:02:50,470 --> 00:02:55,090
+so we've now been writing code and
+
+79
+00:02:52,060 --> 00:02:57,370
+working on the idea for eight months we
+
+80
+00:02:55,090 --> 00:02:59,080
+posted a private beta invitation on some
+
+81
+00:02:57,370 --> 00:03:01,720
+forums and we thought man this is gonna
+
+82
+00:02:59,080 --> 00:03:05,290
+blow up and we got about 30 people
+
+83
+00:03:01,720 --> 00:03:07,840
+signed up that day so you know around
+
+84
+00:03:05,290 --> 00:03:09,550
+this time I was up pretty late at night
+
+85
+00:03:07,840 --> 00:03:11,290
+was browsing / thought that kind of
+
+86
+00:03:09,550 --> 00:03:12,760
+tells you also you know that was the
+
+87
+00:03:11,290 --> 00:03:15,400
+most popular tech news site back then
+
+88
+00:03:12,760 --> 00:03:16,959
+and I was reading an article on Y
+
+89
+00:03:15,400 --> 00:03:18,130
+Combinator I said you know I think I've
+
+90
+00:03:16,959 --> 00:03:20,050
+heard about this coming before I'm not
+
+91
+00:03:18,130 --> 00:03:21,250
+really sure started reading the article
+
+92
+00:03:20,050 --> 00:03:21,700
+oh this sounds really cool it sounds
+
+93
+00:03:21,250 --> 00:03:26,370
+interesting
+
+94
+00:03:21,700 --> 00:03:26,370
+Oh application deadlines in two hours so
+
+95
+00:03:26,580 --> 00:03:30,510
+well I thought you know what the hell
+
+96
+00:03:28,660 --> 00:03:32,650
+I'll put something together really quick
+
+97
+00:03:30,510 --> 00:03:34,780
+you know it doesn't hurt to apply now I
+
+98
+00:03:32,650 --> 00:03:36,970
+didn't actually have enough time to call
+
+99
+00:03:34,780 --> 00:03:39,880
+a Dan or Chris to ask them if they'd be
+
+100
+00:03:36,970 --> 00:03:43,120
+willing to drop out of school moved to
+
+101
+00:03:39,880 --> 00:03:45,190
+San Francisco so I took a guess I
+
+102
+00:03:43,120 --> 00:03:46,510
+figured you know Chris would probably do
+
+103
+00:03:45,190 --> 00:03:49,269
+it he's a little he's a pretty wild guy
+
+104
+00:03:46,510 --> 00:03:50,709
+and Dan's a pretty wild guy too but but
+
+105
+00:03:49,269 --> 00:03:53,980
+I figured he might want to finish his
+
+106
+00:03:50,709 --> 00:03:56,080
+college career so you know we we applied
+
+107
+00:03:53,980 --> 00:03:59,440
+to YC with literally less than an hour
+
+108
+00:03:56,080 --> 00:04:02,560
+to go on the clock got accepted for an
+
+109
+00:03:59,440 --> 00:04:03,880
+interview drove up to Boston interviewed
+
+110
+00:04:02,560 --> 00:04:06,280
+we thought we thought it was great
+
+111
+00:04:03,880 --> 00:04:07,870
+incidentally the morning of the
+
+112
+00:04:06,280 --> 00:04:10,930
+interview I wake up check my phone I'm
+
+113
+00:04:07,870 --> 00:04:12,070
+ringing email bleary-eyed and and I got
+
+114
+00:04:10,930 --> 00:04:14,200
+an email from someone Congrats on the
+
+115
+00:04:12,070 --> 00:04:16,180
+tech crunching what the hell is this
+
+116
+00:04:14,200 --> 00:04:18,130
+about so open TechCrunch is just so
+
+117
+00:04:16,180 --> 00:04:19,550
+happened that TechCrunch operated by us
+
+118
+00:04:18,130 --> 00:04:21,110
+that morning the
+
+119
+00:04:19,550 --> 00:04:24,200
+you know I'm sure it definitely didn't
+
+120
+00:04:21,110 --> 00:04:25,400
+hurt with the interview but I also had
+
+121
+00:04:24,200 --> 00:04:28,460
+to explain this graph this is really
+
+122
+00:04:25,400 --> 00:04:31,100
+important this is not normally what a
+
+123
+00:04:28,460 --> 00:04:33,970
+tech crunching looks like normally it
+
+124
+00:04:31,100 --> 00:04:36,860
+goes straight up and straight back down
+
+125
+00:04:33,970 --> 00:04:38,150
+we had an invitation system in place you
+
+126
+00:04:36,860 --> 00:04:41,090
+know make sure our servers didn't crash
+
+127
+00:04:38,150 --> 00:04:43,520
+and so that's why I see it spread out
+
+128
+00:04:41,090 --> 00:04:45,970
+over more time but you know later that
+
+129
+00:04:43,520 --> 00:04:48,890
+night though you know Paul told us
+
+130
+00:04:45,970 --> 00:04:50,750
+expect a call from us by 7:00 p.m. the
+
+131
+00:04:48,890 --> 00:04:52,520
+same day we'll let you know if he made
+
+132
+00:04:50,750 --> 00:04:55,520
+it or not so you know we were pretty
+
+133
+00:04:52,520 --> 00:04:56,990
+nervous and we went out to dinner and we
+
+134
+00:04:55,520 --> 00:04:58,640
+sat down and literally I remember you
+
+135
+00:04:56,990 --> 00:05:00,410
+know 7:00 p.m. rolled around and 8:00
+
+136
+00:04:58,640 --> 00:05:01,640
+p.m. rolled around and we were all just
+
+137
+00:05:00,410 --> 00:05:03,350
+staring at our plates of food in front
+
+138
+00:05:01,640 --> 00:05:05,240
+of us like we literally couldn't eat we
+
+139
+00:05:03,350 --> 00:05:06,410
+were so nervous and then by 9:00 p.m.
+
+140
+00:05:05,240 --> 00:05:08,150
+we're like this is it we're definitely
+
+141
+00:05:06,410 --> 00:05:09,820
+not making it in they've called everyone
+
+142
+00:05:08,150 --> 00:05:12,230
+they've accepted and now they're just
+
+143
+00:05:09,820 --> 00:05:16,490
+calling the losers that aren't getting
+
+144
+00:05:12,230 --> 00:05:18,260
+in so I think around 9:00 9:30 the phone
+
+145
+00:05:16,490 --> 00:05:19,700
+call from Paul comes and I answer and
+
+146
+00:05:18,260 --> 00:05:24,430
+literally his first words were I'm
+
+147
+00:05:19,700 --> 00:05:24,430
+calling to end your college career so
+
+148
+00:05:24,550 --> 00:05:29,060
+you know funnily enough you know I ended
+
+149
+00:05:27,680 --> 00:05:30,950
+up talking to Dan later and say hey guys
+
+150
+00:05:29,060 --> 00:05:32,570
+you wanna do you wanna you know I know
+
+151
+00:05:30,950 --> 00:05:33,770
+we have a semester left but it sounds
+
+152
+00:05:32,570 --> 00:05:35,750
+crazy but how about we just drop out of
+
+153
+00:05:33,770 --> 00:05:36,950
+school moved to San Francisco what do
+
+154
+00:05:35,750 --> 00:05:37,640
+you think of it and Chris was like hell
+
+155
+00:05:36,950 --> 00:05:41,270
+yeah let's do it
+
+156
+00:05:37,640 --> 00:05:42,650
+and and as Dan I'm like Dan like what do
+
+157
+00:05:41,270 --> 00:05:45,730
+you think this is pretty crazy he's like
+
+158
+00:05:42,650 --> 00:05:47,960
+yeah I'm on board that sounds awesome so
+
+159
+00:05:45,730 --> 00:05:49,880
+you know this is this is a picture of us
+
+160
+00:05:47,960 --> 00:05:52,490
+that we took right after we got that
+
+161
+00:05:49,880 --> 00:05:55,430
+phone call I think this picture was also
+
+162
+00:05:52,490 --> 00:05:57,770
+right after we each took three shots at
+
+163
+00:05:55,430 --> 00:06:01,490
+the bar to celebrate and this is with
+
+164
+00:05:57,770 --> 00:06:03,830
+our friend Dana so the next graph is
+
+165
+00:06:01,490 --> 00:06:05,960
+January 2007 so we move out to San
+
+166
+00:06:03,830 --> 00:06:08,570
+Francisco start the Y Combinator program
+
+167
+00:06:05,960 --> 00:06:09,590
+it's now 11 months after we started
+
+168
+00:06:08,570 --> 00:06:11,240
+working on Weebly you know this is a
+
+169
+00:06:09,590 --> 00:06:12,380
+pretty long time this is almost a full
+
+170
+00:06:11,240 --> 00:06:13,940
+year after you started writing our first
+
+171
+00:06:12,380 --> 00:06:15,530
+line of code I want you to take a look
+
+172
+00:06:13,940 --> 00:06:16,060
+at this graph and I want you to notice
+
+173
+00:06:15,530 --> 00:06:19,670
+something
+
+174
+00:06:16,060 --> 00:06:20,900
+this isn't straight up into the right it
+
+175
+00:06:19,670 --> 00:06:22,490
+goes straight up it comes straight back
+
+176
+00:06:20,900 --> 00:06:23,870
+down now maybe you got a couple
+
+177
+00:06:22,490 --> 00:06:25,430
+squiggles here that a little that are a
+
+178
+00:06:23,870 --> 00:06:26,570
+little hopeful but things aren't looking
+
+179
+00:06:25,430 --> 00:06:28,010
+great we're getting less than a hundred
+
+180
+00:06:26,570 --> 00:06:30,080
+people per day signing up right now
+
+181
+00:06:28,010 --> 00:06:32,560
+almost a year after we started working
+
+182
+00:06:30,080 --> 00:06:35,150
+on Weebly
+
+183
+00:06:32,560 --> 00:06:37,220
+you know this is a picture of our first
+
+184
+00:06:35,150 --> 00:06:38,450
+office so we literally moved into an
+
+185
+00:06:37,220 --> 00:06:39,770
+apartment
+
+186
+00:06:38,450 --> 00:06:41,060
+we put three desks together you could
+
+187
+00:06:39,770 --> 00:06:42,620
+really tell how long ago this was
+
+188
+00:06:41,060 --> 00:06:45,110
+because that old-ass TV in the lower
+
+189
+00:06:42,620 --> 00:06:47,510
+right-hand corner and then and the
+
+190
+00:06:45,110 --> 00:06:49,220
+15-inch monitors and we literally just
+
+191
+00:06:47,510 --> 00:06:50,810
+pushed three desks together put it in
+
+192
+00:06:49,220 --> 00:06:53,240
+the living room and this is this is what
+
+193
+00:06:50,810 --> 00:06:54,590
+startup looks like we just worked our
+
+194
+00:06:53,240 --> 00:06:57,290
+asses off we had one important rule
+
+195
+00:06:54,590 --> 00:06:59,330
+which is we took Saturday off but
+
+196
+00:06:57,290 --> 00:07:02,990
+otherwise every other moment every other
+
+197
+00:06:59,330 --> 00:07:04,250
+waking moment was 24/7 work wasn't all
+
+198
+00:07:02,990 --> 00:07:07,130
+bad we had a great view of the San
+
+199
+00:07:04,250 --> 00:07:09,680
+Francisco Bay and you know this is this
+
+200
+00:07:07,130 --> 00:07:11,120
+is a fun story this is a little display
+
+201
+00:07:09,680 --> 00:07:13,010
+that Chris hacked up and he just put it
+
+202
+00:07:11,120 --> 00:07:14,390
+in the middle of the table and it showed
+
+203
+00:07:13,010 --> 00:07:15,500
+kind of some basic stats so it showed
+
+204
+00:07:14,390 --> 00:07:17,960
+like load average which you don't see
+
+205
+00:07:15,500 --> 00:07:20,960
+right here but it also showed total
+
+206
+00:07:17,960 --> 00:07:22,340
+users and logged in users and there's
+
+207
+00:07:20,960 --> 00:07:23,660
+three logging users here that's because
+
+208
+00:07:22,340 --> 00:07:32,300
+it was a three of us around the table
+
+209
+00:07:23,660 --> 00:07:34,130
+using Weebly and one of the one of our
+
+210
+00:07:32,300 --> 00:07:35,900
+biggest moments still I think in company
+
+211
+00:07:34,130 --> 00:07:39,050
+history was one night we were sitting
+
+212
+00:07:35,900 --> 00:07:44,510
+there and it went for you know and like
+
+213
+00:07:39,050 --> 00:07:46,970
+we were excited that was exciting so you
+
+214
+00:07:44,510 --> 00:07:48,110
+know in January 2007 we also got
+
+215
+00:07:46,970 --> 00:07:49,729
+featured on TechCrunch again this is
+
+216
+00:07:48,110 --> 00:07:52,220
+much more normal it goes straight up and
+
+217
+00:07:49,729 --> 00:07:53,720
+straight back down and you know again 11
+
+218
+00:07:52,220 --> 00:07:54,950
+months after we started working on
+
+219
+00:07:53,720 --> 00:07:57,860
+Weebly
+
+220
+00:07:54,950 --> 00:07:59,210
+this is April 2007 and there's a couple
+
+221
+00:07:57,860 --> 00:08:00,229
+hard times I also want to share cuz
+
+222
+00:07:59,210 --> 00:08:01,400
+sometimes you just hear about the good
+
+223
+00:08:00,229 --> 00:08:02,870
+stuff you don't hear about the bad stuff
+
+224
+00:08:01,400 --> 00:08:05,210
+you don't hear about the times were
+
+225
+00:08:02,870 --> 00:08:06,350
+really hard this is 14 months after you
+
+226
+00:08:05,210 --> 00:08:07,850
+start working on Whaley now the first
+
+227
+00:08:06,350 --> 00:08:12,020
+thing I want to address on this slide is
+
+228
+00:08:07,850 --> 00:08:14,570
+the signup graph I kind of want you to
+
+229
+00:08:12,020 --> 00:08:16,160
+look at the end there and notice you
+
+230
+00:08:14,570 --> 00:08:18,020
+know I think we were just oblivious and
+
+231
+00:08:16,160 --> 00:08:20,660
+very hopeful the time but that kind of
+
+232
+00:08:18,020 --> 00:08:22,100
+looks like it's heading down it's not
+
+233
+00:08:20,660 --> 00:08:25,220
+heading up it's actually heading in the
+
+234
+00:08:22,100 --> 00:08:26,840
+wrong direction at this point in April
+
+235
+00:08:25,220 --> 00:08:28,820
+2007 I mean we were just finishing the
+
+236
+00:08:26,840 --> 00:08:30,229
+YC program we were really hopeful that
+
+237
+00:08:28,820 --> 00:08:32,330
+we could raise money but you know
+
+238
+00:08:30,229 --> 00:08:33,589
+talking to some angel investors but at
+
+239
+00:08:32,330 --> 00:08:36,050
+one point we had less than 100 bucks in
+
+240
+00:08:33,589 --> 00:08:39,289
+our bank account and that's all the
+
+241
+00:08:36,050 --> 00:08:40,940
+money we had we you know we spent money
+
+242
+00:08:39,289 --> 00:08:42,909
+on two things early on we spent money on
+
+243
+00:08:40,940 --> 00:08:45,540
+rent and we spent money at the bar
+
+244
+00:08:42,909 --> 00:08:48,730
+and and and that's pretty much it and
+
+245
+00:08:45,540 --> 00:08:50,259
+you know we were pretty hopeful but rent
+
+246
+00:08:48,730 --> 00:08:51,310
+was coming up in two weeks and we had to
+
+247
+00:08:50,259 --> 00:08:52,389
+pay rent in two weeks so we started
+
+248
+00:08:51,310 --> 00:08:54,519
+talking about raising a friends and
+
+249
+00:08:52,389 --> 00:08:56,350
+family around we started talking about
+
+250
+00:08:54,519 --> 00:08:59,620
+moving to San Jose to save 800 bucks a
+
+251
+00:08:56,350 --> 00:09:04,959
+month and rent and luckily we didn't do
+
+252
+00:08:59,620 --> 00:09:06,160
+that yeah and you know luckily sort of
+
+253
+00:09:04,959 --> 00:09:08,440
+right in the nick of time
+
+254
+00:09:06,160 --> 00:09:12,009
+we end up raising 650k angel round from
+
+255
+00:09:08,440 --> 00:09:14,889
+from Ron from Steve Anderson Mike maples
+
+256
+00:09:12,009 --> 00:09:17,620
+a bunch of angels this is another thing
+
+257
+00:09:14,889 --> 00:09:19,209
+that really dates this story that big
+
+258
+00:09:17,620 --> 00:09:21,790
+stack of paperwork is when equity
+
+259
+00:09:19,209 --> 00:09:23,019
+financing looks like these days you know
+
+260
+00:09:21,790 --> 00:09:24,790
+all the financing most really stage
+
+261
+00:09:23,019 --> 00:09:27,459
+finances are done via convertible note
+
+262
+00:09:24,790 --> 00:09:31,269
+to three pages tops this is a fat stack
+
+263
+00:09:27,459 --> 00:09:33,399
+for an equity financing so you know the
+
+264
+00:09:31,269 --> 00:09:34,779
+next big thing for us was being featured
+
+265
+00:09:33,399 --> 00:09:37,329
+in Newsweek now this used to be of a
+
+266
+00:09:34,779 --> 00:09:38,709
+really big deal I don't know today if
+
+267
+00:09:37,329 --> 00:09:39,940
+it's as much of a big deal but back then
+
+268
+00:09:38,709 --> 00:09:42,009
+this was a huge deal this was the thing
+
+269
+00:09:39,940 --> 00:09:43,899
+that your parents like bought 10 copies
+
+270
+00:09:42,009 --> 00:09:47,829
+the magazine afford it to everyone they
+
+271
+00:09:43,899 --> 00:09:49,449
+knew and so this was a really big deal
+
+272
+00:09:47,829 --> 00:09:52,779
+15 months in that that was definitely a
+
+273
+00:09:49,449 --> 00:09:55,000
+high point and that's what that looks
+
+274
+00:09:52,779 --> 00:09:56,500
+like so now you're seeing the effect of
+
+275
+00:09:55,000 --> 00:09:57,880
+what being featured in Newsweek looks
+
+276
+00:09:56,500 --> 00:09:59,860
+like you know again it's a very similar
+
+277
+00:09:57,880 --> 00:10:02,740
+pattern it goes up and it comes right
+
+278
+00:09:59,860 --> 00:10:04,959
+back down you're now noticing you know
+
+279
+00:10:02,740 --> 00:10:08,920
+it settles higher that's definitely a
+
+280
+00:10:04,959 --> 00:10:12,759
+good sign but it's still going down it's
+
+281
+00:10:08,920 --> 00:10:16,089
+not going up this is 15 months after we
+
+282
+00:10:12,759 --> 00:10:19,480
+started working on Weebly you know
+
+283
+00:10:16,089 --> 00:10:22,300
+here's a shot of our office here in in
+
+284
+00:10:19,480 --> 00:10:24,490
+July 2007 and it's that's Dan sitting
+
+285
+00:10:22,300 --> 00:10:25,630
+there and that's also our stats
+
+286
+00:10:24,490 --> 00:10:28,149
+dashboard that you could kind of see
+
+287
+00:10:25,630 --> 00:10:30,939
+what's going on next big moment for us
+
+288
+00:10:28,149 --> 00:10:32,560
+around the same time was being featured
+
+289
+00:10:30,939 --> 00:10:36,699
+in time so we're featuring time is one
+
+290
+00:10:32,560 --> 00:10:39,009
+of the 50 best websites of 2007 this is
+
+291
+00:10:36,699 --> 00:10:41,350
+18 months after you start working on
+
+292
+00:10:39,009 --> 00:10:43,180
+Weebly a year and a half after we
+
+293
+00:10:41,350 --> 00:10:44,769
+started working on Weebly and things
+
+294
+00:10:43,180 --> 00:10:46,149
+still aren't taking off there's no
+
+295
+00:10:44,769 --> 00:10:47,889
+hockey stick here things are actually
+
+296
+00:10:46,149 --> 00:10:49,870
+going in the wrong direction now I want
+
+297
+00:10:47,889 --> 00:10:51,790
+to try something out here raise your
+
+298
+00:10:49,870 --> 00:10:52,470
+hand if you're currently working on a
+
+299
+00:10:51,790 --> 00:10:54,850
+startup
+
+300
+00:10:52,470 --> 00:10:56,740
+okay now keep
+
+301
+00:10:54,850 --> 00:10:59,110
+hand up nope nope cute keep your hands
+
+302
+00:10:56,740 --> 00:11:01,870
+up now keep your hand up only if you've
+
+303
+00:10:59,110 --> 00:11:05,259
+been working on for over 18 months okay
+
+304
+00:11:01,870 --> 00:11:07,060
+right that's what I thought it's a long
+
+305
+00:11:05,259 --> 00:11:09,220
+time this is a really long time and we
+
+306
+00:11:07,060 --> 00:11:10,600
+didn't have any we didn't have too much
+
+307
+00:11:09,220 --> 00:11:12,399
+positive we were just sort of naive we
+
+308
+00:11:10,600 --> 00:11:14,170
+were naively hopeful that things were
+
+309
+00:11:12,399 --> 00:11:15,699
+working out and we knew it was a good
+
+310
+00:11:14,170 --> 00:11:17,589
+problem to be solving we're getting
+
+311
+00:11:15,699 --> 00:11:20,920
+feedback from our users but you know the
+
+312
+00:11:17,589 --> 00:11:23,019
+metrics weren't entirely there yet and
+
+313
+00:11:20,920 --> 00:11:26,139
+this is where it changes this is this is
+
+314
+00:11:23,019 --> 00:11:27,970
+20 months and finally finally 20 months
+
+315
+00:11:26,139 --> 00:11:31,509
+after we start working on we were seeing
+
+316
+00:11:27,970 --> 00:11:33,880
+our first real traction now this is good
+
+317
+00:11:31,509 --> 00:11:35,440
+this is where your your rate of
+
+318
+00:11:33,880 --> 00:11:37,060
+acquiring news per day is increasing
+
+319
+00:11:35,440 --> 00:11:39,370
+linearly that's a pretty good thing and
+
+320
+00:11:37,060 --> 00:11:40,779
+one thing to notice you know you you
+
+321
+00:11:39,370 --> 00:11:42,370
+might think hey if only I get on
+
+322
+00:11:40,779 --> 00:11:44,079
+TechCrunch I'll blow up you know my
+
+323
+00:11:42,370 --> 00:11:46,149
+company will be successful if I just get
+
+324
+00:11:44,079 --> 00:11:49,240
+on TechCrunch well look all the way back
+
+325
+00:11:46,149 --> 00:11:51,430
+there just via word-of-mouth now we are
+
+326
+00:11:49,240 --> 00:11:53,170
+now getting more users every single day
+
+327
+00:11:51,430 --> 00:11:59,079
+than if we were featured in newsweek
+
+328
+00:11:53,170 --> 00:12:01,060
+time or TechCrunch in july 2008 we moved
+
+329
+00:11:59,079 --> 00:12:02,019
+in our first rail office 29 months after
+
+330
+00:12:01,060 --> 00:12:04,600
+you start working on we leave funny
+
+331
+00:12:02,019 --> 00:12:06,339
+story that TV on the wall got stolen our
+
+332
+00:12:04,600 --> 00:12:10,029
+office got broken into the first week we
+
+333
+00:12:06,339 --> 00:12:11,470
+moved in that was fun
+
+334
+00:12:10,029 --> 00:12:13,899
+getting a call from the police officer
+
+335
+00:12:11,470 --> 00:12:17,680
+at the next day bein like you gotta come
+
+336
+00:12:13,899 --> 00:12:19,899
+deal with your office is busted so you
+
+337
+00:12:17,680 --> 00:12:22,060
+know here's another picture and this is
+
+338
+00:12:19,899 --> 00:12:23,259
+this was just it was small it was 1400
+
+339
+00:12:22,060 --> 00:12:27,220
+square feet we ended up fitting I think
+
+340
+00:12:23,259 --> 00:12:28,569
+about 12 people there and and you know
+
+341
+00:12:27,220 --> 00:12:30,130
+around the summer time we started
+
+342
+00:12:28,569 --> 00:12:32,079
+looking at our bank account balance and
+
+343
+00:12:30,130 --> 00:12:33,550
+and you know we're like okay well you
+
+344
+00:12:32,079 --> 00:12:35,589
+know how much runway do we have this is
+
+345
+00:12:33,550 --> 00:12:37,269
+an important thing to know if you're not
+
+346
+00:12:35,589 --> 00:12:39,009
+profitable how much runway do we have we
+
+347
+00:12:37,269 --> 00:12:40,480
+said okay well well we really need to
+
+348
+00:12:39,009 --> 00:12:42,399
+start raising money in September
+
+349
+00:12:40,480 --> 00:12:43,720
+you know maybe October in November we're
+
+350
+00:12:42,399 --> 00:12:45,550
+gonna run out of money it's you know so
+
+351
+00:12:43,720 --> 00:12:46,930
+so we said well what the hell let's
+
+352
+00:12:45,550 --> 00:12:50,949
+let's give it a shot at least start
+
+353
+00:12:46,930 --> 00:12:52,600
+making some money so July 2008 when we
+
+354
+00:12:50,949 --> 00:12:55,209
+choose Weebly Pro we also sell domain
+
+355
+00:12:52,600 --> 00:12:57,130
+names now and when we start at that time
+
+356
+00:12:55,209 --> 00:12:59,860
+and you know things were looking good
+
+357
+00:12:57,130 --> 00:13:02,680
+but if you know anything about the fall
+
+358
+00:12:59,860 --> 00:13:05,050
+of 2008 it was just a really bad time to
+
+359
+00:13:02,680 --> 00:13:07,180
+be raising money so we went out there
+
+360
+00:13:05,050 --> 00:13:09,280
+and you know might have worked but
+
+361
+00:13:07,180 --> 00:13:13,120
+the terms were just not what we are
+
+362
+00:13:09,280 --> 00:13:16,740
+looking for so this is a graph of our
+
+363
+00:13:13,120 --> 00:13:19,540
+company bank account balance I actually
+
+364
+00:13:16,740 --> 00:13:21,460
+hacked up Vanguard's graphic you know
+
+365
+00:13:19,540 --> 00:13:23,920
+like flash graph to plot an XML feed to
+
+366
+00:13:21,460 --> 00:13:25,540
+graph this for you guys this is 34
+
+367
+00:13:23,920 --> 00:13:30,040
+months after we started working on
+
+368
+00:13:25,540 --> 00:13:31,390
+Weebly and it was pretty low and and and
+
+369
+00:13:30,040 --> 00:13:34,870
+this is you know this is this is another
+
+370
+00:13:31,390 --> 00:13:35,980
+hard time we basically we we looked at
+
+371
+00:13:34,870 --> 00:13:38,710
+our bank account balance and we said
+
+372
+00:13:35,980 --> 00:13:39,670
+okay well you know revenue is increasing
+
+373
+00:13:38,710 --> 00:13:41,170
+and things are going in the right
+
+374
+00:13:39,670 --> 00:13:43,960
+direction then we're pretty hopeful we
+
+375
+00:13:41,170 --> 00:13:46,990
+could squeeze through but you know but
+
+376
+00:13:43,960 --> 00:13:48,550
+we can't pay our bills next month so
+
+377
+00:13:46,990 --> 00:13:50,320
+we're we gonna do about it so you know
+
+378
+00:13:48,550 --> 00:13:52,480
+obviously payroll was just never an
+
+379
+00:13:50,320 --> 00:13:54,040
+option we're obviously gonna pay payroll
+
+380
+00:13:52,480 --> 00:13:55,300
+if we had to cut our own salaries that
+
+381
+00:13:54,040 --> 00:13:56,500
+was gonna be one thing but for people
+
+382
+00:13:55,300 --> 00:13:58,120
+with employed that was just not an
+
+383
+00:13:56,500 --> 00:13:59,290
+option not to pay that so the next step
+
+384
+00:13:58,120 --> 00:14:00,610
+was to get out of calendar literally I
+
+385
+00:13:59,290 --> 00:14:02,650
+remember getting out a big calendar on a
+
+386
+00:14:00,610 --> 00:14:05,200
+piece of paper and mapping out all our
+
+387
+00:14:02,650 --> 00:14:06,790
+bills on which days they were due and
+
+388
+00:14:05,200 --> 00:14:08,350
+how much money we thought we were gonna
+
+389
+00:14:06,790 --> 00:14:10,930
+make in the meantime to just barely
+
+390
+00:14:08,350 --> 00:14:12,160
+squeaked by and and then there was
+
+391
+00:14:10,930 --> 00:14:13,900
+really two types of bills that we
+
+392
+00:14:12,160 --> 00:14:16,720
+labeled there was one there was a type
+
+393
+00:14:13,900 --> 00:14:18,850
+of bill that if you didn't pay it you
+
+394
+00:14:16,720 --> 00:14:20,020
+got a late fee and the second type of
+
+395
+00:14:18,850 --> 00:14:22,630
+bill if you didn't pay it they shot your
+
+396
+00:14:20,020 --> 00:14:25,000
+servers off so obviously we had to pay
+
+397
+00:14:22,630 --> 00:14:26,920
+that second category but you know in
+
+398
+00:14:25,000 --> 00:14:29,020
+January 2009 which is which is a great
+
+399
+00:14:26,920 --> 00:14:31,060
+month for us you know we finally hit
+
+400
+00:14:29,020 --> 00:14:32,710
+break-even now this is where things
+
+401
+00:14:31,060 --> 00:14:35,590
+started turning in the in the profitable
+
+402
+00:14:32,710 --> 00:14:37,300
+direction and you know this is where you
+
+403
+00:14:35,590 --> 00:14:40,600
+first start seeing a working business
+
+404
+00:14:37,300 --> 00:14:42,070
+model it finally clicks and you can see
+
+405
+00:14:40,600 --> 00:14:44,620
+a little bit of history out there 35
+
+406
+00:14:42,070 --> 00:14:46,210
+months that's three years after we
+
+407
+00:14:44,620 --> 00:14:48,760
+started working on it we finally hit a
+
+408
+00:14:46,210 --> 00:14:50,770
+working business model this is February
+
+409
+00:14:48,760 --> 00:14:52,300
+2010 and now things are looking great
+
+410
+00:14:50,770 --> 00:14:54,750
+now we're off to the races this is four
+
+411
+00:14:52,300 --> 00:14:57,010
+years after we started working on Weebly
+
+412
+00:14:54,750 --> 00:14:58,630
+and I want you to notice all the way in
+
+413
+00:14:57,010 --> 00:15:00,430
+the back that that Newsweek that time
+
+414
+00:14:58,630 --> 00:15:02,110
+you know the TechCrunch articles they're
+
+415
+00:15:00,430 --> 00:15:04,840
+just blips on the radar you know now
+
+416
+00:15:02,110 --> 00:15:07,090
+every day we're getting about 5,000 new
+
+417
+00:15:04,840 --> 00:15:10,690
+users per day all of the award math it's
+
+418
+00:15:07,090 --> 00:15:13,360
+all organic growth in March 2011
+
+419
+00:15:10,690 --> 00:15:16,180
+sixty-one months after we started we
+
+420
+00:15:13,360 --> 00:15:17,920
+partnered with Sequoia Capital we love
+
+421
+00:15:16,180 --> 00:15:19,630
+them as partners and brought them on
+
+422
+00:15:17,920 --> 00:15:22,120
+board to help grow the business
+
+423
+00:15:19,630 --> 00:15:23,440
+and that brings us to today so where are
+
+424
+00:15:22,120 --> 00:15:26,140
+we now
+
+425
+00:15:23,440 --> 00:15:27,399
+today we bleep our is about 2% of the
+
+426
+00:15:26,140 --> 00:15:30,089
+active web sites on the internet that's
+
+427
+00:15:27,399 --> 00:15:33,760
+all based on public data from net craft
+
+428
+00:15:30,089 --> 00:15:37,180
+every month 15% of the United States
+
+429
+00:15:33,760 --> 00:15:38,890
+visits a Weebly website and my favorite
+
+430
+00:15:37,180 --> 00:15:41,709
+stat here is our Net Promoter Score our
+
+431
+00:15:38,890 --> 00:15:42,910
+Net Promoter Score is over 80% now if
+
+432
+00:15:41,709 --> 00:15:44,769
+you're not familiar with what a net
+
+433
+00:15:42,910 --> 00:15:47,050
+promoter score is that's you know that
+
+434
+00:15:44,769 --> 00:15:49,149
+means 88% of people who answered this
+
+435
+00:15:47,050 --> 00:15:51,130
+survey said 9 or 10 likely they're gonna
+
+436
+00:15:49,149 --> 00:15:53,230
+recommend we do a friend as a point of
+
+437
+00:15:51,130 --> 00:15:55,029
+comparison I think apples is 67% that's
+
+438
+00:15:53,230 --> 00:15:57,579
+considered excellent this explains
+
+439
+00:15:55,029 --> 00:15:58,750
+everything about our business a quick
+
+440
+00:15:57,579 --> 00:16:02,019
+tour of the office here moved in this
+
+441
+00:15:58,750 --> 00:16:04,269
+office about a year ago this is what it
+
+442
+00:16:02,019 --> 00:16:06,579
+looks like when you walk in this is this
+
+443
+00:16:04,269 --> 00:16:08,709
+a quick snapshot of our lobby and
+
+444
+00:16:06,579 --> 00:16:10,959
+conference room at the front here's our
+
+445
+00:16:08,709 --> 00:16:12,190
+open work plan area and you know we
+
+446
+00:16:10,959 --> 00:16:13,360
+really like this because you could
+
+447
+00:16:12,190 --> 00:16:14,709
+really talk and communicate but
+
+448
+00:16:13,360 --> 00:16:16,630
+obviously it gets noisy so one of the
+
+449
+00:16:14,709 --> 00:16:17,380
+things that we give everyone who works
+
+450
+00:16:16,630 --> 00:16:21,730
+at Weebly as bose noise-canceling
+
+451
+00:16:17,380 --> 00:16:23,260
+headphones to block out the noise it's a
+
+452
+00:16:21,730 --> 00:16:24,940
+TV room great for catching a big game
+
+453
+00:16:23,260 --> 00:16:28,329
+especially the Giants games have been on
+
+454
+00:16:24,940 --> 00:16:30,610
+lately and this is this is our kind of
+
+455
+00:16:28,329 --> 00:16:32,410
+you know kitchen slash rec area
+
+456
+00:16:30,610 --> 00:16:35,019
+downstairs we get super competitive on
+
+457
+00:16:32,410 --> 00:16:36,310
+ping-pong pool foosball one thing I want
+
+458
+00:16:35,019 --> 00:16:38,890
+you to notice is that bookshelf in the
+
+459
+00:16:36,310 --> 00:16:41,320
+back actually if you go up to that and
+
+460
+00:16:38,890 --> 00:16:42,910
+you know the right book to pull it
+
+461
+00:16:41,320 --> 00:16:45,970
+actually opens up I'm not sure how well
+
+462
+00:16:42,910 --> 00:16:48,399
+you can see that but it's it's its
+
+463
+00:16:45,970 --> 00:16:49,690
+policy we can't show anyone pictures of
+
+464
+00:16:48,399 --> 00:16:51,310
+inside the secret room unless you come
+
+465
+00:16:49,690 --> 00:16:53,100
+visit so we'd love to have you over to
+
+466
+00:16:51,310 --> 00:16:55,660
+check that out
+
+467
+00:16:53,100 --> 00:16:56,980
+so you know just for shits and giggles I
+
+468
+00:16:55,660 --> 00:16:58,990
+pulled our bank account balance from
+
+469
+00:16:56,980 --> 00:17:00,699
+this morning that's what our company
+
+470
+00:16:58,990 --> 00:17:02,410
+thank you balance looks like now and
+
+471
+00:17:00,699 --> 00:17:04,809
+this is 80 months after we started
+
+472
+00:17:02,410 --> 00:17:06,160
+working on Weebly I think the important
+
+473
+00:17:04,809 --> 00:17:08,919
+message here is it's still an unfinished
+
+474
+00:17:06,160 --> 00:17:10,209
+story you know I mean as large as we've
+
+475
+00:17:08,919 --> 00:17:12,579
+been able to grow this is just the
+
+476
+00:17:10,209 --> 00:17:16,030
+beginning so you know what's next for
+
+477
+00:17:12,579 --> 00:17:17,980
+Weebly well six years ago we thought the
+
+478
+00:17:16,030 --> 00:17:20,319
+same thing you know making a site it's
+
+479
+00:17:17,980 --> 00:17:23,589
+just hard you know and today people are
+
+480
+00:17:20,319 --> 00:17:25,510
+just as frustrated you know just as
+
+481
+00:17:23,589 --> 00:17:27,010
+confused and all they really want to do
+
+482
+00:17:25,510 --> 00:17:29,559
+is participate in the Internet and you
+
+483
+00:17:27,010 --> 00:17:31,510
+know what most people can't participate
+
+484
+00:17:29,559 --> 00:17:34,480
+in the internet the way they'd like to
+
+485
+00:17:31,510 --> 00:17:36,040
+you know people just want to you know
+
+486
+00:17:34,480 --> 00:17:38,500
+showcase their business showcase their
+
+487
+00:17:36,040 --> 00:17:40,060
+art or their talents and sell things
+
+488
+00:17:38,500 --> 00:17:41,740
+online and it's still too difficult for
+
+489
+00:17:40,060 --> 00:17:43,270
+them so you know as much as we've done
+
+490
+00:17:41,740 --> 00:17:45,160
+the last six years we think we've just
+
+491
+00:17:43,270 --> 00:17:46,900
+built a foundation and what's most
+
+492
+00:17:45,160 --> 00:17:48,400
+exciting is is what we're building it
+
+493
+00:17:46,900 --> 00:17:51,130
+right now and there's just a whole lot
+
+494
+00:17:48,400 --> 00:17:54,100
+of work left to do so I think the number
+
+495
+00:17:51,130 --> 00:17:57,160
+one takeaway of everything is you can't
+
+496
+00:17:54,100 --> 00:17:59,050
+succeed if you quit too often I've seen
+
+497
+00:17:57,160 --> 00:18:01,810
+people that build something for six
+
+498
+00:17:59,050 --> 00:18:03,820
+months and then they launch it and then
+
+499
+00:18:01,810 --> 00:18:07,030
+two months later they stop working on it
+
+500
+00:18:03,820 --> 00:18:08,500
+like how do you expect that to work you
+
+501
+00:18:07,030 --> 00:18:10,270
+know behind every I think we've seen
+
+502
+00:18:08,500 --> 00:18:13,030
+today behind every quote-unquote
+
+503
+00:18:10,270 --> 00:18:14,680
+overnight success you see people who
+
+504
+00:18:13,030 --> 00:18:18,460
+have been working for years and years
+
+505
+00:18:14,680 --> 00:18:21,430
+and years and if you want to build a
+
+506
+00:18:18,460 --> 00:18:22,750
+truly big and meaningful company it's
+
+507
+00:18:21,430 --> 00:18:25,390
+gonna take you seven to ten years of
+
+508
+00:18:22,750 --> 00:18:27,130
+your life you know don't give up so
+
+509
+00:18:25,390 --> 00:18:28,900
+easily you just gotta keep going
+
+510
+00:18:27,130 --> 00:18:31,210
+even at the early days for everyone
+
+511
+00:18:28,900 --> 00:18:32,710
+including us it didn't look great you
+
+512
+00:18:31,210 --> 00:18:34,210
+just have to push through and know that
+
+513
+00:18:32,710 --> 00:18:37,630
+you're working on a valuable problem and
+
+514
+00:18:34,210 --> 00:18:39,250
+keep pushing through so lastly I'll
+
+515
+00:18:37,630 --> 00:18:41,650
+close with it you know if you'd like to
+
+516
+00:18:39,250 --> 00:18:44,860
+help us finish the story that that's
+
+517
+00:18:41,650 --> 00:18:46,090
+still in progress we'd love to talk to
+
+518
+00:18:44,860 --> 00:18:47,140
+you but I won't go into much about that
+
+519
+00:18:46,090 --> 00:18:48,940
+if you have any other questions please
+
+520
+00:18:47,140 --> 00:18:51,900
+email me hope to see you at the party
+
+521
+00:18:48,940 --> 00:18:51,900
+tonight and thank you very much
+

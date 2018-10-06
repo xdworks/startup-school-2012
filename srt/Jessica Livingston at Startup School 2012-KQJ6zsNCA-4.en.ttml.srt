@@ -1,0 +1,2488 @@
+﻿1
+00:00:00,000 --> 00:00:05,910
+hi everyone this is so big league this
+
+2
+00:00:03,959 --> 00:00:08,460
+year I can't believe it we have like
+
+3
+00:00:05,910 --> 00:00:11,519
+this team of people in the back helping
+
+4
+00:00:08,460 --> 00:00:14,429
+there's real chairs and look how many
+
+5
+00:00:11,519 --> 00:00:16,350
+seats there are this is so exciting
+
+6
+00:00:14,429 --> 00:00:19,470
+I'm Jessica Livingston I'm one of the
+
+7
+00:00:16,350 --> 00:00:21,300
+founders of Y Combinator and it's been
+
+8
+00:00:19,470 --> 00:00:25,109
+more than seven years since we started
+
+9
+00:00:21,300 --> 00:00:28,500
+YC and in that time we've funded four
+
+10
+00:00:25,109 --> 00:00:34,950
+hundred and sixty-seven startups so I've
+
+11
+00:00:28,500 --> 00:00:36,300
+seen a lot of patterns Thank You us I
+
+12
+00:00:34,950 --> 00:00:38,760
+was a little nervous back there so
+
+13
+00:00:36,300 --> 00:00:40,460
+thanks there's a talk I always want to
+
+14
+00:00:38,760 --> 00:00:43,140
+give at the beginning of each batch
+
+15
+00:00:40,460 --> 00:00:45,180
+warning everyone about stuff that I know
+
+16
+00:00:43,140 --> 00:00:47,370
+is probably gonna happen to them I
+
+17
+00:00:45,180 --> 00:00:52,350
+finally wrote down my thoughts and I'm
+
+18
+00:00:47,370 --> 00:00:54,030
+gonna share it with you today so we all
+
+19
+00:00:52,350 --> 00:00:56,940
+know that lots of smart and talented
+
+20
+00:00:54,030 --> 00:00:59,309
+people start startups on the left side
+
+21
+00:00:56,940 --> 00:01:01,890
+there you see huge numbers of startups
+
+22
+00:00:59,309 --> 00:01:04,439
+getting started and yet if you look at
+
+23
+00:01:01,890 --> 00:01:06,780
+the other side a few years later there's
+
+24
+00:01:04,439 --> 00:01:09,270
+actually only a handful of startups that
+
+25
+00:01:06,780 --> 00:01:11,159
+are big successes what's happening in
+
+26
+00:01:09,270 --> 00:01:16,200
+the middle there that's causing such
+
+27
+00:01:11,159 --> 00:01:18,509
+failure it's like there's a tunnel full
+
+28
+00:01:16,200 --> 00:01:20,790
+of monsters that kill them along the way
+
+29
+00:01:18,509 --> 00:01:23,670
+and I just want to thank minnow monsters
+
+30
+00:01:20,790 --> 00:01:25,619
+for providing me these fabulous cartoon
+
+31
+00:01:23,670 --> 00:01:28,350
+monsters so I'm going to tell you about
+
+32
+00:01:25,619 --> 00:01:32,850
+these monsters today so you can know how
+
+33
+00:01:28,350 --> 00:01:34,460
+to avoid them in general your best
+
+34
+00:01:32,850 --> 00:01:37,619
+weapon against these monsters is
+
+35
+00:01:34,460 --> 00:01:38,790
+determination and even though we usually
+
+36
+00:01:37,619 --> 00:01:40,950
+use one word for it
+
+37
+00:01:38,790 --> 00:01:45,170
+determination is really two separate
+
+38
+00:01:40,950 --> 00:01:47,490
+things its resilience and Drive
+
+39
+00:01:45,170 --> 00:01:49,979
+resilience keeps you from being pushed
+
+40
+00:01:47,490 --> 00:01:54,780
+backwards and drive makes you go
+
+41
+00:01:49,979 --> 00:01:56,579
+forwards one reason you need resilience
+
+42
+00:01:54,780 --> 00:01:59,189
+in a start-up is that you're gonna get
+
+43
+00:01:56,579 --> 00:02:01,320
+rejected a lot even the most famous
+
+44
+00:01:59,189 --> 00:02:04,649
+startups had a surprising amount of
+
+45
+00:02:01,320 --> 00:02:06,509
+rejection early on everyone you
+
+46
+00:02:04,649 --> 00:02:08,640
+encounter will have doubts about what
+
+47
+00:02:06,509 --> 00:02:11,099
+you're doing whether its investors
+
+48
+00:02:08,640 --> 00:02:13,890
+potential employees reporters your
+
+49
+00:02:11,099 --> 00:02:15,990
+family and friends what you don't
+
+50
+00:02:13,890 --> 00:02:18,870
+you lies until you start a start-up is
+
+51
+00:02:15,990 --> 00:02:20,970
+how much external validation you've
+
+52
+00:02:18,870 --> 00:02:23,100
+gotten for the conservative choices
+
+53
+00:02:20,970 --> 00:02:25,590
+you've made in the past you go to
+
+54
+00:02:23,100 --> 00:02:27,569
+college and everyone says great you
+
+55
+00:02:25,590 --> 00:02:30,150
+graduate and get a job at Google and
+
+56
+00:02:27,569 --> 00:02:33,600
+everyone says great well what do you
+
+57
+00:02:30,150 --> 00:02:36,950
+think happens when you quit your job to
+
+58
+00:02:33,600 --> 00:02:40,020
+start a company to rent out air beds
+
+59
+00:02:36,950 --> 00:02:42,570
+this is Airbnb x' website when they
+
+60
+00:02:40,020 --> 00:02:44,970
+first launched in 2007
+
+61
+00:02:42,570 --> 00:02:47,459
+I mean look up there where they explain
+
+62
+00:02:44,970 --> 00:02:49,320
+what they do it says to designers create
+
+63
+00:02:47,459 --> 00:02:51,300
+a new way to connect at the IDSA
+
+64
+00:02:49,320 --> 00:02:54,060
+conference I've never even heard of that
+
+65
+00:02:51,300 --> 00:02:56,940
+conference and over on the left it says
+
+66
+00:02:54,060 --> 00:02:59,580
+list your air bed it was only for air
+
+67
+00:02:56,940 --> 00:03:02,340
+beds I mean it's unbelievable this is
+
+68
+00:02:59,580 --> 00:03:04,800
+not the sort of thing that you get a lot
+
+69
+00:03:02,340 --> 00:03:07,170
+of external validation for almost
+
+70
+00:03:04,800 --> 00:03:09,269
+everyone is more impressed when you get
+
+71
+00:03:07,170 --> 00:03:11,790
+a job at Google then if you make a
+
+72
+00:03:09,269 --> 00:03:15,900
+website for people to rent out air beds
+
+73
+00:03:11,790 --> 00:03:18,900
+for conferences and yet this is one of
+
+74
+00:03:15,900 --> 00:03:21,269
+the most successful startups so even if
+
+75
+00:03:18,900 --> 00:03:23,010
+your air B&B you're gonna start out
+
+76
+00:03:21,269 --> 00:03:28,140
+looking like an egg blue Ugly Duckling
+
+77
+00:03:23,010 --> 00:03:31,440
+to most people here the air B&B founders
+
+78
+00:03:28,140 --> 00:03:33,299
+when they did YC back in early 2009 and
+
+79
+00:03:31,440 --> 00:03:35,430
+at this point they'd already endured
+
+80
+00:03:33,299 --> 00:03:38,340
+tons of rejection you should check out
+
+81
+00:03:35,430 --> 00:03:41,030
+Brian's talk from the 2010 startup
+
+82
+00:03:38,340 --> 00:03:44,040
+school it's a very inspirational story
+
+83
+00:03:41,030 --> 00:03:45,870
+but by the time they came to us they had
+
+84
+00:03:44,040 --> 00:03:49,049
+maxed out their credit cards they were
+
+85
+00:03:45,870 --> 00:03:50,810
+eating leftover Cap'n McCain cereal they
+
+86
+00:03:49,049 --> 00:03:53,220
+were at the end of their rope and
+
+87
+00:03:50,810 --> 00:03:56,880
+everyone thought their idea was crazy
+
+88
+00:03:53,220 --> 00:03:57,870
+even I actually did but they knew they
+
+89
+00:03:56,880 --> 00:04:00,690
+were on to something
+
+90
+00:03:57,870 --> 00:04:03,750
+and during YC they made some key changes
+
+91
+00:04:00,690 --> 00:04:05,430
+to their site they talked to users they
+
+92
+00:04:03,750 --> 00:04:08,820
+set their goals and they measured
+
+93
+00:04:05,430 --> 00:04:12,329
+everything and the graph started to go
+
+94
+00:04:08,820 --> 00:04:14,670
+up remember the new ideas usually seemed
+
+95
+00:04:12,329 --> 00:04:17,549
+crazy at first but if you have a good
+
+96
+00:04:14,670 --> 00:04:22,049
+idea and you execute well everyone will
+
+97
+00:04:17,549 --> 00:04:24,120
+see it eventually we funded Eric magic
+
+98
+00:04:22,049 --> 00:04:26,370
+offski about two years ago when he was
+
+99
+00:04:24,120 --> 00:04:27,760
+working on impulse the predecessor to
+
+100
+00:04:26,370 --> 00:04:30,850
+the Pebble watch
+
+101
+00:04:27,760 --> 00:04:33,130
+Eric was a single founder and these
+
+102
+00:04:30,850 --> 00:04:37,440
+watches there have something in common
+
+103
+00:04:33,130 --> 00:04:39,970
+the terrifies investors their hardware
+
+104
+00:04:37,440 --> 00:04:42,160
+poor Eric had a really hard time getting
+
+105
+00:04:39,970 --> 00:04:44,770
+funding no one wanted to fund the
+
+106
+00:04:42,160 --> 00:04:47,170
+hardware company he met with more than
+
+107
+00:04:44,770 --> 00:04:50,110
+like 30 investors who all said things
+
+108
+00:04:47,170 --> 00:04:52,270
+like I love the idea but I can't fund a
+
+109
+00:04:50,110 --> 00:04:54,040
+hardware company some claim they just
+
+110
+00:04:52,270 --> 00:04:55,900
+didn't fund hardware companies as a rule
+
+111
+00:04:54,040 --> 00:04:58,780
+others said that there are too many
+
+112
+00:04:55,900 --> 00:05:01,450
+capital expenses up front they all said
+
+113
+00:04:58,780 --> 00:05:03,130
+no when he showed them the concept but
+
+114
+00:05:01,450 --> 00:05:05,050
+he'd been building the pebble based on
+
+115
+00:05:03,130 --> 00:05:07,390
+all this user feedback from the impulse
+
+116
+00:05:05,050 --> 00:05:09,820
+and he felt strongly that people wanted
+
+117
+00:05:07,390 --> 00:05:12,430
+this product so I remember he talked to
+
+118
+00:05:09,820 --> 00:05:14,520
+Paul and they agreed he should just give
+
+119
+00:05:12,430 --> 00:05:18,310
+up investors and put it on Kickstarter
+
+120
+00:05:14,520 --> 00:05:21,310
+his original goal was to raise a hundred
+
+121
+00:05:18,310 --> 00:05:23,410
+thousand dollars to make a thousand
+
+122
+00:05:21,310 --> 00:05:26,920
+watches and instead of a hundred
+
+123
+00:05:23,410 --> 00:05:31,150
+thousand dollars pebble raised ten point
+
+124
+00:05:26,920 --> 00:05:32,980
+two million dollars in 30 days the
+
+125
+00:05:31,150 --> 00:05:39,490
+largest amount of money ever raised on
+
+126
+00:05:32,980 --> 00:05:42,400
+Kickstarter even Y Combinator got
+
+127
+00:05:39,490 --> 00:05:44,950
+rejected when we first started this here
+
+128
+00:05:42,400 --> 00:05:47,580
+is our first batch sitting at dinner in
+
+129
+00:05:44,950 --> 00:05:49,510
+Cambridge Massachusetts back in O five
+
+130
+00:05:47,580 --> 00:05:52,420
+now there are lots of organizations
+
+131
+00:05:49,510 --> 00:05:54,370
+doing what we do but trust me when we
+
+132
+00:05:52,420 --> 00:05:57,550
+first started people thought we were
+
+133
+00:05:54,370 --> 00:06:01,510
+crazy or just stupid even our own
+
+134
+00:05:57,550 --> 00:06:03,910
+lawyers tried to talk us out of it but
+
+135
+00:06:01,510 --> 00:06:06,370
+eight teams of founders took a chance on
+
+136
+00:06:03,910 --> 00:06:08,350
+Y Combinator and moved to Cambridge and
+
+137
+00:06:06,370 --> 00:06:10,660
+got there twelve thousand dollars per
+
+138
+00:06:08,350 --> 00:06:13,810
+team and I think they tell you they had
+
+139
+00:06:10,660 --> 00:06:16,360
+a really great experience we too knew we
+
+140
+00:06:13,810 --> 00:06:18,460
+were on to something interesting so we
+
+141
+00:06:16,360 --> 00:06:21,370
+focused on making something that a few
+
+142
+00:06:18,460 --> 00:06:24,810
+people loved and we just expanded slowly
+
+143
+00:06:21,370 --> 00:06:27,400
+from there but it was a slow process
+
+144
+00:06:24,810 --> 00:06:29,770
+when we came out to Silicon Valley in
+
+145
+00:06:27,400 --> 00:06:32,020
+the winter of oh-6 we hardly knew anyone
+
+146
+00:06:29,770 --> 00:06:33,970
+so we decided we'd focus on meeting new
+
+147
+00:06:32,020 --> 00:06:34,630
+investors to convince them to come to
+
+148
+00:06:33,970 --> 00:06:37,390
+demo day
+
+149
+00:06:34,630 --> 00:06:40,350
+I got an introduction to the number one
+
+150
+00:06:37,390 --> 00:06:42,760
+angel investor in the valley Ron Conway
+
+151
+00:06:40,350 --> 00:06:48,010
+and let me show you how he tried to
+
+152
+00:06:42,760 --> 00:06:51,610
+brush us off so we get the introduction
+
+153
+00:06:48,010 --> 00:06:54,820
+and Ron says is this in Boston I stick
+
+154
+00:06:51,610 --> 00:06:57,040
+to local and I said no we're in Mountain
+
+155
+00:06:54,820 --> 00:07:01,030
+View and we'd love to have you come to
+
+156
+00:06:57,040 --> 00:07:03,250
+demo day and he said so is this a chance
+
+157
+00:07:01,030 --> 00:07:05,080
+to invest in your incubator and I
+
+158
+00:07:03,250 --> 00:07:07,210
+replied no we're not asking you to
+
+159
+00:07:05,080 --> 00:07:10,150
+invest in us we were asking you to
+
+160
+00:07:07,210 --> 00:07:12,220
+invest in the individual startups and he
+
+161
+00:07:10,150 --> 00:07:14,950
+said off to circle back to you I'm
+
+162
+00:07:12,220 --> 00:07:17,650
+jammed up we got the jammed up right now
+
+163
+00:07:14,950 --> 00:07:21,520
+from Ron Conway was so embarrassing oh
+
+164
+00:07:17,650 --> 00:07:25,090
+my gosh but it all worked out in the end
+
+165
+00:07:21,520 --> 00:07:28,420
+here's Ron a year later speaking to the
+
+166
+00:07:25,090 --> 00:07:30,070
+winter o7 batch of founders he did wind
+
+167
+00:07:28,420 --> 00:07:31,540
+up coming to demo day and he was
+
+168
+00:07:30,070 --> 00:07:35,260
+impressed with what he saw
+
+169
+00:07:31,540 --> 00:07:37,870
+remember if you execute well eventually
+
+170
+00:07:35,260 --> 00:07:40,180
+you'll win people over and by the way I
+
+171
+00:07:37,870 --> 00:07:42,640
+should also point out that there's David
+
+172
+00:07:40,180 --> 00:07:45,370
+Rees anko who's speaking later today and
+
+173
+00:07:42,640 --> 00:07:50,080
+there's hard to gar who's now a partner
+
+174
+00:07:45,370 --> 00:07:52,090
+at YC it was their batch remember there
+
+175
+00:07:50,080 --> 00:07:55,480
+were two components to determination
+
+176
+00:07:52,090 --> 00:07:57,460
+resilience and drive we've talked about
+
+177
+00:07:55,480 --> 00:07:59,800
+why you need resilience because everyone
+
+178
+00:07:57,460 --> 00:08:02,020
+will be down on you but you need Drive
+
+179
+00:07:59,800 --> 00:08:04,510
+to overcome the sheer variety of
+
+180
+00:08:02,020 --> 00:08:07,390
+problems you'll face in a startup some
+
+181
+00:08:04,510 --> 00:08:10,330
+of them are painfully specific like a
+
+182
+00:08:07,390 --> 00:08:13,840
+lawsuit or a deal blowing up and some
+
+183
+00:08:10,330 --> 00:08:15,940
+are demoralizing ly vague like no one's
+
+184
+00:08:13,840 --> 00:08:18,610
+visiting your site and you can't figure
+
+185
+00:08:15,940 --> 00:08:20,950
+out why there's no playbook you can
+
+186
+00:08:18,610 --> 00:08:23,919
+consult when these problems come up you
+
+187
+00:08:20,950 --> 00:08:27,510
+have to improvise and sometimes you have
+
+188
+00:08:23,919 --> 00:08:31,210
+to do things that seem kind of abnormal
+
+189
+00:08:27,510 --> 00:08:33,640
+this is a picture of Rajat Suri he's the
+
+190
+00:08:31,210 --> 00:08:35,530
+founder of Elah cart yulik heart let's
+
+191
+00:08:33,640 --> 00:08:37,599
+restaurant customers order and pay
+
+192
+00:08:35,530 --> 00:08:40,719
+through a tablet he was a grad student
+
+193
+00:08:37,599 --> 00:08:43,450
+at MIT when he started the company and
+
+194
+00:08:40,719 --> 00:08:45,640
+he was so committed that he got a job as
+
+195
+00:08:43,450 --> 00:08:48,940
+a waiter to learn what restaurants were
+
+196
+00:08:45,640 --> 00:08:51,190
+like you see that air duct up there over
+
+197
+00:08:48,940 --> 00:08:51,870
+his head that looks like a halo this is
+
+198
+00:08:51,190 --> 00:08:56,130
+an exam
+
+199
+00:08:51,870 --> 00:08:58,380
+of a good founder here are the calls and
+
+200
+00:08:56,130 --> 00:09:00,170
+brothers who founded stripe Patrick
+
+201
+00:08:58,380 --> 00:09:03,510
+speaking right after me today actually
+
+202
+00:09:00,170 --> 00:09:05,820
+they do payment processing online when
+
+203
+00:09:03,510 --> 00:09:08,010
+these guys got started they were a pair
+
+204
+00:09:05,820 --> 00:09:10,860
+of young programmers they had no idea
+
+205
+00:09:08,010 --> 00:09:13,890
+how to make deals with banks and credit
+
+206
+00:09:10,860 --> 00:09:15,960
+card companies so I asked Patrick how
+
+207
+00:09:13,890 --> 00:09:18,779
+did you even convince these big
+
+208
+00:09:15,960 --> 00:09:20,490
+companies to work with you and one trick
+
+209
+00:09:18,779 --> 00:09:22,470
+he told me that worked was he started
+
+210
+00:09:20,490 --> 00:09:24,630
+with a phone call and then people would
+
+211
+00:09:22,470 --> 00:09:27,120
+pay attention to their arguments without
+
+212
+00:09:24,630 --> 00:09:28,589
+being distracted by their youth and by
+
+213
+00:09:27,120 --> 00:09:30,029
+the time they met in person and the
+
+214
+00:09:28,589 --> 00:09:35,730
+companies could tell how young they are
+
+215
+00:09:30,029 --> 00:09:37,710
+they were already impressed we funded
+
+216
+00:09:35,730 --> 00:09:40,080
+the lockitron guys back in the summer of
+
+217
+00:09:37,710 --> 00:09:43,290
+oh nine that's them actually at their YC
+
+218
+00:09:40,080 --> 00:09:46,050
+interview a year after YC they were
+
+219
+00:09:43,290 --> 00:09:48,120
+still figuring out their idea they lived
+
+220
+00:09:46,050 --> 00:09:49,650
+with the we pay guys and one day the we
+
+221
+00:09:48,120 --> 00:09:51,750
+pays were having a party for their
+
+222
+00:09:49,650 --> 00:09:53,339
+investors and by that point the
+
+223
+00:09:51,750 --> 00:09:56,100
+lockitron x' were working on a product
+
+224
+00:09:53,339 --> 00:09:57,510
+to lock your door with the iPhone they
+
+225
+00:09:56,100 --> 00:09:59,370
+were able to impress one of the
+
+226
+00:09:57,510 --> 00:10:01,350
+investors with their prototype and he
+
+227
+00:09:59,370 --> 00:10:03,810
+asked to have 40 installed at some
+
+228
+00:10:01,350 --> 00:10:05,670
+start-up offices he owned the founders
+
+229
+00:10:03,810 --> 00:10:08,730
+were totally psyched but the commercial
+
+230
+00:10:05,670 --> 00:10:11,580
+locks they needed to use cost 500 bucks
+
+231
+00:10:08,730 --> 00:10:14,010
+a pop they didn't have $20,000 to
+
+232
+00:10:11,580 --> 00:10:16,470
+fulfill that order so they went around
+
+233
+00:10:14,010 --> 00:10:18,900
+to local locksmiths and scrapyards
+
+234
+00:10:16,470 --> 00:10:21,600
+buying broken locks for 10 bucks apiece
+
+235
+00:10:18,900 --> 00:10:25,110
+they fixed them themselves and were able
+
+236
+00:10:21,600 --> 00:10:27,180
+to deliver on that order fast forward a
+
+237
+00:10:25,110 --> 00:10:28,890
+few years later and these guys were
+
+238
+00:10:27,180 --> 00:10:31,080
+ready to launch the newest version of
+
+239
+00:10:28,890 --> 00:10:34,350
+the lockitron and they decided to go on
+
+240
+00:10:31,080 --> 00:10:36,950
+Kickstarter and guess what a day after
+
+241
+00:10:34,350 --> 00:10:39,690
+lockitron submitted their campaign
+
+242
+00:10:36,950 --> 00:10:42,990
+Kickstarter changed their policy about
+
+243
+00:10:39,690 --> 00:10:44,760
+hardware companies and rejected them but
+
+244
+00:10:42,990 --> 00:10:46,980
+the lockitron guys decided to build
+
+245
+00:10:44,760 --> 00:10:49,529
+their own Kickstarter and they did it in
+
+246
+00:10:46,980 --> 00:10:52,410
+less than a week they wondered if anyone
+
+247
+00:10:49,529 --> 00:10:54,300
+would even come and not only did people
+
+248
+00:10:52,410 --> 00:10:56,130
+come but they've already sold close to
+
+249
+00:10:54,300 --> 00:11:01,470
+two million dollars worth of lockitron
+
+250
+00:10:56,130 --> 00:11:02,610
+x' that way so let me give you just one
+
+251
+00:11:01,470 --> 00:11:03,750
+last example
+
+252
+00:11:02,610 --> 00:11:07,530
+oops
+
+253
+00:11:03,750 --> 00:11:09,300
+ah there we go of improvising these are
+
+254
+00:11:07,530 --> 00:11:11,340
+the justin.tv founders when they first
+
+255
+00:11:09,300 --> 00:11:14,370
+got started and they were having a lot
+
+256
+00:11:11,340 --> 00:11:17,970
+of scaling issues and one weekend their
+
+257
+00:11:14,370 --> 00:11:20,130
+whole video system went down Kyle was in
+
+258
+00:11:17,970 --> 00:11:24,390
+charge of it but no one knew where Kyle
+
+259
+00:11:20,130 --> 00:11:27,060
+was and Kyle wasn't picking up his cell
+
+260
+00:11:24,390 --> 00:11:29,460
+phone this was live video so it was
+
+261
+00:11:27,060 --> 00:11:30,500
+pretty critical that this get fixed
+
+262
+00:11:29,460 --> 00:11:34,170
+immediately
+
+263
+00:11:30,500 --> 00:11:36,180
+so Michael Seibel called Kyle's friends
+
+264
+00:11:34,170 --> 00:11:38,700
+and found out that he was in late Lake
+
+265
+00:11:36,180 --> 00:11:41,040
+Tahoe and got the address so here's a
+
+266
+00:11:38,700 --> 00:11:42,870
+problem for you you know the address of
+
+267
+00:11:41,040 --> 00:11:43,500
+where someone is and he's not answering
+
+268
+00:11:42,870 --> 00:11:45,540
+his phone
+
+269
+00:11:43,500 --> 00:11:48,840
+how do you get a message to him
+
+270
+00:11:45,540 --> 00:11:51,120
+immediately Michael went onto Yelp and
+
+271
+00:11:48,840 --> 00:11:54,180
+looked for a pizza place near the house
+
+272
+00:11:51,120 --> 00:11:56,340
+and called them up and said I want to
+
+273
+00:11:54,180 --> 00:11:58,740
+have a pizza delivered but never mind
+
+274
+00:11:56,340 --> 00:12:01,890
+about the pizza just send the delivery
+
+275
+00:11:58,740 --> 00:12:05,300
+guy over and say these four words the
+
+276
+00:12:01,890 --> 00:12:05,300
+site is down
+
+277
+00:12:11,630 --> 00:12:16,790
+so the pizza place was like really
+
+278
+00:12:14,240 --> 00:12:19,250
+confused by this and they send the pizza
+
+279
+00:12:16,790 --> 00:12:21,529
+guy without a pizza kyle answers the
+
+280
+00:12:19,250 --> 00:12:24,199
+door the delivery guys like the site is
+
+281
+00:12:21,529 --> 00:12:27,709
+down Kyle's like oh no and he fixed the
+
+282
+00:12:24,199 --> 00:12:32,930
+site it was down for less than one hour
+
+283
+00:12:27,709 --> 00:12:35,230
+from start to finish all right so now
+
+284
+00:12:32,930 --> 00:12:38,209
+we're gonna move on to another monster
+
+285
+00:12:35,230 --> 00:12:40,220
+co-founder disputes I think people
+
+286
+00:12:38,209 --> 00:12:42,290
+underestimate how critical founder
+
+287
+00:12:40,220 --> 00:12:43,839
+relationships are to the success of a
+
+288
+00:12:42,290 --> 00:12:45,949
+startup
+
+289
+00:12:43,839 --> 00:12:48,050
+unfortunately I've seen more founder
+
+290
+00:12:45,949 --> 00:12:51,350
+breakups than I care to even count and
+
+291
+00:12:48,050 --> 00:12:53,600
+when it happens it can crush a startup
+
+292
+00:12:51,350 --> 00:12:55,910
+be very careful when you decide to start
+
+293
+00:12:53,600 --> 00:12:57,769
+a startup with someone do you know them
+
+294
+00:12:55,910 --> 00:13:00,019
+well have you worked with them or gone
+
+295
+00:12:57,769 --> 00:13:01,519
+to school with them don't just slap
+
+296
+00:13:00,019 --> 00:13:03,740
+yourself together with someone just
+
+297
+00:13:01,519 --> 00:13:08,630
+because they're available and seem good
+
+298
+00:13:03,740 --> 00:13:11,360
+enough you'll probably regret it and if
+
+299
+00:13:08,630 --> 00:13:11,990
+you start seeing red flags do something
+
+300
+00:13:11,360 --> 00:13:14,420
+about it
+
+301
+00:13:11,990 --> 00:13:16,459
+don't think it'll just go away it's a
+
+302
+00:13:14,420 --> 00:13:19,069
+red flag when you find yourself worrying
+
+303
+00:13:16,459 --> 00:13:21,050
+whether your co-founders trustworthy or
+
+304
+00:13:19,069 --> 00:13:24,259
+whether he or she works hard enough or
+
+305
+00:13:21,050 --> 00:13:26,149
+as competent when founders break up for
+
+306
+00:13:24,259 --> 00:13:28,009
+whatever reason it's a blow to the
+
+307
+00:13:26,149 --> 00:13:30,319
+startups productivity and morale if
+
+308
+00:13:28,009 --> 00:13:32,600
+there's three in one leaves it's not so
+
+309
+00:13:30,319 --> 00:13:34,759
+bad but if there's two and one leaves
+
+310
+00:13:32,600 --> 00:13:39,589
+it's hard because now you're a single
+
+311
+00:13:34,759 --> 00:13:43,189
+founder now we come to the investor
+
+312
+00:13:39,589 --> 00:13:46,069
+monster investors tend to have a herd
+
+313
+00:13:43,189 --> 00:13:48,769
+mentality they like you if other
+
+314
+00:13:46,069 --> 00:13:51,110
+investors like you so if no one likes
+
+315
+00:13:48,769 --> 00:13:53,389
+you until others do what happens when
+
+316
+00:13:51,110 --> 00:13:56,149
+you talk to the first ones no one likes
+
+317
+00:13:53,389 --> 00:13:57,620
+you it's like the catch-22 of not being
+
+318
+00:13:56,149 --> 00:14:00,439
+able to get a job because you don't have
+
+319
+00:13:57,620 --> 00:14:02,569
+enough experience you're except you're
+
+320
+00:14:00,439 --> 00:14:04,730
+really starting off in a hole and you
+
+321
+00:14:02,569 --> 00:14:06,620
+have to work your way out of it you have
+
+322
+00:14:04,730 --> 00:14:08,899
+to meet with lots of investors and hear
+
+323
+00:14:06,620 --> 00:14:11,269
+things like I'd be interested once you
+
+324
+00:14:08,899 --> 00:14:14,420
+get some more traction or who else is
+
+325
+00:14:11,269 --> 00:14:16,459
+investing if you work hard enough you
+
+326
+00:14:14,420 --> 00:14:19,040
+may be able to find a few people who are
+
+327
+00:14:16,459 --> 00:14:20,480
+excited enough about you and the idea to
+
+328
+00:14:19,040 --> 00:14:22,760
+fund you even though you don't have
+
+329
+00:14:20,480 --> 00:14:24,980
+other investors yet then when you have a
+
+330
+00:14:22,760 --> 00:14:25,410
+few investors you can start to make the
+
+331
+00:14:24,980 --> 00:14:27,930
+herd
+
+332
+00:14:25,410 --> 00:14:32,339
+tality work for you instead of against
+
+333
+00:14:27,930 --> 00:14:35,069
+you fundraising is hard and slow until
+
+334
+00:14:32,339 --> 00:14:36,779
+it's fast and easy but working to
+
+335
+00:14:35,069 --> 00:14:41,300
+convince those first few investors can
+
+336
+00:14:36,779 --> 00:14:41,300
+be really demoralizing it's a grind
+
+337
+00:14:41,990 --> 00:14:47,220
+investors also like to drag their feet
+
+338
+00:14:44,480 --> 00:14:49,319
+left to their own devices they'll just
+
+339
+00:14:47,220 --> 00:14:50,399
+keep delaying there's no downside for
+
+340
+00:14:49,319 --> 00:14:52,740
+them to delay
+
+341
+00:14:50,399 --> 00:14:53,970
+whereas delay will kill you because
+
+342
+00:14:52,740 --> 00:14:56,579
+while you're fundraising
+
+343
+00:14:53,970 --> 00:14:57,990
+your company will grind to a halt and by
+
+344
+00:14:56,579 --> 00:14:59,699
+the way there are some really good
+
+345
+00:14:57,990 --> 00:15:01,800
+investors who aren't like this I'm just
+
+346
+00:14:59,699 --> 00:15:04,949
+talking about the the median investor
+
+347
+00:15:01,800 --> 00:15:07,439
+but it blows my mind how many successful
+
+348
+00:15:04,949 --> 00:15:10,050
+startups had a hard time fundraising at
+
+349
+00:15:07,439 --> 00:15:12,060
+first if you remember one piece of
+
+350
+00:15:10,050 --> 00:15:13,860
+advice about investors it's that you've
+
+351
+00:15:12,060 --> 00:15:17,399
+got to create some type of competitive
+
+352
+00:15:13,860 --> 00:15:19,439
+situation I'll give you what is always
+
+353
+00:15:17,399 --> 00:15:22,589
+stuck in my mind is the most amazing
+
+354
+00:15:19,439 --> 00:15:25,589
+example of this one of the founders of
+
+355
+00:15:22,589 --> 00:15:27,839
+one of our more successful startups had
+
+356
+00:15:25,589 --> 00:15:30,120
+a long-standing relationship with a VC
+
+357
+00:15:27,839 --> 00:15:33,689
+so when the founder started the company
+
+358
+00:15:30,120 --> 00:15:35,399
+and did YC this VC kept in touch for the
+
+359
+00:15:33,689 --> 00:15:37,290
+three months not really doing anything
+
+360
+00:15:35,399 --> 00:15:40,529
+except kind of keeping a benevolent eye
+
+361
+00:15:37,290 --> 00:15:44,189
+on the founder the VC attended demo day
+
+362
+00:15:40,529 --> 00:15:45,810
+but didn't invest after a few months the
+
+363
+00:15:44,189 --> 00:15:48,600
+startup gets a term sheet from a
+
+364
+00:15:45,810 --> 00:15:50,490
+prestigious VC and for those of you in
+
+365
+00:15:48,600 --> 00:15:52,880
+the audience who don't know a term sheet
+
+366
+00:15:50,490 --> 00:15:56,370
+is an offer to invest in your company
+
+367
+00:15:52,880 --> 00:15:59,579
+when the vers VC heard about this he
+
+368
+00:15:56,370 --> 00:16:02,759
+shifted into panic mode he faxed the
+
+369
+00:15:59,579 --> 00:16:06,750
+founder a term sheet from his firm with
+
+370
+00:16:02,759 --> 00:16:09,029
+the valuation blank and just said fill
+
+371
+00:16:06,750 --> 00:16:11,209
+in whatever valuation you want and we're
+
+372
+00:16:09,029 --> 00:16:11,209
+in
+
+373
+00:16:13,840 --> 00:16:18,740
+and there are worse things investors can
+
+374
+00:16:16,460 --> 00:16:21,860
+do than just delay sometimes they say
+
+375
+00:16:18,740 --> 00:16:23,900
+yes and then change their mind it's not
+
+376
+00:16:21,860 --> 00:16:25,970
+a deal until the money is in the bank
+
+377
+00:16:23,900 --> 00:16:28,460
+and we've seen some founders learn that
+
+378
+00:16:25,970 --> 00:16:30,290
+the hard way I could tell you a lot of
+
+379
+00:16:28,460 --> 00:16:34,580
+horror stories to frighten you but just
+
+380
+00:16:30,290 --> 00:16:36,920
+remember that fundraising is a bitch why
+
+381
+00:16:34,580 --> 00:16:39,200
+see founders raise money under really
+
+382
+00:16:36,920 --> 00:16:45,830
+good circumstances and even for them
+
+383
+00:16:39,200 --> 00:16:47,750
+it's a bitch sorry to swear one of the
+
+384
+00:16:45,830 --> 00:16:49,730
+reasons fundraising can be so damaging
+
+385
+00:16:47,750 --> 00:16:52,430
+to your company is that it's a
+
+386
+00:16:49,730 --> 00:16:55,010
+distraction we warn everyone
+
+387
+00:16:52,430 --> 00:16:56,300
+early on it YC that there's you know you
+
+388
+00:16:55,010 --> 00:16:58,430
+need to be very careful about
+
+389
+00:16:56,300 --> 00:17:01,190
+distractions and no one's stupid enough
+
+390
+00:16:58,430 --> 00:17:03,230
+to play video games all day but the kind
+
+391
+00:17:01,190 --> 00:17:05,600
+of distractions founders fall for are
+
+392
+00:17:03,230 --> 00:17:08,089
+things that seem like a reasonable way
+
+393
+00:17:05,600 --> 00:17:10,370
+to spend their time we tell people that
+
+394
+00:17:08,089 --> 00:17:12,230
+during YC there's three things that they
+
+395
+00:17:10,370 --> 00:17:15,230
+should be focusing on writing code
+
+396
+00:17:12,230 --> 00:17:17,449
+talking to users and exercising and
+
+397
+00:17:15,230 --> 00:17:20,900
+maybe that's a little bit extreme but
+
+398
+00:17:17,449 --> 00:17:22,459
+the point is early on nothing else for
+
+399
+00:17:20,900 --> 00:17:24,230
+your startup matters you need to figure
+
+400
+00:17:22,459 --> 00:17:25,730
+out how to make something people want
+
+401
+00:17:24,230 --> 00:17:27,980
+and do it well
+
+402
+00:17:25,730 --> 00:17:30,890
+don't spend all your time networking
+
+403
+00:17:27,980 --> 00:17:34,040
+don't hire an army of interns just build
+
+404
+00:17:30,890 --> 00:17:36,350
+stuff and talk to users and by the way
+
+405
+00:17:34,040 --> 00:17:38,360
+fundraising is a distraction but it's a
+
+406
+00:17:36,350 --> 00:17:40,960
+necessary one so just try to spend as
+
+407
+00:17:38,360 --> 00:17:43,580
+little time on it as possible
+
+408
+00:17:40,960 --> 00:17:46,040
+one thing that isn't necessary and is a
+
+409
+00:17:43,580 --> 00:17:49,070
+bad distraction is talking to corporate
+
+410
+00:17:46,040 --> 00:17:52,210
+development people or Corp dev these are
+
+411
+00:17:49,070 --> 00:17:55,130
+people at big companies who buy startups
+
+412
+00:17:52,210 --> 00:17:56,690
+so you get a call from a Corp dev person
+
+413
+00:17:55,130 --> 00:17:58,640
+and they want to learn more about what
+
+414
+00:17:56,690 --> 00:18:00,980
+you're doing and explore possible ways
+
+415
+00:17:58,640 --> 00:18:02,930
+of working together the founder thinks
+
+416
+00:18:00,980 --> 00:18:04,820
+oh boy this important company wants to
+
+417
+00:18:02,930 --> 00:18:07,580
+work with me I should at least take the
+
+418
+00:18:04,820 --> 00:18:09,620
+meeting and I hate to sound harsh but
+
+419
+00:18:07,580 --> 00:18:11,960
+what these meetings are really for is a
+
+420
+00:18:09,620 --> 00:18:17,840
+way for them to see if they want to do
+
+421
+00:18:11,960 --> 00:18:19,490
+an HR acquisition and an HR acquisition
+
+422
+00:18:17,840 --> 00:18:21,500
+means they're essentially trying to hire
+
+423
+00:18:19,490 --> 00:18:23,060
+you and there's such a dangerous
+
+424
+00:18:21,500 --> 00:18:23,590
+distraction that I've given them their
+
+425
+00:18:23,060 --> 00:18:27,370
+own
+
+426
+00:18:23,590 --> 00:18:29,440
+monster there's nothing wrong with HR
+
+427
+00:18:27,370 --> 00:18:31,990
+acquisitions if that's what you want to
+
+428
+00:18:29,440 --> 00:18:34,150
+do but most founders don't start
+
+429
+00:18:31,990 --> 00:18:36,400
+startups just to get a job at a big
+
+430
+00:18:34,150 --> 00:18:39,730
+company for what essentially is a nice
+
+431
+00:18:36,400 --> 00:18:42,159
+hiring bonus talking to corporate have
+
+432
+00:18:39,730 --> 00:18:45,400
+people early on isn't just a waste of
+
+433
+00:18:42,159 --> 00:18:48,370
+time it's uniquely demoralizing and I
+
+434
+00:18:45,400 --> 00:18:50,110
+see the cycle happen over and over the
+
+435
+00:18:48,370 --> 00:18:51,549
+founders go to meet with the Corp dev
+
+436
+00:18:50,110 --> 00:18:54,070
+people and think the meeting was great
+
+437
+00:18:51,549 --> 00:18:56,350
+they're so friendly and enthusiastic and
+
+438
+00:18:54,070 --> 00:18:58,299
+the founders delude themselves into
+
+439
+00:18:56,350 --> 00:19:00,340
+thinking that their startup is going to
+
+440
+00:18:58,299 --> 00:19:02,460
+be the one that gets bought for ten
+
+441
+00:19:00,340 --> 00:19:05,409
+million dollars after only five months
+
+442
+00:19:02,460 --> 00:19:07,240
+they start to think okay yeah we'd kind
+
+443
+00:19:05,409 --> 00:19:09,490
+of like to get acquired and they start
+
+444
+00:19:07,240 --> 00:19:12,399
+to not work on their startup anymore and
+
+445
+00:19:09,490 --> 00:19:14,559
+they lose momentum then they get the
+
+446
+00:19:12,399 --> 00:19:15,850
+offer and it's essentially what they
+
+447
+00:19:14,559 --> 00:19:18,220
+would have gotten if they'd walked in
+
+448
+00:19:15,850 --> 00:19:20,320
+off the street and gotten a job but by
+
+449
+00:19:18,220 --> 00:19:23,289
+then they've gotten so accustomed to the
+
+450
+00:19:20,320 --> 00:19:25,419
+idea of selling that they take it so
+
+451
+00:19:23,289 --> 00:19:31,450
+going down the Corp dev road seriously
+
+452
+00:19:25,419 --> 00:19:34,299
+can deflate your ambitions okay now we
+
+453
+00:19:31,450 --> 00:19:36,100
+come to the fiercest monster of all the
+
+454
+00:19:34,299 --> 00:19:39,580
+difficulty of making something people
+
+455
+00:19:36,100 --> 00:19:41,740
+want it's so hard that most startups
+
+456
+00:19:39,580 --> 00:19:43,270
+aren't able to do it you're trying to
+
+457
+00:19:41,740 --> 00:19:46,179
+figure out something that's never been
+
+458
+00:19:43,270 --> 00:19:48,549
+done before not making something people
+
+459
+00:19:46,179 --> 00:19:51,279
+want is the biggest cause of failure we
+
+460
+00:19:48,549 --> 00:19:53,710
+see early on with the second biggest
+
+461
+00:19:51,279 --> 00:19:55,630
+being founder disputes in order to make
+
+462
+00:19:53,710 --> 00:19:58,570
+something people want being brilliant
+
+463
+00:19:55,630 --> 00:20:00,700
+and determined is not enough you have to
+
+464
+00:19:58,570 --> 00:20:03,580
+be able to talk to your users and adjust
+
+465
+00:20:00,700 --> 00:20:04,929
+your idea accordingly and ordinarily you
+
+466
+00:20:03,580 --> 00:20:06,789
+have to change your idea quite a lot
+
+467
+00:20:04,929 --> 00:20:08,100
+even if you start out with a reasonably
+
+468
+00:20:06,789 --> 00:20:10,980
+good one
+
+469
+00:20:08,100 --> 00:20:13,510
+remember this website air
+
+470
+00:20:10,980 --> 00:20:15,880
+bed-and-breakfast was a rather narrower
+
+471
+00:20:13,510 --> 00:20:17,380
+idea when they first launched they
+
+472
+00:20:15,880 --> 00:20:20,140
+started out as a site that let people
+
+473
+00:20:17,380 --> 00:20:23,230
+rent out air beds to travelers for
+
+474
+00:20:20,140 --> 00:20:25,690
+conferences then they changed to renting
+
+475
+00:20:23,230 --> 00:20:28,270
+out air beds then they change to renting
+
+476
+00:20:25,690 --> 00:20:30,610
+out a room or a couch but the hosts had
+
+477
+00:20:28,270 --> 00:20:32,799
+to be there to make breakfast then they
+
+478
+00:20:30,610 --> 00:20:36,659
+finally realized that there was all this
+
+479
+00:20:32,799 --> 00:20:38,580
+pent-up demand to rent out entire places
+
+480
+00:20:36,659 --> 00:20:40,590
+this evolution shows that you may begin
+
+481
+00:20:38,580 --> 00:20:42,929
+with kind of a general vision of what
+
+482
+00:20:40,590 --> 00:20:44,789
+your startup is doing but you often have
+
+483
+00:20:42,929 --> 00:20:47,940
+to try several different approaches to
+
+484
+00:20:44,789 --> 00:20:50,190
+get it right and sometimes you have to
+
+485
+00:20:47,940 --> 00:20:52,619
+totally change your idea order ahead
+
+486
+00:20:50,190 --> 00:20:56,190
+which lets you order takeout on your
+
+487
+00:20:52,619 --> 00:20:58,080
+cellphone was the founders sixth idea we
+
+488
+00:20:56,190 --> 00:20:59,669
+funded them for the first thing I think
+
+489
+00:20:58,080 --> 00:21:01,679
+they presented on demo day with the
+
+490
+00:20:59,669 --> 00:21:06,840
+third and it wasn't until order ahead
+
+491
+00:21:01,679 --> 00:21:08,009
+that they hit on their big idea even if
+
+492
+00:21:06,840 --> 00:21:10,889
+you don't need to change the overall
+
+493
+00:21:08,009 --> 00:21:13,349
+idea much you still tend to have to do
+
+494
+00:21:10,889 --> 00:21:16,529
+lots of refinement and one of the best
+
+495
+00:21:13,349 --> 00:21:19,049
+examples of this is Dropbox here's a
+
+496
+00:21:16,529 --> 00:21:22,649
+photo of drew Houston during YC in the
+
+497
+00:21:19,049 --> 00:21:23,580
+summer of a 7 he and Arash were working
+
+498
+00:21:22,649 --> 00:21:26,309
+on something that was obviously
+
+499
+00:21:23,580 --> 00:21:28,169
+necessary but the reason it was hard to
+
+500
+00:21:26,309 --> 00:21:29,970
+predict early on whether they'd succeed
+
+501
+00:21:28,169 --> 00:21:33,179
+is that there were lots of people doing
+
+502
+00:21:29,970 --> 00:21:35,759
+this the way to win in this world was to
+
+503
+00:21:33,179 --> 00:21:36,239
+execute well and it didn't happen
+
+504
+00:21:35,759 --> 00:21:38,159
+overnight
+
+505
+00:21:36,239 --> 00:21:40,349
+they had to get a thousand and one
+
+506
+00:21:38,159 --> 00:21:42,509
+details right there were a lot of
+
+507
+00:21:40,349 --> 00:21:48,529
+unglamorous schleps between that
+
+508
+00:21:42,509 --> 00:21:51,509
+photograph and this one looks good
+
+509
+00:21:48,529 --> 00:21:53,580
+between starting the company and being
+
+510
+00:21:51,509 --> 00:21:57,029
+on the cover of Forbes you're gonna have
+
+511
+00:21:53,580 --> 00:21:58,769
+some dramatic ups and downs in a startup
+
+512
+00:21:57,029 --> 00:22:01,190
+you don't have the damping that you'd
+
+513
+00:21:58,769 --> 00:22:03,269
+have as part of a larger organization
+
+514
+00:22:01,190 --> 00:22:06,269
+circumstances just kind of fling you
+
+515
+00:22:03,269 --> 00:22:08,369
+about the process is often described as
+
+516
+00:22:06,269 --> 00:22:11,970
+a roller coaster because you're up one
+
+517
+00:22:08,369 --> 00:22:13,379
+minute and down the next lots of
+
+518
+00:22:11,970 --> 00:22:16,019
+rollercoaster stories that I know
+
+519
+00:22:13,379 --> 00:22:18,629
+involve fundraising and one of the most
+
+520
+00:22:16,019 --> 00:22:22,379
+extreme ones happened to some people we
+
+521
+00:22:18,629 --> 00:22:24,330
+funded in their previous startup it was
+
+522
+00:22:22,379 --> 00:22:26,549
+based in Houston and they got a term
+
+523
+00:22:24,330 --> 00:22:28,349
+sheet from a top-tier VC in Silicon
+
+524
+00:22:26,549 --> 00:22:30,720
+Valley and one of the conditions was
+
+525
+00:22:28,349 --> 00:22:31,229
+that they base their company in the
+
+526
+00:22:30,720 --> 00:22:35,570
+valley
+
+527
+00:22:31,229 --> 00:22:39,359
+so they said fine they sold their houses
+
+528
+00:22:35,570 --> 00:22:41,279
+they they moved their families into
+
+529
+00:22:39,359 --> 00:22:44,369
+corporate housing in Houston until they
+
+530
+00:22:41,279 --> 00:22:46,470
+found places in the valley the documents
+
+531
+00:22:44,369 --> 00:22:48,890
+were already signed and the money was
+
+532
+00:22:46,470 --> 00:22:51,440
+scheduled to be wired on Friday and
+
+533
+00:22:48,890 --> 00:22:54,830
+we're gonna start working on Monday out
+
+534
+00:22:51,440 --> 00:22:56,900
+of the VCS office so Friday comes around
+
+535
+00:22:54,830 --> 00:23:00,260
+and for some reason the money was not
+
+536
+00:22:56,900 --> 00:23:02,120
+wired so they call the VC to ask if they
+
+537
+00:23:00,260 --> 00:23:04,970
+should still come out and the VC is like
+
+538
+00:23:02,120 --> 00:23:06,770
+absolutely so they get into their
+
+539
+00:23:04,970 --> 00:23:09,470
+minivan and they drive from Houston to
+
+540
+00:23:06,770 --> 00:23:11,810
+Silicon Valley and they stop in Vegas to
+
+541
+00:23:09,470 --> 00:23:16,310
+celebrate this is the up part of the
+
+542
+00:23:11,810 --> 00:23:17,690
+rollercoaster so on Monday they set up
+
+543
+00:23:16,310 --> 00:23:19,700
+all their stuff in the conference room
+
+544
+00:23:17,690 --> 00:23:22,550
+of the VC fund all six of their team
+
+545
+00:23:19,700 --> 00:23:25,640
+there and by that Wednesday the money
+
+546
+00:23:22,550 --> 00:23:27,860
+was still not wired so they had a bored
+
+547
+00:23:25,640 --> 00:23:31,070
+weaning plan for that day and they
+
+548
+00:23:27,860 --> 00:23:33,860
+decide to invite the VC and in this
+
+549
+00:23:31,070 --> 00:23:35,660
+meeting the CEO talked about how sign up
+
+550
+00:23:33,860 --> 00:23:37,490
+numbers had gone down temporarily
+
+551
+00:23:35,660 --> 00:23:40,040
+because they had changed the way they
+
+552
+00:23:37,490 --> 00:23:42,620
+measured them I think you know how this
+
+553
+00:23:40,040 --> 00:23:45,010
+story is gonna turn out the VC had
+
+554
+00:23:42,620 --> 00:23:48,130
+actually gotten buyer's remorse and he
+
+555
+00:23:45,010 --> 00:23:50,480
+used this as an excuse to break the deal
+
+556
+00:23:48,130 --> 00:23:53,120
+remember they had signed all the
+
+557
+00:23:50,480 --> 00:23:54,830
+documents sold their homes moved to
+
+558
+00:23:53,120 --> 00:23:56,690
+Silicon Valley and we're just waiting to
+
+559
+00:23:54,830 --> 00:24:00,440
+get the seven million dollars wired to
+
+560
+00:23:56,690 --> 00:24:02,390
+them and instead the VC bails he kicks
+
+561
+00:24:00,440 --> 00:24:04,340
+them out of their conference room the
+
+562
+00:24:02,390 --> 00:24:06,500
+founders had to call their wives back in
+
+563
+00:24:04,340 --> 00:24:08,540
+Houston and go back with their tails
+
+564
+00:24:06,500 --> 00:24:12,200
+between their legs and they had delay
+
+565
+00:24:08,540 --> 00:24:14,090
+everyone off can you imagine just a few
+
+566
+00:24:12,200 --> 00:24:17,470
+days before they were celebrating in
+
+567
+00:24:14,090 --> 00:24:19,400
+Vegas and now they have nothing
+
+568
+00:24:17,470 --> 00:24:21,230
+incidentally to get to a story this
+
+569
+00:24:19,400 --> 00:24:23,270
+extreme we had to use an example of a
+
+570
+00:24:21,230 --> 00:24:26,060
+startup we didn't find fun cuz I don't
+
+571
+00:24:23,270 --> 00:24:28,820
+think a VC would probably do this to a
+
+572
+00:24:26,060 --> 00:24:30,020
+startup we funded now let me just tell
+
+573
+00:24:28,820 --> 00:24:32,660
+you about the other half of the
+
+574
+00:24:30,020 --> 00:24:35,810
+rollercoaster we funded the codecademy
+
+575
+00:24:32,660 --> 00:24:37,790
+team in the summer of 2011 their
+
+576
+00:24:35,810 --> 00:24:39,020
+original idea didn't work and they kept
+
+577
+00:24:37,790 --> 00:24:41,180
+exploring new ones
+
+578
+00:24:39,020 --> 00:24:42,590
+it wasn't until late July that they
+
+579
+00:24:41,180 --> 00:24:45,080
+started working on their idea for
+
+580
+00:24:42,590 --> 00:24:47,570
+teaching people to code online they
+
+581
+00:24:45,080 --> 00:24:49,660
+launched just three days before demo day
+
+582
+00:24:47,570 --> 00:24:52,880
+and in those three days they got over
+
+583
+00:24:49,660 --> 00:24:54,530
+200,000 users I mean they only launched
+
+584
+00:24:52,880 --> 00:24:56,480
+so they could get up on demo day and say
+
+585
+00:24:54,530 --> 00:24:58,690
+that they were a launch company that
+
+586
+00:24:56,480 --> 00:25:01,400
+Zach Sims they're presenting on demo day
+
+587
+00:24:58,690 --> 00:25:02,200
+they never expected that in just three
+
+588
+00:25:01,400 --> 00:25:04,720
+days
+
+589
+00:25:02,200 --> 00:25:07,390
+they could go from a start up with a nun
+
+590
+00:25:04,720 --> 00:25:08,770
+launched idea and get up on stage and
+
+591
+00:25:07,390 --> 00:25:10,660
+announce they had two hundred thousand
+
+592
+00:25:08,770 --> 00:25:13,260
+users which is just about the most
+
+593
+00:25:10,660 --> 00:25:17,020
+exciting thing you can say to investors
+
+594
+00:25:13,260 --> 00:25:19,990
+the theme here is how extreme things can
+
+595
+00:25:17,020 --> 00:25:22,600
+be just remember that no extreme ever
+
+596
+00:25:19,990 --> 00:25:24,790
+lasts don't let yourself get immobilized
+
+597
+00:25:22,600 --> 00:25:26,890
+by sadness when things go wrong just
+
+598
+00:25:24,790 --> 00:25:29,620
+keep putting one foot in front of the
+
+599
+00:25:26,890 --> 00:25:31,210
+other and no will get better but don't
+
+600
+00:25:29,620 --> 00:25:33,790
+get complacent when things are going
+
+601
+00:25:31,210 --> 00:25:37,180
+well in reality things are never as bad
+
+602
+00:25:33,790 --> 00:25:38,710
+or as good as they seem and by the way
+
+603
+00:25:37,180 --> 00:25:40,720
+what makes this roller coaster even
+
+604
+00:25:38,710 --> 00:25:43,000
+worse is that while you're on it there's
+
+605
+00:25:40,720 --> 00:25:45,850
+this huge audience watching everything
+
+606
+00:25:43,000 --> 00:25:48,100
+you do you'll have trolls and reporters
+
+607
+00:25:45,850 --> 00:25:50,980
+say outrageous things about you online
+
+608
+00:25:48,100 --> 00:25:55,330
+so be ready for that and have a thick
+
+609
+00:25:50,980 --> 00:25:57,670
+skin so everyone knows that startups are
+
+610
+00:25:55,330 --> 00:26:00,310
+hard yet when we watch people do them
+
+611
+00:25:57,670 --> 00:26:02,170
+they're always surprised the reason
+
+612
+00:26:00,310 --> 00:26:04,360
+they're surprised is that they don't
+
+613
+00:26:02,170 --> 00:26:06,970
+realize how bad these specific problems
+
+614
+00:26:04,360 --> 00:26:09,490
+can be I've seen some very smart and
+
+615
+00:26:06,970 --> 00:26:12,400
+talented people get so demoralized that
+
+616
+00:26:09,490 --> 00:26:14,470
+they just gave up startups are not for
+
+617
+00:26:12,400 --> 00:26:17,200
+the faint of heart and I realize that
+
+618
+00:26:14,470 --> 00:26:19,120
+this is not new news but I wanted you to
+
+619
+00:26:17,200 --> 00:26:21,640
+at least understand how they're hard
+
+620
+00:26:19,120 --> 00:26:24,150
+early on so that when you run into these
+
+621
+00:26:21,640 --> 00:26:27,390
+specific monsters you'll know what to do
+
+622
+00:26:24,150 --> 00:26:27,390
+thank you
+

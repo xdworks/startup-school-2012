@@ -1,0 +1,2748 @@
+﻿1
+00:00:00,030 --> 00:00:07,140
+wow this is awesome okay this place is
+
+2
+00:00:03,600 --> 00:00:09,360
+full all right so good to meet all of
+
+3
+00:00:07,140 --> 00:00:13,349
+you my name is Travis Connick co-founder
+
+4
+00:00:09,360 --> 00:00:16,430
+CEO of uber let's see so I do a lot of
+
+5
+00:00:13,349 --> 00:00:19,500
+speaking because we are we're a
+
+6
+00:00:16,430 --> 00:00:21,750
+technology company that is we're in the
+
+7
+00:00:19,500 --> 00:00:24,900
+trenches we're in the cities you know
+
+8
+00:00:21,750 --> 00:00:28,920
+more than half of our employees are not
+
+9
+00:00:24,900 --> 00:00:30,510
+in San Francisco I almost I don't even
+
+10
+00:00:28,920 --> 00:00:33,329
+remember the last time I spoke in San
+
+11
+00:00:30,510 --> 00:00:37,020
+Francisco in front of an audience every
+
+12
+00:00:33,329 --> 00:00:39,090
+time I go to speak somewhere right I
+
+13
+00:00:37,020 --> 00:00:42,649
+look I go on Google and I look at the
+
+14
+00:00:39,090 --> 00:00:45,390
+roads I look at architecture I look at
+
+15
+00:00:42,649 --> 00:00:47,760
+cool pictures I can put that are iconic
+
+16
+00:00:45,390 --> 00:00:50,610
+I'm going to speak in Silicon Valley and
+
+17
+00:00:47,760 --> 00:00:55,140
+I'm searching Google Images and I can't
+
+18
+00:00:50,610 --> 00:01:00,030
+find anything and so yeah there you go
+
+19
+00:00:55,140 --> 00:01:02,460
+it's good to be here all right anyways I
+
+20
+00:01:00,030 --> 00:01:05,460
+found a little something all right so
+
+21
+00:01:02,460 --> 00:01:07,170
+guys I'm guessing most people here at
+
+22
+00:01:05,460 --> 00:01:10,020
+least know what uber is but for those of
+
+23
+00:01:07,170 --> 00:01:14,970
+you who don't I'm going to go do a sort
+
+24
+00:01:10,020 --> 00:01:18,090
+of a basic tour just really quick it's
+
+25
+00:01:14,970 --> 00:01:20,880
+an app on your iPhone that helps you get
+
+26
+00:01:18,090 --> 00:01:24,060
+a car our motto is everyone's private
+
+27
+00:01:20,880 --> 00:01:25,409
+driver and so you you open up the app
+
+28
+00:01:24,060 --> 00:01:28,049
+and you see a bunch of cars that are
+
+29
+00:01:25,409 --> 00:01:33,540
+near you this is one of San Francisco
+
+30
+00:01:28,049 --> 00:01:35,400
+cars three minutes away and Jim will
+
+31
+00:01:33,540 --> 00:01:37,409
+arrive in two minutes he's rated at four
+
+32
+00:01:35,400 --> 00:01:40,110
+point eight and this is all of course
+
+33
+00:01:37,409 --> 00:01:42,119
+all screenshots from your app when he
+
+34
+00:01:40,110 --> 00:01:43,770
+arrives you're told you're notified you
+
+35
+00:01:42,119 --> 00:01:47,689
+can call the driver of course and if
+
+36
+00:01:43,770 --> 00:01:47,689
+you're lucky he'll open the door for you
+
+37
+00:01:48,049 --> 00:01:53,040
+when you're done this is a short trip
+
+38
+00:01:50,759 --> 00:01:54,960
+$15 that's our minimum in San Francisco
+
+39
+00:01:53,040 --> 00:01:56,820
+of course we have lower-cost options now
+
+40
+00:01:54,960 --> 00:01:59,189
+we have something called uber X a couple
+
+41
+00:01:56,820 --> 00:02:01,140
+days ago we launched taxi in San
+
+42
+00:01:59,189 --> 00:02:03,840
+Francisco for a lot of folks are like
+
+43
+00:02:01,140 --> 00:02:05,460
+you're doing tax easier the anti taxi
+
+44
+00:02:03,840 --> 00:02:07,700
+what are you doing we know what we're
+
+45
+00:02:05,460 --> 00:02:09,710
+doing but
+
+46
+00:02:07,700 --> 00:02:12,920
+we'll get to that in just a second all
+
+47
+00:02:09,710 --> 00:02:16,010
+right so some basics launched in June
+
+48
+00:02:12,920 --> 00:02:16,840
+2010 so we're we're just over two years
+
+49
+00:02:16,010 --> 00:02:19,610
+old
+
+50
+00:02:16,840 --> 00:02:21,290
+we don't own cars we don't employ
+
+51
+00:02:19,610 --> 00:02:24,020
+drivers a lot of people don't know that
+
+52
+00:02:21,290 --> 00:02:26,840
+about us I think we we have all these
+
+53
+00:02:24,020 --> 00:02:28,190
+assets they think that we employ lots of
+
+54
+00:02:26,840 --> 00:02:30,470
+drivers we don't we have 120 employees
+
+55
+00:02:28,190 --> 00:02:34,340
+most of which are not in San Francisco
+
+56
+00:02:30,470 --> 00:02:36,110
+we don't have a marketing spend we're
+
+57
+00:02:34,340 --> 00:02:39,440
+deployed in 17 cities for some reason
+
+58
+00:02:36,110 --> 00:02:42,500
+they're 16 here we actually just soft
+
+59
+00:02:39,440 --> 00:02:46,760
+launched in Sydney a couple days ago
+
+60
+00:02:42,500 --> 00:02:52,310
+actually yet yesterday Amsterdam is
+
+61
+00:02:46,760 --> 00:02:53,900
+coming very very shortly and I think
+
+62
+00:02:52,310 --> 00:02:57,190
+Minneapolis isn't on here we did that a
+
+63
+00:02:53,900 --> 00:02:59,270
+couple weeks ago so quick numbers
+
+64
+00:02:57,190 --> 00:03:02,630
+hundreds of thousands of hours driven
+
+65
+00:02:59,270 --> 00:03:04,700
+per week a very interesting engagement
+
+66
+00:03:02,630 --> 00:03:08,360
+figure 50% of all the people who have
+
+67
+00:03:04,700 --> 00:03:11,090
+ever ridden on uber have ridden in the
+
+68
+00:03:08,360 --> 00:03:13,549
+last 30 days and remember when you ride
+
+69
+00:03:11,090 --> 00:03:15,320
+your pain so think about commerce think
+
+70
+00:03:13,549 --> 00:03:17,570
+about a commerce site or a commerce app
+
+71
+00:03:15,320 --> 00:03:20,780
+or 50% of the people who've ever paid
+
+72
+00:03:17,570 --> 00:03:23,480
+paid in the last 30 days average person
+
+73
+00:03:20,780 --> 00:03:24,890
+is paying about 105 dollars a month in
+
+74
+00:03:23,480 --> 00:03:27,890
+San Francisco it's a bit higher than
+
+75
+00:03:24,890 --> 00:03:29,739
+that prices are probably a bit too high
+
+76
+00:03:27,890 --> 00:03:32,540
+I know some of you have felt that sting
+
+77
+00:03:29,739 --> 00:03:35,140
+we're doing 26 percent month-over-month
+
+78
+00:03:32,540 --> 00:03:39,560
+growth that's an average over the last
+
+79
+00:03:35,140 --> 00:03:41,330
+now 16 17 months you go okay well if you
+
+80
+00:03:39,560 --> 00:03:43,250
+start really low and you can grow really
+
+81
+00:03:41,330 --> 00:03:44,900
+big but we were pretty big twelve months
+
+82
+00:03:43,250 --> 00:03:46,910
+ago and if you do 26 percent
+
+83
+00:03:44,900 --> 00:03:48,590
+month-over-month growth that means in 12
+
+84
+00:03:46,910 --> 00:03:51,320
+months you're 16 times bigger than you
+
+85
+00:03:48,590 --> 00:03:53,630
+were 12 months ago so we're growing fast
+
+86
+00:03:51,320 --> 00:03:56,810
+and in fact September over August was 29
+
+87
+00:03:53,630 --> 00:03:58,250
+percent month-over-month so I'm going to
+
+88
+00:03:56,810 --> 00:04:00,260
+tell a little bit about our background
+
+89
+00:03:58,250 --> 00:04:01,790
+and then hopefully if I have enough time
+
+90
+00:04:00,260 --> 00:04:03,290
+get into some of the regulatory stuff
+
+91
+00:04:01,790 --> 00:04:06,799
+which I know none of you guys want to
+
+92
+00:04:03,290 --> 00:04:07,880
+hear about all right so this you can't
+
+93
+00:04:06,799 --> 00:04:10,459
+see really well because of all the
+
+94
+00:04:07,880 --> 00:04:12,890
+lights but it's a romantic shot from the
+
+95
+00:04:10,459 --> 00:04:14,390
+Eiffel Tower between with me and my
+
+96
+00:04:12,890 --> 00:04:16,130
+co-founder Garrett camp some of you guys
+
+97
+00:04:14,390 --> 00:04:16,849
+may know who's the founder of
+
+98
+00:04:16,130 --> 00:04:19,190
+StumbleUpon
+
+99
+00:04:16,849 --> 00:04:20,579
+it was in Paris at LeWeb where we came
+
+100
+00:04:19,190 --> 00:04:22,259
+up with this idea
+
+101
+00:04:20,579 --> 00:04:24,569
+essentially you know he said look I just
+
+102
+00:04:22,259 --> 00:04:26,490
+want to push a button and get a ride you
+
+103
+00:04:24,569 --> 00:04:28,370
+know let's and let's make it a classy
+
+104
+00:04:26,490 --> 00:04:30,960
+ride and that's kind of how we started
+
+105
+00:04:28,370 --> 00:04:33,599
+Paris in many ways is a sister city of
+
+106
+00:04:30,960 --> 00:04:37,500
+San Francisco impossible to get a cab
+
+107
+00:04:33,599 --> 00:04:40,590
+there so this is something from the past
+
+108
+00:04:37,500 --> 00:04:42,169
+this is what we call hailing I'm not
+
+109
+00:04:40,590 --> 00:04:44,849
+sure if you guys have ever done that but
+
+110
+00:04:42,169 --> 00:04:46,860
+some people actually put their arm out
+
+111
+00:04:44,849 --> 00:04:48,810
+to get a cab I don't I don't know what's
+
+112
+00:04:46,860 --> 00:04:50,939
+going on it's a weird thing but this is
+
+113
+00:04:48,810 --> 00:04:53,159
+what we used to see in San Francisco I
+
+114
+00:04:50,939 --> 00:04:55,740
+went through that when we first started
+
+115
+00:04:53,159 --> 00:04:57,210
+actually it wasn't about taking over the
+
+116
+00:04:55,740 --> 00:04:58,710
+world it wasn't about taking on
+
+117
+00:04:57,210 --> 00:05:01,349
+corruption in every city around the
+
+118
+00:04:58,710 --> 00:05:05,099
+world it was actually just about being
+
+119
+00:05:01,349 --> 00:05:07,979
+baller in San Francisco and the only way
+
+120
+00:05:05,099 --> 00:05:11,219
+to do it the original idea was let's go
+
+121
+00:05:07,979 --> 00:05:14,969
+buy 10s classes let's hire 20 drivers
+
+122
+00:05:11,219 --> 00:05:17,520
+and let's get a parking garage and I'm
+
+123
+00:05:14,969 --> 00:05:20,009
+like Garrett we're not buying any car
+
+124
+00:05:17,520 --> 00:05:23,520
+student and we're not signing any lease
+
+125
+00:05:20,009 --> 00:05:25,080
+on a parking garage but the idea of
+
+126
+00:05:23,520 --> 00:05:27,900
+pushing a button getting a ride in
+
+127
+00:05:25,080 --> 00:05:29,460
+within minutes was a magical one and at
+
+128
+00:05:27,900 --> 00:05:31,289
+the beginning it was lifestyle thing it
+
+129
+00:05:29,460 --> 00:05:33,240
+was s classes for us and our hundred
+
+130
+00:05:31,289 --> 00:05:35,310
+friends and so that's where it started
+
+131
+00:05:33,240 --> 00:05:36,479
+in order to use the app you anybody
+
+132
+00:05:35,310 --> 00:05:38,339
+could download it but in order to use it
+
+133
+00:05:36,479 --> 00:05:41,849
+you had us have a special code that I
+
+134
+00:05:38,339 --> 00:05:43,440
+gave you and pretty soon the inbox was
+
+135
+00:05:41,849 --> 00:05:45,270
+just getting full of people who wanted
+
+136
+00:05:43,440 --> 00:05:47,580
+the code because our friends were
+
+137
+00:05:45,270 --> 00:05:49,409
+telling their friends and then you know
+
+138
+00:05:47,580 --> 00:05:52,020
+I searched on Google Images my favorite
+
+139
+00:05:49,409 --> 00:05:55,319
+thing Xplosive viral growth on the
+
+140
+00:05:52,020 --> 00:05:58,409
+Internet and there you go that was the
+
+141
+00:05:55,319 --> 00:06:00,870
+best one I could find we have this thing
+
+142
+00:05:58,409 --> 00:06:03,990
+called God view this is an older version
+
+143
+00:06:00,870 --> 00:06:05,580
+of God view you can see much more what's
+
+144
+00:06:03,990 --> 00:06:08,419
+going on today but I can't show you the
+
+145
+00:06:05,580 --> 00:06:12,419
+new version of God view it's too intense
+
+146
+00:06:08,419 --> 00:06:15,150
+but this is a screenshot of a Friday
+
+147
+00:06:12,419 --> 00:06:17,520
+night very soon after we launched maybe
+
+148
+00:06:15,150 --> 00:06:21,419
+a few weeks or something like that we
+
+149
+00:06:17,520 --> 00:06:24,839
+had four trips going on at the same time
+
+150
+00:06:21,419 --> 00:06:28,169
+we were going nuts like there's four
+
+151
+00:06:24,839 --> 00:06:29,909
+trips there's like we got trips going on
+
+152
+00:06:28,169 --> 00:06:32,129
+we got to dispatch the Green Line at the
+
+153
+00:06:29,909 --> 00:06:33,869
+top there that's a dispatch
+
+154
+00:06:32,129 --> 00:06:35,669
+he shouldn't have his arm up but he does
+
+155
+00:06:33,869 --> 00:06:37,649
+but he's got it he's got a bill
+
+156
+00:06:35,669 --> 00:06:41,519
+briefcase which is cool
+
+157
+00:06:37,649 --> 00:06:46,739
+that's Friday night early on and now
+
+158
+00:06:41,519 --> 00:06:47,999
+this is 5:00 a.m. on a Monday the
+
+159
+00:06:46,739 --> 00:06:48,479
+eyeballs by the way you see some
+
+160
+00:06:47,999 --> 00:06:50,039
+eyeballs
+
+161
+00:06:48,479 --> 00:06:53,009
+every once in a while in there that's
+
+162
+00:06:50,039 --> 00:06:55,409
+somebody opening an app so we see when
+
+163
+00:06:53,009 --> 00:06:57,569
+people open apps that helps us in demand
+
+164
+00:06:55,409 --> 00:06:58,949
+prediction remember we're a logistics
+
+165
+00:06:57,569 --> 00:07:02,669
+company or what I'd call it we were
+
+166
+00:06:58,949 --> 00:07:06,509
+building an urban logistics fabric so
+
+167
+00:07:02,669 --> 00:07:09,629
+when you do something successful not
+
+168
+00:07:06,509 --> 00:07:14,669
+everybody's happy and the older the
+
+169
+00:07:09,629 --> 00:07:16,830
+industry you're tackling the the more
+
+170
+00:07:14,669 --> 00:07:19,860
+protected it is by government or by
+
+171
+00:07:16,830 --> 00:07:21,979
+corruption or by both the more they're
+
+172
+00:07:19,860 --> 00:07:24,599
+going to be upset about what you do
+
+173
+00:07:21,979 --> 00:07:25,709
+we're making drivers lives a hell of a
+
+174
+00:07:24,599 --> 00:07:27,029
+lot better they're making a lot more
+
+175
+00:07:25,709 --> 00:07:28,949
+money they're making ends meet they're
+
+176
+00:07:27,029 --> 00:07:30,839
+living their American dream and uber is
+
+177
+00:07:28,949 --> 00:07:32,399
+helping them do that riders are getting
+
+178
+00:07:30,839 --> 00:07:35,219
+around town much more efficiently I'm
+
+179
+00:07:32,399 --> 00:07:36,990
+not sure who hurts from this other than
+
+180
+00:07:35,219 --> 00:07:41,819
+a particular incumbent industry which I
+
+181
+00:07:36,990 --> 00:07:43,829
+will mention so a few metrics look when
+
+182
+00:07:41,819 --> 00:07:46,999
+I'm having a bad day I just go to our
+
+183
+00:07:43,829 --> 00:07:46,999
+overall revenue graph
+
+184
+00:07:54,180 --> 00:08:00,539
+uh this is a cool trick in Photoshop if
+
+185
+00:07:57,479 --> 00:08:05,340
+you take that image and you flip it it's
+
+186
+00:08:00,539 --> 00:08:08,639
+like a smile okay all right that's just
+
+187
+00:08:05,340 --> 00:08:10,800
+gratuitous okay look we launched in
+
+188
+00:08:08,639 --> 00:08:12,720
+Sanford oh by the way so this this is
+
+189
+00:08:10,800 --> 00:08:14,580
+what 26 percent month-over-month growth
+
+190
+00:08:12,720 --> 00:08:16,710
+looks like and a lot of times when I
+
+191
+00:08:14,580 --> 00:08:19,139
+show this when I when I do presentations
+
+192
+00:08:16,710 --> 00:08:21,479
+in cities we every time we launch in a
+
+193
+00:08:19,139 --> 00:08:24,210
+city we do this big launch event sort of
+
+194
+00:08:21,479 --> 00:08:27,060
+have some high rollers and people who
+
+195
+00:08:24,210 --> 00:08:28,949
+really make the city move we sort of pay
+
+196
+00:08:27,060 --> 00:08:30,900
+our respects to that city and and do a
+
+197
+00:08:28,949 --> 00:08:33,000
+really nice dinner and and these folks
+
+198
+00:08:30,900 --> 00:08:37,700
+are always leaning to the left looking
+
+199
+00:08:33,000 --> 00:08:40,229
+for the axis when we first launched
+
+200
+00:08:37,700 --> 00:08:42,209
+first of all a lot of people go wow it's
+
+201
+00:08:40,229 --> 00:08:44,730
+successful that's so obvious I call it
+
+202
+00:08:42,209 --> 00:08:46,050
+the the hand to the palm to forehead
+
+203
+00:08:44,730 --> 00:08:48,420
+moment when they learn about uber
+
+204
+00:08:46,050 --> 00:08:51,029
+they're like I had this idea or I should
+
+205
+00:08:48,420 --> 00:08:51,779
+have had this idea when we first
+
+206
+00:08:51,029 --> 00:08:53,510
+launched guys
+
+207
+00:08:51,779 --> 00:08:57,209
+it wasn't easy getting our angel round
+
+208
+00:08:53,510 --> 00:09:03,300
+people thought we were crazy limos in
+
+209
+00:08:57,209 --> 00:09:04,890
+San Francisco what but it took off like
+
+210
+00:09:03,300 --> 00:09:07,500
+I said and so one of the interesting
+
+211
+00:09:04,890 --> 00:09:09,029
+things before we went to our series a or
+
+212
+00:09:07,500 --> 00:09:11,220
+sorry this is actually before our series
+
+213
+00:09:09,029 --> 00:09:13,890
+be here which we did in November of last
+
+214
+00:09:11,220 --> 00:09:16,140
+year was is this a one-hit-wonder or not
+
+215
+00:09:13,890 --> 00:09:18,420
+is this only going to work in San
+
+216
+00:09:16,140 --> 00:09:20,310
+Francisco because it's so screwed up and
+
+217
+00:09:18,420 --> 00:09:23,640
+so we started launching in other cities
+
+218
+00:09:20,310 --> 00:09:25,830
+and this is a Revenue chart on a weekly
+
+219
+00:09:23,640 --> 00:09:27,570
+it's a weekly window or which you could
+
+220
+00:09:25,830 --> 00:09:32,670
+think of it's like I'm almost a moving
+
+221
+00:09:27,570 --> 00:09:36,360
+average blue is San Francisco yellow is
+
+222
+00:09:32,670 --> 00:09:38,279
+New York this was early on the brown is
+
+223
+00:09:36,360 --> 00:09:40,190
+Seattle and the green they're Chicago
+
+224
+00:09:38,279 --> 00:09:42,360
+now obviously we're way past that now
+
+225
+00:09:40,190 --> 00:09:44,760
+this was like sort of the first hundred
+
+226
+00:09:42,360 --> 00:09:47,250
+days but what we found is that every
+
+227
+00:09:44,760 --> 00:09:48,089
+city we were rolling out or just hey we
+
+228
+00:09:47,250 --> 00:09:51,000
+didn't know if it was going to work
+
+229
+00:09:48,089 --> 00:09:54,000
+every city we're rolling out got
+
+230
+00:09:51,000 --> 00:09:56,550
+progressively better our operations side
+
+231
+00:09:54,000 --> 00:09:59,910
+of the house got very efficient and then
+
+232
+00:09:56,550 --> 00:10:01,500
+the technology and the number of people
+
+233
+00:09:59,910 --> 00:10:03,240
+who knew about us when we go in we went
+
+234
+00:10:01,500 --> 00:10:04,980
+into New York we had a thousand people
+
+235
+00:10:03,240 --> 00:10:06,120
+with credit cards on file without a car
+
+236
+00:10:04,980 --> 00:10:08,759
+on the ground
+
+237
+00:10:06,120 --> 00:10:09,959
+so this wasn't a one-hit wonder and so
+
+238
+00:10:08,759 --> 00:10:12,720
+we just started launching a ton of
+
+239
+00:10:09,959 --> 00:10:18,749
+cities we have this double rainbow of
+
+240
+00:10:12,720 --> 00:10:21,930
+metrics what does it mean remember as
+
+241
+00:10:18,749 --> 00:10:23,999
+liquidity goes up this is you know
+
+242
+00:10:21,930 --> 00:10:25,019
+people in the marketplace who are
+
+243
+00:10:23,999 --> 00:10:26,550
+building a marketplace know what
+
+244
+00:10:25,019 --> 00:10:28,589
+liquidity means it means demand and
+
+245
+00:10:26,550 --> 00:10:32,610
+supply go up together if they don't you
+
+246
+00:10:28,589 --> 00:10:34,860
+have a marketplace in our world as
+
+247
+00:10:32,610 --> 00:10:37,050
+liquidity goes up the quality of the
+
+248
+00:10:34,860 --> 00:10:39,269
+experience goes up and it dramatically
+
+249
+00:10:37,050 --> 00:10:41,189
+right so our average pickup times in San
+
+250
+00:10:39,269 --> 00:10:43,019
+Francisco are two minutes and 45 seconds
+
+251
+00:10:41,189 --> 00:10:44,730
+when we first started in New York we're
+
+252
+00:10:43,019 --> 00:10:46,499
+like 12 minute average pickup times and
+
+253
+00:10:44,730 --> 00:10:48,389
+let me tell you you don't want to be
+
+254
+00:10:46,499 --> 00:10:51,050
+delivering 12 minute pickup times to New
+
+255
+00:10:48,389 --> 00:10:53,819
+Yorkers they will kick your ass
+
+256
+00:10:51,050 --> 00:10:55,170
+so as it gets better now we're right
+
+257
+00:10:53,819 --> 00:10:56,220
+around five minutes in New York and
+
+258
+00:10:55,170 --> 00:11:00,540
+that's kind of when they lose their
+
+259
+00:10:56,220 --> 00:11:03,720
+minds as more people use it you go from
+
+260
+00:11:00,540 --> 00:11:05,699
+the core user base to bigger the
+
+261
+00:11:03,720 --> 00:11:07,379
+engagement actually gets deeper the
+
+262
+00:11:05,699 --> 00:11:12,629
+number of rides per Rider per month
+
+263
+00:11:07,379 --> 00:11:15,660
+actually go up as we expand as a cool
+
+264
+00:11:12,629 --> 00:11:17,429
+cohort graph but who cares all right the
+
+265
+00:11:15,660 --> 00:11:19,470
+bottom line is that 50% of the people
+
+266
+00:11:17,429 --> 00:11:23,249
+who've ever used still use and we've
+
+267
+00:11:19,470 --> 00:11:24,679
+seen that from the beginning this is an
+
+268
+00:11:23,249 --> 00:11:28,110
+interesting one this is San Francisco
+
+269
+00:11:24,679 --> 00:11:30,329
+indexed revenue so we're getting there's
+
+270
+00:11:28,110 --> 00:11:32,370
+lots of town cars in San Francisco right
+
+271
+00:11:30,329 --> 00:11:35,399
+the number of town cars that they were
+
+272
+00:11:32,370 --> 00:11:40,019
+in San Francisco before we got there was
+
+273
+00:11:35,399 --> 00:11:43,649
+600 there are now more cars dedicated to
+
+274
+00:11:40,019 --> 00:11:46,139
+Eber then there were town cars in San
+
+275
+00:11:43,649 --> 00:11:47,129
+Francisco when we got there and so
+
+276
+00:11:46,139 --> 00:11:48,449
+you're like well this thing is going to
+
+277
+00:11:47,129 --> 00:11:50,670
+slow down this train is going to slow
+
+278
+00:11:48,449 --> 00:11:54,089
+down at some point we indexed San
+
+279
+00:11:50,670 --> 00:11:55,709
+Francisco revenue from last year July
+
+280
+00:11:54,089 --> 00:11:58,019
+1st through the end of the year and
+
+281
+00:11:55,709 --> 00:12:00,179
+looked at this year July 1st to where we
+
+282
+00:11:58,019 --> 00:12:02,759
+are now and it's tracking almost
+
+283
+00:12:00,179 --> 00:12:04,050
+identical so it's not slowing down
+
+284
+00:12:02,759 --> 00:12:07,139
+anytime soon and when you're talking
+
+285
+00:12:04,050 --> 00:12:09,540
+about for a particular city 20 percent
+
+286
+00:12:07,139 --> 00:12:11,429
+month-over-month it growth that's that's
+
+287
+00:12:09,540 --> 00:12:15,329
+really big growth especially when you're
+
+288
+00:12:11,429 --> 00:12:17,069
+when the the numbers are getting big so
+
+289
+00:12:15,329 --> 00:12:19,620
+on the operations side I think a lot of
+
+290
+00:12:17,069 --> 00:12:20,040
+us are techies you know I'm an engineer
+
+291
+00:12:19,620 --> 00:12:22,949
+by
+
+292
+00:12:20,040 --> 00:12:26,100
+meaning we know what product managers
+
+293
+00:12:22,949 --> 00:12:27,600
+are we know what that means but when
+
+294
+00:12:26,100 --> 00:12:29,519
+you're on the ground when your
+
+295
+00:12:27,600 --> 00:12:32,459
+technology touches people and it touches
+
+296
+00:12:29,519 --> 00:12:35,430
+cities what you have to do is have
+
+297
+00:12:32,459 --> 00:12:36,930
+process managers process managers are
+
+298
+00:12:35,430 --> 00:12:40,199
+similar product managers they manage the
+
+299
+00:12:36,930 --> 00:12:43,860
+process that people do versus machines
+
+300
+00:12:40,199 --> 00:12:46,050
+and the roadmap for product has to
+
+301
+00:12:43,860 --> 00:12:47,490
+dovetail with the roadmap for process
+
+302
+00:12:46,050 --> 00:12:49,949
+because anytime we change anything that
+
+303
+00:12:47,490 --> 00:12:52,230
+happens in a car that's got to change
+
+304
+00:12:49,949 --> 00:12:53,160
+the tech and vice versa so there's
+
+305
+00:12:52,230 --> 00:12:57,290
+really interesting Road mapping
+
+306
+00:12:53,160 --> 00:12:59,610
+processes that we go through come on
+
+307
+00:12:57,290 --> 00:13:02,880
+this is supposed to be a picture of
+
+308
+00:12:59,610 --> 00:13:04,500
+Europe we're rolling out very big in
+
+309
+00:13:02,880 --> 00:13:06,660
+Europe right now so getting the
+
+310
+00:13:04,500 --> 00:13:08,399
+operational expertise and I think this
+
+311
+00:13:06,660 --> 00:13:10,589
+just isn't talked a lot about in
+
+312
+00:13:08,399 --> 00:13:11,670
+startups is the operation side of the
+
+313
+00:13:10,589 --> 00:13:14,970
+business I think a lot of e-commerce
+
+314
+00:13:11,670 --> 00:13:16,980
+companies see that we see it on a very
+
+315
+00:13:14,970 --> 00:13:18,990
+deep level because of you know the
+
+316
+00:13:16,980 --> 00:13:21,000
+rubber is actually meeting the road but
+
+317
+00:13:18,990 --> 00:13:22,079
+getting teams ready to roll out in
+
+318
+00:13:21,000 --> 00:13:23,430
+Europe is something we've been spending
+
+319
+00:13:22,079 --> 00:13:24,389
+time where in Paris in London right now
+
+320
+00:13:23,430 --> 00:13:26,339
+like I said we're going to be an
+
+321
+00:13:24,389 --> 00:13:28,260
+Amsterdam very soon and there's a whole
+
+322
+00:13:26,339 --> 00:13:29,610
+host of other cities that were that are
+
+323
+00:13:28,260 --> 00:13:31,680
+lined up in Europe and that's going to
+
+324
+00:13:29,610 --> 00:13:34,230
+be a big push end of this year all the
+
+325
+00:13:31,680 --> 00:13:38,000
+way into the first half of next year we
+
+326
+00:13:34,230 --> 00:13:40,769
+have somebody in Asia ready to go and
+
+327
+00:13:38,000 --> 00:13:45,240
+Sydney's sort of our first city in Asia
+
+328
+00:13:40,769 --> 00:13:49,560
+pack and I can't wait to go to the
+
+329
+00:13:45,240 --> 00:13:51,180
+launch party okay all right so quality
+
+330
+00:13:49,560 --> 00:13:53,220
+and choice it was really interesting
+
+331
+00:13:51,180 --> 00:13:55,290
+right we we had this high-end thing it's
+
+332
+00:13:53,220 --> 00:13:58,380
+cost about 50 percent more than a cab
+
+333
+00:13:55,290 --> 00:14:00,420
+and everybody said oh that's high-end
+
+334
+00:13:58,380 --> 00:14:03,139
+and everybody goes wow I'm going to do a
+
+335
+00:14:00,420 --> 00:14:05,790
+low-cost uber there's like a few
+
+336
+00:14:03,139 --> 00:14:10,380
+companies out there I can't remember
+
+337
+00:14:05,790 --> 00:14:12,779
+their names that decide they're going to
+
+338
+00:14:10,380 --> 00:14:15,029
+be a low-cost - when they clone our app
+
+339
+00:14:12,779 --> 00:14:17,579
+you know they flatter us by basically
+
+340
+00:14:15,029 --> 00:14:21,870
+stealing all the pixels and copying them
+
+341
+00:14:17,579 --> 00:14:24,540
+over to their app uber fYI Buber is
+
+342
+00:14:21,870 --> 00:14:26,339
+going to be a low-cost uber but it's
+
+343
+00:14:24,540 --> 00:14:28,410
+about quality and choice and what we see
+
+344
+00:14:26,339 --> 00:14:31,779
+when we lo when we roll out a low-cost
+
+345
+00:14:28,410 --> 00:14:33,910
+option what we see is that
+
+346
+00:14:31,779 --> 00:14:36,699
+actually engagement gets deeper because
+
+347
+00:14:33,910 --> 00:14:38,980
+people have choice they don't have to
+
+348
+00:14:36,699 --> 00:14:40,839
+always get the expensive thing so they
+
+349
+00:14:38,980 --> 00:14:42,459
+start using it more often people who
+
+350
+00:14:40,839 --> 00:14:44,230
+maybe wouldn't start with the black card
+
+351
+00:14:42,459 --> 00:14:47,110
+products start with taxi or what we call
+
+352
+00:14:44,230 --> 00:14:48,190
+uber X and then it's date night and they
+
+353
+00:14:47,110 --> 00:14:50,019
+want to prove you know they want to
+
+354
+00:14:48,190 --> 00:14:52,480
+impress their lady or they just need a
+
+355
+00:14:50,019 --> 00:14:55,990
+comfortable ride and it it goes from
+
+356
+00:14:52,480 --> 00:14:57,959
+there so this was a little choice of
+
+357
+00:14:55,990 --> 00:15:02,529
+beautiful thing let's keep moving
+
+358
+00:14:57,959 --> 00:15:05,230
+taxi we did in Chicago in April we now
+
+359
+00:15:02,529 --> 00:15:08,110
+have a few cities we're in Boston
+
+360
+00:15:05,230 --> 00:15:12,160
+Toronto Chicago San Francisco we were in
+
+361
+00:15:08,110 --> 00:15:14,220
+New York over not anymore don't get me
+
+362
+00:15:12,160 --> 00:15:14,220
+started
+
+363
+00:15:15,269 --> 00:15:19,870
+fair enough we'll get to that at the end
+
+364
+00:15:17,430 --> 00:15:23,680
+we did uberx which is sort of like a
+
+365
+00:15:19,870 --> 00:15:26,290
+low-end uber where and we did this in
+
+366
+00:15:23,680 --> 00:15:28,750
+July in San Francisco in New York and
+
+367
+00:15:26,290 --> 00:15:31,449
+that's where it's basically 30% cheaper
+
+368
+00:15:28,750 --> 00:15:33,100
+all hybrid fleet at least in SF where
+
+369
+00:15:31,449 --> 00:15:35,170
+we're starting to diversify a little bit
+
+370
+00:15:33,100 --> 00:15:40,149
+out of hybrids because we can't get the
+
+371
+00:15:35,170 --> 00:15:42,040
+partners to buy cars fast enough but the
+
+372
+00:15:40,149 --> 00:15:43,449
+thing is is you push a button and a car
+
+373
+00:15:42,040 --> 00:15:46,480
+appears in five minutes and that feels
+
+374
+00:15:43,449 --> 00:15:49,269
+magical but how you make that happen is
+
+375
+00:15:46,480 --> 00:15:51,160
+actually very complex so we have a math
+
+376
+00:15:49,269 --> 00:15:52,449
+department here there I like to tell
+
+377
+00:15:51,160 --> 00:15:54,850
+them I say look guys you're in charge of
+
+378
+00:15:52,449 --> 00:15:57,610
+our margins right because they need to
+
+379
+00:15:54,850 --> 00:15:59,949
+get the pickup times really low but the
+
+380
+00:15:57,610 --> 00:16:02,199
+utilization really high how do you do
+
+381
+00:15:59,949 --> 00:16:04,000
+that right well you do that through a
+
+382
+00:16:02,199 --> 00:16:07,480
+lot of math but let's start with our
+
+383
+00:16:04,000 --> 00:16:10,060
+math department okay that's not my math
+
+384
+00:16:07,480 --> 00:16:12,010
+department but we have two nuclear
+
+385
+00:16:10,060 --> 00:16:16,149
+physicists on staff a computational
+
+386
+00:16:12,010 --> 00:16:18,130
+neuroscientist a machine learning expert
+
+387
+00:16:16,149 --> 00:16:20,199
+and a few other guys there they're
+
+388
+00:16:18,130 --> 00:16:24,040
+killing it and some of the things they
+
+389
+00:16:20,199 --> 00:16:26,230
+do they do demand prediction congestion
+
+390
+00:16:24,040 --> 00:16:30,660
+prediction supply matching supply
+
+391
+00:16:26,230 --> 00:16:33,399
+positioning smart dispatch algorithms
+
+392
+00:16:30,660 --> 00:16:37,029
+dynamic pricing Friday and Saturday
+
+393
+00:16:33,399 --> 00:16:40,180
+night are special nights we sometimes
+
+394
+00:16:37,029 --> 00:16:41,709
+get really big waves of demand that you
+
+395
+00:16:40,180 --> 00:16:43,089
+can't really get enough cars to do
+
+396
+00:16:41,709 --> 00:16:44,630
+anything about so you have a marketplace
+
+397
+00:16:43,089 --> 00:16:47,030
+oriented sort of dynamic
+
+398
+00:16:44,630 --> 00:16:51,500
+pricing element that clears the market
+
+399
+00:16:47,030 --> 00:16:53,870
+it gets more cars on the road and in
+
+400
+00:16:51,500 --> 00:16:55,640
+sort of lassos in sort of uncontrollable
+
+401
+00:16:53,870 --> 00:16:57,170
+demand you can't see these pictures
+
+402
+00:16:55,640 --> 00:16:59,270
+really well because of the lights but
+
+403
+00:16:57,170 --> 00:17:01,160
+they're pretty these are some heat maps
+
+404
+00:16:59,270 --> 00:17:03,710
+of cities this is DC right here but you
+
+405
+00:17:01,160 --> 00:17:07,120
+you guys probably can't see it this is
+
+406
+00:17:03,710 --> 00:17:07,120
+Manhattan can't you tell
+
+407
+00:17:07,430 --> 00:17:13,550
+anyways these are useless I'll just keep
+
+408
+00:17:10,069 --> 00:17:15,470
+going okay all right this right here is
+
+409
+00:17:13,550 --> 00:17:18,050
+what drivers see this is our supply
+
+410
+00:17:15,470 --> 00:17:22,280
+positioning so in our company when mass
+
+411
+00:17:18,050 --> 00:17:24,350
+goes operational that becomes how am i
+
+412
+00:17:22,280 --> 00:17:28,610
+doing on time by the way I have no
+
+413
+00:17:24,350 --> 00:17:30,110
+timing here eight minutes left all right
+
+414
+00:17:28,610 --> 00:17:33,500
+hey minutes left all right this is going
+
+415
+00:17:30,110 --> 00:17:35,090
+to suck all right all right so supply
+
+416
+00:17:33,500 --> 00:17:37,070
+positioning right we have a heat map of
+
+417
+00:17:35,090 --> 00:17:38,510
+demand but I can basically we're
+
+418
+00:17:37,070 --> 00:17:41,570
+predicting demand twenty minutes ahead
+
+419
+00:17:38,510 --> 00:17:43,880
+of time the problem is is that if I gave
+
+420
+00:17:41,570 --> 00:17:46,460
+the heat map to drivers right they'll
+
+421
+00:17:43,880 --> 00:17:48,050
+all go to the same spot and then that'll
+
+422
+00:17:46,460 --> 00:17:50,390
+be bad for a lot of people who aren't in
+
+423
+00:17:48,050 --> 00:17:52,100
+that hot spot so we do is we say here's
+
+424
+00:17:50,390 --> 00:17:54,050
+the heat map of demand or prediction for
+
+425
+00:17:52,100 --> 00:17:56,360
+20 minutes ahead time but where is the
+
+426
+00:17:54,050 --> 00:17:58,370
+supply right now that's anti heat that
+
+427
+00:17:56,360 --> 00:18:00,560
+sucks the heat out of the map what's
+
+428
+00:17:58,370 --> 00:18:02,870
+left over is residual heat under serve
+
+429
+00:18:00,560 --> 00:18:04,400
+demand and we do that on a neighborhood
+
+430
+00:18:02,870 --> 00:18:07,280
+by neighborhood basis will ultimately go
+
+431
+00:18:04,400 --> 00:18:09,500
+continuous on it the math is very tricky
+
+432
+00:18:07,280 --> 00:18:11,540
+and complex and computationally
+
+433
+00:18:09,500 --> 00:18:13,190
+intensive but that gives you a sense of
+
+434
+00:18:11,540 --> 00:18:14,690
+some of the things we do that's in-car
+
+435
+00:18:13,190 --> 00:18:16,190
+you don't see it because once you get in
+
+436
+00:18:14,690 --> 00:18:19,640
+the car he's on trip and he doesn't see
+
+437
+00:18:16,190 --> 00:18:21,400
+that map anymore dynamic pricing I
+
+438
+00:18:19,640 --> 00:18:24,050
+talked a little bit about that already
+
+439
+00:18:21,400 --> 00:18:27,070
+we have one of our nuclear physicists
+
+440
+00:18:24,050 --> 00:18:29,270
+guys is a big San Francisco Giants fan
+
+441
+00:18:27,070 --> 00:18:30,830
+clearly we have to look at events in the
+
+442
+00:18:29,270 --> 00:18:33,830
+city because that affects the man in a
+
+443
+00:18:30,830 --> 00:18:35,960
+big way when the Giants play of course
+
+444
+00:18:33,830 --> 00:18:40,460
+demand is huge when the Giants win it's
+
+445
+00:18:35,960 --> 00:18:43,310
+much huger than when they lose as people
+
+446
+00:18:40,460 --> 00:18:44,600
+want to go out in style you know they
+
+447
+00:18:43,310 --> 00:18:45,830
+want to go the bars they're just feeling
+
+448
+00:18:44,600 --> 00:18:48,230
+good actually what's interesting is in
+
+449
+00:18:45,830 --> 00:18:51,850
+Boston when they lose when the Red Sox
+
+450
+00:18:48,230 --> 00:18:51,850
+lose we actually have bigger demand
+
+451
+00:18:52,160 --> 00:18:59,910
+no joke here's what's really interesting
+
+452
+00:18:55,970 --> 00:19:01,830
+it's not enough to make money yet I just
+
+453
+00:18:59,910 --> 00:19:03,870
+gave away the punchline but basically
+
+454
+00:19:01,830 --> 00:19:06,120
+that huge uptick in demand one that when
+
+455
+00:19:03,870 --> 00:19:09,710
+a giant San Francisco Giants win starts
+
+456
+00:19:06,120 --> 00:19:09,710
+about three hours before the game begins
+
+457
+00:19:10,580 --> 00:19:16,290
+uber Vegas is going to take on a whole
+
+458
+00:19:12,930 --> 00:19:18,180
+new meaning okay so I'm going to really
+
+459
+00:19:16,290 --> 00:19:19,800
+speed through here and I've sucked
+
+460
+00:19:18,180 --> 00:19:21,650
+because there's so much cool regulatory
+
+461
+00:19:19,800 --> 00:19:24,240
+stuff I could have talked about but
+
+462
+00:19:21,650 --> 00:19:26,040
+giving riders high fives
+
+463
+00:19:24,240 --> 00:19:30,270
+look transportations and thought of as a
+
+464
+00:19:26,040 --> 00:19:32,460
+boring space it's boring well until you
+
+465
+00:19:30,270 --> 00:19:34,740
+push a button a car magically appears
+
+466
+00:19:32,460 --> 00:19:37,260
+but we basically have lots of people who
+
+467
+00:19:34,740 --> 00:19:38,700
+love us and how do we get them to tell
+
+468
+00:19:37,260 --> 00:19:42,600
+that story over and over again give them
+
+469
+00:19:38,700 --> 00:19:43,920
+an excuse to tell the uber story so we
+
+470
+00:19:42,600 --> 00:19:47,490
+do a lot of creative things I think a
+
+471
+00:19:43,920 --> 00:19:49,290
+lot of you guys have seen that but look
+
+472
+00:19:47,490 --> 00:19:50,910
+Valentine's Day we distribute tens of
+
+473
+00:19:49,290 --> 00:19:52,650
+thousands of roses to thousands of
+
+474
+00:19:50,910 --> 00:19:54,450
+drivers every girl who got in a car
+
+475
+00:19:52,650 --> 00:19:59,930
+after 4 p.m. was handed a rose by the
+
+476
+00:19:54,450 --> 00:19:59,930
+driver that's a strong move fellas
+
+477
+00:20:00,780 --> 00:20:12,809
+I call it I call this scaling romance
+
+478
+00:20:03,990 --> 00:20:15,120
+okay on Presidents Day in DC we did what
+
+479
+00:20:12,809 --> 00:20:19,169
+we call an uber Kade okay
+
+480
+00:20:15,120 --> 00:20:21,659
+Escalade Town Car Escalade American
+
+481
+00:20:19,169 --> 00:20:23,610
+flags all the way down one out of every
+
+482
+00:20:21,659 --> 00:20:33,870
+20 people that push the button and uber
+
+483
+00:20:23,610 --> 00:20:36,150
+Kade rolls up the druk the driver the
+
+484
+00:20:33,870 --> 00:20:38,400
+driver has an earpiece that makes them
+
+485
+00:20:36,150 --> 00:20:39,809
+look like Secret Service and as you're
+
+486
+00:20:38,400 --> 00:20:41,970
+driving through town kids are like
+
+487
+00:20:39,809 --> 00:20:48,390
+waving they're like knocking on the
+
+488
+00:20:41,970 --> 00:20:50,309
+window we did something in we did
+
+489
+00:20:48,390 --> 00:20:52,230
+something in South by Southwest
+
+490
+00:20:50,309 --> 00:20:54,090
+we got pedicabs because you don't do a
+
+491
+00:20:52,230 --> 00:20:57,090
+town car in South white that's just
+
+492
+00:20:54,090 --> 00:21:00,059
+douchey like don't do that but a pedicab
+
+493
+00:20:57,090 --> 00:21:01,860
+let's do this right so we did that
+
+494
+00:21:00,059 --> 00:21:03,120
+that's cool 100 pedicabs you push a
+
+495
+00:21:01,860 --> 00:21:05,669
+button pedicab takes you wherever you
+
+496
+00:21:03,120 --> 00:21:07,220
+want to go but we took ten of those
+
+497
+00:21:05,669 --> 00:21:11,159
+petty cabs and we outfitted them with
+
+498
+00:21:07,220 --> 00:21:14,039
+these containers that could hold Texas
+
+499
+00:21:11,159 --> 00:21:15,870
+barbecue so we did on demand Texas
+
+500
+00:21:14,039 --> 00:21:20,100
+barbecue you push the button and a cow
+
+501
+00:21:15,870 --> 00:21:22,770
+would come to you on the map we did ice
+
+502
+00:21:20,100 --> 00:21:25,230
+cream in July and every time we roll out
+
+503
+00:21:22,770 --> 00:21:28,080
+a city we do what's called rider zero
+
+504
+00:21:25,230 --> 00:21:28,830
+the first person to get in an uber when
+
+505
+00:21:28,080 --> 00:21:30,929
+we soft-launched
+
+506
+00:21:28,830 --> 00:21:34,020
+it used to be an organic thing that just
+
+507
+00:21:30,929 --> 00:21:35,340
+happened and then the my city team
+
+508
+00:21:34,020 --> 00:21:37,230
+started getting excited about it this is
+
+509
+00:21:35,340 --> 00:21:41,070
+Edward Norton taking the first we were
+
+510
+00:21:37,230 --> 00:21:44,520
+in Los Angeles to go surfing so we give
+
+511
+00:21:41,070 --> 00:21:47,520
+riders high-fives but we give drivers
+
+512
+00:21:44,520 --> 00:21:49,590
+hugs and that's because look the riders
+
+513
+00:21:47,520 --> 00:21:51,360
+you know they date night goes well they
+
+514
+00:21:49,590 --> 00:21:52,350
+get to their business meeting on time or
+
+515
+00:21:51,360 --> 00:21:55,770
+they're not stranded a certain part of
+
+516
+00:21:52,350 --> 00:21:57,360
+town but for a driver who's scrapping
+
+517
+00:21:55,770 --> 00:21:59,159
+who maybe has a few hours in the morning
+
+518
+00:21:57,360 --> 00:22:01,230
+and one or two hours in the evening or
+
+519
+00:21:59,159 --> 00:22:04,230
+in the afternoon booked filling out that
+
+520
+00:22:01,230 --> 00:22:07,350
+time with a consistent revenue stream
+
+521
+00:22:04,230 --> 00:22:09,750
+helps him make ends meet and so you go
+
+522
+00:22:07,350 --> 00:22:12,210
+from just barely making ends meet to
+
+523
+00:22:09,750 --> 00:22:13,649
+really making a living and then
+
+524
+00:22:12,210 --> 00:22:14,380
+investing in your business we have
+
+525
+00:22:13,649 --> 00:22:18,760
+drivers who
+
+526
+00:22:14,380 --> 00:22:20,560
+from one car to 15 each of those cars
+
+527
+00:22:18,760 --> 00:22:22,690
+grossing more than a hundred grand a
+
+528
+00:22:20,560 --> 00:22:23,590
+year so these guys are living their
+
+529
+00:22:22,690 --> 00:22:26,200
+American dream
+
+530
+00:22:23,590 --> 00:22:28,000
+this is riad he actually was hustling
+
+531
+00:22:26,200 --> 00:22:30,010
+one of our engineers early on our
+
+532
+00:22:28,000 --> 00:22:32,650
+engineers were getting unlimited uber
+
+533
+00:22:30,010 --> 00:22:34,750
+he's like I got it were cool but why
+
+534
+00:22:32,650 --> 00:22:36,370
+don't you come join you bur he did he's
+
+535
+00:22:34,750 --> 00:22:37,750
+the highest performing driver on the
+
+536
+00:22:36,370 --> 00:22:38,770
+system he makes twenty or thirty percent
+
+537
+00:22:37,750 --> 00:22:40,210
+more per hour
+
+538
+00:22:38,770 --> 00:22:43,120
+I was productive driver on the system
+
+539
+00:22:40,210 --> 00:22:44,680
+than all the other drivers he also the
+
+540
+00:22:43,120 --> 00:22:47,380
+highest rated driver we still haven't
+
+541
+00:22:44,680 --> 00:22:49,630
+figured out how he does what he does he
+
+542
+00:22:47,380 --> 00:22:52,660
+now has five cars on the system he
+
+543
+00:22:49,630 --> 00:22:56,320
+recently had his firstborn son named his
+
+544
+00:22:52,660 --> 00:22:58,150
+son after our engineer that's not funny
+
+545
+00:22:56,320 --> 00:23:02,440
+like that's for real all right
+
+546
+00:22:58,150 --> 00:23:05,590
+this is Hani he's a comedian been in the
+
+547
+00:23:02,440 --> 00:23:07,000
+city for about 25 years he or he thinks
+
+548
+00:23:05,590 --> 00:23:08,800
+of himself as a comedian every time I
+
+549
+00:23:07,000 --> 00:23:12,550
+get in the car he tells me used to be a
+
+550
+00:23:08,800 --> 00:23:14,230
+Chippendales dancer this is Steve Aziz
+
+551
+00:23:12,550 --> 00:23:15,760
+and guys just somebody signal when I'm
+
+552
+00:23:14,230 --> 00:23:17,470
+running out of time I have no idea I'll
+
+553
+00:23:15,760 --> 00:23:21,100
+go over and spend an hour up here if you
+
+554
+00:23:17,470 --> 00:23:24,190
+let me two minutes okay all right Steve
+
+555
+00:23:21,100 --> 00:23:24,730
+Aziz has 15 or sorry 20 cars on the
+
+556
+00:23:24,190 --> 00:23:27,190
+system
+
+557
+00:23:24,730 --> 00:23:29,260
+he started with one he's got five kids
+
+558
+00:23:27,190 --> 00:23:34,600
+told me out of six going and six on the
+
+559
+00:23:29,260 --> 00:23:36,700
+way that's funny I said Steve six kids
+
+560
+00:23:34,600 --> 00:23:37,450
+you're crazy what are you doing dude
+
+561
+00:23:36,700 --> 00:23:39,400
+that's nuts
+
+562
+00:23:37,450 --> 00:23:41,200
+you got a business to run he's like I
+
+563
+00:23:39,400 --> 00:23:43,070
+got I got to keep the uber that we were
+
+564
+00:23:41,200 --> 00:23:45,450
+FLE growing
+
+565
+00:23:43,070 --> 00:23:48,360
+his son there doesn't look too happy to
+
+566
+00:23:45,450 --> 00:23:51,060
+be part of the uber fleet well I could
+
+567
+00:23:48,360 --> 00:23:55,290
+talk about regulation I'd spend a couple
+
+568
+00:23:51,060 --> 00:23:56,820
+minutes the bottom line is and I can't
+
+569
+00:23:55,290 --> 00:23:59,730
+go through a bunch of slides because I
+
+570
+00:23:56,820 --> 00:24:01,200
+really don't have the time well I don't
+
+571
+00:23:59,730 --> 00:24:03,390
+know let's just go until somebody stop
+
+572
+00:24:01,200 --> 00:24:05,760
+saying this is a New York City medallion
+
+573
+00:24:03,390 --> 00:24:08,910
+that's the license to basically own and
+
+574
+00:24:05,760 --> 00:24:10,740
+operate a single taxi in New York the
+
+575
+00:24:08,910 --> 00:24:12,360
+number of taxis or medallions in New
+
+576
+00:24:10,740 --> 00:24:16,110
+York it's the blue bar there the dark
+
+577
+00:24:12,360 --> 00:24:18,390
+blue it's basically been flat since 1946
+
+578
+00:24:16,110 --> 00:24:21,870
+the same number of taxis that were in
+
+579
+00:24:18,390 --> 00:24:24,170
+the city in 1946 is the same number of
+
+580
+00:24:21,870 --> 00:24:26,880
+taxis that are out there today that
+
+581
+00:24:24,170 --> 00:24:30,090
+value of that Medina is worth about a
+
+582
+00:24:26,880 --> 00:24:32,370
+million dollars a pop there are 13,000
+
+583
+00:24:30,090 --> 00:24:34,680
+medallions in the city of New York so
+
+584
+00:24:32,370 --> 00:24:38,850
+you have 13 billion dollars directed at
+
+585
+00:24:34,680 --> 00:24:40,860
+keeping uber from being successful DC we
+
+586
+00:24:38,850 --> 00:24:43,110
+had a really interesting situation
+
+587
+00:24:40,860 --> 00:24:44,040
+we went there by the way we were as far
+
+588
+00:24:43,110 --> 00:24:46,340
+as we could tell
+
+589
+00:24:44,040 --> 00:24:48,840
+we were totally legal White Glove legal
+
+590
+00:24:46,340 --> 00:24:52,650
+nicest laws in the country in terms of
+
+591
+00:24:48,840 --> 00:24:56,000
+sedans in DC but DC taxi commissioner
+
+592
+00:24:52,650 --> 00:24:57,870
+goes out there and says ubers not legal
+
+593
+00:24:56,000 --> 00:25:00,420
+because they charge by time and distance
+
+594
+00:24:57,870 --> 00:25:03,330
+and let's just say that was real why is
+
+595
+00:25:00,420 --> 00:25:07,200
+charging by distance evil I don't
+
+596
+00:25:03,330 --> 00:25:08,190
+understand I don't get it but he said
+
+597
+00:25:07,200 --> 00:25:09,360
+look you're charging my time and
+
+598
+00:25:08,190 --> 00:25:12,210
+distance you're not allowed well we
+
+599
+00:25:09,360 --> 00:25:13,710
+looked at the law law says sedan a for
+
+600
+00:25:12,210 --> 00:25:15,270
+hire vehicle designed to carry fewer
+
+601
+00:25:13,710 --> 00:25:17,220
+than six passengers which charges with a
+
+602
+00:25:15,270 --> 00:25:19,110
+service on the basis of time and mileage
+
+603
+00:25:17,220 --> 00:25:21,360
+like what are you talking about is going
+
+604
+00:25:19,110 --> 00:25:24,000
+in public forms Washington Post etc we
+
+605
+00:25:21,360 --> 00:25:28,670
+go the Attorney General in the District
+
+606
+00:25:24,000 --> 00:25:28,670
+of Columbia and that's what he tells us
+
+607
+00:25:30,380 --> 00:25:36,390
+so when you read about the crazy stuff
+
+608
+00:25:35,309 --> 00:25:37,649
+we're doing in the cities and I've got
+
+609
+00:25:36,390 --> 00:25:38,640
+to close this down because I'm - that
+
+610
+00:25:37,649 --> 00:25:40,860
+somebody's going to have the hook and
+
+611
+00:25:38,640 --> 00:25:42,720
+they're going to take me off here but
+
+612
+00:25:40,860 --> 00:25:46,710
+when you read about the crazy stuff that
+
+613
+00:25:42,720 --> 00:25:49,740
+we're doing in the cities know that it
+
+614
+00:25:46,710 --> 00:25:51,539
+is corrupt out there know that we are
+
+615
+00:25:49,740 --> 00:25:54,110
+highly highly disruptive in what you
+
+616
+00:25:51,539 --> 00:25:57,179
+read in the papers isn't always true and
+
+617
+00:25:54,110 --> 00:26:00,029
+the bottom line is that in order to be
+
+618
+00:25:57,179 --> 00:26:02,190
+in this business in order to be this
+
+619
+00:26:00,029 --> 00:26:05,279
+disruptive to what's going on you have
+
+620
+00:26:02,190 --> 00:26:08,519
+to have you have to be willing to to
+
+621
+00:26:05,279 --> 00:26:11,490
+fight and you have to not be it you
+
+622
+00:26:08,519 --> 00:26:13,289
+can't be shy so that gives you a little
+
+623
+00:26:11,490 --> 00:26:14,580
+bit about it basically they try to put a
+
+624
+00:26:13,289 --> 00:26:16,470
+floor on our prices I'll leave it at
+
+625
+00:26:14,580 --> 00:26:19,649
+this one this last one here they put a
+
+626
+00:26:16,470 --> 00:26:21,659
+floor on our prices try to pass what
+
+627
+00:26:19,649 --> 00:26:25,019
+they call the uber amendment make our
+
+628
+00:26:21,659 --> 00:26:26,940
+prices five times out of a taxi they
+
+629
+00:26:25,019 --> 00:26:31,350
+rolled the amendment out July 10th
+
+630
+00:26:26,940 --> 00:26:35,159
+there's a Monday at a July 9th the vote
+
+631
+00:26:31,350 --> 00:26:36,510
+on the bill is the tenth sorry they put
+
+632
+00:26:35,159 --> 00:26:38,820
+the bill out on the night that was a
+
+633
+00:26:36,510 --> 00:26:40,620
+Monday at 4:00 p.m. to vote on at 11:00
+
+634
+00:26:38,820 --> 00:26:42,450
+a.m. the next day 18 hours most of which
+
+635
+00:26:40,620 --> 00:26:44,429
+are going to be sleeping I wrote an
+
+636
+00:26:42,450 --> 00:26:47,070
+email to our consumers letting know that
+
+637
+00:26:44,429 --> 00:26:48,630
+they were about to do this and by the
+
+638
+00:26:47,070 --> 00:26:51,299
+way the rationale was to ensure that
+
+639
+00:26:48,630 --> 00:26:53,130
+basically we don't compete if a CEO of a
+
+640
+00:26:51,299 --> 00:26:55,740
+company told said something like this
+
+641
+00:26:53,130 --> 00:26:57,360
+they'd be in jail but if you corrupt
+
+642
+00:26:55,740 --> 00:27:00,149
+your politicians and then push those
+
+643
+00:26:57,360 --> 00:27:01,919
+laws down it's totally legal anyways we
+
+644
+00:27:00,149 --> 00:27:04,559
+did something called life liberty and
+
+645
+00:27:01,919 --> 00:27:08,159
+the pursuit of Urbanus uber DC love is a
+
+646
+00:27:04,559 --> 00:27:09,570
+hashtag 18 hours later we had 50,000
+
+647
+00:27:08,159 --> 00:27:12,419
+original emails these weren't robo
+
+648
+00:27:09,570 --> 00:27:13,760
+emails that went to City Council people
+
+649
+00:27:12,419 --> 00:27:17,669
+telling them not to vote for it
+
+650
+00:27:13,760 --> 00:27:23,269
+37,000 tweets 104 million social media
+
+651
+00:27:17,669 --> 00:27:23,269
+impressions and we won and
+
+652
+00:27:29,270 --> 00:27:33,049
+as you might imagine there wasn't a lot
+
+653
+00:27:31,100 --> 00:27:35,929
+of sleep during that time but it was so
+
+654
+00:27:33,049 --> 00:27:38,299
+short it maybe didn't matter so anyways
+
+655
+00:27:35,929 --> 00:27:41,240
+guys I think the bottom line I've got so
+
+656
+00:27:38,299 --> 00:27:43,220
+much stuff Vegas by the way gambling and
+
+657
+00:27:41,240 --> 00:27:47,419
+prostitution illegal in Vegas but Hoover
+
+658
+00:27:43,220 --> 00:27:50,600
+is not I got so much stuff I probably
+
+659
+00:27:47,419 --> 00:27:52,100
+have to end this I'll just end with just
+
+660
+00:27:50,600 --> 00:27:53,450
+a couple more slides here guys and I'm
+
+661
+00:27:52,100 --> 00:27:55,789
+sorry about this
+
+662
+00:27:53,450 --> 00:27:57,409
+look technology is wiring up the core
+
+663
+00:27:55,789 --> 00:27:59,240
+services in city life right
+
+664
+00:27:57,409 --> 00:28:01,250
+Airbnb us a bunch of other companies
+
+665
+00:27:59,240 --> 00:28:02,870
+they're changing not just tech not just
+
+666
+00:28:01,250 --> 00:28:05,809
+your twitter app they're changing how
+
+667
+00:28:02,870 --> 00:28:07,399
+you live but that change used to happen
+
+668
+00:28:05,809 --> 00:28:10,669
+over decades it's not happening over
+
+669
+00:28:07,399 --> 00:28:16,159
+months quality of life is not red it's
+
+670
+00:28:10,669 --> 00:28:17,570
+not blue it's just people right cities
+
+671
+00:28:16,159 --> 00:28:19,130
+that resist are going to feel backwards
+
+672
+00:28:17,570 --> 00:28:21,230
+and their cities were not in they feel
+
+673
+00:28:19,130 --> 00:28:23,149
+backwards all right a lot of our
+
+674
+00:28:21,230 --> 00:28:25,520
+customers who are used to this go to
+
+675
+00:28:23,149 --> 00:28:26,990
+other cities it doesn't work so I asked
+
+676
+00:28:25,520 --> 00:28:28,880
+the mayor's what are you protecting who
+
+677
+00:28:26,990 --> 00:28:31,370
+are you protecting now and realize they
+
+678
+00:28:28,880 --> 00:28:33,020
+just don't even realize that they're
+
+679
+00:28:31,370 --> 00:28:34,190
+protecting they think the taxi industry
+
+680
+00:28:33,020 --> 00:28:37,880
+they think drivers know you're actually
+
+681
+00:28:34,190 --> 00:28:39,470
+screwing over drivers so cities need
+
+682
+00:28:37,880 --> 00:28:40,850
+transportation alternatives but they
+
+683
+00:28:39,470 --> 00:28:43,789
+need modern accountable convenient
+
+684
+00:28:40,850 --> 00:28:46,220
+stylish and efficient ones we're out
+
+685
+00:28:43,789 --> 00:28:47,510
+there in a city near you guys and look I
+
+686
+00:28:46,220 --> 00:28:50,740
+appreciate being here is a lot of fun
+
+687
+00:28:47,510 --> 00:28:50,740
+and thank you
+

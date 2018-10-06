@@ -1,0 +1,2420 @@
+﻿1
+00:00:00,000 --> 00:00:06,990
+hi everyone it's awesome to be back here
+
+2
+00:00:03,689 --> 00:00:09,240
+was here in 2010 two years ago lots
+
+3
+00:00:06,990 --> 00:00:11,040
+changed since then I'm actually gonna
+
+4
+00:00:09,240 --> 00:00:13,500
+put this on the ground this is my timer
+
+5
+00:00:11,040 --> 00:00:22,859
+you see part of being a founder of a
+
+6
+00:00:13,500 --> 00:00:25,199
+company is solving your own problems so
+
+7
+00:00:22,859 --> 00:00:27,060
+I was thinking about this talk and what
+
+8
+00:00:25,199 --> 00:00:29,400
+I would talk about what what the big
+
+9
+00:00:27,060 --> 00:00:31,199
+questions would be for me about github
+
+10
+00:00:29,400 --> 00:00:33,690
+where we've been where we're going what
+
+11
+00:00:31,199 --> 00:00:36,660
+does it mean to to start a company today
+
+12
+00:00:33,690 --> 00:00:39,210
+and I figured most of you and especially
+
+13
+00:00:36,660 --> 00:00:43,500
+after watching Ben's talk might be
+
+14
+00:00:39,210 --> 00:00:46,289
+asking how do I as a budding
+
+15
+00:00:43,500 --> 00:00:51,960
+entrepreneur raise a hundred million
+
+16
+00:00:46,289 --> 00:00:53,100
+dollars just like github did maybe
+
+17
+00:00:51,960 --> 00:00:54,600
+that's the question that you're that
+
+18
+00:00:53,100 --> 00:00:56,250
+you're wondering pretty much anywhere I
+
+19
+00:00:54,600 --> 00:00:57,420
+go now everyone says hey Tom how's it
+
+20
+00:00:56,250 --> 00:01:01,829
+going what are you gonna spend a hundred
+
+21
+00:00:57,420 --> 00:01:03,660
+million dollars on but this I think is
+
+22
+00:01:01,829 --> 00:01:06,780
+the wrong question I'm not actually
+
+23
+00:01:03,660 --> 00:01:08,729
+going to tell you how to do that I'm
+
+24
+00:01:06,780 --> 00:01:10,650
+gonna tell you something different and I
+
+25
+00:01:08,729 --> 00:01:14,369
+think that's because at the end of the
+
+26
+00:01:10,650 --> 00:01:17,430
+day money isn't actually what matters
+
+27
+00:01:14,369 --> 00:01:20,189
+money is irrelevant what is money money
+
+28
+00:01:17,430 --> 00:01:23,580
+is just a number in some banks computer
+
+29
+00:01:20,189 --> 00:01:26,369
+that says how many slides you can buy
+
+30
+00:01:23,580 --> 00:01:27,869
+for your office right but that's not
+
+31
+00:01:26,369 --> 00:01:30,000
+what we care about that's not what we're
+
+32
+00:01:27,869 --> 00:01:32,130
+trying to do here we're not trying to
+
+33
+00:01:30,000 --> 00:01:38,820
+just make more slides happen in the
+
+34
+00:01:32,130 --> 00:01:40,229
+world so what does matter I think what
+
+35
+00:01:38,820 --> 00:01:43,939
+matters is not the money it's other
+
+36
+00:01:40,229 --> 00:01:46,710
+things so let's let's think about this I
+
+37
+00:01:43,939 --> 00:01:48,540
+forgot my clicker I need my clicker this
+
+38
+00:01:46,710 --> 00:01:51,659
+is gonna be less impactful if I don't
+
+39
+00:01:48,540 --> 00:01:53,899
+have my my thing okay thank you sir all
+
+40
+00:01:51,659 --> 00:01:57,420
+right you guys are in for a treat okay
+
+41
+00:01:53,899 --> 00:02:00,869
+now that I have this okay so let me let
+
+42
+00:01:57,420 --> 00:02:06,899
+me let me make a positive something for
+
+43
+00:02:00,869 --> 00:02:10,369
+you guys a company is nothing except the
+
+44
+00:02:06,899 --> 00:02:10,369
+decisions that it makes
+
+45
+00:02:10,470 --> 00:02:16,140
+decisions are made by people okay with
+
+46
+00:02:15,070 --> 00:02:21,940
+me so far
+
+47
+00:02:16,140 --> 00:02:25,390
+so the only thing that matters our
+
+48
+00:02:21,940 --> 00:02:28,360
+people people are the only thing that
+
+49
+00:02:25,390 --> 00:02:33,100
+matters and those people then had better
+
+50
+00:02:28,360 --> 00:02:36,150
+be the right people so let me tell you
+
+51
+00:02:33,100 --> 00:02:38,770
+about github in the very early days
+
+52
+00:02:36,150 --> 00:02:40,600
+github was started by myself and my
+
+53
+00:02:38,770 --> 00:02:43,840
+co-founder chris wanstrath initially
+
+54
+00:02:40,600 --> 00:02:46,030
+there was two of us what I did was the
+
+55
+00:02:43,840 --> 00:02:49,270
+design the front-end the very the just
+
+56
+00:02:46,030 --> 00:02:52,650
+the visual and the UX I also did the
+
+57
+00:02:49,270 --> 00:02:55,780
+very back end which is how rails code
+
+58
+00:02:52,650 --> 00:02:57,850
+accesses git repositories on disk so I'm
+
+59
+00:02:55,780 --> 00:02:59,380
+kind of this weird creature and then I
+
+60
+00:02:57,850 --> 00:03:01,690
+do the front-end stuff and I do the
+
+61
+00:02:59,380 --> 00:03:03,790
+backend stuff but I've been doing rails
+
+62
+00:03:01,690 --> 00:03:06,100
+for a long time before that and I didn't
+
+63
+00:03:03,790 --> 00:03:07,930
+really like it I really like rails you
+
+64
+00:03:06,100 --> 00:03:13,780
+can tell the world I don't actually like
+
+65
+00:03:07,930 --> 00:03:15,670
+rails that much and so I was you know in
+
+66
+00:03:13,780 --> 00:03:17,260
+being in the Ruby community and going to
+
+67
+00:03:15,670 --> 00:03:19,600
+Ruby meetups this is how I found my
+
+68
+00:03:17,260 --> 00:03:21,310
+co-founders and chris wanstrath was very
+
+69
+00:03:19,600 --> 00:03:23,200
+big into rails he had a blog post that
+
+70
+00:03:21,310 --> 00:03:24,820
+outlined everything about how to be the
+
+71
+00:03:23,200 --> 00:03:27,130
+best rails developer you can be
+
+72
+00:03:24,820 --> 00:03:29,140
+everything about it was amazing I said
+
+73
+00:03:27,130 --> 00:03:31,090
+this is a guy that I can start a company
+
+74
+00:03:29,140 --> 00:03:33,250
+with because we have complementary
+
+75
+00:03:31,090 --> 00:03:35,410
+skills I'll do the front and back end
+
+76
+00:03:33,250 --> 00:03:39,130
+he'll do the middle part and together we
+
+77
+00:03:35,410 --> 00:03:40,480
+have the whole thing and that worked out
+
+78
+00:03:39,130 --> 00:03:44,560
+really well we just started hacking on
+
+79
+00:03:40,480 --> 00:03:47,020
+it on a side side project but then
+
+80
+00:03:44,560 --> 00:03:48,670
+shortly thereafter and here's here's a
+
+81
+00:03:47,020 --> 00:03:50,110
+little tidbit about how can you tell
+
+82
+00:03:48,670 --> 00:03:52,060
+whether your startup idea is actually
+
+83
+00:03:50,110 --> 00:03:54,400
+gaining traction how is it how do you
+
+84
+00:03:52,060 --> 00:03:55,660
+how can you tell if people enjoy it one
+
+85
+00:03:54,400 --> 00:03:59,410
+thing that was really effective for us
+
+86
+00:03:55,660 --> 00:04:01,810
+was when people came to us this is in
+
+87
+00:03:59,410 --> 00:04:04,330
+the private beta phase and they asked
+
+88
+00:04:01,810 --> 00:04:06,250
+can I pay for this we had no billing
+
+89
+00:04:04,330 --> 00:04:07,900
+system and yet they wanted to pay for it
+
+90
+00:04:06,250 --> 00:04:09,820
+they wanted to make sure that it would
+
+91
+00:04:07,900 --> 00:04:11,890
+continue to exist so that it would
+
+92
+00:04:09,820 --> 00:04:14,740
+continue to solve their problems so if
+
+93
+00:04:11,890 --> 00:04:17,470
+you have customers asking you to pay for
+
+94
+00:04:14,740 --> 00:04:20,820
+your company's product before you can
+
+95
+00:04:17,470 --> 00:04:22,970
+even sell it to them that's a good sign
+
+96
+00:04:20,820 --> 00:04:25,250
+so in order to a come
+
+97
+00:04:22,970 --> 00:04:27,560
+in order to get this company to a place
+
+98
+00:04:25,250 --> 00:04:29,690
+where people could actually buy it we
+
+99
+00:04:27,560 --> 00:04:31,040
+hired our third co-founder he came on
+
+100
+00:04:29,690 --> 00:04:33,320
+board it was just a few months after we
+
+101
+00:04:31,040 --> 00:04:34,940
+had started and he as his first thing
+
+102
+00:04:33,320 --> 00:04:37,400
+built the billing system this is PJ
+
+103
+00:04:34,940 --> 00:04:39,320
+Hyatt so now he had two rails guys
+
+104
+00:04:37,400 --> 00:04:41,510
+essentially and me still doing front and
+
+105
+00:04:39,320 --> 00:04:43,340
+back-end we're building out a better mix
+
+106
+00:04:41,510 --> 00:04:46,580
+of people and skills to accomplish what
+
+107
+00:04:43,340 --> 00:04:49,640
+we need to get done our first employee
+
+108
+00:04:46,580 --> 00:04:52,040
+that we hired name's Scott Chacon he is
+
+109
+00:04:49,640 --> 00:04:54,470
+a git expert so we reached a level in
+
+110
+00:04:52,040 --> 00:04:55,640
+the company where we kind of maxed out
+
+111
+00:04:54,470 --> 00:04:56,870
+our git knowledge none of us would
+
+112
+00:04:55,640 --> 00:04:59,510
+really get experts and yet we're
+
+113
+00:04:56,870 --> 00:05:02,750
+building this site github which is for
+
+114
+00:04:59,510 --> 00:05:05,060
+hosting git repositories so again
+
+115
+00:05:02,750 --> 00:05:06,560
+through meetups we met Scott we talked
+
+116
+00:05:05,060 --> 00:05:08,450
+to him we talked to him about product
+
+117
+00:05:06,560 --> 00:05:11,090
+about how he would go about building
+
+118
+00:05:08,450 --> 00:05:13,460
+things and he was the one that built
+
+119
+00:05:11,090 --> 00:05:15,470
+gist which is the snippet sharing site
+
+120
+00:05:13,460 --> 00:05:20,090
+he built that from scratch as his first
+
+121
+00:05:15,470 --> 00:05:22,940
+task bringing his get knowledge into the
+
+122
+00:05:20,090 --> 00:05:25,700
+equation and so you can see we're
+
+123
+00:05:22,940 --> 00:05:27,320
+assembling a broader diversity of people
+
+124
+00:05:25,700 --> 00:05:28,820
+who can accomplish more things we max
+
+125
+00:05:27,320 --> 00:05:31,240
+out our get knowledge let's bring
+
+126
+00:05:28,820 --> 00:05:34,370
+someone in that can augment that and
+
+127
+00:05:31,240 --> 00:05:36,919
+you'll notice that none of these people
+
+128
+00:05:34,370 --> 00:05:39,740
+none of the four of us were business
+
+129
+00:05:36,919 --> 00:05:41,300
+people none of us had ever really gone
+
+130
+00:05:39,740 --> 00:05:42,620
+into business all that much I'd done
+
+131
+00:05:41,300 --> 00:05:46,340
+some consulting but that doesn't really
+
+132
+00:05:42,620 --> 00:05:48,530
+count none of us had created large
+
+133
+00:05:46,340 --> 00:05:50,840
+businesses none of us had an MBA
+
+134
+00:05:48,530 --> 00:05:56,600
+background or a business background like
+
+135
+00:05:50,840 --> 00:05:59,780
+that so none of us either were
+
+136
+00:05:56,600 --> 00:06:01,700
+executives none of us had this really
+
+137
+00:05:59,780 --> 00:06:04,520
+broad experience in creating a company
+
+138
+00:06:01,700 --> 00:06:05,900
+that you might as a person starting out
+
+139
+00:06:04,520 --> 00:06:08,180
+think well how are we gonna solve this
+
+140
+00:06:05,900 --> 00:06:10,250
+problem well let's let's hire an
+
+141
+00:06:08,180 --> 00:06:13,600
+executive because they know what they're
+
+142
+00:06:10,250 --> 00:06:13,600
+doing now you have two problems
+
+143
+00:06:14,210 --> 00:06:18,840
+here's the thing no you know there are
+
+144
+00:06:17,250 --> 00:06:22,169
+executives and they're awesome great
+
+145
+00:06:18,840 --> 00:06:25,020
+people but they know so much they know
+
+146
+00:06:22,169 --> 00:06:27,090
+so much that it can be detrimental I
+
+147
+00:06:25,020 --> 00:06:28,889
+think to a start-up where you're really
+
+148
+00:06:27,090 --> 00:06:30,810
+trying to solve a new problem in a
+
+149
+00:06:28,889 --> 00:06:33,629
+different way you have to come to
+
+150
+00:06:30,810 --> 00:06:35,159
+problems with beginner's mind right not
+
+151
+00:06:33,629 --> 00:06:37,770
+knowing something can be a very powerful
+
+152
+00:06:35,159 --> 00:06:40,229
+tool in to accomplishing it because you
+
+153
+00:06:37,770 --> 00:06:42,659
+don't know that it's not possible that's
+
+154
+00:06:40,229 --> 00:06:44,639
+what doing a start-up is not realizing
+
+155
+00:06:42,659 --> 00:06:48,419
+that something is impossible in doing it
+
+156
+00:06:44,639 --> 00:06:50,400
+anyway something else that was a
+
+157
+00:06:48,419 --> 00:06:55,050
+commonality between us the people in
+
+158
+00:06:50,400 --> 00:06:57,810
+github in the earliest days was having
+
+159
+00:06:55,050 --> 00:06:59,279
+worked for bad companies before having
+
+160
+00:06:57,810 --> 00:07:03,029
+worked in places where they did things
+
+161
+00:06:59,279 --> 00:07:04,830
+wrong examples of how not to do
+
+162
+00:07:03,029 --> 00:07:09,689
+something are just as good as examples
+
+163
+00:07:04,830 --> 00:07:12,000
+of how to do something and I think this
+
+164
+00:07:09,689 --> 00:07:14,520
+is what companies are for companies
+
+165
+00:07:12,000 --> 00:07:20,370
+solve problems great companies solve
+
+166
+00:07:14,520 --> 00:07:22,680
+real problems and if you haven't ever
+
+167
+00:07:20,370 --> 00:07:25,500
+experienced problems then how can you
+
+168
+00:07:22,680 --> 00:07:27,779
+know what are the right ones to solve so
+
+169
+00:07:25,500 --> 00:07:31,020
+you're all here to do startups to join
+
+170
+00:07:27,779 --> 00:07:33,529
+startups to create startups I think that
+
+171
+00:07:31,020 --> 00:07:35,699
+if your options are creative startup or
+
+172
+00:07:33,529 --> 00:07:37,229
+try so you know go work for another
+
+173
+00:07:35,699 --> 00:07:38,969
+company going and working for other
+
+174
+00:07:37,229 --> 00:07:40,940
+companies is not so bad because it gives
+
+175
+00:07:38,969 --> 00:07:44,699
+you this really excellent perspective on
+
+176
+00:07:40,940 --> 00:07:48,300
+things to not do actually so getting
+
+177
+00:07:44,699 --> 00:07:50,460
+experience elsewhere not so bad right a
+
+178
+00:07:48,300 --> 00:07:52,080
+lot of great people that start startups
+
+179
+00:07:50,460 --> 00:07:53,939
+had a bunch of full time jobs before
+
+180
+00:07:52,080 --> 00:07:58,889
+that I had five I had five full time
+
+181
+00:07:53,939 --> 00:08:01,169
+jobs before starting github so suffering
+
+182
+00:07:58,889 --> 00:08:04,669
+can sometimes lead to a better product
+
+183
+00:08:01,169 --> 00:08:04,669
+for having that information
+
+184
+00:08:16,020 --> 00:08:20,040
+something that's that's great with
+
+185
+00:08:17,520 --> 00:08:22,500
+people is getting together we would meet
+
+186
+00:08:20,040 --> 00:08:24,480
+for beers all the time and we talk over
+
+187
+00:08:22,500 --> 00:08:27,120
+the problems that we had we go to a bar
+
+188
+00:08:24,480 --> 00:08:29,160
+called O'Reilly up in North Beach San
+
+189
+00:08:27,120 --> 00:08:31,590
+Francisco and we just talked through the
+
+190
+00:08:29,160 --> 00:08:34,380
+big problems right people are very
+
+191
+00:08:31,590 --> 00:08:36,870
+important having the same ideas for the
+
+192
+00:08:34,380 --> 00:08:38,580
+product direction is important getting
+
+193
+00:08:36,870 --> 00:08:39,870
+on the same page for that stuff is
+
+194
+00:08:38,580 --> 00:08:41,880
+what's gonna allow you to push forward
+
+195
+00:08:39,870 --> 00:08:43,410
+if you find yourself in a situation
+
+196
+00:08:41,880 --> 00:08:46,080
+where you're not getting along with your
+
+197
+00:08:43,410 --> 00:08:48,150
+co-founders or the very small team that
+
+198
+00:08:46,080 --> 00:08:50,550
+you've created to begin with really step
+
+199
+00:08:48,150 --> 00:08:51,870
+back and evaluate that problem because I
+
+200
+00:08:50,550 --> 00:08:54,000
+don't think you can push forward
+
+201
+00:08:51,870 --> 00:08:56,910
+effectively if you're fighting each
+
+202
+00:08:54,000 --> 00:08:59,250
+other right look at that you should be
+
+203
+00:08:56,910 --> 00:09:02,540
+getting along if you're not really
+
+204
+00:08:59,250 --> 00:09:05,250
+really think about what that means
+
+205
+00:09:02,540 --> 00:09:07,230
+hiring is hard hiring the right people
+
+206
+00:09:05,250 --> 00:09:08,000
+is incredibly hard sometimes you'll
+
+207
+00:09:07,230 --> 00:09:10,380
+screw it up
+
+208
+00:09:08,000 --> 00:09:12,240
+we hired a sales person in the very
+
+209
+00:09:10,380 --> 00:09:14,250
+early days and we had to let him go
+
+210
+00:09:12,240 --> 00:09:16,230
+because he wasn't the culture fit it was
+
+211
+00:09:14,250 --> 00:09:18,360
+because we hadn't had experience with
+
+212
+00:09:16,230 --> 00:09:20,790
+that kind of hiring before and that's
+
+213
+00:09:18,360 --> 00:09:23,490
+okay you're gonna screw up hiring you
+
+214
+00:09:20,790 --> 00:09:26,310
+have to be in a place mentally where you
+
+215
+00:09:23,490 --> 00:09:27,210
+can fix that later on by letting someone
+
+216
+00:09:26,310 --> 00:09:30,060
+go it sucks
+
+217
+00:09:27,210 --> 00:09:32,010
+firing people is the worst but if you're
+
+218
+00:09:30,060 --> 00:09:33,750
+gonna start a company you have to be the
+
+219
+00:09:32,010 --> 00:09:37,890
+kind of person that can do that when it
+
+220
+00:09:33,750 --> 00:09:40,620
+needs to get done and as your company
+
+221
+00:09:37,890 --> 00:09:42,470
+matures and you go through these
+
+222
+00:09:40,620 --> 00:09:44,850
+different phases things are gonna change
+
+223
+00:09:42,470 --> 00:09:47,370
+your role is going to drastically change
+
+224
+00:09:44,850 --> 00:09:49,860
+over time in the beginning I described
+
+225
+00:09:47,370 --> 00:09:51,840
+myself as the janitor I was fixing
+
+226
+00:09:49,860 --> 00:09:53,280
+things things always need to be fixed I
+
+227
+00:09:51,840 --> 00:09:55,320
+was always cleaning things up and fixing
+
+228
+00:09:53,280 --> 00:09:56,850
+things documenting things things are
+
+229
+00:09:55,320 --> 00:09:59,130
+going so fast that someone has to come
+
+230
+00:09:56,850 --> 00:10:02,010
+back kind of fix things up every once in
+
+231
+00:09:59,130 --> 00:10:03,570
+a while I was the janitor and this I
+
+232
+00:10:02,010 --> 00:10:05,640
+think is why titles are
+
+233
+00:10:03,570 --> 00:10:07,290
+especially in the beginning of a company
+
+234
+00:10:05,640 --> 00:10:08,460
+just throw all your titles away don't
+
+235
+00:10:07,290 --> 00:10:11,190
+even worry about it don't bicker about
+
+236
+00:10:08,460 --> 00:10:13,890
+who's gonna be the CEO or the CTO or the
+
+237
+00:10:11,190 --> 00:10:15,360
+CFO all that stuff is crap all that
+
+238
+00:10:13,890 --> 00:10:17,070
+stuff is crap in the beginning there's
+
+239
+00:10:15,360 --> 00:10:20,250
+way too much to be done to specialize
+
+240
+00:10:17,070 --> 00:10:22,530
+that early on things change a little bit
+
+241
+00:10:20,250 --> 00:10:24,750
+when you get bigger you start to
+
+242
+00:10:22,530 --> 00:10:26,640
+specialize a little bit more and then
+
+243
+00:10:24,750 --> 00:10:28,530
+it's really important to think from the
+
+244
+00:10:26,640 --> 00:10:29,850
+early days do you have the right mix of
+
+245
+00:10:28,530 --> 00:10:32,700
+personality types
+
+246
+00:10:29,850 --> 00:10:34,050
+so for us I if I look at the different
+
+247
+00:10:32,700 --> 00:10:35,700
+people who are in the company in the
+
+248
+00:10:34,050 --> 00:10:37,710
+early days and why we've been able to
+
+249
+00:10:35,700 --> 00:10:40,110
+stay together as a team all four of us
+
+250
+00:10:37,710 --> 00:10:44,190
+are still there today five years later
+
+251
+00:10:40,110 --> 00:10:46,560
+I'm sort of the logical pragmatic one of
+
+252
+00:10:44,190 --> 00:10:50,070
+the group Chris is more of the product
+
+253
+00:10:46,560 --> 00:10:52,920
+visionary one PJ is kind of a business
+
+254
+00:10:50,070 --> 00:10:55,020
+operations minded person and Scott
+
+255
+00:10:52,920 --> 00:10:57,180
+guards the culture and creates as much
+
+256
+00:10:55,020 --> 00:11:00,090
+happiness as possible these are four
+
+257
+00:10:57,180 --> 00:11:01,920
+sort of different vectors and in having
+
+258
+00:11:00,090 --> 00:11:03,960
+a discussion and all are just all our
+
+259
+00:11:01,920 --> 00:11:06,930
+decisions we would make by sitting down
+
+260
+00:11:03,960 --> 00:11:08,910
+over beers and coming to a conclusion
+
+261
+00:11:06,930 --> 00:11:11,160
+that was sort of in the middle we would
+
+262
+00:11:08,910 --> 00:11:12,420
+all check and balance each other so
+
+263
+00:11:11,160 --> 00:11:14,430
+think about when you're collecting the
+
+264
+00:11:12,420 --> 00:11:17,220
+right people do they have the right kind
+
+265
+00:11:14,430 --> 00:11:23,090
+of mix to be effective in the long term
+
+266
+00:11:17,220 --> 00:11:25,800
+because that's what you're going for so
+
+267
+00:11:23,090 --> 00:11:27,810
+always think about how every person can
+
+268
+00:11:25,800 --> 00:11:28,980
+effectively push the company forward if
+
+269
+00:11:27,810 --> 00:11:31,470
+you're gonna hire someone how are they
+
+270
+00:11:28,980 --> 00:11:35,220
+gonna push the company forward because
+
+271
+00:11:31,470 --> 00:11:38,640
+companies don't do things people do
+
+272
+00:11:35,220 --> 00:11:41,010
+things and that's why people are all
+
+273
+00:11:38,640 --> 00:11:42,840
+that matters and so I'm gonna have the
+
+274
+00:11:41,010 --> 00:11:46,860
+audience help me for this real quick I
+
+275
+00:11:42,840 --> 00:11:48,510
+want everyone from here over to on the
+
+276
+00:11:46,860 --> 00:11:51,390
+count of three so one two three and then
+
+277
+00:11:48,510 --> 00:11:52,620
+go read this off and say people are the
+
+278
+00:11:51,390 --> 00:11:56,550
+only thing that matters okay are you
+
+279
+00:11:52,620 --> 00:12:00,720
+ready one two three people are the only
+
+280
+00:11:56,550 --> 00:12:07,440
+thing that matters thank you you're an
+
+281
+00:12:00,720 --> 00:12:09,540
+excellent audience but wait customers
+
+282
+00:12:07,440 --> 00:12:12,240
+don't interact with people not when
+
+283
+00:12:09,540 --> 00:12:18,330
+you're building a product so how can
+
+284
+00:12:12,240 --> 00:12:21,540
+they be the most important thing product
+
+285
+00:12:18,330 --> 00:12:24,320
+is actually the only thing that matters
+
+286
+00:12:21,540 --> 00:12:26,100
+ah things are getting interesting I
+
+287
+00:12:24,320 --> 00:12:30,019
+think when you're thinking about your
+
+288
+00:12:26,100 --> 00:12:33,750
+product you need to start with design
+
+289
+00:12:30,019 --> 00:12:35,279
+it's how your customers interact with
+
+290
+00:12:33,750 --> 00:12:37,649
+your products it's what they see it's
+
+291
+00:12:35,279 --> 00:12:38,370
+what they feel think of it like an
+
+292
+00:12:37,649 --> 00:12:40,380
+automobile
+
+293
+00:12:38,370 --> 00:12:44,190
+we all understand cars and trucks and
+
+294
+00:12:40,380 --> 00:12:45,420
+things right this is your this is your
+
+295
+00:12:44,190 --> 00:12:46,769
+experience this is what you're creating
+
+296
+00:12:45,420 --> 00:12:49,139
+you're creating something that is like a
+
+297
+00:12:46,769 --> 00:12:49,649
+vehicle vehicles to us make a lot of
+
+298
+00:12:49,139 --> 00:12:52,860
+sense
+
+299
+00:12:49,649 --> 00:12:56,100
+they've been refined year over year for
+
+300
+00:12:52,860 --> 00:12:58,050
+a large part of the last century so they
+
+301
+00:12:56,100 --> 00:12:59,730
+become very good we all understand them
+
+302
+00:12:58,050 --> 00:13:01,800
+this is what you're going for a product
+
+303
+00:12:59,730 --> 00:13:03,930
+that feels so natural that it's like a
+
+304
+00:13:01,800 --> 00:13:05,490
+car you can just get in you can drive it
+
+305
+00:13:03,930 --> 00:13:06,899
+off the steering wheels here this pedal
+
+306
+00:13:05,490 --> 00:13:12,120
+makes you go and this motor pedal makes
+
+307
+00:13:06,899 --> 00:13:14,880
+you stop that's the product and what you
+
+308
+00:13:12,120 --> 00:13:17,190
+exclude from your product is just as
+
+309
+00:13:14,880 --> 00:13:20,730
+important as what you include in your
+
+310
+00:13:17,190 --> 00:13:22,500
+product take for instance Volkswagen the
+
+311
+00:13:20,730 --> 00:13:27,300
+bug that had the little flower vase
+
+312
+00:13:22,500 --> 00:13:29,100
+right what the hell was that now every
+
+313
+00:13:27,300 --> 00:13:32,959
+time you get in your car it smells like
+
+314
+00:13:29,100 --> 00:13:35,519
+dead organic matter and you wonder if
+
+315
+00:13:32,959 --> 00:13:37,050
+Volkswagen the company is is just the
+
+316
+00:13:35,519 --> 00:13:39,600
+same thing is this dying company that's
+
+317
+00:13:37,050 --> 00:13:42,569
+including these crazy things into their
+
+318
+00:13:39,600 --> 00:13:46,529
+product what you what you leave out is
+
+319
+00:13:42,569 --> 00:13:51,649
+just as important everything that you
+
+320
+00:13:46,529 --> 00:13:54,810
+add makes everything else less important
+
+321
+00:13:51,649 --> 00:13:57,959
+so if you've got your your awesome car
+
+322
+00:13:54,810 --> 00:14:01,500
+right and and you put that big spoiler
+
+323
+00:13:57,959 --> 00:14:03,380
+on the back then your neon ground
+
+324
+00:14:01,500 --> 00:14:05,519
+effects aren't gonna be is awesome
+
+325
+00:14:03,380 --> 00:14:09,089
+because people are distracted by the
+
+326
+00:14:05,519 --> 00:14:12,260
+spoiler so think about that everything
+
+327
+00:14:09,089 --> 00:14:14,970
+that you add dilutes the entire product
+
+328
+00:14:12,260 --> 00:14:17,370
+our designer our first dedicated
+
+329
+00:14:14,970 --> 00:14:18,980
+designer that we hired Kyle Neath has a
+
+330
+00:14:17,370 --> 00:14:23,160
+very nice way of putting this he says
+
+331
+00:14:18,980 --> 00:14:24,600
+focus over features and I think that's a
+
+332
+00:14:23,160 --> 00:14:26,939
+very important thing to remember
+
+333
+00:14:24,600 --> 00:14:29,550
+especially when you're early you can't
+
+334
+00:14:26,939 --> 00:14:32,819
+do everything so the things that you do
+
+335
+00:14:29,550 --> 00:14:34,700
+had better be awesome they better be the
+
+336
+00:14:32,819 --> 00:14:36,230
+right things and
+
+337
+00:14:34,700 --> 00:14:37,580
+dilute it by just tacking on every
+
+338
+00:14:36,230 --> 00:14:39,710
+possible thing that you can think of
+
+339
+00:14:37,580 --> 00:14:42,470
+thinking that users want just as many
+
+340
+00:14:39,710 --> 00:14:44,750
+features as possible people want great
+
+341
+00:14:42,470 --> 00:14:47,900
+products not as many features as they
+
+342
+00:14:44,750 --> 00:14:50,660
+want if you screw up your design then
+
+343
+00:14:47,900 --> 00:14:53,150
+you screw up your product so make sure
+
+344
+00:14:50,660 --> 00:14:56,360
+that one of your co-founders is design
+
+345
+00:14:53,150 --> 00:14:57,890
+minded for us it was me if you're gonna
+
+346
+00:14:56,360 --> 00:15:00,230
+do a start-up and you're thinking about
+
+347
+00:14:57,890 --> 00:15:01,760
+okay I'm a technical guy and I'll you
+
+348
+00:15:00,230 --> 00:15:03,230
+know I'll hire my technical friends and
+
+349
+00:15:01,760 --> 00:15:06,020
+we'll start a company together now you
+
+350
+00:15:03,230 --> 00:15:07,540
+need a designer go find a designer
+
+351
+00:15:06,020 --> 00:15:10,070
+someone who's gonna make your product
+
+352
+00:15:07,540 --> 00:15:12,920
+something that customers want to use
+
+353
+00:15:10,070 --> 00:15:14,780
+instead of stuff like the administrative
+
+354
+00:15:12,920 --> 00:15:16,190
+screens of open source projects that we
+
+355
+00:15:14,780 --> 00:15:17,600
+see today this is a big problem with
+
+356
+00:15:16,190 --> 00:15:19,700
+open source is that there's not a lot of
+
+357
+00:15:17,600 --> 00:15:23,510
+designers involved that's not what you
+
+358
+00:15:19,700 --> 00:15:26,000
+want your company to be like another
+
+359
+00:15:23,510 --> 00:15:27,560
+thing is to think very much about your
+
+360
+00:15:26,000 --> 00:15:29,990
+mission what is the mission of your
+
+361
+00:15:27,560 --> 00:15:31,910
+company and I think that you should be
+
+362
+00:15:29,990 --> 00:15:34,970
+able to say your mission in one sentence
+
+363
+00:15:31,910 --> 00:15:38,840
+and in fact probably in less than ten
+
+364
+00:15:34,970 --> 00:15:40,820
+words so for us when github started our
+
+365
+00:15:38,840 --> 00:15:42,500
+mission was very simple in fact it was
+
+366
+00:15:40,820 --> 00:15:45,620
+on the website some of you might
+
+367
+00:15:42,500 --> 00:15:49,040
+remember it said get hosting no longer a
+
+368
+00:15:45,620 --> 00:15:50,570
+pain in the ass because that was the
+
+369
+00:15:49,040 --> 00:15:53,210
+core problem that we were trying to
+
+370
+00:15:50,570 --> 00:15:54,980
+solve make get hosting really easy so
+
+371
+00:15:53,210 --> 00:15:58,700
+you can share code with your friends it
+
+372
+00:15:54,980 --> 00:16:00,200
+was a very simple mission over time once
+
+373
+00:15:58,700 --> 00:16:04,160
+we got further down the road of
+
+374
+00:16:00,200 --> 00:16:07,040
+accomplishing that we started thinking
+
+375
+00:16:04,160 --> 00:16:08,630
+more about developers as a whole what do
+
+376
+00:16:07,040 --> 00:16:10,460
+they need to do to be effective at
+
+377
+00:16:08,630 --> 00:16:13,280
+creating software it's more than just
+
+378
+00:16:10,460 --> 00:16:15,050
+getting repositories online now it's
+
+379
+00:16:13,280 --> 00:16:16,730
+about collaboration it's about them
+
+380
+00:16:15,050 --> 00:16:20,750
+working together and so we changed our
+
+381
+00:16:16,730 --> 00:16:23,570
+mission we stated it as make developers
+
+382
+00:16:20,750 --> 00:16:26,180
+lives better every day so we expanded
+
+383
+00:16:23,570 --> 00:16:30,200
+the scope of what we were trying to
+
+384
+00:16:26,180 --> 00:16:32,120
+solve then we started building internal
+
+385
+00:16:30,200 --> 00:16:35,180
+tools for ourselves things that are
+
+386
+00:16:32,120 --> 00:16:37,430
+beneficial to creating a software
+
+387
+00:16:35,180 --> 00:16:39,020
+business and we started thinking about
+
+388
+00:16:37,430 --> 00:16:41,030
+things a little bit differently still so
+
+389
+00:16:39,020 --> 00:16:43,910
+we're going broader we started saying we
+
+390
+00:16:41,030 --> 00:16:46,310
+use github to build github because it's
+
+391
+00:16:43,910 --> 00:16:48,439
+more products than just github calm
+
+392
+00:16:46,310 --> 00:16:50,629
+things like some things that you have
+
+393
+00:16:48,439 --> 00:16:51,230
+seen like the job's site jobs at
+
+394
+00:16:50,629 --> 00:16:53,480
+github.com
+
+395
+00:16:51,230 --> 00:16:55,370
+things like just a bigger suite of
+
+396
+00:16:53,480 --> 00:16:59,540
+products that can help you solve more
+
+397
+00:16:55,370 --> 00:17:04,280
+problems and now the final vision that
+
+398
+00:16:59,540 --> 00:17:07,819
+we have now is what we call making it
+
+399
+00:17:04,280 --> 00:17:10,459
+easier to work together than to work
+
+400
+00:17:07,819 --> 00:17:14,870
+alone you'll see that it's completely
+
+401
+00:17:10,459 --> 00:17:16,220
+divorced from software altogether and so
+
+402
+00:17:14,870 --> 00:17:17,240
+I will actually answer your question
+
+403
+00:17:16,220 --> 00:17:20,449
+what are we gonna do with the hundred
+
+404
+00:17:17,240 --> 00:17:22,250
+million dollars it's that how many
+
+405
+00:17:20,449 --> 00:17:25,189
+people in the world use code how many
+
+406
+00:17:22,250 --> 00:17:29,750
+people in the world write code thirty
+
+407
+00:17:25,189 --> 00:17:31,750
+million maybe forty if you're lucky how
+
+408
+00:17:29,750 --> 00:17:33,919
+many people are there in the world
+
+409
+00:17:31,750 --> 00:17:36,860
+there's a lot more room to fix
+
+410
+00:17:33,919 --> 00:17:38,630
+collaboration than just software but
+
+411
+00:17:36,860 --> 00:17:40,730
+this took a long time to get to we
+
+412
+00:17:38,630 --> 00:17:42,320
+didn't start with this idea of fixing
+
+413
+00:17:40,730 --> 00:17:44,419
+collaboration for the world we started
+
+414
+00:17:42,320 --> 00:17:47,360
+with the idea of getting a repository
+
+415
+00:17:44,419 --> 00:17:51,169
+from your computer onto the internet
+
+416
+00:17:47,360 --> 00:17:53,480
+that was it so remember that when you're
+
+417
+00:17:51,169 --> 00:17:56,030
+solving a problem pick something that
+
+418
+00:17:53,480 --> 00:17:57,380
+you can solve hopefully there's a
+
+419
+00:17:56,030 --> 00:17:59,809
+direction that you can go that becomes
+
+420
+00:17:57,380 --> 00:18:01,700
+bigger right but choose something small
+
+421
+00:17:59,809 --> 00:18:07,210
+in the beginning that you can actually
+
+422
+00:18:01,700 --> 00:18:10,970
+solve if you bootstrap like we did and
+
+423
+00:18:07,210 --> 00:18:14,240
+your product becomes popular then you'll
+
+424
+00:18:10,970 --> 00:18:16,429
+also be faced with a choice which is are
+
+425
+00:18:14,240 --> 00:18:18,020
+we going to do this as a lifestyle
+
+426
+00:18:16,429 --> 00:18:20,570
+business is our product going to be a
+
+427
+00:18:18,020 --> 00:18:22,220
+lifestyle very niche kind of thing and
+
+428
+00:18:20,570 --> 00:18:24,260
+yet it'll make your life really your
+
+429
+00:18:22,220 --> 00:18:25,399
+lives really good you can live with that
+
+430
+00:18:24,260 --> 00:18:27,830
+with that way that's awesome lots of
+
+431
+00:18:25,399 --> 00:18:29,360
+people do this that's great but you'll
+
+432
+00:18:27,830 --> 00:18:31,490
+also be faced with the choice which is
+
+433
+00:18:29,360 --> 00:18:34,850
+do we want to blow this out we want to
+
+434
+00:18:31,490 --> 00:18:36,440
+change the world if people like your
+
+435
+00:18:34,850 --> 00:18:38,270
+product you've got a bunch of users
+
+436
+00:18:36,440 --> 00:18:42,559
+that's a choice that you will have to
+
+437
+00:18:38,270 --> 00:18:45,649
+make I like to think about it like the
+
+438
+00:18:42,559 --> 00:18:48,230
+TV show Lost how many of you have seen
+
+439
+00:18:45,649 --> 00:18:52,220
+that show lots of you have seen that
+
+440
+00:18:48,230 --> 00:18:55,460
+show yes I think the saddest thing in
+
+441
+00:18:52,220 --> 00:18:59,559
+the world is a squandered opportunity
+
+442
+00:18:55,460 --> 00:18:59,559
+and that's what lost was
+
+443
+00:19:02,870 --> 00:19:07,650
+so that's the question when you're faced
+
+444
+00:19:05,429 --> 00:19:08,970
+with that choice think about what do you
+
+445
+00:19:07,650 --> 00:19:10,440
+want to do with your life what are we
+
+446
+00:19:08,970 --> 00:19:15,000
+trying to accomplish I think you're all
+
+447
+00:19:10,440 --> 00:19:16,200
+here today to solve big problems so
+
+448
+00:19:15,000 --> 00:19:17,970
+maybe you've already made that choice
+
+449
+00:19:16,200 --> 00:19:20,130
+but you might have to make it for real
+
+450
+00:19:17,970 --> 00:19:21,660
+down the road don't squander an
+
+451
+00:19:20,130 --> 00:19:28,290
+opportunity go for it
+
+452
+00:19:21,660 --> 00:19:29,970
+don't be like lost for us it was the
+
+453
+00:19:28,290 --> 00:19:31,290
+decision to reinvest everything that we
+
+454
+00:19:29,970 --> 00:19:33,000
+made in the company into the company
+
+455
+00:19:31,290 --> 00:19:35,070
+instead of banking it out putting in our
+
+456
+00:19:33,000 --> 00:19:37,650
+bank accounts this is also why we raised
+
+457
+00:19:35,070 --> 00:19:39,270
+a hundred million dollars because github
+
+458
+00:19:37,650 --> 00:19:47,220
+is an opportunity we don't want to
+
+459
+00:19:39,270 --> 00:19:51,330
+squander it don't worry too much about
+
+460
+00:19:47,220 --> 00:19:53,730
+when you enter a market almost every
+
+461
+00:19:51,330 --> 00:19:55,140
+product in the world is terrible look at
+
+462
+00:19:53,730 --> 00:19:56,760
+the list of products the things that use
+
+463
+00:19:55,140 --> 00:20:01,309
+it every day most of them are just
+
+464
+00:19:56,760 --> 00:20:04,500
+downright crap if you know this and this
+
+465
+00:20:01,309 --> 00:20:08,550
+is something that Apple knows very well
+
+466
+00:20:04,500 --> 00:20:10,140
+with devices like the iPad right how
+
+467
+00:20:08,550 --> 00:20:14,550
+many tablet computers were there before
+
+468
+00:20:10,140 --> 00:20:17,450
+the iPad dozens all terrible Apple comes
+
+469
+00:20:14,550 --> 00:20:19,460
+along and through making a good product
+
+470
+00:20:17,450 --> 00:20:23,610
+day one
+
+471
+00:20:19,460 --> 00:20:26,220
+that's what product means and that is
+
+472
+00:20:23,610 --> 00:20:29,600
+why product is all the matters so you
+
+473
+00:20:26,220 --> 00:20:32,460
+center section on a count of three
+
+474
+00:20:29,600 --> 00:20:39,480
+please help me in saying this phrase one
+
+475
+00:20:32,460 --> 00:20:41,660
+two three product is all the matters but
+
+476
+00:20:39,480 --> 00:20:41,660
+wait
+
+477
+00:20:42,450 --> 00:20:47,409
+products only come into being when
+
+478
+00:20:44,890 --> 00:20:49,990
+people make decisions like we started
+
+479
+00:20:47,409 --> 00:20:55,799
+with and the best decisions are made
+
+480
+00:20:49,990 --> 00:20:58,770
+according to a consistent philosophy so
+
+481
+00:20:55,799 --> 00:21:03,580
+philosophy is all that matters
+
+482
+00:20:58,770 --> 00:21:05,559
+philosophy derives from your people at
+
+483
+00:21:03,580 --> 00:21:09,130
+github we never set out to create a
+
+484
+00:21:05,559 --> 00:21:14,289
+specific culture the people that we
+
+485
+00:21:09,130 --> 00:21:16,480
+hired created the culture at some point
+
+486
+00:21:14,289 --> 00:21:18,580
+you might want to codify this culture
+
+487
+00:21:16,480 --> 00:21:20,559
+that is inherently created through the
+
+488
+00:21:18,580 --> 00:21:24,039
+people that you hire so that you can
+
+489
+00:21:20,559 --> 00:21:28,149
+communicate it well let me briefly
+
+490
+00:21:24,039 --> 00:21:32,409
+explain what to me the five core values
+
+491
+00:21:28,149 --> 00:21:34,510
+of github are number one optimizing for
+
+492
+00:21:32,409 --> 00:21:36,309
+happiness if you want to learn more
+
+493
+00:21:34,510 --> 00:21:39,610
+about that watch my talk from two years
+
+494
+00:21:36,309 --> 00:21:41,409
+ago optimizing for happiness means think
+
+495
+00:21:39,610 --> 00:21:42,850
+about what you're doing and how it's
+
+496
+00:21:41,409 --> 00:21:46,240
+going to create more happiness in the
+
+497
+00:21:42,850 --> 00:21:50,080
+world for your customers for your team
+
+498
+00:21:46,240 --> 00:21:52,149
+members and for your shareholders if you
+
+499
+00:21:50,080 --> 00:21:53,380
+do options like most startups do then
+
+500
+00:21:52,149 --> 00:21:55,360
+your team members are also your
+
+501
+00:21:53,380 --> 00:21:56,740
+shareholders if you raise money then
+
+502
+00:21:55,360 --> 00:22:01,179
+your shareholders are part of that
+
+503
+00:21:56,740 --> 00:22:03,610
+equation as well if you do those things
+
+504
+00:22:01,179 --> 00:22:07,179
+if you optimize for happiness my theory
+
+505
+00:22:03,610 --> 00:22:10,450
+is that profits will result naturally
+
+506
+00:22:07,179 --> 00:22:12,090
+and it puts you on the right path to do
+
+507
+00:22:10,450 --> 00:22:16,720
+things that matter
+
+508
+00:22:12,090 --> 00:22:18,789
+number two best argument wins this means
+
+509
+00:22:16,720 --> 00:22:21,309
+that it's not about ego it's not about
+
+510
+00:22:18,789 --> 00:22:23,529
+who you are where you came from it's
+
+511
+00:22:21,309 --> 00:22:27,159
+about making good arguments backing them
+
+512
+00:22:23,529 --> 00:22:29,730
+up and being open to other people's
+
+513
+00:22:27,159 --> 00:22:32,500
+arguments this is critical to avoiding
+
+514
+00:22:29,730 --> 00:22:35,080
+politics within a company if you can
+
+515
+00:22:32,500 --> 00:22:36,549
+argue about something that matters and
+
+516
+00:22:35,080 --> 00:22:40,059
+the argument is the thing and not the
+
+517
+00:22:36,549 --> 00:22:41,710
+people behind it then you can have good
+
+518
+00:22:40,059 --> 00:22:44,590
+results you can create good product and
+
+519
+00:22:41,710 --> 00:22:48,309
+you can avoid politics number three
+
+520
+00:22:44,590 --> 00:22:51,010
+working from first principles everything
+
+521
+00:22:48,309 --> 00:22:53,049
+that we do we do from scratch you might
+
+522
+00:22:51,010 --> 00:22:54,210
+think this is very inefficient sometimes
+
+523
+00:22:53,049 --> 00:22:56,860
+it is
+
+524
+00:22:54,210 --> 00:22:58,900
+but we think through every problem that
+
+525
+00:22:56,860 --> 00:23:01,000
+way because github is a unique company
+
+526
+00:22:58,900 --> 00:23:03,640
+just like every company is unique you
+
+527
+00:23:01,000 --> 00:23:04,930
+can't just take the ideas that work for
+
+528
+00:23:03,640 --> 00:23:07,120
+some other company and apply them to
+
+529
+00:23:04,930 --> 00:23:08,380
+yourself and in fact you can't take the
+
+530
+00:23:07,120 --> 00:23:10,540
+ideas that I give you today or that
+
+531
+00:23:08,380 --> 00:23:12,450
+anyone gives you today and just copy
+
+532
+00:23:10,540 --> 00:23:15,970
+them and expect them to work for you you
+
+533
+00:23:12,450 --> 00:23:20,560
+have to think about what it means for
+
+534
+00:23:15,970 --> 00:23:24,070
+your company this is how you create
+
+535
+00:23:20,560 --> 00:23:26,580
+something new something better number
+
+536
+00:23:24,070 --> 00:23:28,840
+four create superfans
+
+537
+00:23:26,580 --> 00:23:31,360
+Travis's talk about uber and how they
+
+538
+00:23:28,840 --> 00:23:33,970
+delight their users on certain holidays
+
+539
+00:23:31,360 --> 00:23:35,440
+giving them a motorcade that's the kind
+
+540
+00:23:33,970 --> 00:23:38,820
+of stuff that I'm talking about for us
+
+541
+00:23:35,440 --> 00:23:41,880
+we do drink ups it's like a meetup
+
+542
+00:23:38,820 --> 00:23:44,500
+accepted to the bar and we buy you beer
+
+543
+00:23:41,880 --> 00:23:48,970
+for developers this turns out to be
+
+544
+00:23:44,500 --> 00:23:50,830
+incredibly effective that's just one of
+
+545
+00:23:48,970 --> 00:23:52,960
+many things how we deal with support
+
+546
+00:23:50,830 --> 00:23:55,720
+what I love about our support team is
+
+547
+00:23:52,960 --> 00:23:58,600
+that we measure our success the success
+
+548
+00:23:55,720 --> 00:24:01,540
+of a support interaction by Counting how
+
+549
+00:23:58,600 --> 00:24:05,170
+many explode exclamation points are in
+
+550
+00:24:01,540 --> 00:24:06,790
+the response from an end user that's
+
+551
+00:24:05,170 --> 00:24:09,340
+creating superfans creating that kind of
+
+552
+00:24:06,790 --> 00:24:14,140
+experience that goes above and beyond
+
+553
+00:24:09,340 --> 00:24:17,650
+what is expected and number five be
+
+554
+00:24:14,140 --> 00:24:21,010
+awesome and change the world that one's
+
+555
+00:24:17,650 --> 00:24:22,990
+pretty self-explanatory so if you have a
+
+556
+00:24:21,010 --> 00:24:25,510
+strong culture you can use it as a
+
+557
+00:24:22,990 --> 00:24:27,610
+hiring tool it's amazingly effective and
+
+558
+00:24:25,510 --> 00:24:29,200
+this is really critical today as it
+
+559
+00:24:27,610 --> 00:24:31,450
+becomes more and more difficult to hire
+
+560
+00:24:29,200 --> 00:24:33,460
+as all of you who would normally be
+
+561
+00:24:31,450 --> 00:24:35,260
+entering the workforce are instead
+
+562
+00:24:33,460 --> 00:24:38,080
+starting your own companies the pool of
+
+563
+00:24:35,260 --> 00:24:41,710
+candidates is smaller the competition is
+
+564
+00:24:38,080 --> 00:24:44,980
+higher since the early days of github
+
+565
+00:24:41,710 --> 00:24:46,650
+we've evangelized our way of working our
+
+566
+00:24:44,980 --> 00:24:49,030
+culture and our values and the
+
+567
+00:24:46,650 --> 00:24:51,760
+philosophy that gives us that higher
+
+568
+00:24:49,030 --> 00:24:53,130
+purpose all of this allows you to
+
+569
+00:24:51,760 --> 00:24:57,340
+attract the kind of people that
+
+570
+00:24:53,130 --> 00:24:59,440
+naturally fit your philosophy and so
+
+571
+00:24:57,340 --> 00:25:01,870
+those people that you're attracting
+
+572
+00:24:59,440 --> 00:25:03,800
+through this communication will make the
+
+573
+00:25:01,870 --> 00:25:06,710
+right kinds of decisions
+
+574
+00:25:03,800 --> 00:25:09,620
+and since decisions are how make people
+
+575
+00:25:06,710 --> 00:25:12,250
+make products the philosophy that guides
+
+576
+00:25:09,620 --> 00:25:16,070
+those decisions is all that matters
+
+577
+00:25:12,250 --> 00:25:22,580
+so please third segment of the audience
+
+578
+00:25:16,070 --> 00:25:27,230
+on three one two three philosophy is all
+
+579
+00:25:22,580 --> 00:25:32,540
+that matters I'm not convinced that you
+
+580
+00:25:27,230 --> 00:25:34,250
+believe it but okay so I've told you
+
+581
+00:25:32,540 --> 00:25:37,120
+three things that are the only things
+
+582
+00:25:34,250 --> 00:25:39,620
+that matter how can that possibly be
+
+583
+00:25:37,120 --> 00:25:42,800
+which of these things three things is
+
+584
+00:25:39,620 --> 00:25:44,090
+the only thing that matters I don't
+
+585
+00:25:42,800 --> 00:25:50,930
+think I have to answer that question I
+
+586
+00:25:44,090 --> 00:25:51,920
+think it's a false trichotomy someone
+
+587
+00:25:50,930 --> 00:25:54,470
+really enjoyed that joke
+
+588
+00:25:51,920 --> 00:25:58,670
+thank you hold on I'm not done yet hold
+
+589
+00:25:54,470 --> 00:26:01,720
+on hold on hold hold on I'm not just
+
+590
+00:25:58,670 --> 00:26:07,570
+gonna end on false dichotomy okay
+
+591
+00:26:01,720 --> 00:26:10,750
+in reality in reality just like the
+
+592
+00:26:07,570 --> 00:26:17,139
+three quarks of an atom cannot exist on
+
+593
+00:26:10,750 --> 00:26:23,529
+their own people product and philosophy
+
+594
+00:26:17,139 --> 00:26:24,730
+are also inseparable so do you guys
+
+595
+00:26:23,529 --> 00:26:27,789
+remember what was the only thing that
+
+596
+00:26:24,730 --> 00:26:30,159
+mattered people do you guys remember the
+
+597
+00:26:27,789 --> 00:26:31,360
+only thing that mattered product do you
+
+598
+00:26:30,159 --> 00:26:34,750
+guys remember the only thing that
+
+599
+00:26:31,360 --> 00:26:38,529
+mattered philosophy on three everybody
+
+600
+00:26:34,750 --> 00:26:47,399
+say what you said before together one
+
+601
+00:26:38,529 --> 00:26:49,870
+two three if you master these things
+
+602
+00:26:47,399 --> 00:26:54,399
+then you will finally have the answer to
+
+603
+00:26:49,870 --> 00:26:55,919
+the question how do I raise 100 million
+
+604
+00:26:54,399 --> 00:26:59,039
+dollars
+
+605
+00:26:55,919 --> 00:26:59,039
+thank you
+
