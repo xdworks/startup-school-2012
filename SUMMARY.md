@@ -1,7 +1,7 @@
 
 * [Angel - Ron Conway at Startup School 2012](01.md)
 * [Uber - Travis Kalanick at Startup School 2012](02.md)
-* [Uber - Tom Preston Werner at Startup School 2012](03.md)
+* [Github - Tom Preston Werner at Startup School 2012](03.md)
 * [Stripe - Patrick Collison at Startup School 2012](04.md)
 * [Facebook - Mark Zuckerberg at Startup School 2012](05.md)
 * [Stackoverflow - Joel Spolksy at Startup School 2012](06.md)
